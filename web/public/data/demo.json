@@ -1,0 +1,1092 @@
+{
+  "schema_version": 1,
+  "mode": "demo",
+  "generated_at": "2026-11-09T14:00:00+00:00",
+  "refresh_minutes": 60,
+  "sources": [
+    {
+      "id": "demo-left",
+      "name": "The Civic Review (fictional)",
+      "url": "https://example.com/left/rss",
+      "enabled": true,
+      "category": "World",
+      "country": "US",
+      "language": "en",
+      "political_leaning": "left",
+      "classification": {
+        "reviewer": "Synthetic demo fixture",
+        "methodology": "Invented perspectives, not real publisher ratings",
+        "reviewed_at": "2026-11-09"
+      }
+    },
+    {
+      "id": "demo-centre",
+      "name": "The Daily Record (fictional)",
+      "url": "https://example.com/centre/rss",
+      "enabled": true,
+      "category": "World",
+      "country": "US",
+      "language": "en",
+      "political_leaning": "centre",
+      "classification": {
+        "reviewer": "Synthetic demo fixture",
+        "methodology": "Invented perspectives, not real publisher ratings",
+        "reviewed_at": "2026-11-09"
+      }
+    },
+    {
+      "id": "demo-right",
+      "name": "The National Ledger (fictional)",
+      "url": "https://example.com/right/rss",
+      "enabled": true,
+      "category": "World",
+      "country": "US",
+      "language": "en",
+      "political_leaning": "right",
+      "classification": {
+        "reviewer": "Synthetic demo fixture",
+        "methodology": "Invented perspectives, not real publisher ratings",
+        "reviewed_at": "2026-11-09"
+      }
+    },
+    {
+      "id": "demo-unknown",
+      "name": "Regional Journal (fictional)",
+      "url": "https://example.com/unknown/rss",
+      "enabled": true,
+      "category": "World",
+      "country": "US",
+      "language": "en",
+      "political_leaning": "unknown",
+      "classification": null
+    }
+  ],
+  "articles": [
+    {
+      "id": "e3a009ef18c3ffe37729",
+      "source_id": "demo-left",
+      "title": "US chip export restrictions reshape semiconductor trade: Export limits put semiconductor suppliers under pressure",
+      "url": "https://example.com/demo/0/left",
+      "summary": "A fictional proposal would tighten semiconductor and chip export rules. NVIDIA and Advanced Micro Devices are mentioned as potentially exposed suppliers.",
+      "published_at": "2026-11-09T14:00:00+00:00",
+      "fetched_at": "2026-11-09T14:00:00+00:00",
+      "date_estimated": false,
+      "author": "",
+      "categories": [],
+      "language": "en",
+      "country": "US",
+      "category": "Technology"
+    },
+    {
+      "id": "82004af45b332569a7d7",
+      "source_id": "demo-centre",
+      "title": "US chip export restrictions reshape semiconductor trade: New rules define the scope of chip exports",
+      "url": "https://example.com/demo/0/centre",
+      "summary": "A fictional proposal would tighten semiconductor and chip export rules. NVIDIA and Advanced Micro Devices are mentioned as potentially exposed suppliers.",
+      "published_at": "2026-11-09T13:48:00+00:00",
+      "fetched_at": "2026-11-09T14:00:00+00:00",
+      "date_estimated": false,
+      "author": "",
+      "categories": [],
+      "language": "en",
+      "country": "US",
+      "category": "Technology"
+    },
+    {
+      "id": "21613d4274ccf08428b4",
+      "source_id": "demo-right",
+      "title": "US chip export restrictions reshape semiconductor trade: Restrictions aim to strengthen domestic production",
+      "url": "https://example.com/demo/0/right",
+      "summary": "A fictional proposal would tighten semiconductor and chip export rules. NVIDIA and Advanced Micro Devices are mentioned as potentially exposed suppliers.",
+      "published_at": "2026-11-09T13:36:00+00:00",
+      "fetched_at": "2026-11-09T14:00:00+00:00",
+      "date_estimated": false,
+      "author": "",
+      "categories": [],
+      "language": "en",
+      "country": "US",
+      "category": "Technology"
+    },
+    {
+      "id": "48544754ea19166f2bd0",
+      "source_id": "demo-left",
+      "title": "Federal Reserve interest rate decision follows inflation report: Household borrowing costs remain in focus",
+      "url": "https://example.com/demo/1/left",
+      "summary": "In this simulated event, the Federal Reserve reviews its interest rate policy after an inflation report. The future policy path remains uncertain.",
+      "published_at": "2026-11-09T11:00:00+00:00",
+      "fetched_at": "2026-11-09T14:00:00+00:00",
+      "date_estimated": false,
+      "author": "",
+      "categories": [],
+      "language": "en",
+      "country": "US",
+      "category": "Business"
+    },
+    {
+      "id": "046ac413e7c258e031df",
+      "source_id": "demo-centre",
+      "title": "Federal Reserve interest rate decision follows inflation report: Policymakers weigh incoming economic data",
+      "url": "https://example.com/demo/1/centre",
+      "summary": "In this simulated event, the Federal Reserve reviews its interest rate policy after an inflation report. The future policy path remains uncertain.",
+      "published_at": "2026-11-09T10:48:00+00:00",
+      "fetched_at": "2026-11-09T14:00:00+00:00",
+      "date_estimated": false,
+      "author": "",
+      "categories": [],
+      "language": "en",
+      "country": "US",
+      "category": "Business"
+    },
+    {
+      "id": "253041a6e0064fc7ff05",
+      "source_id": "demo-right",
+      "title": "Federal Reserve interest rate decision follows inflation report: Inflation discipline remains a policy priority",
+      "url": "https://example.com/demo/1/right",
+      "summary": "In this simulated event, the Federal Reserve reviews its interest rate policy after an inflation report. The future policy path remains uncertain.",
+      "published_at": "2026-11-09T10:36:00+00:00",
+      "fetched_at": "2026-11-09T14:00:00+00:00",
+      "date_estimated": false,
+      "author": "",
+      "categories": [],
+      "language": "en",
+      "country": "US",
+      "category": "Business"
+    },
+    {
+      "id": "d7d8312905ff9c85acfa",
+      "source_id": "demo-left",
+      "title": "Crude oil supply disruption raises energy cost concerns: Consumers face possible fuel cost pressure",
+      "url": "https://example.com/demo/2/left",
+      "summary": "A fictional crude oil supply disruption affects shipping schedules. The duration is unknown; producer revenue and consumer costs may respond differently.",
+      "published_at": "2026-11-09T08:00:00+00:00",
+      "fetched_at": "2026-11-09T14:00:00+00:00",
+      "date_estimated": false,
+      "author": "",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "45a6c5acbb1c3af319c4",
+      "source_id": "demo-centre",
+      "title": "Crude oil supply disruption raises energy cost concerns: Oil supply uncertainty clouds the outlook",
+      "url": "https://example.com/demo/2/centre",
+      "summary": "A fictional crude oil supply disruption affects shipping schedules. The duration is unknown; producer revenue and consumer costs may respond differently.",
+      "published_at": "2026-11-09T07:48:00+00:00",
+      "fetched_at": "2026-11-09T14:00:00+00:00",
+      "date_estimated": false,
+      "author": "",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "3860e6c08b0f2edd0b0a",
+      "source_id": "demo-right",
+      "title": "Crude oil supply disruption raises energy cost concerns: Producers seek alternative supply routes",
+      "url": "https://example.com/demo/2/right",
+      "summary": "A fictional crude oil supply disruption affects shipping schedules. The duration is unknown; producer revenue and consumer costs may respond differently.",
+      "published_at": "2026-11-09T07:36:00+00:00",
+      "fetched_at": "2026-11-09T14:00:00+00:00",
+      "date_estimated": false,
+      "author": "",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "cb23eeaf28c3401dd561",
+      "source_id": "demo-left",
+      "title": "UK government announces local transport spending review: Access to services takes centre stage",
+      "url": "https://example.com/demo/3/left",
+      "summary": "A fictional government spending review considers local transport funding. No project awards or final budgets have been confirmed.",
+      "published_at": "2026-11-09T05:00:00+00:00",
+      "fetched_at": "2026-11-09T14:00:00+00:00",
+      "date_estimated": false,
+      "author": "",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "Politics"
+    },
+    {
+      "id": "5f3315d8ee4c1269b7ec",
+      "source_id": "demo-centre",
+      "title": "UK government announces local transport spending review: Review sets out next consultation steps",
+      "url": "https://example.com/demo/3/centre",
+      "summary": "A fictional government spending review considers local transport funding. No project awards or final budgets have been confirmed.",
+      "published_at": "2026-11-09T04:48:00+00:00",
+      "fetched_at": "2026-11-09T14:00:00+00:00",
+      "date_estimated": false,
+      "author": "",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "Politics"
+    },
+    {
+      "id": "fdd57274ec50bbbe6f62",
+      "source_id": "demo-right",
+      "title": "UK government announces local transport spending review: Spending scrutiny focuses on value for money",
+      "url": "https://example.com/demo/3/right",
+      "summary": "A fictional government spending review considers local transport funding. No project awards or final budgets have been confirmed.",
+      "published_at": "2026-11-09T04:36:00+00:00",
+      "fetched_at": "2026-11-09T14:00:00+00:00",
+      "date_estimated": false,
+      "author": "",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "Politics"
+    },
+    {
+      "id": "47c92aa569b0011bb5a4",
+      "source_id": "demo-unknown",
+      "title": "Österreich diskutiert neue Regeln für Schulwege: Gemeinden prüfen Vorschläge für sichere Schulwege",
+      "url": "https://example.com/demo/4/unknown",
+      "summary": "Synthetisches Beispiel: Gemeinden diskutieren sichere Schulwege. Es liegen nur Auszüge einer fiktiven Quelle vor.",
+      "published_at": "2026-11-09T02:00:00+00:00",
+      "fetched_at": "2026-11-09T14:00:00+00:00",
+      "date_estimated": false,
+      "author": "",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "e2d8da7f2dd2e7b7a4ef",
+      "source_id": "demo-unknown",
+      "title": "Independent science festival opens its autumn programme: Public workshops feature in science festival programme",
+      "url": "https://example.com/demo/5/unknown",
+      "summary": "A fictional regional science festival announces workshops and public talks. This story has no identified financial exposure.",
+      "published_at": "2026-11-08T23:00:00+00:00",
+      "fetched_at": "2026-11-09T14:00:00+00:00",
+      "date_estimated": false,
+      "author": "",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    }
+  ],
+  "stories": [
+    {
+      "id": "story-642a82c8ec70fd35afd0",
+      "title": "US chip export restrictions reshape semiconductor trade",
+      "overview": "A fictional proposal would tighten semiconductor and chip export rules. NVIDIA and Advanced Micro Devices are mentioned as potentially exposed suppliers.",
+      "title_kind": "synthetic_event_title",
+      "first_published": "2026-11-09T13:36:00+00:00",
+      "updated_at": "2026-11-09T14:00:00+00:00",
+      "article_ids": [
+        "21613d4274ccf08428b4",
+        "82004af45b332569a7d7",
+        "e3a009ef18c3ffe37729"
+      ],
+      "publisher_count": 3,
+      "article_counts": {
+        "left": 1,
+        "centre": 1,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 1,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Technology",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [
+        "chip",
+        "export",
+        "reshape",
+        "restrictions",
+        "semiconductor",
+        "trade"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments."
+      ],
+      "exposures": [
+        {
+          "category": "Semiconductor restrictions",
+          "sector": "Semiconductors",
+          "symbols": [
+            "NVDA",
+            "AMD"
+          ],
+          "mechanism": "Export controls can change addressable markets and supply-chain access.",
+          "positive": "Alternative suppliers may gain substitution demand.",
+          "negative": "Exporters may face lost sales and compliance costs.",
+          "horizon": "Weeks to months; timing uncertain",
+          "uncertainty": "Magnitude, policy details, timing and existing market expectations are uncertain. Scenarios may not materialise.",
+          "article_ids": [
+            "21613d4274ccf08428b4",
+            "82004af45b332569a7d7",
+            "e3a009ef18c3ffe37729"
+          ],
+          "matches": {
+            "NVDA": "Available reporting mentions “nvidia”; this links to the configured Semiconductors exposure, not proof of a price effect.",
+            "AMD": "Available reporting mentions “advanced micro devices”; this links to the configured Semiconductors exposure, not proof of a price effect."
+          }
+        }
+      ],
+      "ai": null
+    },
+    {
+      "id": "story-17f772665a73905f24ef",
+      "title": "Federal Reserve interest rate decision follows inflation report",
+      "overview": "In this simulated event, the Federal Reserve reviews its interest rate policy after an inflation report. The future policy path remains uncertain.",
+      "title_kind": "synthetic_event_title",
+      "first_published": "2026-11-09T10:36:00+00:00",
+      "updated_at": "2026-11-09T11:00:00+00:00",
+      "article_ids": [
+        "253041a6e0064fc7ff05",
+        "046ac413e7c258e031df",
+        "48544754ea19166f2bd0"
+      ],
+      "publisher_count": 3,
+      "article_counts": {
+        "left": 1,
+        "centre": 1,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 1,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Business",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [
+        "decision",
+        "federal",
+        "follows",
+        "inflation",
+        "interest",
+        "rate",
+        "report",
+        "reserve"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments."
+      ],
+      "exposures": [
+        {
+          "category": "Rates and inflation",
+          "sector": "Broad market",
+          "symbols": [
+            "SPY"
+          ],
+          "mechanism": "Interest rates and inflation affect financing costs, discount rates and spending.",
+          "positive": "Lower borrowing costs may support investment and demand.",
+          "negative": "Persistent inflation or tighter policy may increase financing pressure.",
+          "horizon": "Weeks to months; timing uncertain",
+          "uncertainty": "Magnitude, policy details, timing and existing market expectations are uncertain. Scenarios may not materialise.",
+          "article_ids": [
+            "253041a6e0064fc7ff05",
+            "046ac413e7c258e031df",
+            "48544754ea19166f2bd0"
+          ],
+          "matches": {
+            "SPY": "Available reporting mentions “federal reserve”; this links to the configured Broad market exposure, not proof of a price effect."
+          }
+        }
+      ],
+      "ai": null
+    },
+    {
+      "id": "story-8e6e3809204b90156e0d",
+      "title": "Crude oil supply disruption raises energy cost concerns",
+      "overview": "A fictional crude oil supply disruption affects shipping schedules. The duration is unknown; producer revenue and consumer costs may respond differently.",
+      "title_kind": "synthetic_event_title",
+      "first_published": "2026-11-09T07:36:00+00:00",
+      "updated_at": "2026-11-09T08:00:00+00:00",
+      "article_ids": [
+        "3860e6c08b0f2edd0b0a",
+        "45a6c5acbb1c3af319c4",
+        "d7d8312905ff9c85acfa"
+      ],
+      "publisher_count": 3,
+      "article_counts": {
+        "left": 1,
+        "centre": 1,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 1,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [
+        "concerns",
+        "cost",
+        "crude",
+        "disruption",
+        "energy",
+        "oil",
+        "raises",
+        "supply"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments."
+      ],
+      "exposures": [
+        {
+          "category": "Energy supply",
+          "sector": "Energy",
+          "symbols": [
+            "XLE",
+            "SHEL.LON"
+          ],
+          "mechanism": "Changes in energy supply can affect input costs and producer revenue.",
+          "positive": "Higher realised prices may support some producers.",
+          "negative": "Higher fuel costs may pressure consumers and energy-intensive businesses.",
+          "horizon": "Weeks to months; timing uncertain",
+          "uncertainty": "Magnitude, policy details, timing and existing market expectations are uncertain. Scenarios may not materialise.",
+          "article_ids": [
+            "3860e6c08b0f2edd0b0a",
+            "45a6c5acbb1c3af319c4",
+            "d7d8312905ff9c85acfa"
+          ],
+          "matches": {
+            "XLE": "Available reporting mentions “oil supply”; this links to the configured Energy exposure, not proof of a price effect.",
+            "SHEL.LON": "Available reporting mentions “crude oil”; this links to the configured Energy exposure, not proof of a price effect."
+          }
+        }
+      ],
+      "ai": null
+    },
+    {
+      "id": "story-cc6c768542590308a14f",
+      "title": "UK government announces local transport spending review",
+      "overview": "A fictional government spending review considers local transport funding. No project awards or final budgets have been confirmed.",
+      "title_kind": "synthetic_event_title",
+      "first_published": "2026-11-09T04:36:00+00:00",
+      "updated_at": "2026-11-09T05:00:00+00:00",
+      "article_ids": [
+        "fdd57274ec50bbbe6f62",
+        "5f3315d8ee4c1269b7ec",
+        "cb23eeaf28c3401dd561"
+      ],
+      "publisher_count": 3,
+      "article_counts": {
+        "left": 1,
+        "centre": 1,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 1,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [
+        "announces",
+        "government",
+        "local",
+        "review",
+        "spending",
+        "transport"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments."
+      ],
+      "exposures": [
+        {
+          "category": "Regulation and spending",
+          "sector": "Regulated sectors",
+          "symbols": [],
+          "mechanism": "Policy changes can alter compliance costs, public demand and market access.",
+          "positive": "Public investment or clearer rules may benefit some suppliers.",
+          "negative": "New constraints may increase costs or restrict activity.",
+          "horizon": "Weeks to months; timing uncertain",
+          "uncertainty": "Magnitude, policy details, timing and existing market expectations are uncertain. Scenarios may not materialise.",
+          "article_ids": [
+            "fdd57274ec50bbbe6f62",
+            "5f3315d8ee4c1269b7ec",
+            "cb23eeaf28c3401dd561"
+          ],
+          "matches": {}
+        }
+      ],
+      "ai": null
+    },
+    {
+      "id": "story-ccab08eb576df968bfc1",
+      "title": "Österreich diskutiert neue Regeln für Schulwege",
+      "overview": "Synthetisches Beispiel: Gemeinden diskutieren sichere Schulwege. Es liegen nur Auszüge einer fiktiven Quelle vor.",
+      "title_kind": "synthetic_event_title",
+      "first_published": "2026-11-09T02:00:00+00:00",
+      "updated_at": "2026-11-09T02:00:00+00:00",
+      "article_ids": [
+        "47c92aa569b0011bb5a4"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-8ab94977e4b02e71492f",
+      "title": "Independent science festival opens its autumn programme",
+      "overview": "A fictional regional science festival announces workshops and public talks. This story has no identified financial exposure.",
+      "title_kind": "synthetic_event_title",
+      "first_published": "2026-11-08T23:00:00+00:00",
+      "updated_at": "2026-11-08T23:00:00+00:00",
+      "article_ids": [
+        "e2d8da7f2dd2e7b7a4ef"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    }
+  ],
+  "instruments": [
+    {
+      "symbol": "SPY",
+      "name": "SPDR S&P 500 ETF",
+      "exchange": "NYSE Arca",
+      "currency": "USD",
+      "sector": "Broad market",
+      "aliases": [
+        "S&P 500"
+      ],
+      "keywords": [
+        "federal reserve",
+        "interest rate",
+        "inflation"
+      ],
+      "benchmark": null
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA",
+      "exchange": "NASDAQ",
+      "currency": "USD",
+      "sector": "Semiconductors",
+      "aliases": [
+        "nvidia"
+      ],
+      "keywords": [
+        "semiconductor",
+        "chip export"
+      ],
+      "benchmark": "SPY"
+    },
+    {
+      "symbol": "AMD",
+      "name": "Advanced Micro Devices",
+      "exchange": "NASDAQ",
+      "currency": "USD",
+      "sector": "Semiconductors",
+      "aliases": [
+        "advanced micro devices"
+      ],
+      "keywords": [
+        "semiconductor",
+        "chip export"
+      ],
+      "benchmark": "SPY"
+    },
+    {
+      "symbol": "AAPL",
+      "name": "Apple",
+      "exchange": "NASDAQ",
+      "currency": "USD",
+      "sector": "Technology",
+      "aliases": [
+        "apple inc",
+        "iphone"
+      ],
+      "keywords": [],
+      "benchmark": "SPY"
+    },
+    {
+      "symbol": "XLE",
+      "name": "Energy Select Sector SPDR",
+      "exchange": "NYSE Arca",
+      "currency": "USD",
+      "sector": "Energy",
+      "aliases": [
+        "energy select sector"
+      ],
+      "keywords": [
+        "oil supply",
+        "crude oil",
+        "opec"
+      ],
+      "benchmark": "SPY"
+    },
+    {
+      "symbol": "LMT",
+      "name": "Lockheed Martin",
+      "exchange": "NYSE",
+      "currency": "USD",
+      "sector": "Defence",
+      "aliases": [
+        "lockheed martin"
+      ],
+      "keywords": [
+        "defence spending",
+        "defense spending"
+      ],
+      "benchmark": "SPY"
+    },
+    {
+      "symbol": "VOD.LON",
+      "name": "Vodafone",
+      "exchange": "LSE",
+      "currency": "GBX",
+      "sector": "Telecommunications",
+      "aliases": [
+        "vodafone"
+      ],
+      "keywords": [],
+      "benchmark": null
+    },
+    {
+      "symbol": "SHEL.LON",
+      "name": "Shell",
+      "exchange": "LSE",
+      "currency": "GBX",
+      "sector": "Energy",
+      "aliases": [
+        "shell plc"
+      ],
+      "keywords": [
+        "crude oil",
+        "oil supply"
+      ],
+      "benchmark": null
+    }
+  ],
+  "markets": [
+    {
+      "symbol": "SPY",
+      "currency": "USD",
+      "exchange": "NYSE Arca",
+      "source": "SIMULATED demo prices",
+      "fetched_at": "2026-11-09T14:00:00+00:00",
+      "adjusted": false,
+      "prices": [
+        {
+          "date": "2026-10-05",
+          "close": 100.0
+        },
+        {
+          "date": "2026-10-06",
+          "close": 104.55
+        },
+        {
+          "date": "2026-10-07",
+          "close": 103.7
+        },
+        {
+          "date": "2026-10-08",
+          "close": 102.85
+        },
+        {
+          "date": "2026-10-09",
+          "close": 102.0
+        },
+        {
+          "date": "2026-10-12",
+          "close": 104.85
+        },
+        {
+          "date": "2026-10-13",
+          "close": 104.0
+        },
+        {
+          "date": "2026-10-14",
+          "close": 103.15
+        },
+        {
+          "date": "2026-10-15",
+          "close": 107.7
+        },
+        {
+          "date": "2026-10-16",
+          "close": 106.85
+        },
+        {
+          "date": "2026-10-19",
+          "close": 109.7
+        },
+        {
+          "date": "2026-10-20",
+          "close": 108.85
+        },
+        {
+          "date": "2026-10-21",
+          "close": 108.0
+        },
+        {
+          "date": "2026-10-22",
+          "close": 107.15
+        },
+        {
+          "date": "2026-10-23",
+          "close": 106.3
+        },
+        {
+          "date": "2026-10-26",
+          "close": 109.15
+        },
+        {
+          "date": "2026-10-27",
+          "close": 108.3
+        },
+        {
+          "date": "2026-10-28",
+          "close": 112.85
+        },
+        {
+          "date": "2026-10-29",
+          "close": 112.0
+        },
+        {
+          "date": "2026-10-30",
+          "close": 111.15
+        },
+        {
+          "date": "2026-11-02",
+          "close": 114.0
+        },
+        {
+          "date": "2026-11-03",
+          "close": 113.15
+        },
+        {
+          "date": "2026-11-04",
+          "close": 112.3
+        },
+        {
+          "date": "2026-11-05",
+          "close": 111.45
+        },
+        {
+          "date": "2026-11-06",
+          "close": 116.0
+        }
+      ],
+      "change_pct": 4.08,
+      "benchmark_change_pct": null,
+      "excess_return_pct": null,
+      "comparison_dates": []
+    },
+    {
+      "symbol": "NVDA",
+      "currency": "USD",
+      "exchange": "NASDAQ",
+      "source": "SIMULATED demo prices",
+      "fetched_at": "2026-11-09T14:00:00+00:00",
+      "adjusted": false,
+      "prices": [
+        {
+          "date": "2026-10-05",
+          "close": 140.0
+        },
+        {
+          "date": "2026-10-06",
+          "close": 144.55
+        },
+        {
+          "date": "2026-10-07",
+          "close": 143.7
+        },
+        {
+          "date": "2026-10-08",
+          "close": 142.85
+        },
+        {
+          "date": "2026-10-09",
+          "close": 142.0
+        },
+        {
+          "date": "2026-10-12",
+          "close": 144.85
+        },
+        {
+          "date": "2026-10-13",
+          "close": 144.0
+        },
+        {
+          "date": "2026-10-14",
+          "close": 143.15
+        },
+        {
+          "date": "2026-10-15",
+          "close": 147.7
+        },
+        {
+          "date": "2026-10-16",
+          "close": 146.85
+        },
+        {
+          "date": "2026-10-19",
+          "close": 149.7
+        },
+        {
+          "date": "2026-10-20",
+          "close": 148.85
+        },
+        {
+          "date": "2026-10-21",
+          "close": 148.0
+        },
+        {
+          "date": "2026-10-22",
+          "close": 147.15
+        },
+        {
+          "date": "2026-10-23",
+          "close": 146.3
+        },
+        {
+          "date": "2026-10-26",
+          "close": 149.15
+        },
+        {
+          "date": "2026-10-27",
+          "close": 148.3
+        },
+        {
+          "date": "2026-10-28",
+          "close": 152.85
+        },
+        {
+          "date": "2026-10-29",
+          "close": 152.0
+        },
+        {
+          "date": "2026-10-30",
+          "close": 151.15
+        },
+        {
+          "date": "2026-11-02",
+          "close": 154.0
+        },
+        {
+          "date": "2026-11-03",
+          "close": 153.15
+        },
+        {
+          "date": "2026-11-04",
+          "close": 152.3
+        },
+        {
+          "date": "2026-11-05",
+          "close": 151.45
+        },
+        {
+          "date": "2026-11-06",
+          "close": 156.0
+        }
+      ],
+      "change_pct": 3.0,
+      "benchmark_change_pct": 4.083,
+      "excess_return_pct": -1.078,
+      "comparison_dates": [
+        "2026-11-05",
+        "2026-11-06"
+      ]
+    },
+    {
+      "symbol": "XLE",
+      "currency": "USD",
+      "exchange": "NYSE Arca",
+      "source": "SIMULATED demo prices",
+      "fetched_at": "2026-11-09T14:00:00+00:00",
+      "adjusted": false,
+      "prices": [
+        {
+          "date": "2026-10-05",
+          "close": 180.0
+        },
+        {
+          "date": "2026-10-06",
+          "close": 184.55
+        },
+        {
+          "date": "2026-10-07",
+          "close": 183.7
+        },
+        {
+          "date": "2026-10-08",
+          "close": 182.85
+        },
+        {
+          "date": "2026-10-09",
+          "close": 182.0
+        },
+        {
+          "date": "2026-10-12",
+          "close": 184.85
+        },
+        {
+          "date": "2026-10-13",
+          "close": 184.0
+        },
+        {
+          "date": "2026-10-14",
+          "close": 183.15
+        },
+        {
+          "date": "2026-10-15",
+          "close": 187.7
+        },
+        {
+          "date": "2026-10-16",
+          "close": 186.85
+        },
+        {
+          "date": "2026-10-19",
+          "close": 189.7
+        },
+        {
+          "date": "2026-10-20",
+          "close": 188.85
+        },
+        {
+          "date": "2026-10-21",
+          "close": 188.0
+        },
+        {
+          "date": "2026-10-22",
+          "close": 187.15
+        },
+        {
+          "date": "2026-10-23",
+          "close": 186.3
+        },
+        {
+          "date": "2026-10-26",
+          "close": 189.15
+        },
+        {
+          "date": "2026-10-27",
+          "close": 188.3
+        },
+        {
+          "date": "2026-10-28",
+          "close": 192.85
+        },
+        {
+          "date": "2026-10-29",
+          "close": 192.0
+        },
+        {
+          "date": "2026-10-30",
+          "close": 191.15
+        },
+        {
+          "date": "2026-11-02",
+          "close": 194.0
+        },
+        {
+          "date": "2026-11-03",
+          "close": 193.15
+        },
+        {
+          "date": "2026-11-04",
+          "close": 192.3
+        },
+        {
+          "date": "2026-11-05",
+          "close": 191.45
+        },
+        {
+          "date": "2026-11-06",
+          "close": 196.0
+        }
+      ],
+      "change_pct": 2.38,
+      "benchmark_change_pct": 4.083,
+      "excess_return_pct": -1.706,
+      "comparison_dates": [
+        "2026-11-05",
+        "2026-11-06"
+      ]
+    }
+  ],
+  "status": {
+    "state": "demo",
+    "attempted_at": "2026-11-09T14:00:00+00:00",
+    "last_success_at": "2026-11-09T14:00:00+00:00",
+    "errors": [],
+    "source_results": {},
+    "market_status": "SIMULATED demo prices",
+    "ai_status": "AI enrichment not configured"
+  }
+}

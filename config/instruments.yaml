@@ -1,0 +1,9 @@
+instruments:
+  - {symbol: SPY, name: SPDR S&P 500 ETF, exchange: NYSE Arca, currency: USD, sector: Broad market, aliases: [S&P 500], keywords: [federal reserve, interest rate, inflation], benchmark: null}
+  - {symbol: NVDA, name: NVIDIA, exchange: NASDAQ, currency: USD, sector: Semiconductors, aliases: [nvidia], keywords: [semiconductor, chip export], benchmark: SPY}
+  - {symbol: AMD, name: Advanced Micro Devices, exchange: NASDAQ, currency: USD, sector: Semiconductors, aliases: [advanced micro devices], keywords: [semiconductor, chip export], benchmark: SPY}
+  - {symbol: AAPL, name: Apple, exchange: NASDAQ, currency: USD, sector: Technology, aliases: [apple inc, iphone], keywords: [], benchmark: SPY}
+  - {symbol: XLE, name: Energy Select Sector SPDR, exchange: NYSE Arca, currency: USD, sector: Energy, aliases: [energy select sector], keywords: [oil supply, crude oil, opec], benchmark: SPY}
+  - {symbol: LMT, name: Lockheed Martin, exchange: NYSE, currency: USD, sector: Defence, aliases: [lockheed martin], keywords: [defence spending, defense spending], benchmark: SPY}
+  - {symbol: VOD.LON, name: Vodafone, exchange: LSE, currency: GBX, sector: Telecommunications, aliases: [vodafone], keywords: [], benchmark: null}
+  - {symbol: SHEL.LON, name: Shell, exchange: LSE, currency: GBX, sector: Energy, aliases: [shell plc], keywords: [crude oil, oil supply], benchmark: null}

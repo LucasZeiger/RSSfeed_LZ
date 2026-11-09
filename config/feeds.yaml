@@ -1,0 +1,63 @@
+# Editorial classifications are proposals for owner review, not licensed bias ratings.
+# General news feeds from broad public-service publishers remain unknown.
+feeds:
+  - id: bbc-world
+    name: BBC World
+    url: https://feeds.bbci.co.uk/news/world/rss.xml
+    enabled: true
+    category: World
+    country: UK
+    language: en
+    political_leaning: unknown
+  - id: guardian-us
+    name: The Guardian US
+    url: https://www.theguardian.com/us-news/rss
+    enabled: true
+    category: Politics
+    country: US
+    language: en
+    political_leaning: left
+    classification:
+      reviewer: NewsLens starter editorial proposal; owner review pending
+      methodology: Broad progressive editorial orientation; US edition. Not an article-level rating.
+      reviewed_at: '2026-11-09'
+  - id: fox-politics
+    name: Fox News Politics
+    url: https://moxie.foxnews.com/google-publisher/politics.xml
+    enabled: true
+    category: Politics
+    country: US
+    language: en
+    political_leaning: right
+    classification:
+      reviewer: NewsLens starter editorial proposal; owner review pending
+      methodology: Broad conservative editorial orientation of the publisher. Not an article-level rating.
+      reviewed_at: '2026-11-09'
+  - id: bbc-business
+    name: BBC Business
+    url: https://feeds.bbci.co.uk/news/business/rss.xml
+    enabled: true
+    category: Business
+    country: UK
+    language: en
+    political_leaning: unknown
+  - id: orf
+    name: ORF News
+    url: https://rss.orf.at/news.xml
+    enabled: true
+    category: World
+    country: AT
+    language: de
+    political_leaning: unknown
+  - id: standard
+    name: DER STANDARD
+    url: https://www.derstandard.at/rss
+    enabled: true
+    category: Politics
+    country: AT
+    language: de
+    political_leaning: left
+    classification:
+      reviewer: NewsLens starter editorial proposal; owner review pending
+      methodology: Liberal and progressive editorial orientation in Austrian context, not directly equivalent to US left.
+      reviewed_at: '2026-11-09'

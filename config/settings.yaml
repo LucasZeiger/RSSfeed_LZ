@@ -1,0 +1,13 @@
+article_days: 7
+max_articles: 1500
+max_seen: 10000
+cluster_hours: 48
+similarity_threshold: 0.32
+request_timeout: 15
+max_response_bytes: 2000000
+concurrency: 3
+retries: 2
+refresh_minutes: 60
+market_daily_budget: 20
+market_enabled: false
+ai_enabled: false

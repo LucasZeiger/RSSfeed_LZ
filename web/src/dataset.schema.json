@@ -1,0 +1,664 @@
+{
+  "$defs": {
+    "AIAnalysis": {
+      "properties": {
+        "summary": {
+          "title": "Summary",
+          "type": "string"
+        },
+        "framing": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Framing",
+          "type": "array"
+        },
+        "common_facts": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Common Facts",
+          "type": "array"
+        },
+        "disagreements": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Disagreements",
+          "type": "array"
+        },
+        "article_ids": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Article Ids",
+          "type": "array"
+        },
+        "provider": {
+          "title": "Provider",
+          "type": "string"
+        },
+        "generated_at": {
+          "title": "Generated At",
+          "type": "string"
+        }
+      },
+      "required": [
+        "summary",
+        "framing",
+        "common_facts",
+        "disagreements",
+        "article_ids",
+        "provider",
+        "generated_at"
+      ],
+      "title": "AIAnalysis",
+      "type": "object"
+    },
+    "Article": {
+      "properties": {
+        "id": {
+          "title": "Id",
+          "type": "string"
+        },
+        "source_id": {
+          "title": "Source Id",
+          "type": "string"
+        },
+        "title": {
+          "title": "Title",
+          "type": "string"
+        },
+        "url": {
+          "format": "uri",
+          "maxLength": 2083,
+          "minLength": 1,
+          "title": "Url",
+          "type": "string"
+        },
+        "summary": {
+          "default": "",
+          "title": "Summary",
+          "type": "string"
+        },
+        "published_at": {
+          "title": "Published At",
+          "type": "string"
+        },
+        "fetched_at": {
+          "title": "Fetched At",
+          "type": "string"
+        },
+        "date_estimated": {
+          "default": false,
+          "title": "Date Estimated",
+          "type": "boolean"
+        },
+        "author": {
+          "default": "",
+          "title": "Author",
+          "type": "string"
+        },
+        "categories": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Categories",
+          "type": "array"
+        },
+        "language": {
+          "default": "en",
+          "title": "Language",
+          "type": "string"
+        },
+        "country": {
+          "title": "Country",
+          "type": "string"
+        },
+        "category": {
+          "title": "Category",
+          "type": "string"
+        }
+      },
+      "required": [
+        "id",
+        "source_id",
+        "title",
+        "url",
+        "published_at",
+        "fetched_at",
+        "country",
+        "category"
+      ],
+      "title": "Article",
+      "type": "object"
+    },
+    "Classification": {
+      "properties": {
+        "reviewer": {
+          "title": "Reviewer",
+          "type": "string"
+        },
+        "methodology": {
+          "title": "Methodology",
+          "type": "string"
+        },
+        "reviewed_at": {
+          "title": "Reviewed At",
+          "type": "string"
+        }
+      },
+      "required": ["reviewer", "methodology", "reviewed_at"],
+      "title": "Classification",
+      "type": "object"
+    },
+    "Exposure": {
+      "properties": {
+        "category": {
+          "title": "Category",
+          "type": "string"
+        },
+        "sector": {
+          "title": "Sector",
+          "type": "string"
+        },
+        "symbols": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Symbols",
+          "type": "array"
+        },
+        "mechanism": {
+          "title": "Mechanism",
+          "type": "string"
+        },
+        "positive": {
+          "title": "Positive",
+          "type": "string"
+        },
+        "negative": {
+          "title": "Negative",
+          "type": "string"
+        },
+        "horizon": {
+          "default": "Weeks to months; timing uncertain",
+          "title": "Horizon",
+          "type": "string"
+        },
+        "uncertainty": {
+          "title": "Uncertainty",
+          "type": "string"
+        },
+        "article_ids": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Article Ids",
+          "type": "array"
+        },
+        "matches": {
+          "additionalProperties": {
+            "type": "string"
+          },
+          "title": "Matches",
+          "type": "object"
+        }
+      },
+      "required": [
+        "category",
+        "sector",
+        "symbols",
+        "mechanism",
+        "positive",
+        "negative",
+        "uncertainty",
+        "article_ids"
+      ],
+      "title": "Exposure",
+      "type": "object"
+    },
+    "Instrument": {
+      "properties": {
+        "symbol": {
+          "title": "Symbol",
+          "type": "string"
+        },
+        "name": {
+          "title": "Name",
+          "type": "string"
+        },
+        "exchange": {
+          "title": "Exchange",
+          "type": "string"
+        },
+        "currency": {
+          "title": "Currency",
+          "type": "string"
+        },
+        "sector": {
+          "title": "Sector",
+          "type": "string"
+        },
+        "aliases": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Aliases",
+          "type": "array"
+        },
+        "keywords": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Keywords",
+          "type": "array"
+        },
+        "benchmark": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Benchmark"
+        }
+      },
+      "required": ["symbol", "name", "exchange", "currency", "sector"],
+      "title": "Instrument",
+      "type": "object"
+    },
+    "MarketSeries": {
+      "properties": {
+        "symbol": {
+          "title": "Symbol",
+          "type": "string"
+        },
+        "currency": {
+          "title": "Currency",
+          "type": "string"
+        },
+        "exchange": {
+          "title": "Exchange",
+          "type": "string"
+        },
+        "source": {
+          "title": "Source",
+          "type": "string"
+        },
+        "fetched_at": {
+          "title": "Fetched At",
+          "type": "string"
+        },
+        "adjusted": {
+          "default": false,
+          "title": "Adjusted",
+          "type": "boolean"
+        },
+        "prices": {
+          "items": {
+            "$ref": "#/$defs/Price"
+          },
+          "maxItems": 60,
+          "minItems": 1,
+          "title": "Prices",
+          "type": "array"
+        },
+        "change_pct": {
+          "anyOf": [
+            {
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Change Pct"
+        },
+        "benchmark_change_pct": {
+          "anyOf": [
+            {
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Benchmark Change Pct"
+        },
+        "excess_return_pct": {
+          "anyOf": [
+            {
+              "type": "number"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Excess Return Pct"
+        },
+        "comparison_dates": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Comparison Dates",
+          "type": "array"
+        }
+      },
+      "required": ["symbol", "currency", "exchange", "source", "fetched_at", "prices"],
+      "title": "MarketSeries",
+      "type": "object"
+    },
+    "Price": {
+      "properties": {
+        "date": {
+          "title": "Date",
+          "type": "string"
+        },
+        "close": {
+          "exclusiveMinimum": 0,
+          "title": "Close",
+          "type": "number"
+        }
+      },
+      "required": ["date", "close"],
+      "title": "Price",
+      "type": "object"
+    },
+    "RunStatus": {
+      "properties": {
+        "state": {
+          "enum": ["ok", "partial", "failed", "demo"],
+          "title": "State",
+          "type": "string"
+        },
+        "attempted_at": {
+          "title": "Attempted At",
+          "type": "string"
+        },
+        "last_success_at": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Last Success At"
+        },
+        "errors": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Errors",
+          "type": "array"
+        },
+        "source_results": {
+          "additionalProperties": {
+            "type": "string"
+          },
+          "title": "Source Results",
+          "type": "object"
+        },
+        "market_status": {
+          "default": "Market price data not configured",
+          "title": "Market Status",
+          "type": "string"
+        },
+        "ai_status": {
+          "default": "AI enrichment not configured",
+          "title": "Ai Status",
+          "type": "string"
+        }
+      },
+      "required": ["state", "attempted_at"],
+      "title": "RunStatus",
+      "type": "object"
+    },
+    "Source": {
+      "properties": {
+        "id": {
+          "title": "Id",
+          "type": "string"
+        },
+        "name": {
+          "title": "Name",
+          "type": "string"
+        },
+        "url": {
+          "format": "uri",
+          "maxLength": 2083,
+          "minLength": 1,
+          "title": "Url",
+          "type": "string"
+        },
+        "enabled": {
+          "default": true,
+          "title": "Enabled",
+          "type": "boolean"
+        },
+        "category": {
+          "title": "Category",
+          "type": "string"
+        },
+        "country": {
+          "title": "Country",
+          "type": "string"
+        },
+        "language": {
+          "default": "en",
+          "title": "Language",
+          "type": "string"
+        },
+        "political_leaning": {
+          "default": "unknown",
+          "enum": ["left", "centre", "right", "unknown"],
+          "title": "Political Leaning",
+          "type": "string"
+        },
+        "classification": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/Classification"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null
+        }
+      },
+      "required": ["id", "name", "url", "category", "country"],
+      "title": "Source",
+      "type": "object"
+    },
+    "Story": {
+      "properties": {
+        "id": {
+          "title": "Id",
+          "type": "string"
+        },
+        "title": {
+          "title": "Title",
+          "type": "string"
+        },
+        "overview": {
+          "title": "Overview",
+          "type": "string"
+        },
+        "title_kind": {
+          "default": "source_headline",
+          "title": "Title Kind",
+          "type": "string"
+        },
+        "first_published": {
+          "title": "First Published",
+          "type": "string"
+        },
+        "updated_at": {
+          "title": "Updated At",
+          "type": "string"
+        },
+        "article_ids": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Article Ids",
+          "type": "array"
+        },
+        "publisher_count": {
+          "title": "Publisher Count",
+          "type": "integer"
+        },
+        "article_counts": {
+          "additionalProperties": {
+            "type": "integer"
+          },
+          "title": "Article Counts",
+          "type": "object"
+        },
+        "publisher_counts": {
+          "additionalProperties": {
+            "type": "integer"
+          },
+          "title": "Publisher Counts",
+          "type": "object"
+        },
+        "category": {
+          "title": "Category",
+          "type": "string"
+        },
+        "countries": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Countries",
+          "type": "array"
+        },
+        "language": {
+          "title": "Language",
+          "type": "string"
+        },
+        "common_terms": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Common Terms",
+          "type": "array"
+        },
+        "limitations": {
+          "items": {
+            "type": "string"
+          },
+          "title": "Limitations",
+          "type": "array"
+        },
+        "exposures": {
+          "items": {
+            "$ref": "#/$defs/Exposure"
+          },
+          "title": "Exposures",
+          "type": "array"
+        },
+        "ai": {
+          "anyOf": [
+            {
+              "$ref": "#/$defs/AIAnalysis"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null
+        }
+      },
+      "required": [
+        "id",
+        "title",
+        "overview",
+        "first_published",
+        "updated_at",
+        "article_ids",
+        "publisher_count",
+        "article_counts",
+        "publisher_counts",
+        "category",
+        "countries",
+        "language"
+      ],
+      "title": "Story",
+      "type": "object"
+    }
+  },
+  "properties": {
+    "schema_version": {
+      "const": 1,
+      "default": 1,
+      "title": "Schema Version",
+      "type": "integer"
+    },
+    "mode": {
+      "enum": ["demo", "live"],
+      "title": "Mode",
+      "type": "string"
+    },
+    "generated_at": {
+      "title": "Generated At",
+      "type": "string"
+    },
+    "refresh_minutes": {
+      "default": 60,
+      "title": "Refresh Minutes",
+      "type": "integer"
+    },
+    "sources": {
+      "items": {
+        "$ref": "#/$defs/Source"
+      },
+      "title": "Sources",
+      "type": "array"
+    },
+    "articles": {
+      "items": {
+        "$ref": "#/$defs/Article"
+      },
+      "title": "Articles",
+      "type": "array"
+    },
+    "stories": {
+      "items": {
+        "$ref": "#/$defs/Story"
+      },
+      "title": "Stories",
+      "type": "array"
+    },
+    "instruments": {
+      "items": {
+        "$ref": "#/$defs/Instrument"
+      },
+      "title": "Instruments",
+      "type": "array"
+    },
+    "markets": {
+      "items": {
+        "$ref": "#/$defs/MarketSeries"
+      },
+      "title": "Markets",
+      "type": "array"
+    },
+    "status": {
+      "$ref": "#/$defs/RunStatus"
+    }
+  },
+  "required": ["mode", "generated_at", "sources", "articles", "stories", "instruments", "status"],
+  "title": "Dataset",
+  "type": "object"
+}

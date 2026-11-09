@@ -1,0 +1,6 @@
+<?xml version="1.0"?><rss version="2.0"><channel><title>Fixture news</title>
+<item><title>Federal Reserve interest rate policy follows inflation</title><link>https://example.org/rates?utm_source=rss</link><pubDate>Mon, 09 Nov 2026 10:00:00 GMT</pubDate><description>&lt;b&gt;Interest rate&lt;/b&gt; review &lt;script&gt;alert(1)&lt;/script&gt;</description></item>
+<item><title>Federal Reserve interest rate policy follows inflation</title><link>https://example.org/rates?utm_source=email</link><pubDate>Mon, 09 Nov 2026 10:00:00 GMT</pubDate></item>
+<item><title>Missing date example</title><link>https://example.org/undated</link><description>Short excerpt</description></item>
+<item><title>Unsafe link</title><link>javascript:alert(1)</link></item>
+</channel></rss>

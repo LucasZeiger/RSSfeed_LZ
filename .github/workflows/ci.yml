@@ -1,0 +1,38 @@
+name: CI
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: astral-sh/setup-uv@v6
+        with:
+          version: '0.13.5'
+          enable-cache: true
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+          cache-dependency-path: web/package-lock.json
+      - run: uv sync --frozen
+      - run: uv run python -m backend.cli demo
+      - run: uv run python -m backend.cli schema
+      - run: uv run ruff check backend tests
+      - run: uv run ruff format --check backend tests
+      - run: uv run pytest -q
+      - run: npm ci --prefix web
+      - run: npm run lint --prefix web
+      - run: npm run typecheck --prefix web
+      - run: npm run build --prefix web
+      - run: npx playwright install --with-deps chromium
+        working-directory: web
+      - run: npm run test:e2e --prefix web
+      - uses: actions/upload-artifact@v4
+        if: failure()
+        with:
+          name: browser-test-results
+          path: web/test-results
