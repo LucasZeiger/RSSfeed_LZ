@@ -1,4 +1,6 @@
-# Horizon compared with NewsLens
+# Horizon compared with the pre-migration NewsLens prototype
+
+**Historical review:** this document describes the standalone prototype before the Horizon migration. The current implementation reuses Horizon; see [UPSTREAM.md](../UPSTREAM.md).
 
 Source review: 9 November 2026. Horizon revision inspected: [`0a8d740b1a774f27ba9ffb612227ab87832a138c`](https://github.com/Thysrael/Horizon/tree/0a8d740b1a774f27ba9ffb612227ab87832a138c). Cloned outside the application checkout at `/workspace/tools/Horizon`. This is a source inspection, not a live execution or benchmark of Horizon. No Horizon application code has been incorporated into NewsLens.
 

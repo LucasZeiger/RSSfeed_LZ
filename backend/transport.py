@@ -1,5 +1,4 @@
-import ipaddress
-import socket
+import asyncio
 import time
 from collections import defaultdict
 from datetime import UTC, datetime
@@ -7,11 +6,10 @@ from email.utils import parsedate_to_datetime
 from threading import Lock
 from urllib.parse import urljoin, urlsplit
 
-import feedparser
+from src.url_security import validate_public_http_url
+
 import httpx
 
-from backend.models import Article
-from backend.normalize import canonical_url, clean, identifier
 
 _HOST_LOCKS = defaultdict(Lock)
 _NEXT_REQUEST = {}
@@ -26,18 +24,11 @@ def rate_limit(url):
         _NEXT_REQUEST[host] = time.monotonic() + 1
 
 
-def safe_url(url, resolver=socket.getaddrinfo):
-    p = urlsplit(str(url))
-    if p.scheme not in ("http", "https") or not p.hostname or p.username or p.password:
-        raise ValueError("Only credential-free HTTP(S) URLs are allowed")
-    if p.port not in (None, 80, 443):
+def safe_url(url):
+    """Use Horizon's public-address validation with NewsLens's standard-port policy."""
+    if urlsplit(str(url)).port not in (None, 80, 443):
         raise ValueError("Nonstandard port blocked")
-    addresses = resolver(
-        p.hostname, p.port or (443 if p.scheme == "https" else 80), type=socket.SOCK_STREAM
-    )
-    if not addresses or any(not ipaddress.ip_address(a[4][0]).is_global for a in addresses):
-        raise ValueError("Non-public network destination blocked")
-    return str(url)
+    return asyncio.run(validate_public_http_url(str(url)))
 
 
 def fetch(source, metadata, settings):
@@ -89,53 +80,6 @@ def fetch(source, metadata, settings):
                     raise  # Defer long provider cooldowns to the next scheduled run.
             time.sleep(delay)
     raise RuntimeError("Fetch failed")
-
-
-def parse_feed(body, source, fetched_at):
-    parsed = feedparser.parse(body)
-    if parsed.bozo and not parsed.entries:
-        raise ValueError("Malformed or unsupported feed")
-    output = []
-    for entry in parsed.entries[:300]:
-        try:
-            url = canonical_url(urljoin(str(source.url), entry.get("link", "")))
-            # Never expose private or unsupported article links; no requests are made here.
-            host = urlsplit(url).hostname
-            if not host or host == "localhost" or host.endswith(".local"):
-                continue
-            try:
-                if not ipaddress.ip_address(host).is_global:
-                    continue
-            except ValueError:
-                pass
-            title = clean(entry.get("title"), 250)
-            if not title or not entry.get("link"):
-                continue
-            date = entry.get("published_parsed") or entry.get("updated_parsed")
-            estimated = date is None
-            published = datetime(*date[:6], tzinfo=UTC).isoformat() if date else fetched_at
-            if datetime.fromisoformat(published) > datetime.fromisoformat(fetched_at):
-                published, estimated = fetched_at, True
-            output.append(
-                Article(
-                    id=identifier(url),
-                    source_id=source.id,
-                    title=title,
-                    url=url,
-                    summary=clean(entry.get("summary")),
-                    published_at=published,
-                    fetched_at=fetched_at,
-                    date_estimated=estimated,
-                    author=clean(entry.get("author"), 150),
-                    categories=[clean(t.get("term"), 80) for t in entry.get("tags", [])[:10]],
-                    language=source.language,
-                    country=source.country,
-                    category=source.category,
-                )
-            )
-        except (ValueError, TypeError, OverflowError):
-            continue
-    return output
 
 
 def retry_after_seconds(value):

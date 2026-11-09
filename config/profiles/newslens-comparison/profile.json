@@ -1,0 +1,16 @@
+{
+  "id": "newslens-comparison",
+  "name": "NewsLens source comparison",
+  "match": "match.md",
+  "analysis": "analysis.md",
+  "content": {"analysis_max_chars": 4000, "enrichment_max_chars": 100000, "sampling": "prefix"},
+  "enrichment": {
+    "prompt": "enrichment.md",
+    "blocks": [
+      {"id": "summary", "type": "section", "primary": true, "tools": []},
+      {"id": "framing", "type": "section", "optional": true, "tools": []},
+      {"id": "common_facts", "type": "section", "optional": true, "tools": []},
+      {"id": "disagreements", "type": "section", "optional": true, "tools": []}
+    ]
+  }
+}

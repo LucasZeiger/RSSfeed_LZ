@@ -11,3 +11,6 @@ refresh_minutes: 60
 market_daily_budget: 20
 market_enabled: false
 ai_enabled: false
+
+# Optional Horizon semantic grouping; requires ai_enabled and a working provider.
+semantic_clustering_enabled: true

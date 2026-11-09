@@ -36,3 +36,6 @@ NewsLens information derived from real feed material, with any market prices dra
 **Watchlist**:
 The configured set of financial instruments for which NewsLens provides relevant news and available market context. Inclusion does not imply ownership or a recommendation.
 _Avoid_: Portfolio
+
+**Processing profile**:
+A named set of editorial rules defining how collected material is evaluated and presented. This is separate from a publisher's political leaning.

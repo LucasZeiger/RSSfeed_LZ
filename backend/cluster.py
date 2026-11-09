@@ -14,7 +14,7 @@ def similarity(a, b):
     return len(shared) / max(1, len(left | right))
 
 
-def cluster(articles, sources, settings, previous=None):
+def cluster(articles, sources, settings, previous=None, candidate_groups=None):
     previous = previous or {}
     groups = []
     used_ids = set()
@@ -40,6 +40,24 @@ def cluster(articles, sources, settings, previous=None):
             groups.append([article])
         else:
             best.append(article)
+    # Horizon proposes semantic groups; preserve every article and enforce hard
+    # language/time boundaries before joining existing lexical clusters.
+    for candidate in candidate_groups or []:
+        ids = set(candidate)
+        selected = [group for group in groups if ids & {a.id for a in group}]
+        if len(selected) < 2:
+            continue
+        joined = sorted(
+            [a for group in selected for a in group], key=lambda a: (a.published_at, a.id)
+        )
+        span = (
+            datetime.fromisoformat(joined[-1].published_at)
+            - datetime.fromisoformat(joined[0].published_at)
+        ).total_seconds() / 3600
+        if len({a.language for a in joined}) != 1 or span > settings["cluster_hours"]:
+            continue
+        selected_ids = {id(group) for group in selected}
+        groups = [group for group in groups if id(group) not in selected_ids] + [joined]
     source_map = {s.id: s for s in sources}
     stories = []
     for group in groups:
@@ -52,7 +70,9 @@ def cluster(articles, sources, settings, previous=None):
         for leaning in ("left", "centre", "right", "unknown"):
             selected = [a for a in group if source_map[a.source_id].political_leaning == leaning]
             counts[leaning] = len(selected)
-            publishers[leaning] = len({a.source_id for a in selected})
+            publishers[leaning] = len(
+                {source_map[a.source_id].publisher_id or a.source_id for a in selected}
+            )
         known = sum(1 for key, value in counts.items() if key != "unknown" and value)
         limits = [
             "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments."
@@ -73,7 +93,9 @@ def cluster(articles, sources, settings, previous=None):
                 first_published=anchor.published_at,
                 updated_at=max(a.published_at for a in group),
                 article_ids=[a.id for a in group],
-                publisher_count=len({a.source_id for a in group}),
+                publisher_count=len(
+                    {source_map[a.source_id].publisher_id or a.source_id for a in group}
+                ),
                 article_counts=counts,
                 publisher_counts=publishers,
                 category=anchor.category,

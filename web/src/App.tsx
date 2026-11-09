@@ -447,11 +447,14 @@ function StoryCard({
 }) {
   const reference = data.mode === 'demo' ? Date.parse(data.generated_at) : Date.now()
   const initials = [
-    ...new Set(
+    ...new Map(
       data.articles
         .filter((a) => story.article_ids.includes(a.id))
-        .map((a) => data.sources.find((s) => s.id === a.source_id)?.name || '?'),
-    ),
+        .map((a) => {
+          const source = data.sources.find((s) => s.id === a.source_id)
+          return [source?.publisher_id || a.source_id, source?.name || '?'] as const
+        }),
+    ).values(),
   ]
   return (
     <article className={`story-card ${featured ? 'featured' : ''}`}>
@@ -656,7 +659,7 @@ export default function App() {
           : new Set(
               articles
                 .filter((a) => sources[a.source_id]?.political_leaning === l)
-                .map((a) => a.source_id),
+                .map((a) => sources[a.source_id]?.publisher_id || a.source_id),
             ).size,
       ]),
     ) as Record<Leaning, number>
@@ -1140,7 +1143,7 @@ export default function App() {
             <span className="footer-brand">
               newslens<span> · See the whole story.</span>
             </span>
-            <span>Source-linked. Context-aware. Independently hosted.</span>
+            <span>Source-linked. Powered by Horizon. Independently hosted.</span>
           </footer>
         </main>
       </div>

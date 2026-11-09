@@ -2,6 +2,7 @@
 # General news feeds from broad public-service publishers remain unknown.
 feeds:
   - id: bbc-world
+    publisher_id: bbc
     name: BBC World
     url: https://feeds.bbci.co.uk/news/world/rss.xml
     enabled: true
@@ -34,6 +35,7 @@ feeds:
       methodology: Broad conservative editorial orientation of the publisher. Not an article-level rating.
       reviewed_at: '2026-11-09'
   - id: bbc-business
+    publisher_id: bbc
     name: BBC Business
     url: https://feeds.bbci.co.uk/news/business/rss.xml
     enabled: true

@@ -5,6 +5,7 @@
   "refresh_minutes": 60,
   "sources": [
     {
+      "publisher_id": null,
       "id": "demo-left",
       "name": "The Civic Review (fictional)",
       "url": "https://example.com/left/rss",
@@ -20,6 +21,7 @@
       }
     },
     {
+      "publisher_id": null,
       "id": "demo-centre",
       "name": "The Daily Record (fictional)",
       "url": "https://example.com/centre/rss",
@@ -35,6 +37,7 @@
       }
     },
     {
+      "publisher_id": null,
       "id": "demo-right",
       "name": "The National Ledger (fictional)",
       "url": "https://example.com/right/rss",
@@ -50,6 +53,7 @@
       }
     },
     {
+      "publisher_id": null,
       "id": "demo-unknown",
       "name": "Regional Journal (fictional)",
       "url": "https://example.com/unknown/rss",

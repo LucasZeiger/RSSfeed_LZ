@@ -425,6 +425,18 @@
     },
     "Source": {
       "properties": {
+        "publisher_id": {
+          "anyOf": [
+            {
+              "type": "string"
+            },
+            {
+              "type": "null"
+            }
+          ],
+          "default": null,
+          "title": "Publisher Id"
+        },
         "id": {
           "title": "Id",
           "type": "string"

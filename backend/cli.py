@@ -3,7 +3,6 @@ import fcntl
 import json
 import os
 import time
-from concurrent.futures import ThreadPoolExecutor
 from datetime import UTC, datetime, timedelta
 from pathlib import Path
 
@@ -11,7 +10,7 @@ import yaml
 
 from backend.cluster import cluster
 from backend.export import atomic_json, read_json
-from backend.feeds import fetch, parse_feed
+from backend.horizon import collect_sources
 from backend.financial import exposures
 from backend.models import Article, Dataset, Instrument, RunStatus, Settings, Source
 from backend.normalize import now
@@ -51,31 +50,26 @@ def _collect(root):
     articles = {a["id"]: Article.model_validate(a) for a in state["articles"]}
     successful = 0
 
-    def task(source):
-        try:
-            body, meta = fetch(source, state["feeds"].get(source.id, {}), settings)
-            parsed = None if body is None else parse_feed(body, source, timestamp)
-            return source, parsed, meta, None
-        except Exception as exc:  # noqa: BLE001 -- isolate failures in optional/external providers
-            # Avoid URLs, response bodies and credentials in operational logs.
-            return source, [], {}, type(exc).__name__
-
-    with ThreadPoolExecutor(max_workers=max(1, min(settings["concurrency"], 4))) as pool:
-        for source, parsed, meta, error in pool.map(task, [s for s in sources if s.enabled]):
-            if error:
-                status.errors.append(f"{source.id}: {error}; previous articles retained")
-                status.source_results[source.id] = "failed"
-                continue
-            successful += 1
-            status.source_results[source.id] = (
-                "not modified" if parsed is None else f"{len(parsed)} entries"
+    for source, parsed, meta, errors in collect_sources(
+        sources, state["feeds"], settings, timestamp
+    ):
+        if errors:
+            status.errors.append(
+                f"{source.id}: {', '.join(sorted(set(errors)))}; previous articles retained"
             )
-            state["feeds"][source.id] = meta
-            if parsed is not None:
-                for article in parsed:
-                    if article.id not in articles and article.id not in state["seen"]:
-                        articles[article.id] = article
-                    state["seen"][article.id] = timestamp
+        if errors and not parsed:
+            status.source_results[source.id] = "failed"
+            continue
+        successful += 1
+        status.source_results[source.id] = (
+            "not modified" if parsed is None else f"{len(parsed)} entries"
+        )
+        state["feeds"][source.id] = meta
+        if parsed is not None:
+            for article in parsed:
+                if article.id not in articles and article.id not in state["seen"]:
+                    articles[article.id] = article
+                state["seen"][article.id] = timestamp
     active = {s.id for s in sources if s.enabled}
     cutoff = (datetime.now(UTC) - timedelta(days=settings["article_days"])).isoformat()
     retained = sorted(
@@ -83,7 +77,18 @@ def _collect(root):
         key=lambda a: a.published_at,
         reverse=True,
     )[: settings["max_articles"]]
-    stories = cluster(retained, sources, settings, state["clusters"])
+    provider = None
+    candidate_groups = []
+    if settings.get("ai_enabled"):
+        from backend.ai.provider import HorizonComparisonProvider
+
+        try:
+            provider = HorizonComparisonProvider.from_config(root)
+            if settings.get("semantic_clustering_enabled"):
+                candidate_groups = provider.groups(retained)
+        except Exception as exc:  # noqa: BLE001 -- optional model failures keep lexical grouping
+            status.errors.append(f"Horizon AI/grouping unavailable: {type(exc).__name__}")
+    stories = cluster(retained, sources, settings, state["clusters"], candidate_groups)
     by_id = {a.id: a for a in retained}
     for story in stories:
         story.exposures = exposures([by_id[aid] for aid in story.article_ids], instruments)
@@ -125,20 +130,22 @@ def _collect(root):
             if markets
             else "Market provider unavailable"
         )
-    if settings.get("ai_enabled") and os.environ.get("NEWSLENS_AI_KEY"):
-        from backend.ai.provider import OpenAICompatible
-
-        provider = OpenAICompatible(
-            os.environ["NEWSLENS_AI_KEY"],
-            (os.environ.get("NEWSLENS_AI_URL") or "https://api.openai.com/v1/chat/completions"),
-            (os.environ.get("NEWSLENS_AI_MODEL") or "gpt-4.1-mini"),
-        )
+    if provider is not None:
         for story in stories[:10]:
             try:
                 story.ai = provider.enrich([by_id[aid] for aid in story.article_ids])
-            except Exception as exc:  # noqa: BLE001 -- isolate failures in optional/external providers
+                if len(story.article_ids) > 30:
+                    story.limitations.append("AI comparison used at most 30 source excerpts.")
+            except Exception as exc:  # noqa: BLE001 -- optional external model
                 status.errors.append(f"AI {story.id}: {type(exc).__name__}")
-        status.ai_status = "Optional model interpretation; inspect references"
+        status.ai_status = "Horizon profile enrichment; inspect article references"
+    elif settings.get("ai_enabled"):
+        status.ai_status = "AI enrichment unavailable; deterministic comparison retained"
+    if provider is not None:
+        try:
+            provider.close()
+        except Exception as exc:  # noqa: BLE001 -- cleanup must not discard collected news
+            status.errors.append(f"Horizon AI cleanup: {type(exc).__name__}")
     if status.errors and status.state == "ok":
         status.state = "partial"
     atomic_json(root / "web/public/data/status.json", status.model_dump())

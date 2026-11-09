@@ -21,8 +21,8 @@ jobs:
       - run: uv sync --frozen
       - run: uv run python -m backend.cli demo
       - run: uv run python -m backend.cli schema
-      - run: uv run ruff check backend tests
-      - run: uv run ruff format --check backend tests
+      - run: uv run ruff check backend tests/newslens src/processing/topics.py
+      - run: uv run ruff format --check backend tests/newslens src/processing/topics.py
       - run: uv run pytest -q
       - run: npm ci --prefix web
       - run: npm run lint --prefix web

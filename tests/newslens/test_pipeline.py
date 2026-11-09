@@ -1,5 +1,4 @@
 import json
-import socket
 from datetime import UTC, datetime
 
 import httpx
@@ -9,7 +8,8 @@ import yaml
 from backend.cli import ROOT, collect, configuration
 from backend.cluster import cluster
 from backend.export import atomic_json
-from backend.feeds import fetch, parse_feed, safe_url
+from backend.horizon import parse_feed
+from backend.transport import fetch, safe_url
 from backend.financial import exposures
 from backend.market.alpha import AlphaVantage, benchmark_returns
 from backend.models import Article, Dataset, MarketSeries, Price, Source
@@ -69,12 +69,13 @@ def test_atom_dates_are_utc(source):
 @pytest.mark.parametrize(
     "address", ["127.0.0.1", "10.0.0.1", "169.254.169.254", "::1", "fc00::1", "0.0.0.0"]
 )
-def test_private_dns_blocked(address):
-    def resolver(*args, **kwargs):
-        return [(socket.AF_INET, socket.SOCK_STREAM, 6, "", (address, 443))]
+def test_private_dns_blocked(address, monkeypatch):
+    async def resolver(*args, **kwargs):
+        return {address}
 
-    with pytest.raises(ValueError, match="Non-public"):
-        safe_url("https://example.org/rss", resolver)
+    monkeypatch.setattr("src.url_security._resolve_hostname", resolver)
+    with pytest.raises(ValueError, match="non-public"):
+        safe_url("https://example.org/rss")
 
 
 @pytest.mark.parametrize(
@@ -86,8 +87,12 @@ def test_invalid_destinations_blocked(url):
         safe_url(url)
 
 
-def test_public_destination():
-    assert safe_url("https://example.org", lambda *a, **k: [(2, 1, 6, "", ("93.184.215.14", 443))])
+def test_public_destination(monkeypatch):
+    async def resolver(*args, **kwargs):
+        return {"93.184.215.14"}
+
+    monkeypatch.setattr("src.url_security._resolve_hostname", resolver)
+    assert safe_url("https://example.org")
 
 
 def test_redirect_revalidated_and_response_bounded(monkeypatch, source, settings):
@@ -98,21 +103,21 @@ def test_redirect_revalidated_and_response_bounded(monkeypatch, source, settings
         if "127.0.0.1" in url:
             raise ValueError("Non-public")
 
-    monkeypatch.setattr("backend.feeds.safe_url", guard)
+    monkeypatch.setattr("backend.transport.safe_url", guard)
     real_client = httpx.Client
     client = real_client(
         transport=httpx.MockTransport(
             lambda request: httpx.Response(302, headers={"location": "http://127.0.0.1/secret"})
         )
     )
-    monkeypatch.setattr("backend.feeds.httpx.Client", lambda **kw: client)
+    monkeypatch.setattr("backend.transport.httpx.Client", lambda **kw: client)
     with pytest.raises(ValueError, match="Non-public"):
         fetch(source, {}, settings)
     assert len(validated) == 2
     client = real_client(
         transport=httpx.MockTransport(lambda request: httpx.Response(200, content=b"x" * 30))
     )
-    monkeypatch.setattr("backend.feeds.httpx.Client", lambda **kw: client)
+    monkeypatch.setattr("backend.transport.httpx.Client", lambda **kw: client)
     with pytest.raises(ValueError, match="size"):
         fetch(source, {}, {**settings, "max_response_bytes": 10})
 
@@ -124,8 +129,8 @@ def test_conditional_headers_and_304(monkeypatch, source, settings):
         return httpx.Response(304)
 
     client = httpx.Client(transport=httpx.MockTransport(respond))
-    monkeypatch.setattr("backend.feeds.httpx.Client", lambda **kw: client)
-    monkeypatch.setattr("backend.feeds.safe_url", lambda url: url)
+    monkeypatch.setattr("backend.transport.httpx.Client", lambda **kw: client)
+    monkeypatch.setattr("backend.transport.safe_url", lambda url: url)
     assert fetch(source, {"etag": "tag", "modified": "date"}, settings)[0] is None
 
 
@@ -228,7 +233,7 @@ def setup_root(tmp_path):
 def test_pipeline_dedup_repeated_run_partial_and_failure(monkeypatch, tmp_path):
     root = setup_root(tmp_path)
     body = (ROOT / "fixtures/news.xml").read_bytes()
-    monkeypatch.setattr("backend.cli.fetch", lambda *args: (body, {"etag": "example"}))
+    monkeypatch.setattr("backend.horizon.fetch", lambda *args: (body, {"etag": "example"}))
     assert collect(root) == 0
     path = root / "web/public/data/latest.json"
     original = Dataset.model_validate_json(path.read_text())
@@ -242,7 +247,7 @@ def test_pipeline_dedup_repeated_run_partial_and_failure(monkeypatch, tmp_path):
             raise httpx.ConnectError("offline")
         return None, {"etag": "example"}
 
-    monkeypatch.setattr("backend.cli.fetch", partial)
+    monkeypatch.setattr("backend.horizon.fetch", partial)
     assert collect(root) == 0
     assert json.loads(path.read_text())["status"]["state"] == "partial"
     prior = path.read_bytes()
@@ -250,7 +255,7 @@ def test_pipeline_dedup_repeated_run_partial_and_failure(monkeypatch, tmp_path):
     def fail(*args):
         raise httpx.ConnectError("offline")
 
-    monkeypatch.setattr("backend.cli.fetch", fail)
+    monkeypatch.setattr("backend.horizon.fetch", fail)
     assert collect(root) == 1
     assert path.read_bytes() == prior
     assert json.loads((root / "web/public/data/status.json").read_text())["state"] == "failed"
@@ -270,28 +275,29 @@ def test_demo_contract():
     assert all("SIMULATED" in m.source for m in data.markets)
 
 
-def test_ai_rejects_unknown_references(monkeypatch):
-    from backend.ai.provider import OpenAICompatible
+def test_ai_rejects_unknown_references():
+    from backend.ai.provider import HorizonComparisonProvider
+    from src.models import AIConfig
 
-    payload = {
-        "summary": "Unsubstantiated [fake]",
-        "framing": [],
-        "common_facts": [],
-        "disagreements": [],
-        "article_ids": ["fake"],
-    }
-    client = httpx.Client(
-        transport=httpx.MockTransport(
-            lambda request: httpx.Response(
-                200, json={"choices": [{"message": {"content": json.dumps(payload)}}]}
+    class Client:
+        async def complete(self, **kwargs):
+            return json.dumps(
+                {
+                    "title": "Unverified",
+                    "blocks": [
+                        {
+                            "id": "summary",
+                            "title": "Summary",
+                            "content": "Unsubstantiated [fake]",
+                            "source_refs": [],
+                        }
+                    ],
+                }
             )
-        )
-    )
-    monkeypatch.setattr("backend.ai.provider.httpx.Client", lambda **kw: client)
+
+    config = AIConfig(provider="openai", model="fixture", api_key_env="UNUSED_FIXTURE_KEY")
     with pytest.raises(ValueError, match="references"):
-        OpenAICompatible("fixture", "https://example.org/ai", "fixture").enrich(
-            [article("Real article")]
-        )
+        HorizonComparisonProvider(config, ROOT, client=Client()).enrich([article("Real article")])
 
 
 def test_market_adapter_parses_daily_prices_and_caches(monkeypatch, tmp_path):
@@ -339,37 +345,40 @@ def test_settings_reject_unbounded_requests():
         Settings(concurrency=1000, max_response_bytes=999999999)
 
 
-def test_ai_accepts_grounded_structured_response(monkeypatch):
-    from backend.ai.provider import OpenAICompatible
+def test_ai_accepts_grounded_structured_response():
+    from backend.ai.provider import HorizonComparisonProvider
+    from src.models import AIConfig
 
     item = article("Federal Reserve reviews interest rate policy")
-    payload = {
-        "summary": f"An interest rate review is reported [{item.id}]",
-        "framing": [],
-        "common_facts": [],
-        "disagreements": [],
-        "article_ids": [item.id],
-    }
+    calls = []
 
-    def respond(request):
-        body = json.loads(request.content)
-        assert body["messages"][0]["role"] == "system"
-        assert item.id in body["messages"][1]["content"]
-        return httpx.Response(
-            200, json={"choices": [{"message": {"content": json.dumps(payload)}}]}
-        )
+    class Client:
+        async def complete(self, **kwargs):
+            calls.append(kwargs)
+            assert item.id in kwargs["user"]
+            assert "newslens" in kwargs["system"].lower() or "compare" in kwargs["system"].lower()
+            return json.dumps(
+                {
+                    "title": "Reported rate review",
+                    "blocks": [
+                        {
+                            "id": "summary",
+                            "title": "What happened",
+                            "content": f"An interest rate review is reported [{item.id}]",
+                            "source_refs": [],
+                        }
+                    ],
+                }
+            )
 
-    real_client = httpx.Client
-    monkeypatch.setattr(
-        "backend.ai.provider.httpx.Client",
-        lambda **kw: real_client(transport=httpx.MockTransport(respond)),
-    )
-    output = OpenAICompatible("fixture-only", "https://example.org/ai", "test-model").enrich([item])
-    assert output.provider == "test-model" and output.article_ids == [item.id]
+    config = AIConfig(provider="openai", model="fixture", api_key_env="UNUSED_FIXTURE_KEY")
+    output = HorizonComparisonProvider(config, ROOT, client=Client()).enrich([item])
+    assert output.provider == "Horizon/openai/fixture" and output.article_ids == [item.id]
+    assert len(calls) == 1
 
 
 def test_malformed_feed_is_isolated(source):
-    with pytest.raises(ValueError, match="Malformed"):
+    with pytest.raises(ValueError, match="Invalid RSS/Atom"):
         parse_feed(b"<not-a-feed><broken>", source, STAMP)
 
 
@@ -379,9 +388,9 @@ def test_long_retry_after_defers_to_next_run(monkeypatch, source, settings):
             lambda request: httpx.Response(429, headers={"retry-after": "3600"})
         )
     )
-    monkeypatch.setattr("backend.feeds.httpx.Client", lambda **kw: client)
-    monkeypatch.setattr("backend.feeds.safe_url", lambda url: url)
-    monkeypatch.setattr("backend.feeds.rate_limit", lambda url: None)
+    monkeypatch.setattr("backend.transport.httpx.Client", lambda **kw: client)
+    monkeypatch.setattr("backend.transport.safe_url", lambda url: url)
+    monkeypatch.setattr("backend.transport.rate_limit", lambda url: None)
     with pytest.raises(httpx.HTTPStatusError) as error:
         fetch(source, {}, settings)
     assert error.value.response.status_code == 429

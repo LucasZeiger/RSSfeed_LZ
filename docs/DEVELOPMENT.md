@@ -1,5 +1,7 @@
 # Development environment
 
+NewsLens now runs on Horizon upstream; see [integration details](../UPSTREAM.md).
+
 Use the existing checkout in an isolated cloud task. Do not create a Git worktree unless explicitly requested.
 
 ```sh
@@ -16,8 +18,8 @@ Validation:
 
 ```sh
 .venv/bin/pytest -q
-.venv/bin/ruff check backend tests
-.venv/bin/ruff format --check backend tests
+.venv/bin/ruff check backend tests/newslens src/processing/topics.py
+.venv/bin/ruff format --check backend tests/newslens src/processing/topics.py
 npm run lint --prefix web
 npm run build --prefix web
 PLAYWRIGHT_CHROMIUM_EXECUTABLE=/usr/bin/chromium npm run test:e2e --prefix web

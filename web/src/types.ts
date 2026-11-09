@@ -1,5 +1,6 @@
 export type Leaning = 'left' | 'centre' | 'right' | 'unknown'
 export interface Source {
+  publisher_id?: string | null
   id: string
   name: string
   url: string

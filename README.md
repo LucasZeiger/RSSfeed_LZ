@@ -1,6 +1,8 @@
 # NewsLens
 
-**See the whole story.** A self-hostable news comparison dashboard with source-linked financial context. English interface; US and UK coverage with German-language Austrian reporting. Static React frontend, Python batch collector, versioned JSON, no database or persistent Python server.
+**See the whole story.** A customisation of [Thysrael/Horizon](https://github.com/Thysrael/Horizon) with a news comparison dashboard with source-linked financial context. English interface; US and UK coverage with German-language Austrian reporting. Static React frontend, Python batch collector, versioned JSON, no database or persistent Python server.
+
+Horizon supplies the collectors, AI providers, editorial profiles and enrichment infrastructure. NewsLens adds the source-preserving comparison model, financial context and React website. See [upstream provenance and integration boundaries](UPSTREAM.md) and the preserved [Horizon README](README.upstream.md).
 
 The repository's visibility is never changed by the application or its workflows. A deployed website can be public even when this repository is private.
 
@@ -11,7 +13,7 @@ Prerequisites: Python 3.12+, [uv](https://docs.astral.sh/uv/), Node.js 22+ and n
 ```sh
 uv sync --frozen
 npm ci --prefix web
-uv run python -m backend.cli demo
+uv run newslens demo
 npm run dev --prefix web
 ```
 
@@ -19,8 +21,8 @@ Open the development server's printed address in your browser. The default devel
 
 ```sh
 # Real news: network access and public DNS required, no API keys required
-uv run python -m backend.cli collect
-uv run python -m backend.cli validate
+uv run newslens collect
+uv run newslens validate
 ```
 
 Choose **Switch to real news**, select Real RSS in Display & data settings, or append `?data=live` to the website URL. `?data=demo` explicitly selects the synthetic dataset. Real mode never substitutes fabricated content. If no real output exists, it shows an actionable empty/error state. Region, navigation and dataset preferences persist in localStorage; browser storage failure is harmless.
@@ -34,7 +36,7 @@ For restricted managed cloud environments, see [development setup and current ne
 - Configurable RSS 2.0 / Atom ingestion, bounded concurrency, one-second per-host request spacing, timeout/size/deadline limits, conditional HTTP, bounded retry/backoff and redirect validation.
 - UTC normalisation, HTML removal, exact URL deduplication, bounded seen state, conservative same-language clustering and best-effort stable story IDs.
 - Deterministic financial categories, evidence-linked mechanisms, positive/negative scenarios and asset matching against a small US-focused watchlist with a few UK instruments.
-- Optional cached Alpha Vantage daily-price adapter; optional OpenAI-compatible structured analysis adapter. Both are disabled by default and have mocked offline tests. Neither has been validated against a paid account.
+- Optional cached Alpha Vantage daily-price adapter; Horizon provider/profile enrichment and source-preserving semantic grouping. Both are disabled by default and have mocked offline tests. Neither has been validated against a paid account.
 - Versioned JSON schema, backend and browser validation, atomic output replacement, per-feed failure isolation, retention of prior valid output on total collection failure and separate run-status reporting.
 - CI, hourly scheduled/manual ingestion, bounded generated-state persistence and optional Pages deployment. No deployment was performed during implementation.
 
@@ -43,17 +45,21 @@ Dedicated kiosk features and cross-language clustering are deferred by the agree
 ## Project layout
 
 ```text
+src/                 Horizon engine, source connectors, AI, profiles and services
+profiles/            upstream editorial profiles
+config/profiles/     NewsLens comparison profile
 backend/
   cli.py             collection, validation, demo and schema commands
   models.py          public Pydantic data contract
-  feeds.py           safe bounded fetches and RSS/Atom parsing
+  horizon.py         adapter to Horizon collection and content models
+  transport.py       guarded conditional HTTP, using Horizon URL validation
   normalize.py       URL, text and timestamp helpers
   cluster.py         event similarity and persistent identity reuse
   financial.py       evidence-linked financial mechanism rules
   export.py          atomic JSON reads/writes
   demo.py            deterministic synthetic dataset
   market/alpha.py    cached daily prices and aligned benchmark returns
-  ai/provider.py     optional schema-validated model interpretation
+  ai/provider.py     Horizon enrichment adapter and article-reference validation
 config/              feeds.yaml, instruments.yaml, settings.yaml
 fixtures/            offline RSS and Atom samples
 web/src/             React UI, types, generated JSON schema and styles
@@ -69,7 +75,7 @@ GLOSSARY.md          settled domain language
 
 ## Configure RSS sources
 
-Edit `config/feeds.yaml`. Each entry needs a unique ID, publisher name, real feed URL, enabled flag, category, country (`US`, `UK`, `AT`), language (`en`, `de`) and political leaning. Supported UI categories are Politics, World, Business and Technology; All news also includes other configured categories. Geography describes the configured feed edition, not an automatically inferred event location. Feed metadata/category is the initial classification; article tags are retained but do not override it.
+Edit `config/feeds.yaml`. Each entry needs a unique feed ID, publisher name, real feed URL, enabled flag, category, country (`US`, `UK`, `AT`), language (`en`, `de`) and political leaning. Use a shared `publisher_id` when multiple feeds belong to one publisher (the two BBC feeds share `bbc`) so publisher counts do not become feed counts. Supported UI categories are Politics, World, Business and Technology; All news also includes other configured categories. Geography describes the configured feed edition, not an automatically inferred event location. Feed metadata/category is the initial classification; article tags are retained but do not override it.
 
 ```yaml
 feeds:
@@ -105,7 +111,7 @@ Coverage bars show only the configured, collected dataset. Article counts and pu
 
 URLs are canonicalised by dropping fragments and known tracking parameters while preserving other query parameters. Exact article URLs share an identifier; repeated entries and already-seen IDs are not ingested twice.
 
-Clustering compares normalised headline token sets, requires at least three shared non-stopword terms and a configurable Jaccard similarity threshold (default 0.32). Articles must have the same language and lie within 48 hours of the cluster's anchor article. Comparing against an anchor limits transitive topic drift. Existing article-to-story assignments preserve a cluster's prior ID where possible; merges use the dominant prior identity and splits may receive new IDs. Ambiguous articles can remain singleton stories. This is conservative lexical matching, not semantic understanding; missed matches and false merges remain possible.
+The no-AI fallback compares normalised headline token sets, requires at least three shared non-stopword terms and a configurable Jaccard similarity threshold (default 0.32). Articles must have the same language and lie within 48 hours of the cluster's anchor article. Comparing against an anchor limits transitive topic drift. Existing article-to-story assignments preserve a cluster's prior ID where possible; merges use the dominant prior identity and splits may receive new IDs. Ambiguous articles can remain singleton stories. This is conservative lexical matching; missed matches and false merges remain possible. When AI is enabled, Horizon's semantic grouping can additionally propose groups for up to 40 recent articles, while NewsLens enforces language/time bounds and keeps every constituent source record. Model errors retain the lexical fallback; semantic accuracy still requires evaluation with real coverage.
 
 Without AI, the live title and overview are clearly identified source headlines/excerpts, not independently authored neutral summaries. The comparison shows exact headlines and shared words, and does **not** invent factual agreements, omissions or disagreements. Published times missing, invalid or in the future are conservatively replaced with collection time and flagged.
 
@@ -128,18 +134,22 @@ Prices are **unadjusted**, dated historical closes in each instrument's native c
 
 Price movements are observed data; mechanisms are scenarios; causation is not established. NewsLens never recommends buying/selling or generates price targets.
 
-### Optional AI
+### Optional AI via Horizon
 
-Export `NEWSLENS_AI_KEY`; optionally set `NEWSLENS_AI_URL` (default OpenAI chat-completions endpoint) and `NEWSLENS_AI_MODEL`. Set `ai_enabled: true` and allow the configured endpoint host if network access is restricted. Add GitHub secrets/variables with those same names for scheduled runs. Only the ten newest stories per run are considered, limiting cost; this adapter does not continuously poll.
+Set `ai_enabled: true` in `config/settings.yaml` and configure `config/horizon-ai.json` using Horizon's AIConfig schema. The default selects OpenAI with backend variable `NEWSLENS_AI_KEY`. `NEWSLENS_AI_MODEL` and `NEWSLENS_AI_BASE_URL` can override the configured model and API base URL. Export values in your shell or configure GitHub Actions secrets/variables; no key is ever sent to the browser. The backend does not automatically load `.env`.
 
-The adapter supplies only feed headlines/excerpts and IDs as untrusted user data with a separate system instruction, requests JSON, validates the result with Pydantic and requires article references for each substantive claim. It stores model identity and timestamp. Invalid output is discarded and deterministic comparison remains. Schema/reference validity cannot guarantee factual accuracy or eliminate prompt injection; review generated interpretations before relying on them. Source excerpts are sent to the chosen provider only when explicitly enabled.
+Horizon supplies native/compatible provider implementations, fallback chains, local Ollama and supported authentication options. Change `provider`, `model`, `base_url` and `api_key_env` in the JSON according to [Horizon configuration](docs/configuration.md). A local model can operate without a paid API key. The default hosted provider requires its key. Missing/invalid configuration is nonfatal: collection and deterministic comparison continue with a visible status warning.
+
+The `newslens-comparison` profile is a real Horizon editorial profile under `config/profiles/`. Horizon's ContentEnricher generates schema-validated summary/framing/common-facts/disagreement blocks; NewsLens validates inline article references before displaying the result. The profile has no web or history tools, so analysis stays grounded in supplied feed material. Invalid/unreferenced outputs are discarded. Schema/reference checks cannot guarantee truth or eliminate prompt injection.
+
+Enrichment is bounded to ten stories and 30 excerpts per story. `semantic_clustering_enabled` additionally permits Horizon's grouping step over at most 40 recent articles. Both paths share one provider client and event loop. AI remains optional and output is always identified as model interpretation. The normal `horizon` briefing command retains its own AI-driven filtering; the NewsLens path preserves all collected perspectives.
 
 ## Data contract, state and freshness
 
 `web/src/dataset.schema.json` is generated from `backend.models.Dataset`:
 
 ```sh
-uv run python -m backend.cli schema
+uv run newslens schema
 ```
 
 The public contract is one atomic `data/latest.json` file containing `schema_version: 1`, mode, generation timestamp, source/article/story/instrument lists, market series and run status. `data/demo.json` uses the same contract. `data/status.json` independently records the latest attempted run, so a failed ingestion can be visible while the previous valid dataset remains intact. The frontend validates downloaded data against the schema before replacing its current dataset.
@@ -152,8 +162,8 @@ The UI shows generation time, last completely successful collection, latest atte
 
 ```sh
 uv run pytest -q
-uv run ruff check backend tests
-uv run ruff format --check backend tests
+uv run ruff check backend tests/newslens src/processing/topics.py
+uv run ruff format --check backend tests/newslens src/processing/topics.py
 npm run lint --prefix web
 npm run typecheck --prefix web
 npm run build --prefix web
@@ -162,12 +172,12 @@ npx playwright install chromium
 npm run test:e2e
 ```
 
-Python tests use RSS/Atom and HTTP fixtures, including correct and false-positive clusters, deduplication, conditional requests, unsafe destinations/redirects, size limits, partial/total failures, state repeatability, financial matching, market caching and AI reference rejection. Playwright tests exercise browser interaction, persistence, insufficient evidence, mobile overflow, source links, demo/real separation and retention after failed refresh. Tests do not depend on live news or paid APIs.
+The full Python suite includes Horizon's upstream regression tests and NewsLens adapter tests. NewsLens tests use RSS/Atom and HTTP fixtures, including correct and false-positive clusters, deduplication, conditional requests, unsafe destinations/redirects, size limits, partial/total failures, state repeatability, financial matching, market caching and AI reference rejection. Playwright tests exercise browser interaction, persistence, insufficient evidence, mobile overflow, source links, demo/real separation and retention after failed refresh. Tests do not depend on live news or paid APIs.
 
 For a real-data static build:
 
 ```sh
-uv run python -m backend.cli collect
+uv run newslens collect
 VITE_DATA_MODE=live npm run build --prefix web
 npm run preview --prefix web
 ```
@@ -190,13 +200,13 @@ Generated `latest.json`, `status.json`, state and market cache are ignored for n
 
 Requests permit only HTTP(S), standard ports and credential-free URLs. Public DNS results are checked for every destination and redirect; private/loopback/link-local/metadata addresses are rejected. DNS failure blocks fetching. HTTPS verification stays enabled. Streamed responses have decompressed byte and time bounds; malformed entries are isolated. React renders source text as text, never raw HTML.
 
-The collector is a trusted-configuration batch tool, not a public URL-fetch service. DNS checks and the eventual connection can resolve separately (especially through a proxy): use an outbound firewall/proxy that also blocks private destinations to defend against DNS rebinding. Do not grant it private-network access or expose feed configuration as an untrusted public API. A controlled egress policy complements application checks. Market/AI endpoints are administrator-controlled backend settings.
+The NewsLens collector is a trusted-configuration batch tool, not a public URL-fetch service. DNS checks and the eventual connection can resolve separately (especially through a proxy): use an outbound firewall/proxy that also blocks private destinations to defend against DNS rebinding. Do not grant it private-network access or expose feed configuration as an untrusted public API. A controlled egress policy complements application checks. Market/AI endpoints are administrator-controlled backend settings.
 
-Remaining limitations: current live-feed access is unverified in this cloud environment; lexical clustering can miss paraphrases; languages do not cross-cluster; classifications require human review; neutral live summaries require reviewed enrichment; market/AI account access and public price rights are unverified; deployment is prepared but not activated. The website is fully usable in explicit offline demo mode.
+Remaining limitations: current live-feed access is unverified in this cloud environment; lexical fallback can miss paraphrases; optional model grouping has not been benchmarked; languages do not cross-cluster; classifications require human review; neutral live summaries require reviewed enrichment; market/AI account access and public price rights are unverified; deployment is prepared but not activated. The website is fully usable in explicit offline demo mode.
 
 ## Prioritised V2 roadmap
 
-1. Verify and expand the real source set; calibrate event clustering with reviewed US/UK/Austrian examples.
+1. Verify and expand the real source set; evaluate Horizon semantic grouping against reviewed US/UK/Austrian examples.
 2. Add human-reviewed event titles and claim-level evidence validation for optional model output.
 3. Add multilingual/cross-language matching behind evaluation fixtures.
 4. Move retained data/history to object storage or SQLite when Git persistence becomes cumbersome.

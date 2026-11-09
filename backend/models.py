@@ -21,6 +21,7 @@ class Settings(BaseModel):
     market_daily_budget: int = Field(default=20, ge=0, le=25)
     market_enabled: bool = False
     ai_enabled: bool = False
+    semantic_clustering_enabled: bool = True
 
 
 class Classification(BaseModel):
@@ -30,6 +31,7 @@ class Classification(BaseModel):
 
 
 class Source(BaseModel):
+    publisher_id: str | None = None
     id: str
     name: str
     url: HttpUrl
@@ -190,7 +192,7 @@ class Dataset(BaseModel):
             counts = Counter(source_map[a.source_id].political_leaning for a in group)
             for leaning in ("left", "centre", "right", "unknown"):
                 publishers = {
-                    a.source_id
+                    (source_map[a.source_id].publisher_id or a.source_id)
                     for a in group
                     if source_map[a.source_id].political_leaning == leaning
                 }
@@ -198,7 +200,9 @@ class Dataset(BaseModel):
                     leaning
                 ] or story.publisher_counts.get(leaning) != len(publishers):
                     raise ValueError("Coverage counts do not match evidence")
-            if story.publisher_count != len({a.source_id for a in group}):
+            if story.publisher_count != len(
+                {source_map[a.source_id].publisher_id or a.source_id for a in group}
+            ):
                 raise ValueError("Incorrect distinct publisher count")
             if story.ai and not set(story.ai.article_ids) <= set(story.article_ids):
                 raise ValueError("AI references another story")

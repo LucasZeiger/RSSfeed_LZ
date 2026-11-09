@@ -1,5 +1,7 @@
 # Agreed implementation scope
 
+Implementation foundation: Horizon upstream, with NewsLens comparison/export and website additions. See [UPSTREAM.md](../UPSTREAM.md).
+
 NewsLens is a static, publicly readable website backed by a batch Python pipeline. The repository remains private unless its owner changes that independently. The interface is English. Reporting focuses on the US and UK, with German-language Austrian reporting retained in German. Clustering is within a language; translation and cross-language matching are deferred.
 
 The homepage combines regions with region/category/publisher/leaning/time/search/financial filters. Stories sort primarily by recency, secondarily by distinct publishers. The initial slice includes a full dashboard, source comparison and financial exposure, an explicit offline demo, and real RSS through the same versioned JSON contract. The watchlist is mostly US with minor UK instruments; it is not a portfolio.

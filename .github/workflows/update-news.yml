@@ -30,8 +30,8 @@ jobs:
           ALPHA_VANTAGE_API_KEY: ${{ secrets.ALPHA_VANTAGE_API_KEY }}
           NEWSLENS_AI_KEY: ${{ secrets.NEWSLENS_AI_KEY }}
           NEWSLENS_AI_MODEL: ${{ vars.NEWSLENS_AI_MODEL }}
-          NEWSLENS_AI_URL: ${{ vars.NEWSLENS_AI_URL }}
-        run: uv run python -m backend.cli collect
+          NEWSLENS_AI_BASE_URL: ${{ vars.NEWSLENS_AI_BASE_URL }}
+        run: uv run newslens collect
       - run: uv run python -m backend.cli validate
       - name: Persist bounded output and state
         run: |
