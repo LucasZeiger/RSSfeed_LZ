@@ -6,6 +6,8 @@ Horizon supplies the collectors, AI providers, editorial profiles and enrichment
 
 The repository's visibility is never changed by the application or its workflows. A deployed website can be public even when this repository is private.
 
+For a guided walkthrough, see [Start here](docs/START_HERE.md) or open the [self-contained visual guide](artifacts/NewsLens-usage-guide.html).
+
 ## Quick start — no keys required
 
 Prerequisites: Python 3.12+, [uv](https://docs.astral.sh/uv/), Node.js 22+ and npm. Linux/macOS are supported; use WSL on Windows (the collector uses a POSIX file lock).
