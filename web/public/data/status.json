@@ -1,0 +1,16 @@
+{
+  "state": "ok",
+  "attempted_at": "2026-11-10T21:50:16.869229+00:00",
+  "last_success_at": "2026-11-10T21:50:16.869229+00:00",
+  "errors": [],
+  "source_results": {
+    "bbc-world": "36 entries",
+    "guardian-us": "33 entries",
+    "fox-politics": "25 entries",
+    "bbc-business": "30 entries",
+    "orf": "28 entries",
+    "standard": "151 entries"
+  },
+  "market_status": "Market price data not configured",
+  "ai_status": "AI enrichment not configured"
+}
