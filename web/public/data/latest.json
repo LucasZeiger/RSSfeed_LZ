@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "mode": "live",
-  "generated_at": "2026-11-10T21:50:16.869229+00:00",
+  "generated_at": "2026-11-11T01:58:36.579699+00:00",
   "refresh_minutes": 60,
   "sources": [
     {
@@ -91,6 +91,427 @@
   ],
   "articles": [
     {
+      "id": "f1b3506ce3d4d107abc6",
+      "source_id": "guardian-us",
+      "title": "Federal judge allows Trump’s $10bn defamation lawsuit against BBC to proceed",
+      "url": "https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed",
+      "summary": "Trump-appointed judge Jeffrey T Kuntz partially denies British broadcaster’s motion to dismiss over edit Federal judge Jeffrey T Kuntz ruled on Tuesday that Donald Trump’s lawsuit against the BBC can proceed, denying in part the British broadcaster’s motion to dismiss the case. The president’s $10bn defamation lawsuit stems from the BBC’s splicing together of disparate comments he made before the 6 January US Capitol insurrection, as rendered in a Panorama documentary called Trump: A Second Chance. “Accepting the allegations in the complaint as true, the Court finds Trump plausibly pled damage",
+      "published_at": "2026-11-11T01:18:56+00:00",
+      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
+      "date_estimated": false,
+      "author": "Jeremy Barr",
+      "categories": [
+        "Donald Trump",
+        "BBC",
+        "UK news",
+        "US news",
+        "Europe",
+        "US politics",
+        "Media"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "424b62e26905785e06b9",
+      "source_id": "bbc-world",
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_campaign=rss&at_medium=RSS",
+      "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+      "published_at": "2026-11-11T01:14:40+00:00",
+      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "7e05e4f70bd6e4a0dc6e",
+      "source_id": "guardian-us",
+      "title": "Kennedys sue to block Trump’s gilded arch, saying it would ‘cast shadow’ over JFK grave site",
+      "url": "https://www.theguardian.com/us-news/2026/nov/10/kennedy-family-lawsuit-trump-arch-jfk",
+      "summary": "250ft arch risks ‘permanently diminishing’ memorials to ex-president and relatives at Arlington cemetery, lawsuit says Nine members of the Kennedy family political dynasty have sued the Trump administration, asking a federal judge to block the president’s plan to build a towering, gilded arch they say would cast a shadow over their relatives’ graves in Arlington national cemetery. The family’s complaint states that the 25oft triumphal arch, topped with a Lady Liberty-like winged figure, would “obstruct the clear sightline of the Kennedy Gravesites” and “fundamentally alter the experience of vi",
+      "published_at": "2026-11-11T01:09:55+00:00",
+      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
+      "date_estimated": false,
+      "author": "Cecilia Nowell",
+      "categories": [
+        "Donald Trump",
+        "Washington DC",
+        "US news",
+        "World news",
+        "John F Kennedy"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "09f19ba547505b4b1b16",
+      "source_id": "fox-politics",
+      "title": "Anti-Israel agitators swarm Biden in Ireland and hurl object at motorcade",
+      "url": "https://www.foxnews.com/politics/anti-israel-agitators-swarm-biden-ireland-hurl-object-motorcade",
+      "summary": "Former President Joe Biden was heckled Tuesday by anti-Israel agitators who threw at least one object at his motorcade and screamed obscenities during his visit to Ireland alongside former first lady Jill Biden. Biden, 83, made a surprise appearance at Trinity College in Dublin, where his son, Hunter Biden, accepted the Gold Medal for Outstanding Contribution to Public Discourse, The Independent reported. A mob of agitators gathered outside the venue while the event took place. INSIDE THE PROTEST PLAYBOOK TO VILIFY ISRAEL ON 'GLOBAL DAY OF ACTION' As Biden exited the building, someone threw an",
+      "published_at": "2026-11-11T01:07:45+00:00",
+      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "433a1a24-b8d5-55c3-8297-aed1428c9c4a",
+        "fnc",
+        "Fox News",
+        "fox-news/person/joe-biden",
+        "fox-news/world/world-regions/ireland",
+        "fox-news/us",
+        "fox-news/world/world-regions/israel",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "2b2926e36aa3e5b8f458",
+      "source_id": "bbc-world",
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_campaign=rss&at_medium=RSS",
+      "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+      "published_at": "2026-11-11T01:01:20+00:00",
+      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "a0221887cf72f39f4e60",
+      "source_id": "bbc-world",
+      "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
+      "url": "https://www.bbc.co.uk/news/articles/c687z7g4xr97o?at_campaign=rss&at_medium=RSS",
+      "summary": "Sonia Gandhi's memoir revisits love, loss and political inheritance, offering a deeply personal defence of her family and its legacy.",
+      "published_at": "2026-11-11T00:26:02+00:00",
+      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "d6a03632997e788df43b",
+      "source_id": "bbc-world",
+      "title": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
+      "url": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_campaign=rss&at_medium=RSS",
+      "summary": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
+      "published_at": "2026-11-11T00:19:42+00:00",
+      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "60c499d38de551b567c9",
+      "source_id": "bbc-business",
+      "title": "Robot vessels take on the dangerous work of mine hunting",
+      "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_campaign=rss&at_medium=RSS",
+      "summary": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
+      "published_at": "2026-11-11T00:19:13+00:00",
+      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
+      "date_estimated": false,
+      "author": "bbc-business",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "Business"
+    },
+    {
+      "id": "cb8430fa0c71d7c9c7ae",
+      "source_id": "bbc-world",
+      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+      "url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_campaign=rss&at_medium=RSS",
+      "summary": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
+      "published_at": "2026-11-11T00:18:07+00:00",
+      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "6611cd77f1551b62607f",
+      "source_id": "bbc-business",
+      "title": "Stickers and building sets help drive toy sales ahead of Christmas rush",
+      "url": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_campaign=rss&at_medium=RSS",
+      "summary": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
+      "published_at": "2026-11-11T00:16:44+00:00",
+      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
+      "date_estimated": false,
+      "author": "bbc-business",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "Business"
+    },
+    {
+      "id": "d0b44ccb9c909f533ca0",
+      "source_id": "bbc-business",
+      "title": "Poundland hopeful for last-minute rescue deal to stave off collapse",
+      "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_campaign=rss&at_medium=RSS",
+      "summary": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
+      "published_at": "2026-11-11T00:02:07+00:00",
+      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
+      "date_estimated": false,
+      "author": "bbc-business",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "Business"
+    },
+    {
+      "id": "b1ffdefb78ce2871156d",
+      "source_id": "orf",
+      "title": "USA: Amtsenthebungsverfahren gegen Hegseth gestoppt",
+      "url": "https://orf.at/stories/3447855/",
+      "summary": "",
+      "published_at": "2026-11-10T23:57:21+00:00",
+      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "e93ba7046c22a2cdb22d",
+      "source_id": "guardian-us",
+      "title": "House Republicans block effort to impeach Pentagon chief Pete Hegseth",
+      "url": "https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-impeachment-effort",
+      "summary": "Trump ally, accused of an array of illegal acts, had earlier condemned impeachment push as ‘a farce and a stunt’ House Republicans on Tuesday blocked an effort to impeach Pete Hegseth, rejecting allegations that the defense secretary had repeatedly violated the constitution through his handling of the Iran war and other conflicts globally. The vote came a week after Republicans lost control of the Senate and House of Representatives in their worst midterm election in more than a half century, and underscored how lawmakers remain wary of crossing Donald Trump, who has signaled his continued sup",
+      "published_at": "2026-11-10T23:56:11+00:00",
+      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
+      "date_estimated": false,
+      "author": "Chris Stein in Washington",
+      "categories": [
+        "Pete Hegseth",
+        "Republicans",
+        "US military",
+        "US news",
+        "US Congress",
+        "US politics",
+        "Trump administration",
+        "House of Representatives"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "a7f837ed4bd302f515fe",
+      "source_id": "guardian-us",
+      "title": "Noskova beats Gauff to reach WTA Finals semi-finals as Pegula stays alive",
+      "url": "https://www.theguardian.com/sport/2026/nov/10/jessica-pegula-marta-kostyuk-wta-finals-tennis",
+      "summary": "Czech defeats Gauff 6-3, 6-3 to reach last four Pegula eliminates Kostyuk with straight-sets victory Gauff and Pegula remain in contention for final berth Linda Noskova secured her place in the semi-finals of the WTA Finals with a 6-3, 6-3 victory over Coco Gauff on Tuesday, while Jessica Pegula knocked Marta Kostyuk out of the season-ending tournament with a straight-sets win. The Czech, who beat Kostyuk in her opening match, has won both encounters without dropping a set and is assured of advancing to the knockout stage. Gauff and Pegula are both 1-1, with the final round-robin matches on Th",
+      "published_at": "2026-11-10T23:31:32+00:00",
+      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
+      "date_estimated": false,
+      "author": "Agencies",
+      "categories": [
+        "WTA Finals",
+        "Sport",
+        "Tennis",
+        "US sports",
+        "Coco Gauff"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "cb034873d6274a2ce13c",
+      "source_id": "fox-politics",
+      "title": "House GOP leaders block Massie's Hegseth impeachment push",
+      "url": "https://www.foxnews.com/politics/house-gop-leaders-block-massie-hegseth-impeachment-push",
+      "summary": "Secretary of War Pete Hegseth is safe from an impeachment vote in the House of Representatives after GOP leaders successfully stopped a looming vote led by Rep. Thomas Massie, R-Ky. A vote to refer Massie's resolution to the House Judiciary Committee for consideration — which effectively killed it in its tracks — passed on Tuesday evening by a 211-204 margin, averting a potential impeachment vote on Wednesday. President Donald Trump celebrated the failed impeachment effort in a Truth Social post, calling Massie a \"major LOSER\" and praising Hegseth's record on military operations in Venezuela a",
+      "published_at": "2026-11-10T23:16:18+00:00",
+      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "59b2d669-68f8-5f88-8e74-606cf43d3098",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/person/pete-hegseth",
+        "fox-news/politics/defense/secretary-of-defense",
+        "fox-news/us/congress",
+        "fox-news/politics/house-of-representatives",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "3a3b33eb26a5d51906c0",
+      "source_id": "guardian-us",
+      "title": "Who is Jim Jordan? Pugnacious Trump ideologue to lead diminished Republican ranks",
+      "url": "https://www.theguardian.com/us-news/2026/nov/10/who-is-jim-jordan-house-republicans",
+      "summary": "Controversial far-right congressman defied 2022 subpoena from Capitol attack panel and was accused of ignoring sexual abuse as college wrestling coach The election of Jim Jordan on Tuesday to lead House Republicans elevates a combative Donald Trump ideologue who defied a congressional subpoena over the 6 January attack, as the party tries as it tries to adjust to life out of power. Jordan will lead a diminished Republican conference, as its ranks shrink to one of the smallest in decades. But it is a triumph for the Ohio Republican who was pushed out of the contentious House speakership race th",
+      "published_at": "2026-11-10T23:12:12+00:00",
+      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
+      "date_estimated": false,
+      "author": "Joseph Gedeon in Washington",
+      "categories": [
+        "Republicans",
+        "US news",
+        "World news",
+        "Ohio",
+        "US Congress",
+        "US politics",
+        "House of Representatives",
+        "Donald Trump"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "07e1178208fb5dc9c9d0",
+      "source_id": "standard",
+      "title": "Standardrätsel K 11440",
+      "url": "https://www.derstandard.at/story/3000000347079/standardraetsel-k-11440?ref=rss",
+      "summary": "Täglich neu, exklusiv für Smart-Abonnent:innen: Das knifflige Quizkultur-Rätsel des STANDARD",
+      "published_at": "2026-11-10T23:01:00+00:00",
+      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "96976b0a504540a41a62",
+      "source_id": "orf",
+      "title": "Kulturkampf um Krakauer Todesschützen",
+      "url": "https://orf.at/stories/3447766/",
+      "summary": "Nach der erschütternden Bluttat mit neun Todesopfern in Krakau ist im politisch tief gespaltenen Polen ein Kulturkampf über die möglichen Motive des Schützen entbrannt – der sich über soziale Netzwerke in ganz Europa fortsetzt. Die erste Einschätzung einer mutmaßlich rechtsextremen Ideologie des Täters war wohl vorschnell. Im Gegenzug wird nun ventiliert, der Schütze sei eher dem linken Lager zuzuordnen – doch die Indizien sind wacklig und teilweise KI-generiert.",
+      "published_at": "2026-11-10T22:58:47+00:00",
+      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "d8f2d890a21b99946371",
+      "source_id": "guardian-us",
+      "title": "Schumer confident on Senate leadership role despite dwindling votes – video",
+      "url": "https://www.theguardian.com/us-news/video/2026/nov/10/chuck-schumer-confident-on-senate-leadership-role-bernie-sanders-video",
+      "summary": "New York senator Chuck Schumer expressed confidence that he would become the majority leader after the Democratic party gained at least 54 seats in the Senate during the midterm elections. Schumer's remarks came after Vermont senator Bernie Sanders announced he would not support Schumer for the leadership position. Sanders joins a growing list of Democratic senators who have said they will not support Schumer Continue reading...",
+      "published_at": "2026-11-10T22:53:51+00:00",
+      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
+      "date_estimated": false,
+      "author": "Guardian Staff",
+      "categories": [
+        "US politics",
+        "US news",
+        "Democrats",
+        "Trump administration"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "39c4595344156441f059",
+      "source_id": "orf",
+      "title": "14 Meter hohe Papst-Statue in Peru fertiggestellt",
+      "url": "https://orf.at/stories/3447853/",
+      "summary": "",
+      "published_at": "2026-11-10T22:49:18+00:00",
+      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Religion"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "ee988392b637fc753e26",
+      "source_id": "fox-politics",
+      "title": "Ilhan Omar huddles with her DC-based lawyers during her first day back on Capitol Hill amid federal probes",
+      "url": "https://www.foxnews.com/politics/ilhan-omar-huddles-dc-based-lawyers-first-day-back-capitol-hill-amid-federal-probes",
+      "summary": "Rep. Ilhan Omar, D-Minn., returned to Capitol Hill this week and brought two lawyers with her after a scandal-plagued fall recess. Fox News spotted the two attorneys exiting her Washington, D.C., office Tuesday after what appeared to be a roughly two-hour meeting with the congresswoman. Omar hired two high-profile attorneys, Amy Jeffress and Joshua Matz, both of whom are partners at Heckler Fink LLP, amid dueling investigations. After emerging from Omar’s office on Tuesday, Fox News asked about their confidence in Omar’s defense against the federal government. OBAMA ADMIN FIRST LAUNCHED THE IN",
+      "published_at": "2026-11-10T22:25:44+00:00",
+      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "66925800-d827-51ba-a2ed-e08ccc5e4c02",
+        "fnc",
+        "Fox News",
+        "fox-news/person/ilhan-omar",
+        "fox-news/politics",
+        "fox-news/us/congress",
+        "fox-news/politics/justice-department",
+        "fox-news/us/immigration/illegal-immigrants",
+        "fox-news/us/immigration",
+        "fox-news/politics/minnesota-fraud-exposed"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "4c0b2172d0f0878ecedf",
+      "source_id": "guardian-us",
+      "title": "Bernie Sanders says he will not back Schumer for Senate Democratic leader",
+      "url": "https://www.theguardian.com/us-news/2026/nov/10/bernie-sanders-chuck-schumer-senate-democrats",
+      "summary": "Progressive senator says ‘I like Chuck … but the time is now for change’ as calls grow for new Democratic leadership Bernie Sanders, a progressive senator from Vermont, said on Tuesday he would not support Chuck Schumer’s bid to serve as the Democratic leader in the US Senate, joining a growing cohort of Democrats calling for a change in leadership. “I personally have known Chuck Schumer for over 30 years, and I like Chuck. Nobody who works harder than Chuck Schumer. But in my view, the time is now for change, and I will not be supporting Chuck to be re-elected as the Democratic leader,” Sande",
+      "published_at": "2026-11-10T22:16:32+00:00",
+      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
+      "date_estimated": false,
+      "author": "Ariana Baio",
+      "categories": [
+        "Democrats",
+        "Bernie Sanders",
+        "US news",
+        "US politics",
+        "World news",
+        "US midterm elections 2026",
+        "Chuck Schumer",
+        "US Senate",
+        "US Congress"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
       "id": "a3a8f1bcfdcdf3aac174",
       "source_id": "orf",
       "title": "Bericht deutet auf riesiges Ausmaß hin",
@@ -120,6 +541,32 @@
       "categories": [],
       "language": "de",
       "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "7d37235974aac7a6ee4e",
+      "source_id": "fox-politics",
+      "title": "Hegseth labels impeachment push a policy dispute, but do lawmakers' allegations rise to high crimes?",
+      "url": "https://www.foxnews.com/politics/hegseth-calls-impeachment-push-policy-dispute-allegations-rise-high-crimes",
+      "summary": "War Secretary Pete Hegseth pushed back against an impeachment effort Tuesday, accusing lawmakers of trying to turn disagreements over President Donald Trump's military policies into impeachable offenses. Congress is preparing to vote on eight articles alleging the Pentagon chief violated federal law and abused his authority. \"One disgruntled congressman wants to shred it over policy disagreements. That's what it is: policy disagreements, not high crimes, not misdemeanors, not treason, not bribery, not the kinds of offenses the founders intended when they wrote the impeachment clause,\" Hegseth ",
+      "published_at": "2026-11-10T21:44:25+00:00",
+      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "9c3dbf1e-373a-5e96-8773-a2921162202c",
+        "fnc",
+        "Fox News",
+        "fox-news/person/pete-hegseth",
+        "fox-news/politics",
+        "fox-news/politics/defense/secretary-of-defense",
+        "fox-news/politics/executive/national-security",
+        "fox-news/us/congress",
+        "fox-news/us/military",
+        "fox-news/tech/topics/pentagon"
+      ],
+      "language": "en",
+      "country": "US",
       "category": "Politics"
     },
     {
@@ -573,6 +1020,21 @@
       "language": "en",
       "country": "US",
       "category": "Politics"
+    },
+    {
+      "id": "1d89ef20faef3de8ebf5",
+      "source_id": "bbc-world",
+      "title": "US Army soldier suspected of spying for Russia arrested in UK",
+      "url": "https://www.bbc.co.uk/news/articles/c6d7q77xgw0vo?at_campaign=rss&at_medium=RSS",
+      "summary": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
+      "published_at": "2026-11-10T20:20:04+00:00",
+      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
     },
     {
       "id": "63fa02d91580d3923b0e",
@@ -3290,6 +3752,21 @@
       "category": "Politics"
     },
     {
+      "id": "f3b68bf87804ddc2eb2a",
+      "source_id": "standard",
+      "title": "Von Hunden bis Hitler: Virales Musikvideo \"Storm\" trendet mit KI-Kopien",
+      "url": "https://www.derstandard.at/story/3000000348454/von-hunden-bis-hitler-virales-musikvideo-storm-trendet-mit-ki-kopien?ref=rss",
+      "summary": "Im Frühjahr landete das brillant choreografierte Musikvideo mit dem schwedischen Rapper Yung Lean einen Hit. Mittlerweile kursieren zahlreiche KI-Kopien davon im Netz",
+      "published_at": "2026-11-10T11:50:34+00:00",
+      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
       "id": "edc4f89ccf179a61596d",
       "source_id": "bbc-world",
       "title": "Police officer dies and another injured after backpack explosion in northern Spain",
@@ -3995,6 +4472,21 @@
       "category": "Politics"
     },
     {
+      "id": "61ae57858d4f55da2f04",
+      "source_id": "standard",
+      "title": "Kurt Langbein geht in \"Sterben für Anfänger\" dem Tod nach – auch dem eigenen",
+      "url": "https://www.derstandard.at/story/3000000348158/kurt-langbein-geht-in-sterben-fuer-anfaenger-dem-tod-nach-auch-dem-eigenen?ref=rss",
+      "summary": "Der Dokumentarfilmer ist unheilbar krank. Im Kinofilm wirft er medizinische und spirituelle Blicke auf ein vorzeitiges Lebensende. Das gute Sterben ist das Ziel",
+      "published_at": "2026-11-10T07:14:00+00:00",
+      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
       "id": "6958bc9b01b991975f4e",
       "source_id": "standard",
       "title": "Hannes Swoboda: \"Es gibt zu wenig Europa und zu wenig Mut!\"",
@@ -4615,6 +5107,21 @@
       "category": "Politics"
     },
     {
+      "id": "04a9768897afe7860082",
+      "source_id": "standard",
+      "title": "Hass = Solidarität?",
+      "url": "https://www.derstandard.at/story/3000000348261/hass-solidaritaet?ref=rss",
+      "summary": "Wenn sich Solidarität mit den Palästinensern mit Judenhass vermischt",
+      "published_at": "2026-11-09T15:26:00+00:00",
+      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
       "id": "6a4ccdd84d35a3ae0701",
       "source_id": "standard",
       "title": "Trumps Pläne für die Ukraine sind eine gefährliche Drohung für Europa",
@@ -4697,6 +5204,21 @@
       "summary": "Europas Binnenmarkt bleibt für viele Unternehmen ein Flickenteppich. Damit die geplante EU Inc. das tatsächlich ändern kann, sind mehrere Punkte entscheidend",
       "published_at": "2026-11-09T12:00:00+00:00",
       "fetched_at": "2026-11-10T21:50:16.869229+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "9314be92b5e78b4b6669",
+      "source_id": "standard",
+      "title": "Wohltätig statt Wichtel: Eure Ideen",
+      "url": "https://www.derstandard.at/story/3000000348151/wohltaetig-statt-wichtel-eure-ideen?ref=rss",
+      "summary": "Mein Forum: Diskutieren Sie dieses Thema mit der STANDARD-Community",
+      "published_at": "2026-11-09T12:00:00+00:00",
+      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
       "date_estimated": false,
       "author": "standard",
       "categories": [],
@@ -5100,24 +5622,801 @@
       "language": "de",
       "country": "AT",
       "category": "Politics"
-    },
-    {
-      "id": "b9360772e92b87184b24",
-      "source_id": "bbc-business",
-      "title": "Graduates are managing AI - but are they learning much else?",
-      "url": "https://www.bbc.co.uk/news/articles/c820vz6wyp65o?at_campaign=rss&at_medium=RSS",
-      "summary": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
-      "published_at": "2026-11-04T00:04:35+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "bbc-business",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "Business"
     }
   ],
   "stories": [
+    {
+      "id": "story-0ce6c17a846779de7c17",
+      "title": "Federal judge allows Trump’s $10bn defamation lawsuit against BBC to proceed",
+      "overview": "Trump-appointed judge Jeffrey T Kuntz partially denies British broadcaster’s motion to dismiss over edit Federal judge Jeffrey T Kuntz ruled on Tuesday that Donald Trump’s lawsuit against the BBC can proceed, denying in part the British broadcaster’s motion to dismiss the case. The president’s $10bn defamation lawsuit stems from the BBC’s splicing together of disparate comments he made before the 6 January US Capitol insurrection, as rendered in a Panorama documentary called Trump: A Second Chance. “Accepting the allegations in the complaint as true, the Court finds Trump plausibly pled damage",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T01:18:56+00:00",
+      "updated_at": "2026-11-11T01:18:56+00:00",
+      "article_ids": [
+        "f1b3506ce3d4d107abc6"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-38eef93488883a2e4b96",
+      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
+      "overview": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T01:14:40+00:00",
+      "updated_at": "2026-11-11T01:14:40+00:00",
+      "article_ids": [
+        "424b62e26905785e06b9"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-8d269152dd22248c8f94",
+      "title": "Kennedys sue to block Trump’s gilded arch, saying it would ‘cast shadow’ over JFK grave site",
+      "overview": "250ft arch risks ‘permanently diminishing’ memorials to ex-president and relatives at Arlington cemetery, lawsuit says Nine members of the Kennedy family political dynasty have sued the Trump administration, asking a federal judge to block the president’s plan to build a towering, gilded arch they say would cast a shadow over their relatives’ graves in Arlington national cemetery. The family’s complaint states that the 25oft triumphal arch, topped with a Lady Liberty-like winged figure, would “obstruct the clear sightline of the Kennedy Gravesites” and “fundamentally alter the experience of vi",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T01:09:55+00:00",
+      "updated_at": "2026-11-11T01:09:55+00:00",
+      "article_ids": [
+        "7e05e4f70bd6e4a0dc6e"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-7b8520a34414181ed0ed",
+      "title": "Anti-Israel agitators swarm Biden in Ireland and hurl object at motorcade",
+      "overview": "Former President Joe Biden was heckled Tuesday by anti-Israel agitators who threw at least one object at his motorcade and screamed obscenities during his visit to Ireland alongside former first lady Jill Biden. Biden, 83, made a surprise appearance at Trinity College in Dublin, where his son, Hunter Biden, accepted the Gold Medal for Outstanding Contribution to Public Discourse, The Independent reported. A mob of agitators gathered outside the venue while the event took place. INSIDE THE PROTEST PLAYBOOK TO VILIFY ISRAEL ON 'GLOBAL DAY OF ACTION' As Biden exited the building, someone threw an",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T01:07:45+00:00",
+      "updated_at": "2026-11-11T01:07:45+00:00",
+      "article_ids": [
+        "09f19ba547505b4b1b16"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-f868dfded19ebfc7fe3a",
+      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
+      "overview": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T01:01:20+00:00",
+      "updated_at": "2026-11-11T01:01:20+00:00",
+      "article_ids": [
+        "2b2926e36aa3e5b8f458"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-9fb49a5f043b7a2362f1",
+      "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
+      "overview": "Sonia Gandhi's memoir revisits love, loss and political inheritance, offering a deeply personal defence of her family and its legacy.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T00:26:02+00:00",
+      "updated_at": "2026-11-11T00:26:02+00:00",
+      "article_ids": [
+        "a0221887cf72f39f4e60"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-160d740e667c8941340e",
+      "title": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
+      "overview": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T00:19:42+00:00",
+      "updated_at": "2026-11-11T00:19:42+00:00",
+      "article_ids": [
+        "d6a03632997e788df43b"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-6b280c595ce9b9df978b",
+      "title": "Robot vessels take on the dangerous work of mine hunting",
+      "overview": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T00:19:13+00:00",
+      "updated_at": "2026-11-11T00:19:13+00:00",
+      "article_ids": [
+        "60c499d38de551b567c9"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Business",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-530ff97bd99b13529d06",
+      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
+      "overview": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T00:18:07+00:00",
+      "updated_at": "2026-11-11T00:18:07+00:00",
+      "article_ids": [
+        "cb8430fa0c71d7c9c7ae"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-6ce7b7f7e10b781b9d9d",
+      "title": "Stickers and building sets help drive toy sales ahead of Christmas rush",
+      "overview": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T00:16:44+00:00",
+      "updated_at": "2026-11-11T00:16:44+00:00",
+      "article_ids": [
+        "6611cd77f1551b62607f"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Business",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-c37a88c51e6c1f0c1d24",
+      "title": "Poundland hopeful for last-minute rescue deal to stave off collapse",
+      "overview": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T00:02:07+00:00",
+      "updated_at": "2026-11-11T00:02:07+00:00",
+      "article_ids": [
+        "d0b44ccb9c909f533ca0"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Business",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-00590f2479e3b4fc06f0",
+      "title": "USA: Amtsenthebungsverfahren gegen Hegseth gestoppt",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-10T23:57:21+00:00",
+      "updated_at": "2026-11-10T23:57:21+00:00",
+      "article_ids": [
+        "b1ffdefb78ce2871156d"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-21b62534df6b7e8a006c",
+      "title": "House Republicans block effort to impeach Pentagon chief Pete Hegseth",
+      "overview": "Trump ally, accused of an array of illegal acts, had earlier condemned impeachment push as ‘a farce and a stunt’ House Republicans on Tuesday blocked an effort to impeach Pete Hegseth, rejecting allegations that the defense secretary had repeatedly violated the constitution through his handling of the Iran war and other conflicts globally. The vote came a week after Republicans lost control of the Senate and House of Representatives in their worst midterm election in more than a half century, and underscored how lawmakers remain wary of crossing Donald Trump, who has signaled his continued sup",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-10T23:56:11+00:00",
+      "updated_at": "2026-11-10T23:56:11+00:00",
+      "article_ids": [
+        "e93ba7046c22a2cdb22d"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-c79fcf4f956a59dea52b",
+      "title": "Noskova beats Gauff to reach WTA Finals semi-finals as Pegula stays alive",
+      "overview": "Czech defeats Gauff 6-3, 6-3 to reach last four Pegula eliminates Kostyuk with straight-sets victory Gauff and Pegula remain in contention for final berth Linda Noskova secured her place in the semi-finals of the WTA Finals with a 6-3, 6-3 victory over Coco Gauff on Tuesday, while Jessica Pegula knocked Marta Kostyuk out of the season-ending tournament with a straight-sets win. The Czech, who beat Kostyuk in her opening match, has won both encounters without dropping a set and is assured of advancing to the knockout stage. Gauff and Pegula are both 1-1, with the final round-robin matches on Th",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-10T23:31:32+00:00",
+      "updated_at": "2026-11-10T23:31:32+00:00",
+      "article_ids": [
+        "a7f837ed4bd302f515fe"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-c580d0617f9d4bf6bf49",
+      "title": "House GOP leaders block Massie's Hegseth impeachment push",
+      "overview": "Secretary of War Pete Hegseth is safe from an impeachment vote in the House of Representatives after GOP leaders successfully stopped a looming vote led by Rep. Thomas Massie, R-Ky. A vote to refer Massie's resolution to the House Judiciary Committee for consideration — which effectively killed it in its tracks — passed on Tuesday evening by a 211-204 margin, averting a potential impeachment vote on Wednesday. President Donald Trump celebrated the failed impeachment effort in a Truth Social post, calling Massie a \"major LOSER\" and praising Hegseth's record on military operations in Venezuela a",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-10T23:16:18+00:00",
+      "updated_at": "2026-11-10T23:16:18+00:00",
+      "article_ids": [
+        "cb034873d6274a2ce13c"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-50e622c18a451ded3bc6",
+      "title": "Who is Jim Jordan? Pugnacious Trump ideologue to lead diminished Republican ranks",
+      "overview": "Controversial far-right congressman defied 2022 subpoena from Capitol attack panel and was accused of ignoring sexual abuse as college wrestling coach The election of Jim Jordan on Tuesday to lead House Republicans elevates a combative Donald Trump ideologue who defied a congressional subpoena over the 6 January attack, as the party tries as it tries to adjust to life out of power. Jordan will lead a diminished Republican conference, as its ranks shrink to one of the smallest in decades. But it is a triumph for the Ohio Republican who was pushed out of the contentious House speakership race th",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-10T23:12:12+00:00",
+      "updated_at": "2026-11-10T23:12:12+00:00",
+      "article_ids": [
+        "3a3b33eb26a5d51906c0"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-66695da7e4afd4803757",
+      "title": "Standardrätsel K 11440",
+      "overview": "Täglich neu, exklusiv für Smart-Abonnent:innen: Das knifflige Quizkultur-Rätsel des STANDARD",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-10T23:01:00+00:00",
+      "updated_at": "2026-11-10T23:01:00+00:00",
+      "article_ids": [
+        "07e1178208fb5dc9c9d0"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-8f591db1f9da8a6dc517",
+      "title": "Kulturkampf um Krakauer Todesschützen",
+      "overview": "Nach der erschütternden Bluttat mit neun Todesopfern in Krakau ist im politisch tief gespaltenen Polen ein Kulturkampf über die möglichen Motive des Schützen entbrannt – der sich über soziale Netzwerke in ganz Europa fortsetzt. Die erste Einschätzung einer mutmaßlich rechtsextremen Ideologie des Täters war wohl vorschnell. Im Gegenzug wird nun ventiliert, der Schütze sei eher dem linken Lager zuzuordnen – doch die Indizien sind wacklig und teilweise KI-generiert.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-10T22:58:47+00:00",
+      "updated_at": "2026-11-10T22:58:47+00:00",
+      "article_ids": [
+        "96976b0a504540a41a62"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-1fcdf490585a5a5f0ecd",
+      "title": "Schumer confident on Senate leadership role despite dwindling votes – video",
+      "overview": "New York senator Chuck Schumer expressed confidence that he would become the majority leader after the Democratic party gained at least 54 seats in the Senate during the midterm elections. Schumer's remarks came after Vermont senator Bernie Sanders announced he would not support Schumer for the leadership position. Sanders joins a growing list of Democratic senators who have said they will not support Schumer Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-10T22:53:51+00:00",
+      "updated_at": "2026-11-10T22:53:51+00:00",
+      "article_ids": [
+        "d8f2d890a21b99946371"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-a08ad21694631a123dc8",
+      "title": "14 Meter hohe Papst-Statue in Peru fertiggestellt",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-10T22:49:18+00:00",
+      "updated_at": "2026-11-10T22:49:18+00:00",
+      "article_ids": [
+        "39c4595344156441f059"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-f2cbe7cbea8bd357ef47",
+      "title": "Ilhan Omar huddles with her DC-based lawyers during her first day back on Capitol Hill amid federal probes",
+      "overview": "Rep. Ilhan Omar, D-Minn., returned to Capitol Hill this week and brought two lawyers with her after a scandal-plagued fall recess. Fox News spotted the two attorneys exiting her Washington, D.C., office Tuesday after what appeared to be a roughly two-hour meeting with the congresswoman. Omar hired two high-profile attorneys, Amy Jeffress and Joshua Matz, both of whom are partners at Heckler Fink LLP, amid dueling investigations. After emerging from Omar’s office on Tuesday, Fox News asked about their confidence in Omar’s defense against the federal government. OBAMA ADMIN FIRST LAUNCHED THE IN",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-10T22:25:44+00:00",
+      "updated_at": "2026-11-10T22:25:44+00:00",
+      "article_ids": [
+        "ee988392b637fc753e26"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-32616f2a68100f025674",
+      "title": "Bernie Sanders says he will not back Schumer for Senate Democratic leader",
+      "overview": "Progressive senator says ‘I like Chuck … but the time is now for change’ as calls grow for new Democratic leadership Bernie Sanders, a progressive senator from Vermont, said on Tuesday he would not support Chuck Schumer’s bid to serve as the Democratic leader in the US Senate, joining a growing cohort of Democrats calling for a change in leadership. “I personally have known Chuck Schumer for over 30 years, and I like Chuck. Nobody who works harder than Chuck Schumer. But in my view, the time is now for change, and I will not be supporting Chuck to be re-elected as the Democratic leader,” Sande",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-10T22:16:32+00:00",
+      "updated_at": "2026-11-10T22:16:32+00:00",
+      "article_ids": [
+        "4c0b2172d0f0878ecedf"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
     {
       "id": "story-1de767b9a75dd79e3b18",
       "title": "Bericht deutet auf riesiges Ausmaß hin",
@@ -5189,6 +6488,42 @@
         "repräsentantenhaus",
         "wird"
       ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-93c196dd070c64df7de2",
+      "title": "Hegseth labels impeachment push a policy dispute, but do lawmakers' allegations rise to high crimes?",
+      "overview": "War Secretary Pete Hegseth pushed back against an impeachment effort Tuesday, accusing lawmakers of trying to turn disagreements over President Donald Trump's military policies into impeachable offenses. Congress is preparing to vote on eight articles alleging the Pentagon chief violated federal law and abused his authority. \"One disgruntled congressman wants to shred it over policy disagreements. That's what it is: policy disagreements, not high crimes, not misdemeanors, not treason, not bribery, not the kinds of offenses the founders intended when they wrote the impeachment clause,\" Hegseth ",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-10T21:44:25+00:00",
+      "updated_at": "2026-11-10T21:44:25+00:00",
+      "article_ids": [
+        "7d37235974aac7a6ee4e"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
       "limitations": [
         "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
         "Insufficient coverage for comparison."
@@ -6069,6 +7404,42 @@
       "category": "Politics",
       "countries": [
         "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-b33107a5190c47bff34e",
+      "title": "US Army soldier suspected of spying for Russia arrested in UK",
+      "overview": "The 41-year-old senior soldier is accused of national security offences and is being questioned in London.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-10T20:20:04+00:00",
+      "updated_at": "2026-11-10T20:20:04+00:00",
+      "article_ids": [
+        "1d89ef20faef3de8ebf5"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
       ],
       "language": "en",
       "common_terms": [],
@@ -11360,6 +12731,42 @@
       "ai": null
     },
     {
+      "id": "story-58d97e213ba14038ad21",
+      "title": "Von Hunden bis Hitler: Virales Musikvideo \"Storm\" trendet mit KI-Kopien",
+      "overview": "Im Frühjahr landete das brillant choreografierte Musikvideo mit dem schwedischen Rapper Yung Lean einen Hit. Mittlerweile kursieren zahlreiche KI-Kopien davon im Netz",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-10T11:50:34+00:00",
+      "updated_at": "2026-11-10T11:50:34+00:00",
+      "article_ids": [
+        "f3b68bf87804ddc2eb2a"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
       "id": "story-25641931b7b5d0876591",
       "title": "Police officer dies and another injured after backpack explosion in northern Spain",
       "overview": "Officers attended the scene in connection with a separate incident at a residential building in the Spanish city.",
@@ -12951,6 +14358,42 @@
       "ai": null
     },
     {
+      "id": "story-1664dcd9ddaa4976d490",
+      "title": "Kurt Langbein geht in \"Sterben für Anfänger\" dem Tod nach – auch dem eigenen",
+      "overview": "Der Dokumentarfilmer ist unheilbar krank. Im Kinofilm wirft er medizinische und spirituelle Blicke auf ein vorzeitiges Lebensende. Das gute Sterben ist das Ziel",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-10T07:14:00+00:00",
+      "updated_at": "2026-11-10T07:14:00+00:00",
+      "article_ids": [
+        "61ae57858d4f55da2f04"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
       "id": "story-724d88365ecec61afbcb",
       "title": "Hannes Swoboda: \"Es gibt zu wenig Europa und zu wenig Mut!\"",
       "overview": "Der frühere EU-Politiker über Europas autoritäre Bedrohungen, die Zukunft der Ukraine, Österreichs Neutralität und die Krise der Sozialdemokratie",
@@ -14355,6 +15798,42 @@
       "ai": null
     },
     {
+      "id": "story-5188b42b3ea06b15abe3",
+      "title": "Hass = Solidarität?",
+      "overview": "Wenn sich Solidarität mit den Palästinensern mit Judenhass vermischt",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-09T15:26:00+00:00",
+      "updated_at": "2026-11-09T15:26:00+00:00",
+      "article_ids": [
+        "04a9768897afe7860082"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
       "id": "story-bc10ac9f50bde2087f18",
       "title": "Trumps Pläne für die Ukraine sind eine gefährliche Drohung für Europa",
       "overview": "Nach dem Midterms-Fiasko hat der US-Präsident seine Maske endgültig abgelegt und redet Putin noch deutlicher als zuvor nach dem Mund",
@@ -14543,6 +16022,42 @@
       "updated_at": "2026-11-09T12:00:00+00:00",
       "article_ids": [
         "41814bc9e5b73a688087"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-2eafe6fa9304066d91b5",
+      "title": "Wohltätig statt Wichtel: Eure Ideen",
+      "overview": "Mein Forum: Diskutieren Sie dieses Thema mit der STANDARD-Community",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-09T12:00:00+00:00",
+      "updated_at": "2026-11-09T12:00:00+00:00",
+      "article_ids": [
+        "9314be92b5e78b4b6669"
       ],
       "publisher_count": 1,
       "article_counts": {
@@ -15469,42 +16984,6 @@
       ],
       "exposures": [],
       "ai": null
-    },
-    {
-      "id": "story-d2e83e25ef6a47147585",
-      "title": "Graduates are managing AI - but are they learning much else?",
-      "overview": "Graduates are spending more time managing AI, but are they missing out on other work experience?",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-04T00:04:35+00:00",
-      "updated_at": "2026-11-04T00:04:35+00:00",
-      "article_ids": [
-        "b9360772e92b87184b24"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "Business",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
     }
   ],
   "instruments": [
@@ -15629,16 +17108,16 @@
   "markets": [],
   "status": {
     "state": "ok",
-    "attempted_at": "2026-11-10T21:50:16.869229+00:00",
-    "last_success_at": "2026-11-10T21:50:16.869229+00:00",
+    "attempted_at": "2026-11-11T01:58:36.579699+00:00",
+    "last_success_at": "2026-11-11T01:58:36.579699+00:00",
     "errors": [],
     "source_results": {
-      "bbc-world": "36 entries",
+      "bbc-world": "38 entries",
       "guardian-us": "33 entries",
       "fox-politics": "25 entries",
-      "bbc-business": "30 entries",
-      "orf": "28 entries",
-      "standard": "151 entries"
+      "bbc-business": "32 entries",
+      "orf": "27 entries",
+      "standard": "152 entries"
     },
     "market_status": "Market price data not configured",
     "ai_status": "AI enrichment not configured"
