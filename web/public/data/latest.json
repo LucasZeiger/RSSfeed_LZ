@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "mode": "live",
-  "generated_at": "2026-11-11T17:56:08.436404+00:00",
+  "generated_at": "2026-11-12T00:49:49.845679+00:00",
   "refresh_minutes": 60,
   "sources": [
     {
@@ -90,6 +90,1177 @@
     }
   ],
   "articles": [
+    {
+      "id": "6fd1b245f81b05dde0aa",
+      "source_id": "fox-politics",
+      "title": "Hakeem Jeffries faces progressive holdouts but no rival as House speaker race takes shape",
+      "url": "https://www.foxnews.com/politics/hakeem-jeffries-faces-progressive-holdouts-no-rival-house-speaker-race-takes-shape",
+      "summary": "Familiar faces populate the 110-plus new members of Congress. A few \"freshmen\" are returning to the House. Even if they’ve been gone for a while. There’s Rep.-elect Hilda Solis, D-Calif., who last served in Congress in 2009. She departed to become President Obama’s labor secretary. Rep.-elect Jerry Carl, R-Ala., just left Capitol Hill early last year after losing a primary to Rep. Barry Moore, R-Ala., — who is now moving to the Senate. And then there’s Rep.-elect Melissa Bean, D-Ill. She first won a seat in the House in 2004 and lost in 2010. Now, Bean is back. Her advice to the rookies? REPOR",
+      "published_at": "2026-11-12T00:43:35+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "e9a2ce54-aefb-523b-866f-50c462a7792b",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/politics/meet-the-new-congress",
+        "fox-news/us/congress",
+        "fox-news/politics/elections/house-of-representatives",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "15416376059bdf7d334f",
+      "source_id": "bbc-world",
+      "title": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
+      "url": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_campaign=rss&at_medium=RSS",
+      "summary": "For Nigerians to feel meaningful improvements, reforms will need to go beyond the promises outlined, analysts say.",
+      "published_at": "2026-11-12T00:36:11+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "26d0d738e118cbbcfe18",
+      "source_id": "guardian-us",
+      "title": "Svitolina stays in WTA Finals hunt after remarkable fightback sees off Muchova",
+      "url": "https://www.theguardian.com/sport/2026/nov/11/elina-svitolina-karolina-muchova-wta-finals-tennis",
+      "summary": "Ukrainian wins 3-6, 6-2, 6-2 after eight-minute timeout Andreeva beats Sabalenka 6-4, 6-0 to top Group B Elina Svitolina staged a remarkable comeback to beat Karolina Muchova and remain in the hunt for the WTA Finals title. The Ukrainian looked to be on her way out of Indian Wells when she was a set down and required an eight-minute medical timeout. But she recovered to win 3-6, 6-2, 6-2 and stay in with a chance of reaching the semi-finals. Continue reading...",
+      "published_at": "2026-11-12T00:23:53+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "Press Association",
+      "categories": [
+        "WTA Finals",
+        "Tennis",
+        "US sports",
+        "Sport"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "a22beb6b50ef548c5a3b",
+      "source_id": "guardian-us",
+      "title": "Democrat Scott Colom unseats Cindy Hyde-Smith in stunning Mississippi Senate win",
+      "url": "https://www.theguardian.com/us-news/2026/nov/11/scott-colom-mississippi-senate-race",
+      "summary": "Colom takes victory by razor-thin margin in state that has not elected a Democrat to the Senate since 1982 Democrat Scott Colom defeated Cindy Hyde-Smith, the incumbent Republican senator, to become the first Black senator in Mississippi elected since Reconstruction, in a stunning upset after more than a week of vote counting in one of the country’s most reliably red states. Colom opened up a narrow lead over Hyde-Smith late on election night. His lead widened as election officials counted absentee and provisional ballots. The Associated Press called the contest on Wednesday, after it was clea",
+      "published_at": "2026-11-12T00:11:12+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "Adria R Walker in Mississippi",
+      "categories": [
+        "US midterm elections 2026",
+        "Mississippi",
+        "US Senate",
+        "Democrats",
+        "US Congress",
+        "Republicans",
+        "US news",
+        "US politics"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "0fc6b91c507b3153f8d7",
+      "source_id": "guardian-us",
+      "title": "Brooklyn building collapse kills at least one and traps others in wreckage",
+      "url": "https://www.theguardian.com/us-news/2026/nov/11/deadly-brooklyn-building-collapse",
+      "summary": "Three-story building was at the edge of a construction site where another edifice had been demolished Firefighters dug through the rubble of a three-story building in Brooklyn on Wednesday after it collapsed at the edge of a construction site, killing at least one person and trapping others beneath the wreckage. Firefighters were called to the scene in the borough’s Flatbush section at about 4pm. News helicopter footage showed dozens of firefighters scouring the debris, with a group homing in on one area and appearing to use a saw to cut through the wreckage. Continue reading...",
+      "published_at": "2026-11-12T00:06:10+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "Associated Press",
+      "categories": [
+        "Brooklyn",
+        "New York",
+        "US news"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "a9d371a93c830fcda3cd",
+      "source_id": "bbc-business",
+      "title": "From Paris to DC - why offices are being turned into apartments",
+      "url": "https://www.bbc.co.uk/news/articles/cm89ze7qepvyo?at_campaign=rss&at_medium=RSS",
+      "summary": "Office buildings with low occupancy rates are being transformed into flats.",
+      "published_at": "2026-11-12T00:05:40+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "bbc-business",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "Business"
+    },
+    {
+      "id": "245a388558070efdd6f1",
+      "source_id": "fox-politics",
+      "title": "At least 10 new Dem members will carry Al Green's mantle and try to impeach President Trump",
+      "url": "https://www.foxnews.com/politics/least-10-new-dem-members-carry-al-greenes-mantle-try-impeach-president-trump",
+      "summary": "EXCLUSIVE: At least 10 incoming progressive members of the House Democratic caucus are expected to support efforts to impeach President Donald Trump, continuing a push led by outgoing Rep. Al Green, D-Texas, Fox News Digital has learned. Green and representatives from the Removal Coalition and Courage for Democracy Project discussed the effort with Fox News Digital after a Capitol Hill news conference, months after the Texas Democrat introduced articles of impeachment against Trump in August. Green is counting on support from Reps.-elect Melat Kiros, D-Colo.; Nancy Lacore, D-S.C.; Dan Koh, D-M",
+      "published_at": "2026-11-11T23:56:14+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "ff802545-4795-5263-afaa-c85f2eaeb012",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/politics/trump-impeachment-inquiry",
+        "fox-news/us/congress",
+        "fox-news/democrats",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "c69d771ab41e5f831cea",
+      "source_id": "bbc-world",
+      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+      "url": "https://www.bbc.co.uk/news/articles/cw7vppyr80eeo?at_campaign=rss&at_medium=RSS",
+      "summary": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+      "published_at": "2026-11-11T23:52:30+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "6b8885eef5c1541fa0b8",
+      "source_id": "guardian-us",
+      "title": "Democrats push to rein in Trump on immigration after voter backlash to ICE raids",
+      "url": "https://www.theguardian.com/us-news/2026/nov/11/democrats-trump-immigration-agenda",
+      "summary": "Members of Congress seek to ‘bring sanity’ to system but decline to give details on plans to reform or abolish agency A group of congressional Democrats on Wednesday pushed for immediate efforts to rein in the Trump administration’s sweeping immigration enforcement operation and “bring sanity” to an immigration system that Donald Trump said, after his party’s midterm drubbing, had been “too tough” in certain aspects. Just over a week after the midterm elections in which the US president’s harsh crackdown on immigration fueled a voter backlash against Republicans, some sitting and newly elected",
+      "published_at": "2026-11-11T23:42:08+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "Alexandra Villarreal in New York",
+      "categories": [
+        "US immigration",
+        "US news",
+        "ICE (US Immigration and Customs Enforcement)",
+        "Trump administration",
+        "World news",
+        "US politics",
+        "Democrats",
+        "US midterm elections 2026",
+        "Donald Trump"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "e4b67bb6ca85794d5ae6",
+      "source_id": "standard",
+      "title": "Demokrat Colom gewinnt Senatssitz für Mississippi – den 55. für seine Partei",
+      "url": "https://www.derstandard.at/story/3000000348824/demokrat-colom-gewinnt-senatssitz-fuer-mississippi-den-55-fuer-seine-partei?ref=rss",
+      "summary": "Mit dem Sieg des Außenseiters im republikanisch dominierten Südstaat ist nur noch die Wahl um den Senatssitz in Alaska unentschieden. Auch dort ist die Demokratin Mary Peltola klar Favoritin",
+      "published_at": "2026-11-11T23:30:49+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "a900f8ce9cfbe2783737",
+      "source_id": "bbc-business",
+      "title": "Some under-25s should get less benefits, Milburn review to say",
+      "url": "https://www.bbc.co.uk/news/articles/cwn70l1628l0o?at_campaign=rss&at_medium=RSS",
+      "summary": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+      "published_at": "2026-11-11T23:22:04+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "bbc-business",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "Business"
+    },
+    {
+      "id": "996a9e09d7be46043405",
+      "source_id": "guardian-us",
+      "title": "How Scott Colom won deep-red Mississippi with little help from Democrats",
+      "url": "https://www.theguardian.com/us-news/2026/nov/11/scott-colom-mississippi-democrat-senate-midterms",
+      "summary": "Democrat chatted up people at hair salons, colleges and at Trump rallies to become Mississippi’s first Black senator since Reconstruction The ad is simple, less than half a minute long, but many say it was the moment the nation took notice of Mississippi’s US Senate race. In it, the incumbent Republican senator Cindy Hyde-Smith, a cattle farmer, answers a reporter’s question about the rising price of beef: “You know, you have so many proteins to choose from,” she says. Continue reading...",
+      "published_at": "2026-11-11T23:18:36+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "Adria R Walker",
+      "categories": [
+        "Mississippi",
+        "US midterm elections 2026",
+        "US Senate",
+        "Race",
+        "US politics",
+        "US Congress",
+        "Democrats",
+        "US news"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "ee4b91e71b5caa422292",
+      "source_id": "orf",
+      "title": "Demokrat erobert Senatssitz in Mississippi",
+      "url": "https://orf.at/stories/3447947/",
+      "summary": "Die republikanische US-Senatorin Cindy Hyde-Smith hat laut US-Medien das Senatsrennen im traditionell konservativen US-Bundesstaat Mississippi gegen den Demokraten Scott Colom verloren. Kurz nach dem Sender CNN erklärten am Mittwoch auch andere Medien – darunter der Sender NBC und die Nachrichtenagentur AP – Colom zum Sieger. Er wird demnach der erste demokratische Senator in über 40 Jahren sowie der erste schwarze Senator in dem Südstaat seit den 1880er Jahren. Das Rennen war bis zuletzt extrem eng.",
+      "published_at": "2026-11-11T23:15:43+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "34ed4522126cd8684d6c",
+      "source_id": "fox-politics",
+      "title": "Dems projected to score historic upset in deep-red Mississippi, topple Trump ally Hyde-Smith",
+      "url": "https://www.foxnews.com/politics/dems-projected-score-historic-upset-deep-red-mississippi-topple-trump-ally-hyde-smith",
+      "summary": "Senate Republicans are projected to suffer yet another stunning setback, this time in reliably red Mississippi. Incumbent Sen. Cindy Hyde-Smith, R-Miss., is projected to lose her bid for a second full term in the U.S. Senate to state District Attorney Scott Colom in a race that was deadlocked until the final weeks of October, according to The Associated Press. More than a week after Election Day, the AP called the razor-thin race in favor of Colom Wednesday, pushing the Democrats' hold on the U.S. Senate to 55 seats to the Republicans' 44 in another flip. SOROS NETWORK TARGETS DEEP-RED MISSISS",
+      "published_at": "2026-11-11T23:11:32+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "2afcc372-216e-5015-a4b1-a9a2c574477b",
+        "fnc",
+        "Fox News",
+        "fox-news/politics/elections/midterm-elections",
+        "fox-news/politics/senate",
+        "fox-news/us/us-regions/southeast/mississippi",
+        "fox-news/us/democratic-party",
+        "fox-news/politics/elections/republicans",
+        "fox-news/politics",
+        "fox-news/politics"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "1c16d2d8453aa46c9d1a",
+      "source_id": "fox-politics",
+      "title": "Army sentinel sharply reprimands Hegseth's group at Tomb of the Unknown Soldier on Veterans Day",
+      "url": "https://www.foxnews.com/politics/army-sentinel-sharply-reprimands-hegseths-group-tomb-unknown-soldier-veterans-day",
+      "summary": "An Army sentinel at the Tomb of the Unknown Soldier at Arlington National Cemetery called for silence and respect Wednesday after laughter was heard from departing members of Secretary of War Pete Hegseth's entourage following a Veterans Day ceremony. Video shows the incident unfolding shortly after President Donald Trump left the memorial following a wreath-laying ceremony. Trump left the memorial around 12:28 p.m. Hegseth and members of his entourage, including his wife, Jennifer Hegseth, began taking photos and posing on the memorial steps around 12:29 p.m., according to the video. TRUMP UN",
+      "published_at": "2026-11-11T23:11:12+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "a03e622c-8763-504d-b6a6-592c6016fd7f",
+        "fnc",
+        "Fox News",
+        "fox-news/person/pete-hegseth",
+        "fox-news/politics/defense/secretary-of-defense",
+        "fox-news/us/military/veterans",
+        "fox-news/politics",
+        "fox-news/person/donald-trump",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "1c5373f51480ac003235",
+      "source_id": "guardian-us",
+      "title": "Black girls in LA keep seeing women around them getting killed. They’re driving change",
+      "url": "https://www.theguardian.com/us-news/ng-interactive/2026/nov/09/black-women-girls-los-angeles-homicides-violence",
+      "summary": "Black women and girls represent an outsized share of LA homicide victims – frustrated with police and legislators’ failures, they’re stepping up and speaking out to stop the violence As a child, Tioni Theus was a ball of energy. After school she liked to play golf and dance. On weekends, she’d go to the movies and the mall with her older cousin. Driving back home at the end of the day to her family’s apartment in South Los Angeles, California, she’d ask: “What are we doing next?” Everything changed when Tioni was 13. Her mother was hit by a car and critically injured, leaving her unable to tak",
+      "published_at": "2026-11-11T23:01:10+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "Abené Clayton in Los Angeles with photographs by Julien James",
+      "categories": [
+        "Los Angeles",
+        "California",
+        "US news",
+        "World news",
+        "West Coast"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "1841504bb313d9adb540",
+      "source_id": "standard",
+      "title": "Standardrätsel L 11441",
+      "url": "https://www.derstandard.at/story/3000000347080/standardraetsel-l-11441?ref=rss",
+      "summary": "Täglich neu, exklusiv für Smart-Abonnent:innen: Das knifflige Quizkultur-Rätsel des STANDARD",
+      "published_at": "2026-11-11T23:01:00+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "fa20d294a6c0dc7cbd74",
+      "source_id": "guardian-us",
+      "title": "Hegseth and aides scolded by guard for laughing at Tomb of the Unknown Soldier",
+      "url": "https://www.theguardian.com/us-news/2026/nov/11/hegseth-scolded-tomb-unknown-soldier",
+      "summary": "Group attending Veterans Day ceremony sharply reminded by sentinel to maintain ‘silence and respect’ at sacred site A US army sentinel guarding the Tomb of the Unknown Soldier loudly reprimanded the embattled US defense secretary, Pete Hegseth, and his top staffers on Wednesday, after some in the group were heard laughing and talking near the memorial following a Veterans Day ceremony. According to video captured by the TV network pool, Hegseth was with his wife, Jennifer, chief of staff Ricky Buria, deputy chief of staff Patrick Weaver and senior adviser and deputy assistant Tami Radabaugh wa",
+      "published_at": "2026-11-11T23:00:21+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "Lucy Campbell",
+      "categories": [
+        "Pete Hegseth",
+        "US military",
+        "US news",
+        "World news",
+        "Washington DC",
+        "Virginia"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "3089867397c65e84afa7",
+      "source_id": "bbc-world",
+      "title": "New York building collapse kills one person and injures 12",
+      "url": "https://www.bbc.co.uk/news/videos/c60rkwjj7x7go?at_campaign=rss&at_medium=RSS",
+      "summary": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn.",
+      "published_at": "2026-11-11T22:55:26+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "a86d4d48b6d745135067",
+      "source_id": "orf",
+      "title": "Bericht: Nvidia bereitet Huang-Entlassung vor",
+      "url": "https://orf.at/stories/3447951/",
+      "summary": "",
+      "published_at": "2026-11-11T22:43:06+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Inland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "7bea98f5ed291397acfe",
+      "source_id": "guardian-us",
+      "title": "Stephen Curry attacks treatment of women after former players criticize wife Ayesha’s movie kiss",
+      "url": "https://www.theguardian.com/sport/2026/nov/11/stephen-curry-ayesha-movie-kiss-arenas-young",
+      "summary": "Warriors star defends wife over romantic comedy role Arenas called Ayesha ‘only blemish’ on Curry family Four-time NBA champion condemns double standards Golden State Warriors star Stephen Curry has criticized several ex-professional athletes for questioning his wife Ayesha’s decision to appear in a romantic comedy featuring an on-screen kiss, accusing them of diminishing her accomplishments and perpetuating double standards about women. The four-time NBA champion posted a 90-second video on Instagram on Wednesday in response to comments by former NBA players Gilbert Arenas and Nick Young, as ",
+      "published_at": "2026-11-11T22:30:23+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "Guardian sport",
+      "categories": [
+        "Stephen Curry",
+        "Golden State Warriors",
+        "NBA",
+        "Sport",
+        "Basketball",
+        "US sports"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "edbf30e327f8c674e1e5",
+      "source_id": "orf",
+      "title": "CNN-Prognose: Demokrat erobert Senatssitz in Mississippi",
+      "url": "https://orf.at/stories/3447949/",
+      "summary": "",
+      "published_at": "2026-11-11T22:24:10+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "a21906f273807f673f2b",
+      "source_id": "orf",
+      "title": "Ökonomen sehen Aufschwung – und warnen",
+      "url": "https://orf.at/stories/3447931/",
+      "summary": "Die deutsche Wirtschaftsleistung dürfte aus Sicht der Wirtschaftsweisen wieder deutlich steigen – im Haushalt könnten aber auf längere Sicht riesige Finanzlücken klaffen. Der Sachverständigenrat zur Begutachtung der gesamtwirtschaftlichen Entwicklung warnte am Mittwoch vor einer Aufgabe von „historischem Ausmaß“. Die Politik werde um harte Entscheidungen nicht herumkommen, so die Vorsitzende Monika Schnitzer.",
+      "published_at": "2026-11-11T22:09:53+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "41df415b258625e7a381",
+      "source_id": "standard",
+      "title": "Teheran droht mit Angriffen auf US-Stützpunkte auch in Europa",
+      "url": "https://www.derstandard.at/story/3000000348822/iran-teheran-droht-mit-angriffen-auf-us-st252tzpunkte-auch-in-europa?ref=rss",
+      "summary": "Der Iran droht, den Konflikt mit den USA im Fall neuer Angriffe geografisch auszuweiten. Zudem fordert Teheran ein Ende der Sanktionen",
+      "published_at": "2026-11-11T21:54:54+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "63e1e121b2f2f35a44e9",
+      "source_id": "guardian-us",
+      "title": "US withdraw from U-17 World Cup in Qatar due to safety concerns",
+      "url": "https://www.theguardian.com/football/2026/nov/11/usa-u-17-world-cup-qatar-withdrawal-middle-east-conflict",
+      "summary": "USSF cites state department advisory about Qatar Competition set to kick off in eight days The US men’s national team have pulled out of the Fifa U-17 World Cup, which is due to kick off in Qatar in just over a week. In a letter sent to players explaining the decision, the US Soccer Federation cited safety concerns for players and staff, referring them to the US state department’s travel advisory for Qatar, which encourages citizens to reconsider travel to the country “due to risk of armed conflict” and asks government employees to obtain special authorization to do so. “Unfortunately, in ligh",
+      "published_at": "2026-11-11T21:54:46+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "Alexander Abnos",
+      "categories": [
+        "USA",
+        "Fifa",
+        "US sports",
+        "Football politics",
+        "Football",
+        "Sport",
+        "Qatar"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "7b80b7673c8ff47e84ad",
+      "source_id": "guardian-us",
+      "title": "Hegseth and team reprimanded by Arlington national cemetery guard – video",
+      "url": "https://www.theguardian.com/us-news/video/2026/nov/11/hegseth-and-team-reprimanded-by-arlington-national-cemetery-guard-video",
+      "summary": "Defense secretary Pete Hegseth and members of his team were reprimanded by a US sentinel at Arlington national cemetery after the Veterans Day commemoration that Donald Trumped attended on 11 November Continue reading...",
+      "published_at": "2026-11-11T21:53:22+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "Guardian Staff",
+      "categories": [
+        "Trump administration",
+        "Pete Hegseth",
+        "US news",
+        "US military",
+        "Donald Trump",
+        "Washington DC"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "05c521f1ab8a8902c018",
+      "source_id": "standard",
+      "title": "Sporrer kündigt deutlich mehr Ressourcen für Justiz an",
+      "url": "https://www.derstandard.at/story/3000000348823/justiz-proteste-sporrer-k252ndigt-deutlich-mehr-ressourcen-an?ref=rss",
+      "summary": "Staatsanwaltschaften und Gerichte sollen deutlich mehr Personal bekommen. Ihren Posten als Justizministerin sieht Sporrer nach dem Wechsel an der SPÖ-Spitze nicht gefährdet",
+      "published_at": "2026-11-11T21:50:35+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "cd173df6ecf93beaec7a",
+      "source_id": "fox-politics",
+      "title": "Trump's ex-lawyer Alina Habba loses massive contract days after president blasts 'outrageous' deal",
+      "url": "https://www.foxnews.com/politics/trumps-ex-lawyer-alina-habba-loses-massive-contract-days-after-president-blasts-outrageous-deal",
+      "summary": "President Donald Trump's former personal attorney, Alina Habba Mildon, has lost a four-year contract worth more than $50 million to serve as general counsel for a company founded by the daughter of a Venezuelan billionaire Trump pardoned earlier this year, according to The New York Times. Concord Partners, a Florida-based company founded by Isabela Herrera, daughter of Venezuelan banker Julio Herrera Velutini, terminated Habba Mildon’s contract after President Donald Trump urged the Herrera family to stop paying her, The Philadelphia Inquirer reported Wednesday. A source familiar with the matt",
+      "published_at": "2026-11-11T21:45:34+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "60f1b662-611e-5180-8582-46b152a78a84",
+        "fnc",
+        "Fox News",
+        "fox-news/person/alina-habba",
+        "fox-news/person/donald-trump",
+        "fox-news/politics/justice-department",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "5f8241c868b533984fef",
+      "source_id": "bbc-business",
+      "title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
+      "url": "https://www.bbc.co.uk/news/articles/cqp9dr79jkrzo?at_campaign=rss&at_medium=RSS",
+      "summary": "There is a growing expectation among senior Labour figures that drilling in the oil field will be given the green light.",
+      "published_at": "2026-11-11T21:42:20+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "bbc-business",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "Business"
+    },
+    {
+      "id": "cf18bad4d3b54653c799",
+      "source_id": "standard",
+      "title": "FPÖ-Politiker Gerald Hauser erhält Preis für den größten Unsinn des Jahres",
+      "url": "https://www.derstandard.at/story/3000000348607/fpoe-politiker-gerald-hauser-erhaelt-preis-fuer-den-groessten-unsinn-des-jahres?ref=rss",
+      "summary": "Die Skeptiker würdigten vor allem die Reichweite des Europaabgeordneten. Das Brett fürs Lebenswerk ging an die frühere Grünen-Chefin Madeleine Petrovic",
+      "published_at": "2026-11-11T21:30:00+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "503ed67056b222f935fe",
+      "source_id": "orf",
+      "title": "Justizproteste: Sporrer kündigt mehr Ressourcen an",
+      "url": "https://orf.at/stories/3447945/",
+      "summary": "",
+      "published_at": "2026-11-11T21:26:19+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Inland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "e0683dd09e70c5f7e078",
+      "source_id": "standard",
+      "title": "Massenproteste gegen Wohnkrise kurz vor Neuwahl in Spanien",
+      "url": "https://www.derstandard.at/story/3000000348821/massenproteste-gegen-wohnkrise-kurz-vor-neuwahl-in-spanien?ref=rss",
+      "summary": "Allein in der Hauptstadt Madrid gingen rund 120.000 Menschen auf die Straße. Zuvor hatte es einen ganztägigen Generalstreik gegeben",
+      "published_at": "2026-11-11T21:18:49+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "74e01ee035d3b921d842",
+      "source_id": "fox-politics",
+      "title": "Longtime GOP leader faces uncertain future after Jim Jordan wins House leadership fight",
+      "url": "https://www.foxnews.com/politics/longtime-gop-leader-faces-uncertain-future-jim-jordan-wins-house-leadership-fight",
+      "summary": "House Majority Leader Steve Scalise, R-La., the No. 2 Republican in the House of Representatives and the most tenured figure among the chamber's party leadership, declined to say whether he would commit to serving the full term in the upcoming 120th Congress. \"There’s no decision on what’s next,\" Scalise said on Wednesday. \"I’ve got to get through these next few weeks, and then we have a lot of decisions to make about what's life going to look like in the minority. But I sure still have a great passion for this country.\" JIM JORDAN THROWS HAT IN RING FOR HOUSE MINORITY LEADER AS GOP PICKS UP P",
+      "published_at": "2026-11-11T21:11:57+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "614c361e-146a-5477-8a8d-07d7f0bea7f2",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/person/steve-scalise",
+        "fox-news/politics/elections/house-of-representatives",
+        "fox-news/us/congress",
+        "fox-news/person/mike-johnson",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "36db498fd26c2f71e64f",
+      "source_id": "fox-politics",
+      "title": "Stephen Miller's internal memo unleashes Trump agencies after 'absolute control' under Wiles' reign",
+      "url": "https://www.foxnews.com/politics/stephen-miller-internal-memo-unleashes-trump-agencies-absolute-control-wiles-reign",
+      "summary": "EXCLUSIVE: A memo describing the new White House hierarchy under chief of staff Stephen Miller circulated within the Trump administration this week, and details how Cabinet secretaries will now have more control over their own messaging. This is a shift from what insiders say was administration-wide communications control implemented by former chief of staff Susie Wiles during the first nearly two years of President Donald Trump's second term. \"This will streamline the Cabinet, making it a more effective instrument for the President, whereas previously it was too constrained,\" a source familia",
+      "published_at": "2026-11-11T20:56:52+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "77404de9-c018-561d-bac5-7b5413c09dd3",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/politics/executive/white-house",
+        "fox-news/person/donald-trump",
+        "fox-news/politics/executive/cabinet",
+        "fox-news/politics/executive-policy",
+        "fox-news/us/education/administration",
+        "fox-news/politics"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "d4c7d263d65deec53b41",
+      "source_id": "standard",
+      "title": "Eisenkot warnt Netanjahu vor \"gefährlichen Schritten\"",
+      "url": "https://www.derstandard.at/story/3000000348819/eisenkot-warnt-netanyahu-vor-gef228hrlichen-schritten?ref=rss",
+      "summary": "Medien berichteten von neuen Angriffsplänen gegen den Iran. Netanjahu bezichtigte Eisenkot, die nationale Sicherheit zu politisieren",
+      "published_at": "2026-11-11T20:30:55+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "b7a72c6c9ce5bb40fc9d",
+      "source_id": "orf",
+      "title": "Minderheitsregierung der Niederlande in der Krise",
+      "url": "https://orf.at/stories/3447942/",
+      "summary": "",
+      "published_at": "2026-11-11T20:12:04+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "0eb2e4ae00be91d542b2",
+      "source_id": "bbc-world",
+      "title": "African writing award probe finds 'no evidence' winning story was AI generated",
+      "url": "https://www.bbc.co.uk/news/articles/cmglr260z7eko?at_campaign=rss&at_medium=RSS",
+      "summary": "Zimbabwean writer Simbarashe Kundizeza has also vehemently denied the allegation made in a US magazine.",
+      "published_at": "2026-11-11T20:00:54+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "0603409c00df3421721a",
+      "source_id": "orf",
+      "title": "Frankreich verweigert israelischem Siedlerführer Einreise",
+      "url": "https://orf.at/stories/3447940/",
+      "summary": "",
+      "published_at": "2026-11-11T19:52:38+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "8deaf82c7f7a57fa25df",
+      "source_id": "standard",
+      "title": "Iran fordert Entschädigung für Kriegsschäden an Umwelt",
+      "url": "https://www.derstandard.at/story/3000000348818/iran-fordert-entsch228digung-f252r-kriegssch228den-an-umwelt?ref=rss",
+      "summary": "Der iranische Präsident sprach bei der Weltklimakonferenz, die im türkischen Antalya stattfindet. Entschädigungen für Umweltschäden durch Krieg gibt es bisher nicht",
+      "published_at": "2026-11-11T19:35:34+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "dfbf2d603b426c298557",
+      "source_id": "guardian-us",
+      "title": "SS United States to be sunk to become the world’s largest artificial reef - watch live",
+      "url": "https://www.theguardian.com/us-news/video/2026/nov/11/ss-united-states-to-be-sunk-to-become-the-worlds-largest-artificial-reef-watch-live",
+      "summary": "The SS United States will sink off the coast of Destin, Florida to become an artificial reef, ending long-running wrangle over its fate Historic ocean liner to ‘live on’ beneath waves as world’s biggest artificial reef Continue reading...",
+      "published_at": "2026-11-11T19:22:06+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "Guardian Staff",
+      "categories": [
+        "US news",
+        "Florida"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "20a565884a84bde8789d",
+      "source_id": "orf",
+      "title": "Generalstreik in Zeiten politischer Spannung",
+      "url": "https://orf.at/stories/3447888/",
+      "summary": "In Spanien hat am Mittwoch ein Generalstreik gegen die Wohnungskrise das öffentliche Leben und die Wirtschaft zum Teil lahmgelegt. Es war der erste ganztägige Generalstreik im Land seit 14 Jahren. Die beiden großen Gewerkschaften sahen einen Erfolg, Arbeitgebervertreter übten Kritik. Der Streik fand in Zeiten politischer Spannungen statt, schließlich steht Spanien unmittelbar vor der heißen Phase des Wahlkampfs.",
+      "published_at": "2026-11-11T19:08:55+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "31da14c82cb5949c32f6",
+      "source_id": "orf",
+      "title": "Geplante Untersuchungen: Weißes Haus warnt Demokraten",
+      "url": "https://orf.at/stories/3447935/",
+      "summary": "",
+      "published_at": "2026-11-11T19:05:51+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "07ba05edba0c22c1c745",
+      "source_id": "orf",
+      "title": "Spionagegesetz: Justizministerin Sporrer im Studio",
+      "url": "https://orf.at/stories/3447934/",
+      "summary": "",
+      "published_at": "2026-11-11T19:05:15+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Inland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "11829277935d0fa9e505",
+      "source_id": "standard",
+      "title": "Allianz schraubt Gewinnprognose nach oben",
+      "url": "https://www.derstandard.at/story/3000000348816/allianz-schraubt-gewinnprognose-nach-oben?ref=rss",
+      "summary": "In den ersten neun Monaten stieg der operative Gewinn auf den Rekordwert von 14,1 Milliarden Euro. Am Donnerstag werden die vollständigen Geschäftszahlen präsentiert",
+      "published_at": "2026-11-11T18:59:23+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "08a9cc15abdf40c7ef54",
+      "source_id": "standard",
+      "title": "Hilft eine Lederjacke aus der Midlife Crisis?",
+      "url": "https://www.derstandard.at/story/3000000348653/hilft-eine-lederjacke-aus-der-midlife-crisis?ref=rss",
+      "summary": "Sie vermittelt Coolness, Ungehobeltheit, Stärke – und gilt als das Botox des Mannes. Wer eine Lederjacke trägt, wirkt um Jahre jünger, dachte sich wohl auch Nvidia-Gründer Jensen Huang",
+      "published_at": "2026-11-11T18:54:30+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "81d2e5cbdff225ad06b9",
+      "source_id": "standard",
+      "title": "Vom Spesenbetrug zum Spionageverdacht: Die spektakulärsten Skandale der Tech-Elite",
+      "url": "https://www.derstandard.at/story/3000000348696/vom-spesenbetrug-zum-spionageverdacht-die-spektakulaersten-skandale-der-tech-elite?ref=rss",
+      "summary": "Wenn private Verfehlungen an der Konzernspitze zum Börsen- und Sicherheitsrisiko werden – und warum Gründer anders behandelt werden als angestellte CEOs",
+      "published_at": "2026-11-11T18:50:41+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "5aa7dfe7cf0e89cbb075",
+      "source_id": "standard",
+      "title": "Nach Treffer aus eigener Hälfte: Basketballerinnen verlieren gegen Lettland",
+      "url": "https://www.derstandard.at/story/3000000348813/nach-treffer-aus-eigener-haelfte-basketballerinnen-verlieren-gegen-lettland?ref=rss",
+      "summary": "Das österreichische Nationalteam kassiert zum Auftakt der EM-Qualifikation eine Heimniederlage. Sarah Sagerer sorgte mit einem Buzzer Beater für das Highlight der Partie",
+      "published_at": "2026-11-11T18:47:27+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "f8f1572cec3eca18597d",
+      "source_id": "fox-politics",
+      "title": "Biden ripped for ‘totally delusional’ claim about debate that preceded his 2024 exit",
+      "url": "https://www.foxnews.com/politics/biden-ripped-totally-delusional-claim-debate-preceded-2024-exit",
+      "summary": "Former President Joe Biden is facing sharp backlash after dismissing his disastrous 2024 debate performance against President Donald Trump as \"not very consequential\" — despite dropping out of the presidential race just 24 days later. When asked about what his \"perspective\" on the June 27, 2024 debate is now in an interview with People Magazine released Wednesday, Biden suggested he felt his debate performance was inconsequential. \"Look, I don’t know anybody who hasn’t made a mistake in a debate,\" Biden told People Magazine. \"To me, it was not very consequential. First of all, I thought there’",
+      "published_at": "2026-11-11T18:44:38+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "5479def0-5a78-588a-a9bf-d2c772d0005f",
+        "fnc",
+        "Fox News",
+        "fox-news/person/joe-biden",
+        "fox-news/politics/elections/presidential-debate",
+        "fox-news/politics",
+        "fox-news/politics/elections",
+        "fox-news/politics/executive/white-house",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "b728d0540096a915b2f4",
+      "source_id": "fox-politics",
+      "title": "GOP congressman-elect makes unusual Trump request, ejects reporter during profanity-laced victory speech",
+      "url": "https://www.foxnews.com/politics/gop-congressman-elect-makes-unusual-trump-request-ejects-reporter-during-profanity-laced-victory-speech",
+      "summary": "Anthony Constantino, a former boxer and the CEO of the printing company Sticker Mule, delivered a profanity-laden victory speech after his election to New York’s 21st Congressional District, kicking a reporter out of the room and calling on President Donald Trump to pardon Sean \"Diddy\" Combs. \"I think President Trump should consider freeing Diddy,\" Constantino said, referring to the incarcerated producer. \"A historic New Yorker that did great things for New York State. I think we should consider it.\" Constantino’s brazen speech contrasts sharply with the demeanor of the district’s outgoing inc",
+      "published_at": "2026-11-11T18:37:29+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "de4a10cc-4b5a-5dca-ac14-3e97f944fc1a",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/person/donald-trump",
+        "fox-news/person/sean-diddy-combs",
+        "fox-news/politics/house-of-representatives/republicans",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "814022e6f8ee0f021c6b",
+      "source_id": "fox-politics",
+      "title": "Top Dem on committee fires back after White House counsel warns against overreach amid investigation threats",
+      "url": "https://www.foxnews.com/politics/top-dem-committee-fires-back-white-house-counsel-warns-overreach-amid-investigation-threats",
+      "summary": "Counsel to the president William Scharf, in a letter to House Committee on Oversight and Government Reform ranking member Rep. Robert Garcia, D-Calif., warned against Democrats running afoul of their allotted powers pertaining to investigations and subpoenas. But Garcia — who is poised to chair the committee next year when Democrats gain the House majority — fired back, asserting that President Donald Trump's administration is weaponizing the government. \"I write to remind you of the foundational limits that the Constitution imposes on congressional investigations and subpoenas, which you and ",
+      "published_at": "2026-11-11T18:35:41+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "74076682-7278-5b85-b10a-44c0e6274da7",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/us/congress",
+        "fox-news/politics/executive/white-house",
+        "fox-news/democrats",
+        "fox-news/politics/elections",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "60f7ef49c9ddce1c6e25",
+      "source_id": "guardian-us",
+      "title": "Trump’s $10bn BBC battle goes ahead - The Latest",
+      "url": "https://www.theguardian.com/news/video/2026/nov/11/trumps-10bn-bbc-battle-goes-ahead-the-latest",
+      "summary": "Donald Trump’s $10bn defamation lawsuit against the BBC has been granted permission to proceed, after the corporation’s attempt to get it dismissed was thrown out by a Trump-appointed Florida judge. The case focuses on an edit in a 2024 Panorama documentary that spliced two comments together that were made by the president during a rally before the January 6 Capitol riots, for which the BBC has apologised. With the lawsuit now set to continue, what’s at stake for press freedom? Lucy Hough speaks to global editor Devika Bhat Continue reading...",
+      "published_at": "2026-11-11T18:35:03+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "Presented by Lucy Hough with Devika Bhat ; produced by Angus Neale ; senior producer Leonore Schick ; executive producer Zoe Hitch",
+      "categories": [
+        "Donald Trump",
+        "US news",
+        "World news",
+        "BBC",
+        "Media"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "a1c0711719bb99d5fee4",
+      "source_id": "fox-politics",
+      "title": "Trump defends Iran war during Veterans Day address, says he is making the world 'safer'",
+      "url": "https://www.foxnews.com/politics/trump-defends-iran-war-during-veterans-day-address-says-making-world-safer",
+      "summary": "President Donald Trump defended the war in Iran and said it will be over \"soon\" during his Veterans Day address on Wednesday. Trump made the statement while speaking to a crowd of veterans and their families at Arlington National Cemetery. He highlighted the 1983 Iran-backed bombing of the U.S. Marine Corps barracks in Beirut and argued that Iran has been at war with the U.S. for decades. \"America did not start a war with Iran. Iran has been waging war on America since 1979. They should have been taken care of a long time ago,\" Trump said. RUBIO'S DEFENSE OF TRUMP'S IRAN WAR DRAWS SHARP CONTRA",
+      "published_at": "2026-11-11T18:32:55+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "ef6b7d44-198c-5b53-b8f9-851c0b49ef9b",
+        "fnc",
+        "Fox News",
+        "fox-news/person/donald-trump",
+        "fox-news/politics/defense/wars/war-with-iran",
+        "fox-news/politics/foreign-policy/middle-east",
+        "fox-news/world/world-regions/middle-east",
+        "fox-news/world/conflicts/iran",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "5dbcaf1f70a06d577b4c",
+      "source_id": "standard",
+      "title": "Mehr als drei Millionen Menschen bei Papst-Messe in Argentinien",
+      "url": "https://www.derstandard.at/story/3000000348815/mehr-als-drei-millionen-menschen-bei-papst-messe-in-argentinien?ref=rss",
+      "summary": "Es war die bisher größte Messe des Pontifikats von Papst Leo XIV. Die dritte und letzte Station seiner Südamerika-Reise ist Peru",
+      "published_at": "2026-11-11T18:29:34+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "2e6b1a4fa37bb0cba378",
+      "source_id": "orf",
+      "title": "Jackpot bei Lotto „6 aus 45“",
+      "url": "https://orf.at/stories/3447933/",
+      "summary": "",
+      "published_at": "2026-11-11T18:27:12+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "cLotto"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "3347f11f35932a05f742",
+      "source_id": "guardian-us",
+      "title": "The Guardian view on Maga after the midterms: doubling down on Trumpism | Editorial",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/11/the-guardian-view-on-maga-after-the-midterms-doubling-down-on-trumpism",
+      "summary": "Republicans know that the president’s folly and excesses cost them the elections. That doesn’t mean they’re ready to challenge him Shortly after polls closed last Tuesday, with the scale of the Republican trouncing in the midterms still becoming apparent, Donald Trump briefly adopted an oddly conciliatory tone. He declared that he was “absolutely” willing to accept the results, would look forward to working with Democrats and that deportation policies might have been “too tough”. It was never going to last. He soon cast doubt on the elections’ legitimacy. On Friday, he replaced his chief of st",
+      "published_at": "2026-11-11T18:25:56+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "Editorial",
+      "categories": [
+        "US midterm elections 2026",
+        "US politics",
+        "US news",
+        "Donald Trump",
+        "Pete Hegseth",
+        "Democrats",
+        "US-Israel war on Iran",
+        "Ron DeSantis",
+        "Mike Johnson",
+        "World news"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "f6be94437346aaf011dc",
+      "source_id": "fox-politics",
+      "title": "Veterans in Congress projected to decline, but Dems bringing more first-time vets by 3-to-1 margin over GOP",
+      "url": "https://www.foxnews.com/politics/veterans-congress-projected-decline-dems-bringing-more-first-time-vets-margin-gop",
+      "summary": "The share of military veterans in Congress is projected to fall to its lowest level in decades in the incoming 120th Congress, but while overall veteran representation continues a long-term decline, the partisan composition of the freshman class marks a sharp contrast. Democrats are bringing roughly three times as many first-time veteran members as Republicans, and they are catching up among House members overall. Still, as America marks Veterans Day, the numbers show the institutional voice of military service in the legislative branch is heading toward its lowest watermark in modern history.",
+      "published_at": "2026-11-11T18:20:39+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "13806379-4ab8-5b88-bdf3-5e4de4ef81de",
+        "fnc",
+        "Fox News",
+        "fox-news/us/military/veterans",
+        "fox-news/politics/elections",
+        "fox-news/politics/elections/midterm-elections",
+        "fox-news/us/congress",
+        "fox-news/politics",
+        "fox-news/politics/elections/house-of-representatives",
+        "fox-news/politics/defense"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "839d30415ea46dc7b90a",
+      "source_id": "bbc-world",
+      "title": "Missing 11-month-old baby rescued after being buried alive in a crate in South Carolina",
+      "url": "https://www.bbc.co.uk/news/articles/c8e391xzg6z2o?at_campaign=rss&at_medium=RSS",
+      "summary": "Officials say the child was found close to his father's home on Tuesday, a day after he was taken, and is being cared for in hospital.",
+      "published_at": "2026-11-11T18:10:57+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "64e6d959e16cbdce842a",
+      "source_id": "standard",
+      "title": "Zwischenstopp in Meischberger-Pleite: Republik bekommt rund eine Million Euro",
+      "url": "https://www.derstandard.at/story/3000000348758/zwischenstopp-in-meischberger-pleite-republik-bekommt-rund-eine-million-euro?ref=rss",
+      "summary": "Im Insolvenzverfahren des Ex-Lobbyisten Walter Meischberger gibt es für die Gläubiger eine Zwischenquote von zehn Prozent. Hauptnutznießer: die Republik Österreich",
+      "published_at": "2026-11-11T18:03:31+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "966f536428fa7f4c60a2",
+      "source_id": "standard",
+      "title": "Familienurlaub 2027: Hauptsache bequem, sonnig und stressfrei",
+      "url": "https://www.derstandard.at/story/3000000348664/familienurlaub-2027-hauptsache-bequem-sonnig-und-stressfrei?ref=rss",
+      "summary": "Warum die Türkei boomt, Kinder immer öfter mitentscheiden und Eltern vor allem eines suchen: weniger Reisestress",
+      "published_at": "2026-11-11T18:03:27+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "5affc5371d71c0e86743",
+      "source_id": "standard",
+      "title": "Netanjahus Versuch einer Spaltung der Knesset könnte nach hinten losgehen",
+      "url": "https://www.derstandard.at/story/3000000348768/netanjahus-versuch-einer-spaltung-der-knesset-koennte-nach-hinten-losgehen?ref=rss",
+      "summary": "Bei der Konstituierung des israelischen Parlaments ging es turbulent zu. Die Gefahr baldiger Neuwahlen im Machtkampf zwischen den Blöcken bleibt bestehen",
+      "published_at": "2026-11-11T17:57:19+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "c168d1920930d0cb064b",
+      "source_id": "standard",
+      "title": "Am Umgang mit der Nationalhymne zeigen sich die vielen Risse in Israels Politik",
+      "url": "https://www.derstandard.at/story/3000000348782/am-umgang-mit-der-nationalhymne-zeigen-sich-die-vielen-risse-in-israels-politik?ref=rss",
+      "summary": "In der turbulenten ersten Sitzung des israelischen Parlaments konnte man sehen, wie die politischen Parteien es mit dem Staat halten",
+      "published_at": "2026-11-11T17:57:18+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "80665b2eeef26777a0ea",
+      "source_id": "bbc-business",
+      "title": "Brad Friedel on Shrewsbury Town takeover",
+      "url": "https://www.bbc.co.uk/news/videos/cq62p80pe3yzo?at_campaign=rss&at_medium=RSS",
+      "summary": "Exclusive interview with BBC Radio Shropshire, Brad Friedel on Shrewsbury Town takeover.",
+      "published_at": "2026-11-11T17:55:43+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "bbc-business",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "Business"
+    },
     {
       "id": "86c177b40d99b068d14c",
       "source_id": "guardian-us",
@@ -2565,6 +3736,21 @@
       "summary": "\"Höchste Zeit, dass Österreich wieder auf der Landkarte auftaucht\": Der \"Millionenshow\"-Moderator unterstreicht die ÖSV-Forderung nach einer Skihalle und hält auch ein Nationalstadion für überfällig",
       "published_at": "2026-11-11T10:00:00+00:00",
       "fetched_at": "2026-11-11T17:56:08.436404+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "789cd3b70285250bcf61",
+      "source_id": "standard",
+      "title": "\"39 Prozent faktisch überschuldet\": Österreichs Filmproduzenten kämpfen um Existenz",
+      "url": "https://www.derstandard.at/story/3000000348644/39-prozent-faktisch-ueberschuldet-oesterreichs-filmproduzenten-kaempfen-um-existenz?ref=rss",
+      "summary": "Investitionsverpflichtung soll bis Februar kommen, ORF kürzt Vergabevolumen um zehn Millionen Euro, fehlende Kinostandortförderung regte beim Produzent:innentag auf",
+      "published_at": "2026-11-11T10:00:00+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
       "date_estimated": false,
       "author": "standard",
       "categories": [],
@@ -6019,6 +7205,21 @@
       "category": "Politics"
     },
     {
+      "id": "62efa758b2ca29952c44",
+      "source_id": "standard",
+      "title": "Wo kann ich in Wien Kölsch trinken?",
+      "url": "https://www.derstandard.at/story/3000000348402/wo-kann-ich-in-wien-koelsch-trinken?ref=rss",
+      "summary": "Mein Forum: Diskutieren Sie dieses Thema mit der STANDARD-Community",
+      "published_at": "2026-11-10T17:00:00+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
       "id": "7bca791b1157cd7a7b9c",
       "source_id": "bbc-business",
       "title": "Some pupils 'struggling just to get a hot meal'",
@@ -7767,6 +8968,21 @@
       "category": "Politics"
     },
     {
+      "id": "ee2349b636b72b105914",
+      "source_id": "standard",
+      "title": "Was zahlt eure Eigentümergemeinschaft für die Hausverwaltung?",
+      "url": "https://www.derstandard.at/story/3000000348396/was-zahlt-eure-eigentuemergemeinschaft-fuer-die-hausverwaltung?ref=rss",
+      "summary": "Mein Forum: Diskutieren Sie dieses Thema mit der STANDARD-Community",
+      "published_at": "2026-11-10T11:00:00+00:00",
+      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
       "id": "19bca42b1d7f69c97768",
       "source_id": "standard",
       "title": "Cyberangriffe auf Kühlsysteme: Frankreich bestellt Irans Botschafter ein",
@@ -9484,6 +10700,2132 @@
     }
   ],
   "stories": [
+    {
+      "id": "story-bf6ad6bb1abb81aa6197",
+      "title": "Hakeem Jeffries faces progressive holdouts but no rival as House speaker race takes shape",
+      "overview": "Familiar faces populate the 110-plus new members of Congress. A few \"freshmen\" are returning to the House. Even if they’ve been gone for a while. There’s Rep.-elect Hilda Solis, D-Calif., who last served in Congress in 2009. She departed to become President Obama’s labor secretary. Rep.-elect Jerry Carl, R-Ala., just left Capitol Hill early last year after losing a primary to Rep. Barry Moore, R-Ala., — who is now moving to the Senate. And then there’s Rep.-elect Melissa Bean, D-Ill. She first won a seat in the House in 2004 and lost in 2010. Now, Bean is back. Her advice to the rookies? REPOR",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T00:43:35+00:00",
+      "updated_at": "2026-11-12T00:43:35+00:00",
+      "article_ids": [
+        "6fd1b245f81b05dde0aa"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-e9a073c7c84ed8ea7d0d",
+      "title": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
+      "overview": "For Nigerians to feel meaningful improvements, reforms will need to go beyond the promises outlined, analysts say.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T00:36:11+00:00",
+      "updated_at": "2026-11-12T00:36:11+00:00",
+      "article_ids": [
+        "15416376059bdf7d334f"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-a8b18a5a890b527f9b4d",
+      "title": "Svitolina stays in WTA Finals hunt after remarkable fightback sees off Muchova",
+      "overview": "Ukrainian wins 3-6, 6-2, 6-2 after eight-minute timeout Andreeva beats Sabalenka 6-4, 6-0 to top Group B Elina Svitolina staged a remarkable comeback to beat Karolina Muchova and remain in the hunt for the WTA Finals title. The Ukrainian looked to be on her way out of Indian Wells when she was a set down and required an eight-minute medical timeout. But she recovered to win 3-6, 6-2, 6-2 and stay in with a chance of reaching the semi-finals. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T00:23:53+00:00",
+      "updated_at": "2026-11-12T00:23:53+00:00",
+      "article_ids": [
+        "26d0d738e118cbbcfe18"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-e0885b004899e0f8c69f",
+      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+      "overview": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T23:52:30+00:00",
+      "updated_at": "2026-11-12T00:11:12+00:00",
+      "article_ids": [
+        "c69d771ab41e5f831cea",
+        "a22beb6b50ef548c5a3b"
+      ],
+      "publisher_count": 2,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK",
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [
+        "colom",
+        "democrat",
+        "mississippi",
+        "scott",
+        "senate",
+        "win"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-78ce8edc4fd5037d8547",
+      "title": "New York building collapse kills one person and injures 12",
+      "overview": "Rescuers are searching for people who may be trapped under the rubble of the three-story building in Brooklyn.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T22:55:26+00:00",
+      "updated_at": "2026-11-12T00:06:10+00:00",
+      "article_ids": [
+        "3089867397c65e84afa7",
+        "0fc6b91c507b3153f8d7"
+      ],
+      "publisher_count": 2,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK",
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [
+        "building",
+        "collapse",
+        "kills",
+        "one"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-6ba09f2a08f09e5ea1f3",
+      "title": "From Paris to DC - why offices are being turned into apartments",
+      "overview": "Office buildings with low occupancy rates are being transformed into flats.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T00:05:40+00:00",
+      "updated_at": "2026-11-12T00:05:40+00:00",
+      "article_ids": [
+        "a9d371a93c830fcda3cd"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Business",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-8fec40e07dccecf52dee",
+      "title": "At least 10 new Dem members will carry Al Green's mantle and try to impeach President Trump",
+      "overview": "EXCLUSIVE: At least 10 incoming progressive members of the House Democratic caucus are expected to support efforts to impeach President Donald Trump, continuing a push led by outgoing Rep. Al Green, D-Texas, Fox News Digital has learned. Green and representatives from the Removal Coalition and Courage for Democracy Project discussed the effort with Fox News Digital after a Capitol Hill news conference, months after the Texas Democrat introduced articles of impeachment against Trump in August. Green is counting on support from Reps.-elect Melat Kiros, D-Colo.; Nancy Lacore, D-S.C.; Dan Koh, D-M",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T23:56:14+00:00",
+      "updated_at": "2026-11-11T23:56:14+00:00",
+      "article_ids": [
+        "245a388558070efdd6f1"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-16c2c61baab0d443f4cf",
+      "title": "Democrats push to rein in Trump on immigration after voter backlash to ICE raids",
+      "overview": "Members of Congress seek to ‘bring sanity’ to system but decline to give details on plans to reform or abolish agency A group of congressional Democrats on Wednesday pushed for immediate efforts to rein in the Trump administration’s sweeping immigration enforcement operation and “bring sanity” to an immigration system that Donald Trump said, after his party’s midterm drubbing, had been “too tough” in certain aspects. Just over a week after the midterm elections in which the US president’s harsh crackdown on immigration fueled a voter backlash against Republicans, some sitting and newly elected",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T23:42:08+00:00",
+      "updated_at": "2026-11-11T23:42:08+00:00",
+      "article_ids": [
+        "6b8885eef5c1541fa0b8"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-9db368f1371ce3febfe3",
+      "title": "Demokrat Colom gewinnt Senatssitz für Mississippi – den 55. für seine Partei",
+      "overview": "Mit dem Sieg des Außenseiters im republikanisch dominierten Südstaat ist nur noch die Wahl um den Senatssitz in Alaska unentschieden. Auch dort ist die Demokratin Mary Peltola klar Favoritin",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T23:30:49+00:00",
+      "updated_at": "2026-11-11T23:30:49+00:00",
+      "article_ids": [
+        "e4b67bb6ca85794d5ae6"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-e1a8d7009c58ae9ba7f9",
+      "title": "Some under-25s should get less benefits, Milburn review to say",
+      "overview": "The proposed radical overhaul of the welfare system would move under-25s off the main sickness benefits.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T23:22:04+00:00",
+      "updated_at": "2026-11-11T23:22:04+00:00",
+      "article_ids": [
+        "a900f8ce9cfbe2783737"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Business",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-aa8ea0a924f7b978a33b",
+      "title": "How Scott Colom won deep-red Mississippi with little help from Democrats",
+      "overview": "Democrat chatted up people at hair salons, colleges and at Trump rallies to become Mississippi’s first Black senator since Reconstruction The ad is simple, less than half a minute long, but many say it was the moment the nation took notice of Mississippi’s US Senate race. In it, the incumbent Republican senator Cindy Hyde-Smith, a cattle farmer, answers a reporter’s question about the rising price of beef: “You know, you have so many proteins to choose from,” she says. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T23:18:36+00:00",
+      "updated_at": "2026-11-11T23:18:36+00:00",
+      "article_ids": [
+        "996a9e09d7be46043405"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-f12e011126b6b91f3289",
+      "title": "CNN-Prognose: Demokrat erobert Senatssitz in Mississippi",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T22:24:10+00:00",
+      "updated_at": "2026-11-11T23:15:43+00:00",
+      "article_ids": [
+        "edbf30e327f8c674e1e5",
+        "ee4b91e71b5caa422292"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 2
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [
+        "demokrat",
+        "erobert",
+        "mississippi",
+        "senatssitz"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-fa69da7e91ad6f839048",
+      "title": "Dems projected to score historic upset in deep-red Mississippi, topple Trump ally Hyde-Smith",
+      "overview": "Senate Republicans are projected to suffer yet another stunning setback, this time in reliably red Mississippi. Incumbent Sen. Cindy Hyde-Smith, R-Miss., is projected to lose her bid for a second full term in the U.S. Senate to state District Attorney Scott Colom in a race that was deadlocked until the final weeks of October, according to The Associated Press. More than a week after Election Day, the AP called the razor-thin race in favor of Colom Wednesday, pushing the Democrats' hold on the U.S. Senate to 55 seats to the Republicans' 44 in another flip. SOROS NETWORK TARGETS DEEP-RED MISSISS",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T23:11:32+00:00",
+      "updated_at": "2026-11-11T23:11:32+00:00",
+      "article_ids": [
+        "34ed4522126cd8684d6c"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-ed199ab5012528b97cf6",
+      "title": "Army sentinel sharply reprimands Hegseth's group at Tomb of the Unknown Soldier on Veterans Day",
+      "overview": "An Army sentinel at the Tomb of the Unknown Soldier at Arlington National Cemetery called for silence and respect Wednesday after laughter was heard from departing members of Secretary of War Pete Hegseth's entourage following a Veterans Day ceremony. Video shows the incident unfolding shortly after President Donald Trump left the memorial following a wreath-laying ceremony. Trump left the memorial around 12:28 p.m. Hegseth and members of his entourage, including his wife, Jennifer Hegseth, began taking photos and posing on the memorial steps around 12:29 p.m., according to the video. TRUMP UN",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T23:11:12+00:00",
+      "updated_at": "2026-11-11T23:11:12+00:00",
+      "article_ids": [
+        "1c16d2d8453aa46c9d1a"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-d26be837a8a9c9cdd27e",
+      "title": "Black girls in LA keep seeing women around them getting killed. They’re driving change",
+      "overview": "Black women and girls represent an outsized share of LA homicide victims – frustrated with police and legislators’ failures, they’re stepping up and speaking out to stop the violence As a child, Tioni Theus was a ball of energy. After school she liked to play golf and dance. On weekends, she’d go to the movies and the mall with her older cousin. Driving back home at the end of the day to her family’s apartment in South Los Angeles, California, she’d ask: “What are we doing next?” Everything changed when Tioni was 13. Her mother was hit by a car and critically injured, leaving her unable to tak",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T23:01:10+00:00",
+      "updated_at": "2026-11-11T23:01:10+00:00",
+      "article_ids": [
+        "1c5373f51480ac003235"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-9b3b44729d67f56bfb71",
+      "title": "Standardrätsel L 11441",
+      "overview": "Täglich neu, exklusiv für Smart-Abonnent:innen: Das knifflige Quizkultur-Rätsel des STANDARD",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T23:01:00+00:00",
+      "updated_at": "2026-11-11T23:01:00+00:00",
+      "article_ids": [
+        "1841504bb313d9adb540"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-915cc12f228e8d87ab28",
+      "title": "Hegseth and aides scolded by guard for laughing at Tomb of the Unknown Soldier",
+      "overview": "Group attending Veterans Day ceremony sharply reminded by sentinel to maintain ‘silence and respect’ at sacred site A US army sentinel guarding the Tomb of the Unknown Soldier loudly reprimanded the embattled US defense secretary, Pete Hegseth, and his top staffers on Wednesday, after some in the group were heard laughing and talking near the memorial following a Veterans Day ceremony. According to video captured by the TV network pool, Hegseth was with his wife, Jennifer, chief of staff Ricky Buria, deputy chief of staff Patrick Weaver and senior adviser and deputy assistant Tami Radabaugh wa",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T23:00:21+00:00",
+      "updated_at": "2026-11-11T23:00:21+00:00",
+      "article_ids": [
+        "fa20d294a6c0dc7cbd74"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-a720a24fc1f09e0541ac",
+      "title": "Bericht: Nvidia bereitet Huang-Entlassung vor",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T22:43:06+00:00",
+      "updated_at": "2026-11-11T22:43:06+00:00",
+      "article_ids": [
+        "a86d4d48b6d745135067"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-c09406a273e21830b96b",
+      "title": "Stephen Curry attacks treatment of women after former players criticize wife Ayesha’s movie kiss",
+      "overview": "Warriors star defends wife over romantic comedy role Arenas called Ayesha ‘only blemish’ on Curry family Four-time NBA champion condemns double standards Golden State Warriors star Stephen Curry has criticized several ex-professional athletes for questioning his wife Ayesha’s decision to appear in a romantic comedy featuring an on-screen kiss, accusing them of diminishing her accomplishments and perpetuating double standards about women. The four-time NBA champion posted a 90-second video on Instagram on Wednesday in response to comments by former NBA players Gilbert Arenas and Nick Young, as ",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T22:30:23+00:00",
+      "updated_at": "2026-11-11T22:30:23+00:00",
+      "article_ids": [
+        "7bea98f5ed291397acfe"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-8da13a385347b523e624",
+      "title": "Ökonomen sehen Aufschwung – und warnen",
+      "overview": "Die deutsche Wirtschaftsleistung dürfte aus Sicht der Wirtschaftsweisen wieder deutlich steigen – im Haushalt könnten aber auf längere Sicht riesige Finanzlücken klaffen. Der Sachverständigenrat zur Begutachtung der gesamtwirtschaftlichen Entwicklung warnte am Mittwoch vor einer Aufgabe von „historischem Ausmaß“. Die Politik werde um harte Entscheidungen nicht herumkommen, so die Vorsitzende Monika Schnitzer.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T22:09:53+00:00",
+      "updated_at": "2026-11-11T22:09:53+00:00",
+      "article_ids": [
+        "a21906f273807f673f2b"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-835d15302dda4e6557d2",
+      "title": "Teheran droht mit Angriffen auf US-Stützpunkte auch in Europa",
+      "overview": "Der Iran droht, den Konflikt mit den USA im Fall neuer Angriffe geografisch auszuweiten. Zudem fordert Teheran ein Ende der Sanktionen",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T21:54:54+00:00",
+      "updated_at": "2026-11-11T21:54:54+00:00",
+      "article_ids": [
+        "41df415b258625e7a381"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-a4917bb890ad954de85b",
+      "title": "US withdraw from U-17 World Cup in Qatar due to safety concerns",
+      "overview": "USSF cites state department advisory about Qatar Competition set to kick off in eight days The US men’s national team have pulled out of the Fifa U-17 World Cup, which is due to kick off in Qatar in just over a week. In a letter sent to players explaining the decision, the US Soccer Federation cited safety concerns for players and staff, referring them to the US state department’s travel advisory for Qatar, which encourages citizens to reconsider travel to the country “due to risk of armed conflict” and asks government employees to obtain special authorization to do so. “Unfortunately, in ligh",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T21:54:46+00:00",
+      "updated_at": "2026-11-11T21:54:46+00:00",
+      "article_ids": [
+        "63e1e121b2f2f35a44e9"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-88cb4d1b871375153030",
+      "title": "Hegseth and team reprimanded by Arlington national cemetery guard – video",
+      "overview": "Defense secretary Pete Hegseth and members of his team were reprimanded by a US sentinel at Arlington national cemetery after the Veterans Day commemoration that Donald Trumped attended on 11 November Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T21:53:22+00:00",
+      "updated_at": "2026-11-11T21:53:22+00:00",
+      "article_ids": [
+        "7b80b7673c8ff47e84ad"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-4e1136d54755fc121186",
+      "title": "Justizproteste: Sporrer kündigt mehr Ressourcen an",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T21:26:19+00:00",
+      "updated_at": "2026-11-11T21:50:35+00:00",
+      "article_ids": [
+        "503ed67056b222f935fe",
+        "05c521f1ab8a8902c018"
+      ],
+      "publisher_count": 2,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [
+        "kündigt",
+        "mehr",
+        "ressourcen",
+        "sporrer"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-dff0cf88d09f6c7bfa37",
+      "title": "Trump's ex-lawyer Alina Habba loses massive contract days after president blasts 'outrageous' deal",
+      "overview": "President Donald Trump's former personal attorney, Alina Habba Mildon, has lost a four-year contract worth more than $50 million to serve as general counsel for a company founded by the daughter of a Venezuelan billionaire Trump pardoned earlier this year, according to The New York Times. Concord Partners, a Florida-based company founded by Isabela Herrera, daughter of Venezuelan banker Julio Herrera Velutini, terminated Habba Mildon’s contract after President Donald Trump urged the Herrera family to stop paying her, The Philadelphia Inquirer reported Wednesday. A source familiar with the matt",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T21:45:34+00:00",
+      "updated_at": "2026-11-11T21:45:34+00:00",
+      "article_ids": [
+        "cd173df6ecf93beaec7a"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-0f12e5c8ef728fe32038",
+      "title": "'Not the answer': Labour MPs speak out against Rosebank as decision looms",
+      "overview": "There is a growing expectation among senior Labour figures that drilling in the oil field will be given the green light.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T21:42:20+00:00",
+      "updated_at": "2026-11-11T21:42:20+00:00",
+      "article_ids": [
+        "5f8241c868b533984fef"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Business",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-f915bb403c8271d4c068",
+      "title": "FPÖ-Politiker Gerald Hauser erhält Preis für den größten Unsinn des Jahres",
+      "overview": "Die Skeptiker würdigten vor allem die Reichweite des Europaabgeordneten. Das Brett fürs Lebenswerk ging an die frühere Grünen-Chefin Madeleine Petrovic",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T21:30:00+00:00",
+      "updated_at": "2026-11-11T21:30:00+00:00",
+      "article_ids": [
+        "cf18bad4d3b54653c799"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-098ea2925e21b9658a6a",
+      "title": "Massenproteste gegen Wohnkrise kurz vor Neuwahl in Spanien",
+      "overview": "Allein in der Hauptstadt Madrid gingen rund 120.000 Menschen auf die Straße. Zuvor hatte es einen ganztägigen Generalstreik gegeben",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T21:18:49+00:00",
+      "updated_at": "2026-11-11T21:18:49+00:00",
+      "article_ids": [
+        "e0683dd09e70c5f7e078"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-d04c3d669e524863a006",
+      "title": "Longtime GOP leader faces uncertain future after Jim Jordan wins House leadership fight",
+      "overview": "House Majority Leader Steve Scalise, R-La., the No. 2 Republican in the House of Representatives and the most tenured figure among the chamber's party leadership, declined to say whether he would commit to serving the full term in the upcoming 120th Congress. \"There’s no decision on what’s next,\" Scalise said on Wednesday. \"I’ve got to get through these next few weeks, and then we have a lot of decisions to make about what's life going to look like in the minority. But I sure still have a great passion for this country.\" JIM JORDAN THROWS HAT IN RING FOR HOUSE MINORITY LEADER AS GOP PICKS UP P",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T21:11:57+00:00",
+      "updated_at": "2026-11-11T21:11:57+00:00",
+      "article_ids": [
+        "74e01ee035d3b921d842"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-8d4e54c8d4ab810392d3",
+      "title": "Stephen Miller's internal memo unleashes Trump agencies after 'absolute control' under Wiles' reign",
+      "overview": "EXCLUSIVE: A memo describing the new White House hierarchy under chief of staff Stephen Miller circulated within the Trump administration this week, and details how Cabinet secretaries will now have more control over their own messaging. This is a shift from what insiders say was administration-wide communications control implemented by former chief of staff Susie Wiles during the first nearly two years of President Donald Trump's second term. \"This will streamline the Cabinet, making it a more effective instrument for the President, whereas previously it was too constrained,\" a source familia",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T20:56:52+00:00",
+      "updated_at": "2026-11-11T20:56:52+00:00",
+      "article_ids": [
+        "36db498fd26c2f71e64f"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-41953520c2565b2f8705",
+      "title": "Eisenkot warnt Netanjahu vor \"gefährlichen Schritten\"",
+      "overview": "Medien berichteten von neuen Angriffsplänen gegen den Iran. Netanjahu bezichtigte Eisenkot, die nationale Sicherheit zu politisieren",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T20:30:55+00:00",
+      "updated_at": "2026-11-11T20:30:55+00:00",
+      "article_ids": [
+        "d4c7d263d65deec53b41"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-54a424fc873f069ff3a7",
+      "title": "Minderheitsregierung der Niederlande in der Krise",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T20:12:04+00:00",
+      "updated_at": "2026-11-11T20:12:04+00:00",
+      "article_ids": [
+        "b7a72c6c9ce5bb40fc9d"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-f92659a30801c4d33715",
+      "title": "African writing award probe finds 'no evidence' winning story was AI generated",
+      "overview": "Zimbabwean writer Simbarashe Kundizeza has also vehemently denied the allegation made in a US magazine.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T20:00:54+00:00",
+      "updated_at": "2026-11-11T20:00:54+00:00",
+      "article_ids": [
+        "0eb2e4ae00be91d542b2"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-8f4c4d4173e63b3beb00",
+      "title": "Frankreich verweigert israelischem Siedlerführer Einreise",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T19:52:38+00:00",
+      "updated_at": "2026-11-11T19:52:38+00:00",
+      "article_ids": [
+        "0603409c00df3421721a"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-1c30ad55403941e41f5a",
+      "title": "Iran fordert Entschädigung für Kriegsschäden an Umwelt",
+      "overview": "Der iranische Präsident sprach bei der Weltklimakonferenz, die im türkischen Antalya stattfindet. Entschädigungen für Umweltschäden durch Krieg gibt es bisher nicht",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T19:35:34+00:00",
+      "updated_at": "2026-11-11T19:35:34+00:00",
+      "article_ids": [
+        "8deaf82c7f7a57fa25df"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-9d657e7e517b615373e0",
+      "title": "SS United States to be sunk to become the world’s largest artificial reef - watch live",
+      "overview": "The SS United States will sink off the coast of Destin, Florida to become an artificial reef, ending long-running wrangle over its fate Historic ocean liner to ‘live on’ beneath waves as world’s biggest artificial reef Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T19:22:06+00:00",
+      "updated_at": "2026-11-11T19:22:06+00:00",
+      "article_ids": [
+        "dfbf2d603b426c298557"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-bb2a8b1d96d355fb7843",
+      "title": "Generalstreik in Zeiten politischer Spannung",
+      "overview": "In Spanien hat am Mittwoch ein Generalstreik gegen die Wohnungskrise das öffentliche Leben und die Wirtschaft zum Teil lahmgelegt. Es war der erste ganztägige Generalstreik im Land seit 14 Jahren. Die beiden großen Gewerkschaften sahen einen Erfolg, Arbeitgebervertreter übten Kritik. Der Streik fand in Zeiten politischer Spannungen statt, schließlich steht Spanien unmittelbar vor der heißen Phase des Wahlkampfs.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T19:08:55+00:00",
+      "updated_at": "2026-11-11T19:08:55+00:00",
+      "article_ids": [
+        "20a565884a84bde8789d"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-6bbb5145db24617a896c",
+      "title": "Geplante Untersuchungen: Weißes Haus warnt Demokraten",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T19:05:51+00:00",
+      "updated_at": "2026-11-11T19:05:51+00:00",
+      "article_ids": [
+        "31da14c82cb5949c32f6"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-4ffe2b88fdd20e017251",
+      "title": "Spionagegesetz: Justizministerin Sporrer im Studio",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T19:05:15+00:00",
+      "updated_at": "2026-11-11T19:05:15+00:00",
+      "article_ids": [
+        "07ba05edba0c22c1c745"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-2a090116f2c742026e4e",
+      "title": "Allianz schraubt Gewinnprognose nach oben",
+      "overview": "In den ersten neun Monaten stieg der operative Gewinn auf den Rekordwert von 14,1 Milliarden Euro. Am Donnerstag werden die vollständigen Geschäftszahlen präsentiert",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T18:59:23+00:00",
+      "updated_at": "2026-11-11T18:59:23+00:00",
+      "article_ids": [
+        "11829277935d0fa9e505"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-e74920d59a31775fcaaf",
+      "title": "Hilft eine Lederjacke aus der Midlife Crisis?",
+      "overview": "Sie vermittelt Coolness, Ungehobeltheit, Stärke – und gilt als das Botox des Mannes. Wer eine Lederjacke trägt, wirkt um Jahre jünger, dachte sich wohl auch Nvidia-Gründer Jensen Huang",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T18:54:30+00:00",
+      "updated_at": "2026-11-11T18:54:30+00:00",
+      "article_ids": [
+        "08a9cc15abdf40c7ef54"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-491c2a0a1bef3d9c8fd1",
+      "title": "Vom Spesenbetrug zum Spionageverdacht: Die spektakulärsten Skandale der Tech-Elite",
+      "overview": "Wenn private Verfehlungen an der Konzernspitze zum Börsen- und Sicherheitsrisiko werden – und warum Gründer anders behandelt werden als angestellte CEOs",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T18:50:41+00:00",
+      "updated_at": "2026-11-11T18:50:41+00:00",
+      "article_ids": [
+        "81d2e5cbdff225ad06b9"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-1408a35e006159e08188",
+      "title": "Nach Treffer aus eigener Hälfte: Basketballerinnen verlieren gegen Lettland",
+      "overview": "Das österreichische Nationalteam kassiert zum Auftakt der EM-Qualifikation eine Heimniederlage. Sarah Sagerer sorgte mit einem Buzzer Beater für das Highlight der Partie",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T18:47:27+00:00",
+      "updated_at": "2026-11-11T18:47:27+00:00",
+      "article_ids": [
+        "5aa7dfe7cf0e89cbb075"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-dd2eb386446a08365489",
+      "title": "Biden ripped for ‘totally delusional’ claim about debate that preceded his 2024 exit",
+      "overview": "Former President Joe Biden is facing sharp backlash after dismissing his disastrous 2024 debate performance against President Donald Trump as \"not very consequential\" — despite dropping out of the presidential race just 24 days later. When asked about what his \"perspective\" on the June 27, 2024 debate is now in an interview with People Magazine released Wednesday, Biden suggested he felt his debate performance was inconsequential. \"Look, I don’t know anybody who hasn’t made a mistake in a debate,\" Biden told People Magazine. \"To me, it was not very consequential. First of all, I thought there’",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T18:44:38+00:00",
+      "updated_at": "2026-11-11T18:44:38+00:00",
+      "article_ids": [
+        "f8f1572cec3eca18597d"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-83bd25f87191ce59edce",
+      "title": "GOP congressman-elect makes unusual Trump request, ejects reporter during profanity-laced victory speech",
+      "overview": "Anthony Constantino, a former boxer and the CEO of the printing company Sticker Mule, delivered a profanity-laden victory speech after his election to New York’s 21st Congressional District, kicking a reporter out of the room and calling on President Donald Trump to pardon Sean \"Diddy\" Combs. \"I think President Trump should consider freeing Diddy,\" Constantino said, referring to the incarcerated producer. \"A historic New Yorker that did great things for New York State. I think we should consider it.\" Constantino’s brazen speech contrasts sharply with the demeanor of the district’s outgoing inc",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T18:37:29+00:00",
+      "updated_at": "2026-11-11T18:37:29+00:00",
+      "article_ids": [
+        "b728d0540096a915b2f4"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-9c96847512a405f56e73",
+      "title": "Top Dem on committee fires back after White House counsel warns against overreach amid investigation threats",
+      "overview": "Counsel to the president William Scharf, in a letter to House Committee on Oversight and Government Reform ranking member Rep. Robert Garcia, D-Calif., warned against Democrats running afoul of their allotted powers pertaining to investigations and subpoenas. But Garcia — who is poised to chair the committee next year when Democrats gain the House majority — fired back, asserting that President Donald Trump's administration is weaponizing the government. \"I write to remind you of the foundational limits that the Constitution imposes on congressional investigations and subpoenas, which you and ",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T18:35:41+00:00",
+      "updated_at": "2026-11-11T18:35:41+00:00",
+      "article_ids": [
+        "814022e6f8ee0f021c6b"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-d5e5608334a1429e0e56",
+      "title": "Trump’s $10bn BBC battle goes ahead - The Latest",
+      "overview": "Donald Trump’s $10bn defamation lawsuit against the BBC has been granted permission to proceed, after the corporation’s attempt to get it dismissed was thrown out by a Trump-appointed Florida judge. The case focuses on an edit in a 2024 Panorama documentary that spliced two comments together that were made by the president during a rally before the January 6 Capitol riots, for which the BBC has apologised. With the lawsuit now set to continue, what’s at stake for press freedom? Lucy Hough speaks to global editor Devika Bhat Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T18:35:03+00:00",
+      "updated_at": "2026-11-11T18:35:03+00:00",
+      "article_ids": [
+        "60f7ef49c9ddce1c6e25"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-63505d4b397d643e6380",
+      "title": "Trump defends Iran war during Veterans Day address, says he is making the world 'safer'",
+      "overview": "President Donald Trump defended the war in Iran and said it will be over \"soon\" during his Veterans Day address on Wednesday. Trump made the statement while speaking to a crowd of veterans and their families at Arlington National Cemetery. He highlighted the 1983 Iran-backed bombing of the U.S. Marine Corps barracks in Beirut and argued that Iran has been at war with the U.S. for decades. \"America did not start a war with Iran. Iran has been waging war on America since 1979. They should have been taken care of a long time ago,\" Trump said. RUBIO'S DEFENSE OF TRUMP'S IRAN WAR DRAWS SHARP CONTRA",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T18:32:55+00:00",
+      "updated_at": "2026-11-11T18:32:55+00:00",
+      "article_ids": [
+        "a1c0711719bb99d5fee4"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-1ffd3759229a956feb46",
+      "title": "Mehr als drei Millionen Menschen bei Papst-Messe in Argentinien",
+      "overview": "Es war die bisher größte Messe des Pontifikats von Papst Leo XIV. Die dritte und letzte Station seiner Südamerika-Reise ist Peru",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T18:29:34+00:00",
+      "updated_at": "2026-11-11T18:29:34+00:00",
+      "article_ids": [
+        "5dbcaf1f70a06d577b4c"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-b41dc4f0fdbbd641739a",
+      "title": "Jackpot bei Lotto „6 aus 45“",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T18:27:12+00:00",
+      "updated_at": "2026-11-11T18:27:12+00:00",
+      "article_ids": [
+        "2e6b1a4fa37bb0cba378"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-8a0ed0c114bf46a690e1",
+      "title": "The Guardian view on Maga after the midterms: doubling down on Trumpism | Editorial",
+      "overview": "Republicans know that the president’s folly and excesses cost them the elections. That doesn’t mean they’re ready to challenge him Shortly after polls closed last Tuesday, with the scale of the Republican trouncing in the midterms still becoming apparent, Donald Trump briefly adopted an oddly conciliatory tone. He declared that he was “absolutely” willing to accept the results, would look forward to working with Democrats and that deportation policies might have been “too tough”. It was never going to last. He soon cast doubt on the elections’ legitimacy. On Friday, he replaced his chief of st",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T18:25:56+00:00",
+      "updated_at": "2026-11-11T18:25:56+00:00",
+      "article_ids": [
+        "3347f11f35932a05f742"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-b747e4916f4c78daa5c7",
+      "title": "Veterans in Congress projected to decline, but Dems bringing more first-time vets by 3-to-1 margin over GOP",
+      "overview": "The share of military veterans in Congress is projected to fall to its lowest level in decades in the incoming 120th Congress, but while overall veteran representation continues a long-term decline, the partisan composition of the freshman class marks a sharp contrast. Democrats are bringing roughly three times as many first-time veteran members as Republicans, and they are catching up among House members overall. Still, as America marks Veterans Day, the numbers show the institutional voice of military service in the legislative branch is heading toward its lowest watermark in modern history.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T18:20:39+00:00",
+      "updated_at": "2026-11-11T18:20:39+00:00",
+      "article_ids": [
+        "f6be94437346aaf011dc"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-6a6f75bbbb6141e39d58",
+      "title": "Baby found alive after being buried in dog crate for 24 hours, South Carolina police say",
+      "overview": "Koah was found ‘clinging to life’ in a shallow grave after he went missing while in the care of his father, Lexington sheriff’s department said An 11-month-old boy was found alive in South ⁠Carolina after he was believed to have been buried for ⁠about 24 hours, local police said. The infant, Koah Sharpe, was found on Tuesday wrapped inside ⁠a dog crate that was in turn wrapped in a towel and buried just under the surface in the woods, according to the ​Lexington county sheriff’s department. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T05:59:42+00:00",
+      "updated_at": "2026-11-11T18:10:57+00:00",
+      "article_ids": [
+        "3150bf0f026c2a4aa8e6",
+        "839d30415ea46dc7b90a"
+      ],
+      "publisher_count": 2,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Politics",
+      "countries": [
+        "UK",
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [
+        "alive",
+        "baby",
+        "being",
+        "buried",
+        "carolina",
+        "crate",
+        "south"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-7d382cc521be1648b28d",
+      "title": "Zwischenstopp in Meischberger-Pleite: Republik bekommt rund eine Million Euro",
+      "overview": "Im Insolvenzverfahren des Ex-Lobbyisten Walter Meischberger gibt es für die Gläubiger eine Zwischenquote von zehn Prozent. Hauptnutznießer: die Republik Österreich",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T18:03:31+00:00",
+      "updated_at": "2026-11-11T18:03:31+00:00",
+      "article_ids": [
+        "64e6d959e16cbdce842a"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-395306036836dc3db636",
+      "title": "Familienurlaub 2027: Hauptsache bequem, sonnig und stressfrei",
+      "overview": "Warum die Türkei boomt, Kinder immer öfter mitentscheiden und Eltern vor allem eines suchen: weniger Reisestress",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T18:03:27+00:00",
+      "updated_at": "2026-11-11T18:03:27+00:00",
+      "article_ids": [
+        "966f536428fa7f4c60a2"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-52607b93b088eea34998",
+      "title": "Netanjahus Versuch einer Spaltung der Knesset könnte nach hinten losgehen",
+      "overview": "Bei der Konstituierung des israelischen Parlaments ging es turbulent zu. Die Gefahr baldiger Neuwahlen im Machtkampf zwischen den Blöcken bleibt bestehen",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T17:57:19+00:00",
+      "updated_at": "2026-11-11T17:57:19+00:00",
+      "article_ids": [
+        "5affc5371d71c0e86743"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-cf6ea61d48d75e74a712",
+      "title": "Am Umgang mit der Nationalhymne zeigen sich die vielen Risse in Israels Politik",
+      "overview": "In der turbulenten ersten Sitzung des israelischen Parlaments konnte man sehen, wie die politischen Parteien es mit dem Staat halten",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T17:57:18+00:00",
+      "updated_at": "2026-11-11T17:57:18+00:00",
+      "article_ids": [
+        "c168d1920930d0cb064b"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-fe2bf3bca44afe6fea54",
+      "title": "Brad Friedel on Shrewsbury Town takeover",
+      "overview": "Exclusive interview with BBC Radio Shropshire, Brad Friedel on Shrewsbury Town takeover.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T17:55:43+00:00",
+      "updated_at": "2026-11-11T17:55:43+00:00",
+      "article_ids": [
+        "80665b2eeef26777a0ea"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Business",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
     {
       "id": "story-a729d9ba7f1c121692c4",
       "title": "Trump praises Hegseth after failed impeachment effort and shrugs off Iran war criticism - live",
@@ -14461,6 +17803,42 @@
       "ai": null
     },
     {
+      "id": "story-db1afcfb2040fda98c4f",
+      "title": "\"39 Prozent faktisch überschuldet\": Österreichs Filmproduzenten kämpfen um Existenz",
+      "overview": "Investitionsverpflichtung soll bis Februar kommen, ORF kürzt Vergabevolumen um zehn Millionen Euro, fehlende Kinostandortförderung regte beim Produzent:innentag auf",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T10:00:00+00:00",
+      "updated_at": "2026-11-11T10:00:00+00:00",
+      "article_ids": [
+        "789cd3b70285250bcf61"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
       "id": "story-aec278cd2dccc2501992",
       "title": "Die genialen Talente meiner Kinder oder: Jeder kann irgendwas gut",
       "overview": "Ein nicht ganz ernst gemeinter Lobgesang auf besondere Begabungen zweier besonderer Buben",
@@ -16317,42 +19695,6 @@
         "AT"
       ],
       "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-6a6f75bbbb6141e39d58",
-      "title": "Baby found alive after being buried in dog crate for 24 hours, South Carolina police say",
-      "overview": "Koah was found ‘clinging to life’ in a shallow grave after he went missing while in the care of his father, Lexington sheriff’s department said An 11-month-old boy was found alive in South ⁠Carolina after he was believed to have been buried for ⁠about 24 hours, local police said. The infant, Koah Sharpe, was found on Tuesday wrapped inside ⁠a dog crate that was in turn wrapped in a towel and buried just under the surface in the woods, according to the ​Lexington county sheriff’s department. Continue reading...",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-11T05:59:42+00:00",
-      "updated_at": "2026-11-11T05:59:42+00:00",
-      "article_ids": [
-        "3150bf0f026c2a4aa8e6"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "US"
-      ],
-      "language": "en",
       "common_terms": [],
       "limitations": [
         "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
@@ -21015,6 +24357,42 @@
       "ai": null
     },
     {
+      "id": "story-cc14611b8f79b8a529f6",
+      "title": "Wo kann ich in Wien Kölsch trinken?",
+      "overview": "Mein Forum: Diskutieren Sie dieses Thema mit der STANDARD-Community",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-10T17:00:00+00:00",
+      "updated_at": "2026-11-10T17:00:00+00:00",
+      "article_ids": [
+        "62efa758b2ca29952c44"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
       "id": "story-5f75b5e8c955354d31e8",
       "title": "Interaktive Karten zeigen, wie Wien und andere Städte Radwege intelligenter planen können",
       "overview": "Wo es an der Verbesserung der Fahrradnetze hakt und wo Lücken geschlossen werden können, zeigt nun ein öffentlich zugängliches Tool",
@@ -24666,6 +28044,42 @@
       "updated_at": "2026-11-10T11:00:00+00:00",
       "article_ids": [
         "c846590805d27cd7080c"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-444166150665bb922419",
+      "title": "Was zahlt eure Eigentümergemeinschaft für die Hausverwaltung?",
+      "overview": "Mein Forum: Diskutieren Sie dieses Thema mit der STANDARD-Community",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-10T11:00:00+00:00",
+      "updated_at": "2026-11-10T11:00:00+00:00",
+      "article_ids": [
+        "ee2349b636b72b105914"
       ],
       "publisher_count": 1,
       "article_counts": {
@@ -28747,15 +32161,15 @@
   "markets": [],
   "status": {
     "state": "ok",
-    "attempted_at": "2026-11-11T17:56:08.436404+00:00",
-    "last_success_at": "2026-11-11T17:56:08.436404+00:00",
+    "attempted_at": "2026-11-12T00:49:49.845679+00:00",
+    "last_success_at": "2026-11-12T00:49:49.845679+00:00",
     "errors": [],
     "source_results": {
-      "bbc-world": "23 entries",
+      "bbc-world": "28 entries",
       "guardian-us": "33 entries",
       "fox-politics": "25 entries",
-      "bbc-business": "33 entries",
-      "orf": "21 entries",
+      "bbc-business": "37 entries",
+      "orf": "23 entries",
       "standard": "151 entries"
     },
     "market_status": "Market price data not configured",
