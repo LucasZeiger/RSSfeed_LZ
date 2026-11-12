@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "mode": "live",
-  "generated_at": "2026-11-12T17:38:38.628515+00:00",
+  "generated_at": "2026-11-12T23:41:50.104061+00:00",
   "refresh_minutes": 60,
   "sources": [
     {
@@ -90,6 +90,1026 @@
     }
   ],
   "articles": [
+    {
+      "id": "c2388c723a7348aa7b4e",
+      "source_id": "bbc-world",
+      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+      "url": "https://www.bbc.co.uk/news/articles/cmq5vd1wdgz6o?at_campaign=rss&at_medium=RSS",
+      "summary": "US lawmakers now want to question Huang over whether one of his alleged relationships was with a Chinese spy.",
+      "published_at": "2026-11-12T23:34:05+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "396840a654746a6d74a6",
+      "source_id": "fox-politics",
+      "title": "Democrat Cindy Holscher wins Kansas governor's race, extending party's hold on governor's mansion",
+      "url": "https://www.foxnews.com/politics/democrat-cindy-holscher-wins-kansas-governors-race-extending-partys-hold-governors-mansion",
+      "summary": "Democratic state Sen. Cindy Holscher won the Kansas governor’s race, defeating Republican Kansas Senate President Ty Masterson in the open contest to succeed term-limited Democratic Gov. Laura Kelly, The Associated Press projected.The victory keeps the governor’s mansion in Democratic hands and marks the third consecutive Kansas gubernatorial election won by a Democrat. Kelly won the office in 2018 and secured a second term in 2022.Holscher has served in the Kansas Senate since 2021 after previously spending four years in the state House. She secured the Democratic nomination after defeating f",
+      "published_at": "2026-11-12T23:06:47+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "f06ed4e7-f91e-5b60-9adc-176798ffd638",
+        "fnc",
+        "Fox News",
+        "fox-news/politics/elections/midterm-elections",
+        "fox-news/us/us-regions/midwest/kansas",
+        "fox-news/politics/state-and-local/governors",
+        "fox-news/us/democratic-party",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "07f47c087bc0461fe288",
+      "source_id": "standard",
+      "title": "Standardrätsel I 11442",
+      "url": "https://www.derstandard.at/story/3000000347081/standardraetsel-i-11442?ref=rss",
+      "summary": "Täglich neu, exklusiv für Smart-Abonnent:innen: Das knifflige Quizkultur-Rätsel des STANDARD",
+      "published_at": "2026-11-12T23:01:00+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "1e0c5f9f046fb28dcae7",
+      "source_id": "orf",
+      "title": "Finanzchefin Kress soll Nvidia auf Kurs halten",
+      "url": "https://orf.at/stories/3448035/",
+      "summary": "Der Rückzug von Nvidia-Gründer Jensen Huang nach seinen Affären bringt Finanzchefin Colette Kress beim Chipriesen nach 13 Jahren ins Rampenlicht. Mit dem rasanten Aufstieg der Firma zum Motor des KI-Booms spielte sie angesichts der explosiven Umsatzentwicklung bereits eine Schlüsselrolle. Jetzt muss sie als kommissarische Chefin jedoch plötzlich das ganze Unternehmen managen – dieses war bisher komplett auf die Führungsrolle von Huang zugeschnitten.",
+      "published_at": "2026-11-12T22:47:52+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Wirtschaft"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "cab22b608c321c60483c",
+      "source_id": "guardian-us",
+      "title": "Gauff saves three set points to beat Kostyuk and keep WTA Finals hopes alive",
+      "url": "https://www.theguardian.com/sport/2026/nov/12/coco-gauff-marta-kostyuk-wta-finals-comeback-indian-wells",
+      "summary": "American saves three set points in second-set rally Gauff wins six straight games to seal 6-4, 7-5 victory World No 4 needs Noskova help to reach last four Coco Gauff clawed out a 6-4, 7-5 round-robin victory over Marta Kostyuk on Thursday to keep her WTA Finals hopes alive in Indian Wells, California. The world No 4 still needs help to reach the semi-finals of the elite season-ending event. If fifth-ranked compatriot Jessica Pegula beats Wimbledon champion Linda Noskova in Thursday’s final group match, Pegula will advance instead. Noskova has already qualified. Continue reading...",
+      "published_at": "2026-11-12T22:40:15+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "Agencies",
+      "categories": [
+        "WTA Finals",
+        "Coco Gauff",
+        "Sport",
+        "US sports"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "59ecbfdff1e7f050db49",
+      "source_id": "guardian-us",
+      "title": "Donald Trump Jr exits as paid adviser for prediction market Kalshi",
+      "url": "https://www.theguardian.com/us-news/2026/nov/12/donald-trump-jr-kalshi",
+      "summary": "Kalshi announces ‘mutual decision’ as Democrats say they plan to investigate Trump family’s investments Donald Trump Jr is no longer a paid adviser for Kalshi, the prediction market company said Thursday. Kalshi described it as a mutual business decision between the two parties that followed a decision by Trump Jr’s investment firm, 1789 Capital, to increase its investment in Kalshi’s biggest competitor Polymarket. Continue reading...",
+      "published_at": "2026-11-12T22:37:10+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "Associated Press",
+      "categories": [
+        "Donald Trump",
+        "US news"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "323eec70429aac057ca9",
+      "source_id": "orf",
+      "title": "Wegen Tinnitus: Duran-Duran-Drummer Roger Taylor hört auf",
+      "url": "https://orf.at/stories/3448046/",
+      "summary": "",
+      "published_at": "2026-11-12T22:30:31+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Kultur"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "a1f79ddd9fe1adec3024",
+      "source_id": "orf",
+      "title": "Hegseth ehrte Soldat, der ihn zurechtwies",
+      "url": "https://orf.at/stories/3448045/",
+      "summary": "",
+      "published_at": "2026-11-12T22:15:55+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "ccce9d55ddae2e622f76",
+      "source_id": "standard",
+      "title": "39 europäische Länder beschließen Charta mit \"Schlüsselprinzipien\" für Sicherheit",
+      "url": "https://www.derstandard.at/story/3000000349050/39-europ228ische-l228nder-legen-schl252sselprinzipien-f252r-sicherheit-fest?ref=rss",
+      "summary": "Auf Initiative von Frankreich wurde festgelegt, wie die Sicherheit von Europa in Zukunft gefestigt werden soll. Europäische Staaten sollen größere Verantwortung übernehmen",
+      "published_at": "2026-11-12T22:13:17+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "4c860996f2c4916a0374",
+      "source_id": "guardian-us",
+      "title": "Dozens of protesters arrested after staging sit-in at Chuck Schumer’s DC office",
+      "url": "https://www.theguardian.com/us-news/2026/nov/12/protesters-arrested-chuck-schumer-office-dc",
+      "summary": "Protesters with the Sunrise Movement youth climate group push for new Senate leadership and ending the filibuster Dozens of protesters with the Sunrise Movement, a youth climate organization, were arrested after staging a sit-in inside Senate minority leader Chuck Schumer’s Washington DC office Thursday According to the Sunrise Movement, 54 people were arrested, among a few hundred who joined the protest from across the country, including some from New York, which Schumer represents. On its Instagram, the group is fundraising $24,000 to cover the bail fees and any potential legal fees for thos",
+      "published_at": "2026-11-12T22:12:56+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "Lex McMenamin",
+      "categories": [
+        "Chuck Schumer",
+        "Washington DC",
+        "Protest (US)",
+        "US news",
+        "Climate crisis",
+        "Environment",
+        "Activism",
+        "US politics",
+        "Environmental activism"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "89e149480f92e108f70a",
+      "source_id": "standard",
+      "title": "Die Austria rutscht mit einem 1:3 bei Benfica ans Tabellenende der Champions League",
+      "url": "https://www.derstandard.at/story/3000000349049/die-austria-rutscht-mit-einem-13-bei-benfica-ans-tabellenende-der-champions-league?ref=rss",
+      "summary": "Die Wienerinnen waren gut im Spiel – bis Torfau Pal in der 73. Minute ausgeschlossen wurde. Die Aufstiegschancen sind damit nur noch minimal",
+      "published_at": "2026-11-12T22:05:46+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "2f9bae1e7402e0d7b0eb",
+      "source_id": "fox-politics",
+      "title": "Mamdani prepares to fulfill promise to axe NYPD unit responsible for controlling protest violence",
+      "url": "https://www.foxnews.com/politics/mamdani-prepares-fulfill-promise-axe-nypd-unit-responsible-controlling-protest-violence",
+      "summary": "New York City Mayor Zohran Mamdani is reportedly preparing to announce his plan to disband the NYPD’s Strategic Response Group (SRG), fulfilling a long-held campaign promise that has led to mounting pressure from his base, as well as questions about how the group's duties will be replaced. Politico reported that Mamdani, a democratic socialist, is preparing to announce plans to disband the unit, which responds to protests, civil disturbances and major events while handling counterterrorism operations. Mamdani has said he wants to decouple the unit’s protest and counterterrorism functions, but ",
+      "published_at": "2026-11-12T22:02:42+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "a791f03f-4206-5b7a-a217-6eabe05fa4da",
+        "fnc",
+        "Fox News",
+        "fox-news/person/zohran-mamdani",
+        "fox-news/us/new-york-city",
+        "fox-news/us/crime/police-and-law-enforcement",
+        "fox-news/politics/judiciary/state-and-local",
+        "fox-news/crime",
+        "fox-news/politics",
+        "fox-news/politics"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "9f2bb75b4d79f3ecf27d",
+      "source_id": "orf",
+      "title": "Post stellt deutlich weniger Packerln zu",
+      "url": "https://orf.at/stories/3448007/",
+      "summary": "Die Paketabgaben der vergangenen Monate wirken sich deutlich auf das Versandvolumen der Österreichischen Post aus: Sendungen von außerhalb der EU seien gegenüber dem ersten Halbjahr 2026 um 30 Prozent zurückgegangen, die heimische Paketsteuer habe zu einem Minus von zehn Prozent geführt. Das teilte Postchef Walter Oblin am Donnerstag vor Beginn des Weihnachtsgeschäfts mit.",
+      "published_at": "2026-11-12T21:56:52+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Wirtschaft"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "a262d52e805b088f4e48",
+      "source_id": "standard",
+      "title": "Italien ist wieder da: 3:1 gegen Frankreich in der Nations League",
+      "url": "https://www.derstandard.at/story/3000000349048/italien-ist-wieder-da-31-gegen-frankreich-in-der-nations-league?ref=rss",
+      "summary": "England feierte Kane und Einzug ins Viertelfinale. Spanien setzte Erfolgsserie in Tschechien fort, Belgien siegte in der Türkei 2:1",
+      "published_at": "2026-11-12T21:56:43+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "ce61581fac121f8d3aaf",
+      "source_id": "standard",
+      "title": "Rücktritt von CEO: Nvidia-Aktie gibt vier Prozent ab, US-Börsen schließen tiefer",
+      "url": "https://www.derstandard.at/story/3000000349047/us-b246rsen-schlie223en-tiefer-nvidia-aktie-gibt-vier-prozent-ab?ref=rss",
+      "summary": "Der Technologie-Index Nasdaq-100 verlor 0,30 Prozent, der Leitindex Dow Jones 0,36 Prozent",
+      "published_at": "2026-11-12T21:39:38+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "50d0d341eb72b784df38",
+      "source_id": "guardian-us",
+      "title": "Humpback whale spotted in New York’s Hudson River – video",
+      "url": "https://www.theguardian.com/us-news/video/2026/nov/12/humpback-whale-spotted-in-new-yorks-hudson-river-video",
+      "summary": "A humpback whale was spotted on Thursday swimming in New York’s Hudson River. Sightings of humpbacks in the New York, once rare, are becoming increasingly common. In 2018, 272 whales were spotted in the city’s waters, Gotham Whale told the Guardian, and the group has documented numerous glimpses since Continue reading...",
+      "published_at": "2026-11-12T21:27:43+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "",
+      "categories": [
+        "New York",
+        "Whales",
+        "Wildlife",
+        "US news"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "87874cbac1adf2acc8b7",
+      "source_id": "standard",
+      "title": "Regierungskrise in den Niederlanden eskaliert",
+      "url": "https://www.derstandard.at/story/3000000349045/regierungskrise-in-den-niederlanden-eskaliert?ref=rss",
+      "summary": "Minderheitsregierung könnte in die Brüche gehen, nachdem zwei der drei Parteien für eine \"Millionärssteuer\" stimmten",
+      "published_at": "2026-11-12T21:15:21+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "d7f91623587b08b5dec7",
+      "source_id": "fox-politics",
+      "title": "Democrats turn on Schumer after historic election wins as potential challenger emerges",
+      "url": "https://www.foxnews.com/politics/democrats-turn-schumer-historic-election-wins-potential-challenger-emerges",
+      "summary": "The calls for change that helped flip the Senate on Election Night have now reached the chamber itself, where some Democrats are turning their backs on Senate Minority Leader Chuck Schumer, D-N.Y. Schumer intends to seek another term as Democratic leader as his party prepares to take control of the Senate next year. But some of the progressive forces energized by the party’s blue-wave victories want to replace him, too. His caucus is fracturing over whether to support him, with longtime allies such as Sen. Bernie Sanders, I-Vt., and newer members such as Sen. Elissa Slotkin, D-Mich., having de",
+      "published_at": "2026-11-12T20:55:24+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "06af0b02-7bc8-504a-93f6-78c22e1a90b5",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/person/chuck-schumer",
+        "fox-news/politics/senate",
+        "fox-news/politics/abdul-el-sayed",
+        "fox-news/person/bernie-sanders",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "47e6e98fff35225cd4a2",
+      "source_id": "guardian-us",
+      "title": "Be sea-ing you: humpback whale spotted in New York’s Hudson River",
+      "url": "https://www.theguardian.com/us-news/2026/nov/12/humpback-whale-new-york-city-hudson-river",
+      "summary": "Sightings of the species are becoming increasingly common as experts worry about danger posed by busy waterways A humpback whale was spotted on Thursday swimming in New York’s Hudson River, sparking a social media frenzy. Brad Hoylman-Sigal, president of Manhattan borough, was among those to share a photograph of the whale on Facebook, an image taken on Thursday morning and provided by Gotham Whale, a citizen science and education group that tracks marine mammals in New York’s waterways. Continue reading...",
+      "published_at": "2026-11-12T20:53:49+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "Richard Luscombe",
+      "categories": [
+        "New York",
+        "Marine life",
+        "US news",
+        "Rivers",
+        "Environment"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "a61c6b25757278c24e30",
+      "source_id": "orf",
+      "title": "Niederlande: Regierungskrise eskaliert",
+      "url": "https://orf.at/stories/3448042/",
+      "summary": "",
+      "published_at": "2026-11-12T20:49:57+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "cec505a16dee3efe1df0",
+      "source_id": "fox-politics",
+      "title": "The top Trump officials Democrats admit are on their hit list for investigations in the new Congress",
+      "url": "https://www.foxnews.com/politics/top-trump-officials-democrats-admit-hit-list-investigations-new-congress",
+      "summary": "Democrats are sharing their growing list of senior officials and advisors in President Donald Trump's administration who could face impeachment efforts and congressional investigations when they take control of Congress in January. Left-wing lawmakers are signaling that their oversight ambitions extend well beyond War Secretary Pete Hegseth after Tuesday's failed impeachment effort. Top House and Senate Democrats told Fox News Digital they are considering investigations, congressional hearings and potential impeachment proceedings targeting senior administration officials, including Commerce S",
+      "published_at": "2026-11-12T20:29:09+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "5e283e8e-5582-58e7-98bc-d98036726dba",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/us/congress",
+        "fox-news/person/tom-homan",
+        "fox-news/democrats",
+        "fox-news/person/marco-rubio",
+        "fox-news/person/pete-hegseth",
+        "fox-news/politics"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "b7e918b6fe1e3e0cfaaf",
+      "source_id": "bbc-business",
+      "title": "Jensen Huang has resigned, what's next for Nvidia?",
+      "url": "https://www.bbc.co.uk/news/videos/c6wy9l859r94o?at_campaign=rss&at_medium=RSS",
+      "summary": "Jensen Huang has resigned from Nvidia as chief financial officer Colette Kress replaces him as an interim boss.",
+      "published_at": "2026-11-12T20:21:03+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "bbc-business",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "Business"
+    },
+    {
+      "id": "082e1e9ffb452e61c66a",
+      "source_id": "guardian-us",
+      "title": "CDC reports six measles deaths in 2026 as US battles worst outbreak in 35 years",
+      "url": "https://www.theguardian.com/us-news/2026/nov/12/cdc-measles-deaths",
+      "summary": "Figures highlight spread of virus, officially declared eliminated in US in 2000, but CDC does not identify which states accounted for deaths The Centers for Disease Control and Prevention (CDC) reported six measles-related deaths in the US this year, according to figures published on its website on Thursday, as the country faces its most severe resurgence of the disease in decades. The newly reported total is twice the number of deaths recorded in 2025, highlighting the spread of the highly infectious virus, which was officially declared eliminated in the US in 2000. Continue reading...",
+      "published_at": "2026-11-12T20:19:45+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "Marina Dunbar",
+      "categories": [
+        "US news",
+        "US healthcare",
+        "Trump administration",
+        "World news",
+        "US politics"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "17fa1f3b6784a3a8b68e",
+      "source_id": "fox-politics",
+      "title": "Inside Jim Jordan's effort to usher in new era of Republican leadership: 'He's a fighter'",
+      "url": "https://www.foxnews.com/politics/inside-jim-jordans-effort-usher-new-era-republican-leadership-hes-fighter",
+      "summary": "Rep. Jim Jordan, R-Ohio, is set to take the reins of the House GOP in the next Congress, and his fellow Republicans are quickly rallying to tout him as the best person for the job. The current House Judiciary Committee chairman has enjoyed a high profile in the media for years, long known as a bomb-thrower ever since he helped found the conservative House Freedom Caucus in 2015. Because a House minority leader's primary job is to lead counter-messaging against the majority's agenda, Republican lawmakers are arguing Jordan is in a prime position to be throwing bombs at the other side — potentia",
+      "published_at": "2026-11-12T20:19:20+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "b573c2ab-e520-537c-a60d-d13a76e420c7",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/person/jim-jordan",
+        "fox-news/politics/house-of-representatives",
+        "fox-news/person/steve-scalise",
+        "fox-news/politics/house-of-representatives/republicans",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "538215b74c4f9ef04f73",
+      "source_id": "bbc-world",
+      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+      "url": "https://www.bbc.co.uk/news/articles/cmn0d33zz34zo?at_campaign=rss&at_medium=RSS",
+      "summary": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
+      "published_at": "2026-11-12T20:09:16+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "a2b56c12db4ec994333e",
+      "source_id": "orf",
+      "title": "Harte Fronten bei Wehrdienstreform",
+      "url": "https://orf.at/stories/3447980/",
+      "summary": "Am Donnerstag endet die Begutachtungsfrist für das Wehrdienstreformgesetz (WDRG), das im Wesentlichen eine Verlängerung des Wehrdiensts bedeuten und die Milizübungspflicht zurückbringen soll. Die Bundesregierung braucht dafür in Teilen die Zustimmung von FPÖ oder Grünen. Zuletzt drehte sich die Debatte um das Gleichgewicht zwischen Wehr- und Zivildienst. Personell verschiebt sich dieses seit Jahren deutlich.",
+      "published_at": "2026-11-12T20:07:25+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Inland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "3525e2f8e8dbc60c50f0",
+      "source_id": "standard",
+      "title": "Insider: US-Handelsminister nach Nvidia-Spionageskandal unter Druck",
+      "url": "https://www.derstandard.at/story/3000000349044/insider-us-handelsminister-nach-nvidia-spionageskandal-unter-druck?ref=rss",
+      "summary": "In den USA trifft die mutmaßliche Spionageaffäre rund um den Nvidia-CEO Jensen Huang nun auch die Spitzenpolitik. Eine Ablösung von Handelsminister Lutnick wird diskutiert",
+      "published_at": "2026-11-12T20:04:10+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "c478d895251483977822",
+      "source_id": "standard",
+      "title": "Älter als das iPhone: Apple schließt das Community-Forum nach 28 Jahren",
+      "url": "https://www.derstandard.at/story/3000000348960/aelter-als-das-iphone-apple-schliesst-das-community-forum-nach-28-jahren?ref=rss",
+      "summary": "Wer nach Rat zu Apple-Fragen sucht, muss sich künftig auf Apples offizieller Supportseite zurechtfinden. Der Unmut in der Community ist groß",
+      "published_at": "2026-11-12T20:04:00+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "a2b429191c3eb2d56efb",
+      "source_id": "standard",
+      "title": "Nowitschok-Entwickler Wladimir Ugljow mit 80 Jahren in Russland gestorben",
+      "url": "https://www.derstandard.at/story/3000000348890/nowitschok-entwickler-wladimir-ugljow-mit-80-jahren-in-russland-gestorben?ref=rss",
+      "summary": "Der Chemiker stellte sich offen gegen den Kreml und half bei der Aufklärung der Vergiftungen von Salisbury und Alexej Nawalny. Die Affäre zog Kreise bis nach Österreich",
+      "published_at": "2026-11-12T20:00:00+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "2e687e09ce806217010d",
+      "source_id": "fox-politics",
+      "title": "UN renews Iran's committee seat amid war with US, sparking backlash: 'Morally bankrupt'",
+      "url": "https://www.foxnews.com/politics/un-renews-irans-committee-seat-amid-war-us-sparking-backlash-morally-bankrupt",
+      "summary": "The United Nations reconfirmed Iran to its seat on the Committee for Programme and Coordination on Wednesday, sparking outrage from member states who believe the country’s record of aggression should disqualify its representatives from the committee’s work to review human rights, women’s rights and counterterrorism programs. Ahead of the vote, Hillel Neuer, executive director of UN Watch, a human rights watchdog, said he believes the move gives Iran another tool for the regime’s propaganda machine. \"They use it,\" Neuer said. \"You'll see a headline in Iranian propaganda right away: ‘Hey, look, ",
+      "published_at": "2026-11-12T19:52:06+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "c6aba70c-bb82-5afe-b158-34239cb608bb",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/world/united-nations",
+        "fox-news/world/conflicts/iran",
+        "fox-news/politics/house-of-representatives/foreign-affairs",
+        "fox-news/world",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "e690eea6e67e2dfaf359",
+      "source_id": "guardian-us",
+      "title": "‘Who will be held accountable?’: fatal Brooklyn building collapse devastates community",
+      "url": "https://www.theguardian.com/us-news/2026/nov/12/nyc-building-collapse-reaction",
+      "summary": "New York City officials have confirmed at least eight casualties – six adults and two children – in the collapse Flatbush Ave in Flatbush, New York, stood still and in shock after a three-storey apartment building collapsed on Wednesday afternoon near a construction site. “The last time I saw something like this was when I went to work at 9/11,” Prudence Foster said. Continue reading...",
+      "published_at": "2026-11-12T19:49:24+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "Auzzy Byrdsell in New York",
+      "categories": [
+        "New York",
+        "Brooklyn",
+        "Zohran Mamdani",
+        "US news",
+        "Emergency services",
+        "Firefighters"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "0f91b3ad3b1495e97f45",
+      "source_id": "orf",
+      "title": "Ukraine-Krieg: Diplomatin Plassnik im Studio",
+      "url": "https://orf.at/stories/3448039/",
+      "summary": "",
+      "published_at": "2026-11-12T19:44:14+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Inland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "2829642ef8edfe8cf203",
+      "source_id": "standard",
+      "title": "Störung bei Microsoft Outlook und 365: Nutzer weltweit betroffen",
+      "url": "https://www.derstandard.at/story/3000000349041/ausfall-bei-microsoft-outlook-356-und-teams-tausende-nutzer-betroffen?ref=rss",
+      "summary": "Es kam zu einem größeren Ausfall von verschiedenen Microsoft-Diensten. Laut dem US-Softwarebetreiber wird an einer Behebung gearbeitet. Wie lang das dauert, ist unklar",
+      "published_at": "2026-11-12T19:37:35+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "dade4d36dc05b23f6adb",
+      "source_id": "fox-politics",
+      "title": "Soldier who scolded Hegseth's entourage at Tomb of Unknown Soldier receives special honor from Pentagon chief",
+      "url": "https://www.foxnews.com/politics/soldier-scolded-hegseth-entourage-tomb-unknown-soldier-receives-special-honor-pentagon-chief",
+      "summary": "Secretary of War Pete Hegseth on Thursday awarded a medal to the Army soldier who reprimanded him and his entourage at the Tomb of the Unknown Soldier after laughter was heard from the group on Veterans Day. \"We love soldiers. We love standards,\" Hegseth wrote Thursday in a post on X. \"Well done, Specialist.\" \"Carry on Patriots,\" he added. A Pentagon official confirmed to Fox News Digital in a Thursday statement that Hegseth had \"proudly\" awarded Spc. Thomas Iglesias the medal for \"the execution of his duties.\" TRUMP DEFENDS PENTAGON CHIEF AS MASSIE TARGETS HIM: 'HEGSETH SHOULD BE PRAISED, NOT",
+      "published_at": "2026-11-12T19:34:29+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "ba9d5950-a05f-5a10-b001-0265cfac19d5",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/person/pete-hegseth",
+        "fox-news/politics/defense/secretary-of-defense",
+        "fox-news/us/military/honors",
+        "fox-news/us/military/veterans",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "f84aab3fe89770071666",
+      "source_id": "bbc-world",
+      "title": "Jensen Huang has resigned, what's next for Nvidia?",
+      "url": "https://www.bbc.co.uk/news/videos/cmdx1r99kp9wo?at_campaign=rss&at_medium=RSS",
+      "summary": "The BBC's Samira Hussain reports from Wall Street on what the fall of the tech superstar means for the company and AI.",
+      "published_at": "2026-11-12T19:33:37+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "6a49acea003f0b54a49f",
+      "source_id": "guardian-us",
+      "title": "How will the USMNT replace Mauricio Pochettino? There’s no clear answer",
+      "url": "https://www.theguardian.com/football/2026/nov/12/mauricio-pochettino-replacements-usmnt-manchester-united",
+      "summary": "The USMNT head coach is on the verge of sealing a move to Manchester United, but it’s hard to know who could be in the chair next Sign up for our free newsletter here Even before the 2026 World Cup, the US Soccer Federation projected an air of confidence in its ability to, someday, replace Mauricio Pochettino. “We have a process of, on a regular basis, always reviewing sort of succession planning for all of our key roles at US Soccer,” JT Batson, the federation CEO, told ESPN in April. “We’re ready when anything happens, whether it’s CFO, whether it’s a head coach or anything in between.” Cont",
+      "published_at": "2026-11-12T19:20:01+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "Jeff Rueter",
+      "categories": [
+        "USA",
+        "Football",
+        "Sport",
+        "US sports",
+        "Mauricio Pochettino"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "e16b9b1b026a518555d0",
+      "source_id": "guardian-us",
+      "title": "Mississippi makes history with Democrat Scott Colom’s Senate win - The Latest",
+      "url": "https://www.theguardian.com/news/video/2026/nov/12/mississippi-makes-history-with-democrat-scott-coloms-senate-win-the-latest",
+      "summary": "Mississippi has elected the Democrat Scott Colom in a historic race in the traditionally deep-red state, making him its first Black senator since shortly after the US civil war. The closely contested race was called more than a week after the US midterms, with Colom running against the Republican incumbent, Cindy Hyde-Smith. How did Colom’s grassroots campaign win despite limited early backing from national Democrats? Lucy Hough speaks to politics and democracy reporter George Chidi Continue reading...",
+      "published_at": "2026-11-12T19:00:53+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "Presented by Lucy Hough with George Chidi ; produced by Angus Neale ; senior producer Leonore Schick ; executive producer Zoe Hitch",
+      "categories": [
+        "Democrats",
+        "US midterm elections 2026",
+        "US news",
+        "US Senate",
+        "Republicans",
+        "US politics"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "770c8aa92cf106e6dac3",
+      "source_id": "standard",
+      "title": "Diese Reiseziele können Sie sich 2027 sparen",
+      "url": "https://www.derstandard.at/story/3000000348946/diese-reiseziele-koennen-sie-sich-2027-sparen?ref=rss",
+      "summary": "Zumindest nach Ansicht des Reiseverlags \"Fodors\", der auch heuer wieder eine \"No List\" für das kommende Jahr zusammengestellt hat",
+      "published_at": "2026-11-12T19:00:00+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "f42d4e021b6c02e59ece",
+      "source_id": "fox-politics",
+      "title": "US attorney and Senate Dem spar in dueling letters demanding records preservation: 'I will not be intimidated'",
+      "url": "https://www.foxnews.com/politics/us-attorney-senate-dem-spar-dueling-letters-demanding-records-preservation-will-not-be-intimidated",
+      "summary": "After U.S. Attorney Aaron Reitz issued a letter ordering Sen. Richard Blumenthal, D-Conn., to preserve materials pertaining to the lawmaker's alleged \"intent to deny citizens of their core constitutional rights,\" the senator responded in kind by ordering Reitz to preserve materials pertaining to the decision to issue his letter. \"In recent weeks, you have threatened citizens for associating themselves with the President and other public officials,\" Reitz claimed in his letter to Blumenthal Wednesday. A footnote points to an October Blumenthal press release about the senator issuing letters dem",
+      "published_at": "2026-11-12T18:59:28+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "5b66ae93-65f6-5bf9-a125-ce9b9a830055",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/politics/senate",
+        "fox-news/person/donald-trump",
+        "fox-news/politics/executive/white-house",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "3a609628a4327c24e5d8",
+      "source_id": "standard",
+      "title": "EU-Parlament stimmte vorerst gegen neue Schutzregeln für Kleinanleger",
+      "url": "https://www.derstandard.at/story/3000000349040/eu-parlament-stimmte-vorerst-gegen-neue-schutzregeln-f252r-kleinanleger?ref=rss",
+      "summary": "Obwohl bereits eine Einigung zwischen Rat und Parlament erzielt wurde, hat eine Mehrheit den Gesetzesvorschlag abgelehnt. Nun werden Änderungen vorgeschlagen",
+      "published_at": "2026-11-12T18:58:37+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "67b7f5dfbdcff025b3c5",
+      "source_id": "fox-politics",
+      "title": "House Dem misses Hegseth impeachment vote because of major medical procedure one week after Election Day",
+      "url": "https://www.foxnews.com/politics/house-dem-misses-hegseth-impeachment-vote-major-medical-procedure-week-after-election-day",
+      "summary": "Rep. Lou Correa, D-Calif. — one of the more than a dozen House members who did not vote Tuesday on the impeachment push against Department of War Secretary Pete Hegseth — explained that he had open-heart surgery. \"Thank you to everyone who has reached out with prayers, well wishes, and words of encouragement. Your kindness means a great deal to my family and me. On Tuesday, November 10th, I underwent emergency open-heart surgery. The surgery went well, and I am now recovering,\" the congressman said in a Wednesday post on X. \"When medically cleared, I’ll return to Washington, D.C., and continue",
+      "published_at": "2026-11-12T18:40:10+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "f9794d83-fbf0-5640-b9c1-9808173cd735",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/person/pete-hegseth",
+        "fox-news/politics/house-of-representatives",
+        "fox-news/democrats",
+        "fox-news/health",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "49f9b48dab451d84663a",
+      "source_id": "standard",
+      "title": "U2 und ihr Album \"Carnaval De Luz\": Kinderfasching statt Jux und Völlerei!",
+      "url": "https://www.derstandard.at/story/3000000348887/u2-und-ihr-album-carnaval-de-luz-kinderfasching-statt-jux-und-voellerei?ref=rss",
+      "summary": "Bono rettet für uns noch einmal die Welt. Die Band im Hintergrund klingelingelingt gewohnt effekthascherisch zur Schmusestunde im Gotteshaus",
+      "published_at": "2026-11-12T18:16:00+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "23651c1ee178953c45c9",
+      "source_id": "orf",
+      "title": "Kinder unter Todesopfern nach Hauseinsturz in New York",
+      "url": "https://orf.at/stories/3448038/",
+      "summary": "",
+      "published_at": "2026-11-12T18:11:14+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Chronik"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "1ccecd869f366c9c44e8",
+      "source_id": "guardian-us",
+      "title": "Pete Hegseth awards medal to soldier who reprimanded him near Tomb of the Unknown Soldier",
+      "url": "https://www.theguardian.com/us-news/2026/nov/12/pete-hegseth-medal-soldier-reprimand",
+      "summary": "‘We love standards. Well done, Specialist’, the defense secretary writes following Veterans Day visit US politics live – latest updates The defense secretary, Pete Hegseth, on Thursday awarded a Joint Service Commendation Medal to the soldier who called out him and members of his staff after some in the group were heard laughing and talking near the Tomb of the Unknown Soldier during a Veterans Day visit. “We love soldiers. We love standards. Well done, Specialist,” Hegseth wrote in a social media post. “Carry on Patriots.” The post included a series of photos of Hegseth with the soldier. Cont",
+      "published_at": "2026-11-12T18:08:31+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "Marina Dunbar",
+      "categories": [
+        "Pete Hegseth",
+        "US news",
+        "US politics"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "daf1c3cf82cd543796af",
+      "source_id": "standard",
+      "title": "Israel verbietet französischem Präsidentschaftskandidaten Einreise",
+      "url": "https://www.derstandard.at/story/3000000349037/israel-verbietet-franz246sischem-pr228sidentschaftskandidaten-einreise?ref=rss",
+      "summary": "Grund sei die \"extrem antiisraelische Haltung\" von Jean-Luc Mélenchon und seiner Partei La France Insoumise (LFI), wie Israels Außenminister Saar mitteilte",
+      "published_at": "2026-11-12T18:05:49+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "ef2778c5e2386e0d56a4",
+      "source_id": "guardian-us",
+      "title": "Steph Curry’s defense of Ayesha exposes the ugly double standards of sports’ manosphere | Andrew Lawrence",
+      "url": "https://www.theguardian.com/sport/2026/nov/12/steph-curry-ayesha-curry-manosphere-marriage-backlash",
+      "summary": "The Warriors superstar’s forceful defense of his wife over an on-screen kiss has exposed the ugly double standards and fragile masculinity of sports’ manosphere If Steph Curry is leading with his full government name, know that he means business. In a 90-second video released on Wednesday, from the Instagram account of “Wardell Curry”, he put the internet trolls who have been attacking his wife for years on notice. “Usually the noise doesn’t bother me, doesn’t bother Ayesha,” the four-time NBA champion and Paris Olympic knockout artist said. “But when you’re trying to step on the accomplishmen",
+      "published_at": "2026-11-12T18:03:05+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "Andrew Lawrence",
+      "categories": [
+        "Stephen Curry",
+        "NBA",
+        "Basketball",
+        "Sport",
+        "US sports",
+        "Travis Kelce",
+        "Taylor Swift"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "2b62df6fd9dbd44db300",
+      "source_id": "orf",
+      "title": "Israel verbietet Melenchon Einreise",
+      "url": "https://orf.at/stories/3448036/",
+      "summary": "",
+      "published_at": "2026-11-12T18:02:37+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "5cb268eb4a4d540e83c1",
+      "source_id": "standard",
+      "title": "Papst mahnt Ende von \"Macho-Mentalität\" an",
+      "url": "https://www.derstandard.at/story/3000000349036/papst-mahnt-ende-von-macho-mentalit228t-an?ref=rss",
+      "summary": "\"Machismo\" sei laut Papst Leo XIV. nicht mit dem christlichen Bild vereinbar. Bei einer Rede in Peru forderte er mehr Teilhabe von Frauen im öffentlichen Leben",
+      "published_at": "2026-11-12T17:55:09+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "ff92d7a4f04f9ca7ace8",
+      "source_id": "standard",
+      "title": "Wesentlich mehr Urlaubsanträge rund um Startdatum von Videospiel GTA VI",
+      "url": "https://www.derstandard.at/story/3000000349035/premiere-von-videospiel-gta-vi-treibt-urlaubsantr228ge-in-die-h246he?ref=rss",
+      "summary": "Der Personalsoftware-Anbieter Personio hat interne Daten ausgewertet. Demnach wurden überdurchschnittlich viele Urlaubsanträge für 19. November und danach eingereicht",
+      "published_at": "2026-11-12T17:50:16+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "9f964b47fd1e8316984e",
+      "source_id": "fox-politics",
+      "title": "Trump asks Vance to focus on ‘corruption and crime’ in Dem-run cities, states",
+      "url": "https://www.foxnews.com/politics/trump-asks-vance-focus-corruption-crime-dem-run-cities-states",
+      "summary": "President Donald Trump said Thursday that he has asked Vice President JD Vance to focus his \"complete and total attention\" on alleged widespread corruption and crime in Democrat-led cities and states, accusing blue state leaders of allowing billions of dollars to be stolen each month. In a Truth Social post, Trump singled out Minnesota, California and Illinois as examples of states he claims are plagued by corruption and mismanagement, arguing that cracking down on the alleged criminal activity could help balance the federal budget. \"I have asked Vice President Vance to focus his complete and ",
+      "published_at": "2026-11-12T17:48:55+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "9b0527a2-a498-5d36-9e95-37c6efec7409",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/person/donald-trump",
+        "fox-news/person/jd-vance",
+        "fox-news/us/blue-city-crime",
+        "fox-news/corruption",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "26a738d074acfb3aaa0a",
+      "source_id": "fox-politics",
+      "title": "Howard Lutnick is next Trump official top Dems want on the chopping block amid NVIDIA scandal",
+      "url": "https://www.foxnews.com/politics/howard-lutnick-next-trump-official-dems-want-chopping-block-amid-nvidia-scandal",
+      "summary": "EXCLUSIVE : Top House Democrats are calling for an investigation into Commerce Secretary Howard Lutnick over allegations involving NVIDIA's former CEO's reported relationship with an alleged Chinese spy. NVIDIA CEO Jensen Huang resigned this week following allegations that he had an affair with Alice Huang, an executive at Singapore-based Megaspeed who is suspected of being a Chinese spy. In the midst of the spy scandal, multiple investigative reports emerged claiming Lutnick received a classified memo warning him about Huang’s relationship with alleged Chinese spy Alice Huang, of no familial ",
+      "published_at": "2026-11-12T17:38:40+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "733466a1-7efe-5dfd-8aa1-9b061383f3f4",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/world/world-regions/china",
+        "fox-news/person/donald-trump",
+        "fox-news/us/congress",
+        "fox-news/politics/house-of-representatives",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "d0a3749d432cfea1f8f3",
+      "source_id": "fox-politics",
+      "title": "Trump opens door to immigration deal, but Republicans have one condition",
+      "url": "https://www.foxnews.com/politics/trump-opens-door-immigration-deal-republicans-have-one-condition",
+      "summary": "Some Senate Republicans are open to revisiting immigration policy after President Donald Trump floated a possible deal with Democrats, but they insist amnesty remains off the table. Republicans, after sweeping midterm losses, are willing to open up the immigration policy debate after voters made clear that they didn't support the administration’s approach: a Fox News poll published in September found that 53% of voters believed that Trump's immigration policy had gone too far. But there’s one thing that Senate Republicans won’t agree to: amnesty. WHITE HOUSE DOUBLES DOWN AFTER TRUMP ANGERS BAS",
+      "published_at": "2026-11-12T17:35:28+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "2e6a9c54-166a-509f-8ebd-2eeb1d16fe5a",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/person/donald-trump",
+        "fox-news/us/immigration",
+        "fox-news/us/immigration/amnesty",
+        "fox-news/politics/senate",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "b07d88933849043904c4",
+      "source_id": "guardian-us",
+      "title": "Home sales hit 16-year low in October amid record-high mortgage rates",
+      "url": "https://www.theguardian.com/business/2026/nov/12/home-sales-october-low",
+      "summary": "Sales of built units fell to 3.75m in October, down by 8.8% from last year, with mortgage rates at nearly three-year high US existing home sales hit a 16-year low in October as buyers were driven away by record-high mortgage rates and rising inflation, according to new data released on Wednesday. Sales of already built units dropped to 3.75m in October, down by 8.8% from last year, the National Association of Realtors (NAR) reported. The median existing-home sales price increased slightly to $416,700. Declines in sales were seen in the midwest, south and west, though sales in the north-east he",
+      "published_at": "2026-11-12T17:26:07+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "Gaya Gupta",
+      "categories": [
+        "Housing market",
+        "US mortgages",
+        "Business",
+        "Mortgage rates",
+        "US interest rates",
+        "Real estate",
+        "US economy",
+        "Economics",
+        "US news"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
     {
       "id": "329719abce18eb99b930",
       "source_id": "orf",
@@ -2397,6 +3417,21 @@
       "category": "World"
     },
     {
+      "id": "790f879b3c6e106bde58",
+      "source_id": "standard",
+      "title": "Spionage und Affären: Warum Nvidias CEO Jensen Huang zurückgetreten ist",
+      "url": "https://www.derstandard.at/story/3000000348868/spionage-und-affaeren-warum-nvidias-ceo-jensen-huang-zurueckgetreten-ist?ref=rss",
+      "summary": "Der US-Chipriese sorgt für ein Beben in der Techbranche, in dessen Epizentrum sein eigener Chef steht",
+      "published_at": "2026-11-12T10:37:48+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
       "id": "3b720b51e0e3ba20ef96",
       "source_id": "standard",
       "title": "Italien will Mindesttempo 100 auf der Autobahn – Österreichs Verkehrsministerium sieht Pläne kritisch",
@@ -2530,6 +3565,21 @@
       "language": "de",
       "country": "AT",
       "category": "World"
+    },
+    {
+      "id": "086ff73b1a4839bf4e5a",
+      "source_id": "standard",
+      "title": "Zwei Fiaker-Unfälle an einem Tag in Wiener Innenstadt",
+      "url": "https://www.derstandard.at/story/3000000348911/zwei-fiaker-unf228lle-an-einem-tag-in-wiener-innenstadt?ref=rss",
+      "summary": "Einmal kollidierte eine Kutsche mit einem Straßenschild, im anderen Fall raste das Gespann gegen einen Brunnen. Die Pferde verletzten sich dabei",
+      "published_at": "2026-11-12T10:02:13+00:00",
+      "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
     },
     {
       "id": "0d27c29bcf378592cd78",
@@ -14468,6 +15518,1875 @@
   ],
   "stories": [
     {
+      "id": "story-9459a9fc414223e84f6c",
+      "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
+      "overview": "US lawmakers now want to question Huang over whether one of his alleged relationships was with a Chinese spy.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T23:34:05+00:00",
+      "updated_at": "2026-11-12T23:34:05+00:00",
+      "article_ids": [
+        "c2388c723a7348aa7b4e"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-aadaaa90824077d79abb",
+      "title": "Democrat Cindy Holscher wins Kansas governor's race, extending party's hold on governor's mansion",
+      "overview": "Democratic state Sen. Cindy Holscher won the Kansas governor’s race, defeating Republican Kansas Senate President Ty Masterson in the open contest to succeed term-limited Democratic Gov. Laura Kelly, The Associated Press projected.The victory keeps the governor’s mansion in Democratic hands and marks the third consecutive Kansas gubernatorial election won by a Democrat. Kelly won the office in 2018 and secured a second term in 2022.Holscher has served in the Kansas Senate since 2021 after previously spending four years in the state House. She secured the Democratic nomination after defeating f",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T23:06:47+00:00",
+      "updated_at": "2026-11-12T23:06:47+00:00",
+      "article_ids": [
+        "396840a654746a6d74a6"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-453dac68bb70300f19bf",
+      "title": "Standardrätsel I 11442",
+      "overview": "Täglich neu, exklusiv für Smart-Abonnent:innen: Das knifflige Quizkultur-Rätsel des STANDARD",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T23:01:00+00:00",
+      "updated_at": "2026-11-12T23:01:00+00:00",
+      "article_ids": [
+        "07f47c087bc0461fe288"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-0061a5ffda5bf2c09910",
+      "title": "Finanzchefin Kress soll Nvidia auf Kurs halten",
+      "overview": "Der Rückzug von Nvidia-Gründer Jensen Huang nach seinen Affären bringt Finanzchefin Colette Kress beim Chipriesen nach 13 Jahren ins Rampenlicht. Mit dem rasanten Aufstieg der Firma zum Motor des KI-Booms spielte sie angesichts der explosiven Umsatzentwicklung bereits eine Schlüsselrolle. Jetzt muss sie als kommissarische Chefin jedoch plötzlich das ganze Unternehmen managen – dieses war bisher komplett auf die Führungsrolle von Huang zugeschnitten.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T22:47:52+00:00",
+      "updated_at": "2026-11-12T22:47:52+00:00",
+      "article_ids": [
+        "1e0c5f9f046fb28dcae7"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-c2c41794d588d1444823",
+      "title": "Gauff saves three set points to beat Kostyuk and keep WTA Finals hopes alive",
+      "overview": "American saves three set points in second-set rally Gauff wins six straight games to seal 6-4, 7-5 victory World No 4 needs Noskova help to reach last four Coco Gauff clawed out a 6-4, 7-5 round-robin victory over Marta Kostyuk on Thursday to keep her WTA Finals hopes alive in Indian Wells, California. The world No 4 still needs help to reach the semi-finals of the elite season-ending event. If fifth-ranked compatriot Jessica Pegula beats Wimbledon champion Linda Noskova in Thursday’s final group match, Pegula will advance instead. Noskova has already qualified. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T22:40:15+00:00",
+      "updated_at": "2026-11-12T22:40:15+00:00",
+      "article_ids": [
+        "cab22b608c321c60483c"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-f2d03c310933e126409a",
+      "title": "Donald Trump Jr exits as paid adviser for prediction market Kalshi",
+      "overview": "Kalshi announces ‘mutual decision’ as Democrats say they plan to investigate Trump family’s investments Donald Trump Jr is no longer a paid adviser for Kalshi, the prediction market company said Thursday. Kalshi described it as a mutual business decision between the two parties that followed a decision by Trump Jr’s investment firm, 1789 Capital, to increase its investment in Kalshi’s biggest competitor Polymarket. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T22:37:10+00:00",
+      "updated_at": "2026-11-12T22:37:10+00:00",
+      "article_ids": [
+        "59ecbfdff1e7f050db49"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-2ca4a29a3538b9fca426",
+      "title": "Wegen Tinnitus: Duran-Duran-Drummer Roger Taylor hört auf",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T22:30:31+00:00",
+      "updated_at": "2026-11-12T22:30:31+00:00",
+      "article_ids": [
+        "323eec70429aac057ca9"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-afa2d844317ae708a395",
+      "title": "Hegseth ehrte Soldat, der ihn zurechtwies",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T22:15:55+00:00",
+      "updated_at": "2026-11-12T22:15:55+00:00",
+      "article_ids": [
+        "a1f79ddd9fe1adec3024"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-22aeffc364581fa0b84f",
+      "title": "Europäische Staaten: „Schlüsselprinzipien“ für Sicherheit",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T16:23:03+00:00",
+      "updated_at": "2026-11-12T22:13:17+00:00",
+      "article_ids": [
+        "21a6d88b1d1d7aab67bd",
+        "ccce9d55ddae2e622f76"
+      ],
+      "publisher_count": 2,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [
+        "europäische",
+        "schlüsselprinzipien",
+        "sicherheit"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-f4b4834cf43140fc28f3",
+      "title": "Dozens of protesters arrested after staging sit-in at Chuck Schumer’s DC office",
+      "overview": "Protesters with the Sunrise Movement youth climate group push for new Senate leadership and ending the filibuster Dozens of protesters with the Sunrise Movement, a youth climate organization, were arrested after staging a sit-in inside Senate minority leader Chuck Schumer’s Washington DC office Thursday According to the Sunrise Movement, 54 people were arrested, among a few hundred who joined the protest from across the country, including some from New York, which Schumer represents. On its Instagram, the group is fundraising $24,000 to cover the bail fees and any potential legal fees for thos",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T22:12:56+00:00",
+      "updated_at": "2026-11-12T22:12:56+00:00",
+      "article_ids": [
+        "4c860996f2c4916a0374"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-3eae4dbdc8bfc61516bc",
+      "title": "Die Austria rutscht mit einem 1:3 bei Benfica ans Tabellenende der Champions League",
+      "overview": "Die Wienerinnen waren gut im Spiel – bis Torfau Pal in der 73. Minute ausgeschlossen wurde. Die Aufstiegschancen sind damit nur noch minimal",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T22:05:46+00:00",
+      "updated_at": "2026-11-12T22:05:46+00:00",
+      "article_ids": [
+        "89e149480f92e108f70a"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-291fde4cb2eed6dbc36a",
+      "title": "Mamdani prepares to fulfill promise to axe NYPD unit responsible for controlling protest violence",
+      "overview": "New York City Mayor Zohran Mamdani is reportedly preparing to announce his plan to disband the NYPD’s Strategic Response Group (SRG), fulfilling a long-held campaign promise that has led to mounting pressure from his base, as well as questions about how the group's duties will be replaced. Politico reported that Mamdani, a democratic socialist, is preparing to announce plans to disband the unit, which responds to protests, civil disturbances and major events while handling counterterrorism operations. Mamdani has said he wants to decouple the unit’s protest and counterterrorism functions, but ",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T22:02:42+00:00",
+      "updated_at": "2026-11-12T22:02:42+00:00",
+      "article_ids": [
+        "2f9bae1e7402e0d7b0eb"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-036b3cb08c75bc4a058f",
+      "title": "Post stellt deutlich weniger Packerln zu",
+      "overview": "Die Paketabgaben der vergangenen Monate wirken sich deutlich auf das Versandvolumen der Österreichischen Post aus: Sendungen von außerhalb der EU seien gegenüber dem ersten Halbjahr 2026 um 30 Prozent zurückgegangen, die heimische Paketsteuer habe zu einem Minus von zehn Prozent geführt. Das teilte Postchef Walter Oblin am Donnerstag vor Beginn des Weihnachtsgeschäfts mit.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T21:56:52+00:00",
+      "updated_at": "2026-11-12T21:56:52+00:00",
+      "article_ids": [
+        "9f2bb75b4d79f3ecf27d"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-a2040065463b7ad91b4d",
+      "title": "Italien ist wieder da: 3:1 gegen Frankreich in der Nations League",
+      "overview": "England feierte Kane und Einzug ins Viertelfinale. Spanien setzte Erfolgsserie in Tschechien fort, Belgien siegte in der Türkei 2:1",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T21:56:43+00:00",
+      "updated_at": "2026-11-12T21:56:43+00:00",
+      "article_ids": [
+        "a262d52e805b088f4e48"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-1d8563b37371fdc7b660",
+      "title": "Rücktritt von CEO: Nvidia-Aktie gibt vier Prozent ab, US-Börsen schließen tiefer",
+      "overview": "Der Technologie-Index Nasdaq-100 verlor 0,30 Prozent, der Leitindex Dow Jones 0,36 Prozent",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T21:39:38+00:00",
+      "updated_at": "2026-11-12T21:39:38+00:00",
+      "article_ids": [
+        "ce61581fac121f8d3aaf"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-e0a3188353ad59912d41",
+      "title": "Be sea-ing you: humpback whale spotted in New York’s Hudson River",
+      "overview": "Sightings of the species are becoming increasingly common as experts worry about danger posed by busy waterways A humpback whale was spotted on Thursday swimming in New York’s Hudson River, sparking a social media frenzy. Brad Hoylman-Sigal, president of Manhattan borough, was among those to share a photograph of the whale on Facebook, an image taken on Thursday morning and provided by Gotham Whale, a citizen science and education group that tracks marine mammals in New York’s waterways. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T20:53:49+00:00",
+      "updated_at": "2026-11-12T21:27:43+00:00",
+      "article_ids": [
+        "47e6e98fff35225cd4a2",
+        "50d0d341eb72b784df38"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 2,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [
+        "hudson",
+        "humpback",
+        "river",
+        "spotted",
+        "whale",
+        "york"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-66e7d7ca9241a3040ab8",
+      "title": "Regierungskrise in den Niederlanden eskaliert",
+      "overview": "Minderheitsregierung könnte in die Brüche gehen, nachdem zwei der drei Parteien für eine \"Millionärssteuer\" stimmten",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T21:15:21+00:00",
+      "updated_at": "2026-11-12T21:15:21+00:00",
+      "article_ids": [
+        "87874cbac1adf2acc8b7"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-6c57bc0f2b2f82b48bf0",
+      "title": "Democrats turn on Schumer after historic election wins as potential challenger emerges",
+      "overview": "The calls for change that helped flip the Senate on Election Night have now reached the chamber itself, where some Democrats are turning their backs on Senate Minority Leader Chuck Schumer, D-N.Y. Schumer intends to seek another term as Democratic leader as his party prepares to take control of the Senate next year. But some of the progressive forces energized by the party’s blue-wave victories want to replace him, too. His caucus is fracturing over whether to support him, with longtime allies such as Sen. Bernie Sanders, I-Vt., and newer members such as Sen. Elissa Slotkin, D-Mich., having de",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T20:55:24+00:00",
+      "updated_at": "2026-11-12T20:55:24+00:00",
+      "article_ids": [
+        "d7f91623587b08b5dec7"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-63d2f833dd5432be6a66",
+      "title": "Niederlande: Regierungskrise eskaliert",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T20:49:57+00:00",
+      "updated_at": "2026-11-12T20:49:57+00:00",
+      "article_ids": [
+        "a61c6b25757278c24e30"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-920ff04049d3e77a194c",
+      "title": "The top Trump officials Democrats admit are on their hit list for investigations in the new Congress",
+      "overview": "Democrats are sharing their growing list of senior officials and advisors in President Donald Trump's administration who could face impeachment efforts and congressional investigations when they take control of Congress in January. Left-wing lawmakers are signaling that their oversight ambitions extend well beyond War Secretary Pete Hegseth after Tuesday's failed impeachment effort. Top House and Senate Democrats told Fox News Digital they are considering investigations, congressional hearings and potential impeachment proceedings targeting senior administration officials, including Commerce S",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T20:29:09+00:00",
+      "updated_at": "2026-11-12T20:29:09+00:00",
+      "article_ids": [
+        "cec505a16dee3efe1df0"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-ad9ceedc3166ffd30eb7",
+      "title": "Jensen Huang has resigned, what's next for Nvidia?",
+      "overview": "The BBC's Samira Hussain reports from Wall Street on what the fall of the tech superstar means for the company and AI.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T19:33:37+00:00",
+      "updated_at": "2026-11-12T20:21:03+00:00",
+      "article_ids": [
+        "f84aab3fe89770071666",
+        "b7e918b6fe1e3e0cfaaf"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 2
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [
+        "has",
+        "huang",
+        "jensen",
+        "next",
+        "nvidia",
+        "resigned",
+        "what"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-0643e926510d3d92713b",
+      "title": "CDC reports six measles deaths in 2026 as US battles worst outbreak in 35 years",
+      "overview": "Figures highlight spread of virus, officially declared eliminated in US in 2000, but CDC does not identify which states accounted for deaths The Centers for Disease Control and Prevention (CDC) reported six measles-related deaths in the US this year, according to figures published on its website on Thursday, as the country faces its most severe resurgence of the disease in decades. The newly reported total is twice the number of deaths recorded in 2025, highlighting the spread of the highly infectious virus, which was officially declared eliminated in the US in 2000. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T20:19:45+00:00",
+      "updated_at": "2026-11-12T20:19:45+00:00",
+      "article_ids": [
+        "082e1e9ffb452e61c66a"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-7651c583a7addc4fd08c",
+      "title": "Inside Jim Jordan's effort to usher in new era of Republican leadership: 'He's a fighter'",
+      "overview": "Rep. Jim Jordan, R-Ohio, is set to take the reins of the House GOP in the next Congress, and his fellow Republicans are quickly rallying to tout him as the best person for the job. The current House Judiciary Committee chairman has enjoyed a high profile in the media for years, long known as a bomb-thrower ever since he helped found the conservative House Freedom Caucus in 2015. Because a House minority leader's primary job is to lead counter-messaging against the majority's agenda, Republican lawmakers are arguing Jordan is in a prime position to be throwing bombs at the other side — potentia",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T20:19:20+00:00",
+      "updated_at": "2026-11-12T20:19:20+00:00",
+      "article_ids": [
+        "17fa1f3b6784a3a8b68e"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-f03f1d45af891e976c42",
+      "title": "Russian warship hit by Ukrainian drone in Gulf of Finland",
+      "overview": "The attack is thought to be the first time Ukrainian drones have attacked a Russian ship in an open stretch of the Baltic Sea.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T20:09:16+00:00",
+      "updated_at": "2026-11-12T20:09:16+00:00",
+      "article_ids": [
+        "538215b74c4f9ef04f73"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-96d97b4120905019dad3",
+      "title": "Harte Fronten bei Wehrdienstreform",
+      "overview": "Am Donnerstag endet die Begutachtungsfrist für das Wehrdienstreformgesetz (WDRG), das im Wesentlichen eine Verlängerung des Wehrdiensts bedeuten und die Milizübungspflicht zurückbringen soll. Die Bundesregierung braucht dafür in Teilen die Zustimmung von FPÖ oder Grünen. Zuletzt drehte sich die Debatte um das Gleichgewicht zwischen Wehr- und Zivildienst. Personell verschiebt sich dieses seit Jahren deutlich.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T20:07:25+00:00",
+      "updated_at": "2026-11-12T20:07:25+00:00",
+      "article_ids": [
+        "a2b56c12db4ec994333e"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-4274be2ce2cccfcb375b",
+      "title": "Insider: US-Handelsminister nach Nvidia-Spionageskandal unter Druck",
+      "overview": "In den USA trifft die mutmaßliche Spionageaffäre rund um den Nvidia-CEO Jensen Huang nun auch die Spitzenpolitik. Eine Ablösung von Handelsminister Lutnick wird diskutiert",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T20:04:10+00:00",
+      "updated_at": "2026-11-12T20:04:10+00:00",
+      "article_ids": [
+        "3525e2f8e8dbc60c50f0"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-6becc90ba404d3b2f98c",
+      "title": "Älter als das iPhone: Apple schließt das Community-Forum nach 28 Jahren",
+      "overview": "Wer nach Rat zu Apple-Fragen sucht, muss sich künftig auf Apples offizieller Supportseite zurechtfinden. Der Unmut in der Community ist groß",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T20:04:00+00:00",
+      "updated_at": "2026-11-12T20:04:00+00:00",
+      "article_ids": [
+        "c478d895251483977822"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-57afba50b4b567ad2d3e",
+      "title": "Nowitschok-Entwickler Wladimir Ugljow mit 80 Jahren in Russland gestorben",
+      "overview": "Der Chemiker stellte sich offen gegen den Kreml und half bei der Aufklärung der Vergiftungen von Salisbury und Alexej Nawalny. Die Affäre zog Kreise bis nach Österreich",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T20:00:00+00:00",
+      "updated_at": "2026-11-12T20:00:00+00:00",
+      "article_ids": [
+        "a2b429191c3eb2d56efb"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-bcf944ddac192374e9c4",
+      "title": "UN renews Iran's committee seat amid war with US, sparking backlash: 'Morally bankrupt'",
+      "overview": "The United Nations reconfirmed Iran to its seat on the Committee for Programme and Coordination on Wednesday, sparking outrage from member states who believe the country’s record of aggression should disqualify its representatives from the committee’s work to review human rights, women’s rights and counterterrorism programs. Ahead of the vote, Hillel Neuer, executive director of UN Watch, a human rights watchdog, said he believes the move gives Iran another tool for the regime’s propaganda machine. \"They use it,\" Neuer said. \"You'll see a headline in Iranian propaganda right away: ‘Hey, look, ",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T19:52:06+00:00",
+      "updated_at": "2026-11-12T19:52:06+00:00",
+      "article_ids": [
+        "2e687e09ce806217010d"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-ba7b5d26914618adee37",
+      "title": "‘Who will be held accountable?’: fatal Brooklyn building collapse devastates community",
+      "overview": "New York City officials have confirmed at least eight casualties – six adults and two children – in the collapse Flatbush Ave in Flatbush, New York, stood still and in shock after a three-storey apartment building collapsed on Wednesday afternoon near a construction site. “The last time I saw something like this was when I went to work at 9/11,” Prudence Foster said. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T19:49:24+00:00",
+      "updated_at": "2026-11-12T19:49:24+00:00",
+      "article_ids": [
+        "e690eea6e67e2dfaf359"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-b4605d358ae014cf4e4a",
+      "title": "Ukraine-Krieg: Diplomatin Plassnik im Studio",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T19:44:14+00:00",
+      "updated_at": "2026-11-12T19:44:14+00:00",
+      "article_ids": [
+        "0f91b3ad3b1495e97f45"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-faba2d3135b0c93f00ba",
+      "title": "Störung bei Microsoft Outlook und 365: Nutzer weltweit betroffen",
+      "overview": "Es kam zu einem größeren Ausfall von verschiedenen Microsoft-Diensten. Laut dem US-Softwarebetreiber wird an einer Behebung gearbeitet. Wie lang das dauert, ist unklar",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T19:37:35+00:00",
+      "updated_at": "2026-11-12T19:37:35+00:00",
+      "article_ids": [
+        "2829642ef8edfe8cf203"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-2aba554a5df980bab54c",
+      "title": "Soldier who scolded Hegseth's entourage at Tomb of Unknown Soldier receives special honor from Pentagon chief",
+      "overview": "Secretary of War Pete Hegseth on Thursday awarded a medal to the Army soldier who reprimanded him and his entourage at the Tomb of the Unknown Soldier after laughter was heard from the group on Veterans Day. \"We love soldiers. We love standards,\" Hegseth wrote Thursday in a post on X. \"Well done, Specialist.\" \"Carry on Patriots,\" he added. A Pentagon official confirmed to Fox News Digital in a Thursday statement that Hegseth had \"proudly\" awarded Spc. Thomas Iglesias the medal for \"the execution of his duties.\" TRUMP DEFENDS PENTAGON CHIEF AS MASSIE TARGETS HIM: 'HEGSETH SHOULD BE PRAISED, NOT",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T19:34:29+00:00",
+      "updated_at": "2026-11-12T19:34:29+00:00",
+      "article_ids": [
+        "dade4d36dc05b23f6adb"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-d34a6211ab209dcb7cee",
+      "title": "How will the USMNT replace Mauricio Pochettino? There’s no clear answer",
+      "overview": "The USMNT head coach is on the verge of sealing a move to Manchester United, but it’s hard to know who could be in the chair next Sign up for our free newsletter here Even before the 2026 World Cup, the US Soccer Federation projected an air of confidence in its ability to, someday, replace Mauricio Pochettino. “We have a process of, on a regular basis, always reviewing sort of succession planning for all of our key roles at US Soccer,” JT Batson, the federation CEO, told ESPN in April. “We’re ready when anything happens, whether it’s CFO, whether it’s a head coach or anything in between.” Cont",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T19:20:01+00:00",
+      "updated_at": "2026-11-12T19:20:01+00:00",
+      "article_ids": [
+        "6a49acea003f0b54a49f"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-e0885b004899e0f8c69f",
+      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
+      "overview": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T23:52:30+00:00",
+      "updated_at": "2026-11-12T19:00:53+00:00",
+      "article_ids": [
+        "c69d771ab41e5f831cea",
+        "a22beb6b50ef548c5a3b",
+        "99b9a16058a49cc01179",
+        "07a4c81e127a327b9315",
+        "e16b9b1b026a518555d0"
+      ],
+      "publisher_count": 2,
+      "article_counts": {
+        "left": 4,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK",
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [
+        "colom",
+        "democrat",
+        "historic",
+        "mississippi",
+        "scott",
+        "senate",
+        "win"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-c73991330d0f152bd09e",
+      "title": "Diese Reiseziele können Sie sich 2027 sparen",
+      "overview": "Zumindest nach Ansicht des Reiseverlags \"Fodors\", der auch heuer wieder eine \"No List\" für das kommende Jahr zusammengestellt hat",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T19:00:00+00:00",
+      "updated_at": "2026-11-12T19:00:00+00:00",
+      "article_ids": [
+        "770c8aa92cf106e6dac3"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-84159eb3106a23fb70ff",
+      "title": "US attorney and Senate Dem spar in dueling letters demanding records preservation: 'I will not be intimidated'",
+      "overview": "After U.S. Attorney Aaron Reitz issued a letter ordering Sen. Richard Blumenthal, D-Conn., to preserve materials pertaining to the lawmaker's alleged \"intent to deny citizens of their core constitutional rights,\" the senator responded in kind by ordering Reitz to preserve materials pertaining to the decision to issue his letter. \"In recent weeks, you have threatened citizens for associating themselves with the President and other public officials,\" Reitz claimed in his letter to Blumenthal Wednesday. A footnote points to an October Blumenthal press release about the senator issuing letters dem",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T18:59:28+00:00",
+      "updated_at": "2026-11-12T18:59:28+00:00",
+      "article_ids": [
+        "f42d4e021b6c02e59ece"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-2c59fc1a67c5f915f9c7",
+      "title": "EU-Parlament stimmte vorerst gegen neue Schutzregeln für Kleinanleger",
+      "overview": "Obwohl bereits eine Einigung zwischen Rat und Parlament erzielt wurde, hat eine Mehrheit den Gesetzesvorschlag abgelehnt. Nun werden Änderungen vorgeschlagen",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T18:58:37+00:00",
+      "updated_at": "2026-11-12T18:58:37+00:00",
+      "article_ids": [
+        "3a609628a4327c24e5d8"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-492b33f76f58f014982f",
+      "title": "House Dem misses Hegseth impeachment vote because of major medical procedure one week after Election Day",
+      "overview": "Rep. Lou Correa, D-Calif. — one of the more than a dozen House members who did not vote Tuesday on the impeachment push against Department of War Secretary Pete Hegseth — explained that he had open-heart surgery. \"Thank you to everyone who has reached out with prayers, well wishes, and words of encouragement. Your kindness means a great deal to my family and me. On Tuesday, November 10th, I underwent emergency open-heart surgery. The surgery went well, and I am now recovering,\" the congressman said in a Wednesday post on X. \"When medically cleared, I’ll return to Washington, D.C., and continue",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T18:40:10+00:00",
+      "updated_at": "2026-11-12T18:40:10+00:00",
+      "article_ids": [
+        "67b7f5dfbdcff025b3c5"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-7900589d588b899bbe4f",
+      "title": "U2 und ihr Album \"Carnaval De Luz\": Kinderfasching statt Jux und Völlerei!",
+      "overview": "Bono rettet für uns noch einmal die Welt. Die Band im Hintergrund klingelingelingt gewohnt effekthascherisch zur Schmusestunde im Gotteshaus",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T18:16:00+00:00",
+      "updated_at": "2026-11-12T18:16:00+00:00",
+      "article_ids": [
+        "49f9b48dab451d84663a"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-997a03ce8df72cbba0d6",
+      "title": "Kinder unter Todesopfern nach Hauseinsturz in New York",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T18:11:14+00:00",
+      "updated_at": "2026-11-12T18:11:14+00:00",
+      "article_ids": [
+        "23651c1ee178953c45c9"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-915cc12f228e8d87ab28",
+      "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
+      "overview": "Following a ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at to be quiet.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T21:43:35+00:00",
+      "updated_at": "2026-11-12T18:08:31+00:00",
+      "article_ids": [
+        "37adbbfdc577f94dc3fa",
+        "fa20d294a6c0dc7cbd74",
+        "1ccecd869f366c9c44e8"
+      ],
+      "publisher_count": 2,
+      "article_counts": {
+        "left": 2,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK",
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [
+        "guard",
+        "hegseth",
+        "reprimanded",
+        "soldier",
+        "tomb",
+        "unknown"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-592c0cb36bdad78a3b6c",
+      "title": "Israel verbietet Melenchon Einreise",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T18:02:37+00:00",
+      "updated_at": "2026-11-12T18:05:49+00:00",
+      "article_ids": [
+        "2b62df6fd9dbd44db300",
+        "daf1c3cf82cd543796af"
+      ],
+      "publisher_count": 2,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [
+        "einreise",
+        "israel",
+        "verbietet"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-5c068f46bfa8022bc5fb",
+      "title": "Steph Curry’s defense of Ayesha exposes the ugly double standards of sports’ manosphere | Andrew Lawrence",
+      "overview": "The Warriors superstar’s forceful defense of his wife over an on-screen kiss has exposed the ugly double standards and fragile masculinity of sports’ manosphere If Steph Curry is leading with his full government name, know that he means business. In a 90-second video released on Wednesday, from the Instagram account of “Wardell Curry”, he put the internet trolls who have been attacking his wife for years on notice. “Usually the noise doesn’t bother me, doesn’t bother Ayesha,” the four-time NBA champion and Paris Olympic knockout artist said. “But when you’re trying to step on the accomplishmen",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T18:03:05+00:00",
+      "updated_at": "2026-11-12T18:03:05+00:00",
+      "article_ids": [
+        "ef2778c5e2386e0d56a4"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-bd685825349322f5e872",
+      "title": "Papst mahnt Ende von \"Macho-Mentalität\" an",
+      "overview": "\"Machismo\" sei laut Papst Leo XIV. nicht mit dem christlichen Bild vereinbar. Bei einer Rede in Peru forderte er mehr Teilhabe von Frauen im öffentlichen Leben",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T17:55:09+00:00",
+      "updated_at": "2026-11-12T17:55:09+00:00",
+      "article_ids": [
+        "5cb268eb4a4d540e83c1"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-b1e4b39dd951b53c926c",
+      "title": "Wesentlich mehr Urlaubsanträge rund um Startdatum von Videospiel GTA VI",
+      "overview": "Der Personalsoftware-Anbieter Personio hat interne Daten ausgewertet. Demnach wurden überdurchschnittlich viele Urlaubsanträge für 19. November und danach eingereicht",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T17:50:16+00:00",
+      "updated_at": "2026-11-12T17:50:16+00:00",
+      "article_ids": [
+        "ff92d7a4f04f9ca7ace8"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-5d2d9340c253a762b780",
+      "title": "Trump asks Vance to focus on ‘corruption and crime’ in Dem-run cities, states",
+      "overview": "President Donald Trump said Thursday that he has asked Vice President JD Vance to focus his \"complete and total attention\" on alleged widespread corruption and crime in Democrat-led cities and states, accusing blue state leaders of allowing billions of dollars to be stolen each month. In a Truth Social post, Trump singled out Minnesota, California and Illinois as examples of states he claims are plagued by corruption and mismanagement, arguing that cracking down on the alleged criminal activity could help balance the federal budget. \"I have asked Vice President Vance to focus his complete and ",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T17:48:55+00:00",
+      "updated_at": "2026-11-12T17:48:55+00:00",
+      "article_ids": [
+        "9f964b47fd1e8316984e"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-f2c161111d059e22b0d9",
+      "title": "Howard Lutnick is next Trump official top Dems want on the chopping block amid NVIDIA scandal",
+      "overview": "EXCLUSIVE : Top House Democrats are calling for an investigation into Commerce Secretary Howard Lutnick over allegations involving NVIDIA's former CEO's reported relationship with an alleged Chinese spy. NVIDIA CEO Jensen Huang resigned this week following allegations that he had an affair with Alice Huang, an executive at Singapore-based Megaspeed who is suspected of being a Chinese spy. In the midst of the spy scandal, multiple investigative reports emerged claiming Lutnick received a classified memo warning him about Huang’s relationship with alleged Chinese spy Alice Huang, of no familial ",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T17:38:40+00:00",
+      "updated_at": "2026-11-12T17:38:40+00:00",
+      "article_ids": [
+        "26a738d074acfb3aaa0a"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-cddc54cd0dff9da70b01",
+      "title": "Trump opens door to immigration deal, but Republicans have one condition",
+      "overview": "Some Senate Republicans are open to revisiting immigration policy after President Donald Trump floated a possible deal with Democrats, but they insist amnesty remains off the table. Republicans, after sweeping midterm losses, are willing to open up the immigration policy debate after voters made clear that they didn't support the administration’s approach: a Fox News poll published in September found that 53% of voters believed that Trump's immigration policy had gone too far. But there’s one thing that Senate Republicans won’t agree to: amnesty. WHITE HOUSE DOUBLES DOWN AFTER TRUMP ANGERS BAS",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T17:35:28+00:00",
+      "updated_at": "2026-11-12T17:35:28+00:00",
+      "article_ids": [
+        "d0a3749d432cfea1f8f3"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-e46b32a9a049581660cb",
+      "title": "Home sales hit 16-year low in October amid record-high mortgage rates",
+      "overview": "Sales of built units fell to 3.75m in October, down by 8.8% from last year, with mortgage rates at nearly three-year high US existing home sales hit a 16-year low in October as buyers were driven away by record-high mortgage rates and rising inflation, according to new data released on Wednesday. Sales of already built units dropped to 3.75m in October, down by 8.8% from last year, the National Association of Realtors (NAR) reported. The median existing-home sales price increased slightly to $416,700. Declines in sales were seen in the midwest, south and west, though sales in the north-east he",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T17:26:07+00:00",
+      "updated_at": "2026-11-12T17:26:07+00:00",
+      "article_ids": [
+        "b07d88933849043904c4"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [
+        {
+          "category": "Rates and inflation",
+          "sector": "Broad market",
+          "symbols": [
+            "SPY"
+          ],
+          "mechanism": "Interest rates and inflation affect financing costs, discount rates and spending.",
+          "positive": "Lower borrowing costs may support investment and demand.",
+          "negative": "Persistent inflation or tighter policy may increase financing pressure.",
+          "horizon": "Weeks to months; timing uncertain",
+          "uncertainty": "Magnitude, policy details, timing and existing market expectations are uncertain. Scenarios may not materialise.",
+          "article_ids": [
+            "b07d88933849043904c4"
+          ],
+          "matches": {
+            "SPY": "Available reporting mentions “inflation”; this links to the configured Broad market exposure, not proof of a price effect."
+          }
+        }
+      ],
+      "ai": null
+    },
+    {
       "id": "story-6b3b5efa5ac2132a2bd9",
       "title": "US-Vermittler in Moskau: Putin bleibt bei Forderungen",
       "overview": "",
@@ -14618,54 +17537,6 @@
       ],
       "language": "en",
       "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-e0885b004899e0f8c69f",
-      "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
-      "overview": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-11T23:52:30+00:00",
-      "updated_at": "2026-11-12T17:12:31+00:00",
-      "article_ids": [
-        "c69d771ab41e5f831cea",
-        "a22beb6b50ef548c5a3b",
-        "99b9a16058a49cc01179",
-        "07a4c81e127a327b9315"
-      ],
-      "publisher_count": 2,
-      "article_counts": {
-        "left": 3,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "UK",
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [
-        "colom",
-        "democrat",
-        "historic",
-        "mississippi",
-        "scott",
-        "senate",
-        "win"
-      ],
       "limitations": [
         "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
         "Insufficient coverage for comparison."
@@ -15247,42 +18118,6 @@
         "unknown": 0
       },
       "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-22aeffc364581fa0b84f",
-      "title": "Europäische Staaten: „Schlüsselprinzipien“ für Sicherheit",
-      "overview": "",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-12T16:23:03+00:00",
-      "updated_at": "2026-11-12T16:23:03+00:00",
-      "article_ids": [
-        "21a6d88b1d1d7aab67bd"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
       "countries": [
         "AT"
       ],
@@ -19036,6 +21871,42 @@
       "ai": null
     },
     {
+      "id": "story-2abb7fbc040957cf88ad",
+      "title": "Spionage und Affären: Warum Nvidias CEO Jensen Huang zurückgetreten ist",
+      "overview": "Der US-Chipriese sorgt für ein Beben in der Techbranche, in dessen Epizentrum sein eigener Chef steht",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T10:37:48+00:00",
+      "updated_at": "2026-11-12T10:37:48+00:00",
+      "article_ids": [
+        "790f879b3c6e106bde58"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
       "id": "story-6a3379bc5b0941b53ce8",
       "title": "Italien will Mindesttempo 100 auf der Autobahn – Österreichs Verkehrsministerium sieht Pläne kritisch",
       "overview": "Ein Gesetzesentwurf der Regierung sieht eine Mindestgeschwindigkeit auf der ganz linken Spur vor. Damit sollen gefährliche Überholmanöver vermieden und der Verkehrsfluss verbessert werden",
@@ -19316,6 +22187,42 @@
         "unknown": 1
       },
       "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-5677984ecbdb7cb05e87",
+      "title": "Zwei Fiaker-Unfälle an einem Tag in Wiener Innenstadt",
+      "overview": "Einmal kollidierte eine Kutsche mit einem Straßenschild, im anderen Fall raste das Gespann gegen einen Brunnen. Die Pferde verletzten sich dabei",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T10:02:13+00:00",
+      "updated_at": "2026-11-12T10:02:13+00:00",
+      "article_ids": [
+        "086ff73b1a4839bf4e5a"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
       "countries": [
         "AT"
       ],
@@ -22295,50 +25202,6 @@
       ],
       "language": "de",
       "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-915cc12f228e8d87ab28",
-      "title": "Hegseth and advisers reprimanded by guard at Tomb of the Unknown Soldier",
-      "overview": "Following a ceremony marking Veterans Day, a group that included Defence Secretary Pete Hegseth was shouted at to be quiet.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-11T21:43:35+00:00",
-      "updated_at": "2026-11-11T23:00:21+00:00",
-      "article_ids": [
-        "37adbbfdc577f94dc3fa",
-        "fa20d294a6c0dc7cbd74"
-      ],
-      "publisher_count": 2,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "UK",
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [
-        "guard",
-        "hegseth",
-        "soldier",
-        "tomb",
-        "unknown"
-      ],
       "limitations": [
         "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
         "Insufficient coverage for comparison."
@@ -43022,16 +45885,16 @@
   "markets": [],
   "status": {
     "state": "ok",
-    "attempted_at": "2026-11-12T17:38:38.628515+00:00",
-    "last_success_at": "2026-11-12T17:38:38.628515+00:00",
+    "attempted_at": "2026-11-12T23:41:50.104061+00:00",
+    "last_success_at": "2026-11-12T23:41:50.104061+00:00",
     "errors": [],
     "source_results": {
-      "bbc-world": "31 entries",
+      "bbc-world": "30 entries",
       "guardian-us": "33 entries",
       "fox-politics": "25 entries",
-      "bbc-business": "38 entries",
-      "orf": "27 entries",
-      "standard": "153 entries"
+      "bbc-business": "39 entries",
+      "orf": "26 entries",
+      "standard": "152 entries"
     },
     "market_status": "Market price data not configured",
     "ai_status": "AI enrichment not configured"
