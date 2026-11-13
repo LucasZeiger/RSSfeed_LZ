@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "mode": "live",
-  "generated_at": "2026-11-13T15:28:20.716853+00:00",
+  "generated_at": "2026-11-13T22:00:24.519507+00:00",
   "refresh_minutes": 60,
   "sources": [
     {
@@ -91,6 +91,1349 @@
   ],
   "articles": [
     {
+      "id": "315e43dca758242da02f",
+      "source_id": "guardian-us",
+      "title": "Tanker collides with cruise ship on Mississippi River in New Orleans",
+      "url": "https://www.theguardian.com/us-news/2026/nov/13/mississippi-river-crash-new-orleans",
+      "summary": "Large emergency response under way to rescue people from the water, with overnight cruise ship on its side New Orleans river collision – latest updates A tanker collided with a river cruise ship docked on the Mississippi River in New Orleans on Friday afternoon, prompting an emergency effort to rescue people from the water, according to officials. The Atlantic Asphalt tanker collided with American Cruise Lines’ American Heritage at about 12.30pm, said Kimberly Curth, the Port of New Orleans press secretary, in a statement. Continue reading...",
+      "published_at": "2026-11-13T21:49:50+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "Ramon Antonio Vargas in New Orleans",
+      "categories": [
+        "New Orleans",
+        "US news",
+        "Louisiana",
+        "Water transport"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "77c86922fa845f16abdd",
+      "source_id": "guardian-us",
+      "title": "New Orleans boat crash: tanker collides with river cruise ship carrying more than 130 people – latest updates",
+      "url": "https://www.theguardian.com/us-news/live/2026/nov/13/new-orleans-cruise-liner-tanker-crash-live-updates",
+      "summary": "Rescue efforts under way as American Heritage takes on water; governor confirms incident in Mississippi River Tanker collides with cruise ship on Mississippi River in New Orleans A video circulating around social media shows a different angle during the moment the ship was falling on its side into the water. Passengers can be seen climbing onto the balconies’ railing to avoid sliding into the river as the ship turned horizontally. Several uniformed people can be seen running away from the scene, likely to gather equipment that would help rescue efforts. Martin J Davies, a maritime expert at Tu",
+      "published_at": "2026-11-13T21:47:36+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "Marina Dunbar",
+      "categories": [
+        "New Orleans",
+        "US news"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "a99e9e7951767a97abc9",
+      "source_id": "standard",
+      "title": "Linz schließt mit Sieg in Wien zu ICE-Leader Bozen auf, Pioneers mit erstem Erfolg",
+      "url": "https://www.derstandard.at/story/3000000349206/linz-schliesst-mit-sieg-in-wien-zu-ice-leader-bozen-auf-pioneers-mit-erstem-erfolg?ref=rss",
+      "summary": "Die Graz99ers siegten in Südtirol. Der KAC gewann gegen Innsbruck. Salzburg stoppte den Erfolgslauf von Ljubljana. Die Caps kassierten die nächste Niederlage",
+      "published_at": "2026-11-13T21:42:46+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "28f842c2c4528a80605b",
+      "source_id": "standard",
+      "title": "Tanker bei New Orleans mit Passagierschiff kollidiert",
+      "url": "https://www.derstandard.at/story/3000000349207/tanker-bei-new-orleans-mit-passagierschiff-kollidiert?ref=rss",
+      "summary": "Bisher liegen keine Berichte über Verletzte vor",
+      "published_at": "2026-11-13T21:36:52+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "00662abcf455e7485508",
+      "source_id": "guardian-us",
+      "title": "As Van Hollen wages a challenge, Senate Democrats are torn on whom to elect as their leader",
+      "url": "https://www.theguardian.com/us-news/2026/nov/13/democrats-midterms-senate-leader",
+      "summary": "Maryland senator’s bid against Chuck Schumer for leadership could decide direction of the Democratic party US politics live – latest updates Ever since Donald Trump returned to the White House, Democratic officeholders and voters alike have been divided over whether their leader in the Senate, Chuck Schumer, is up to the task of taking the president on. That debate intensified on Thursday, when the Maryland senator Chris Van Hollen announced he will challenge Schumer for the post of Democratic Senate leader, which will become one of the most powerful jobs in Washington when the party takes con",
+      "published_at": "2026-11-13T21:34:14+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "Chris Stein",
+      "categories": [
+        "Democrats",
+        "US Senate",
+        "Chuck Schumer",
+        "US midterm elections 2026",
+        "US Congress",
+        "US politics",
+        "US news"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "9d6b164dfb130e71aa7f",
+      "source_id": "guardian-us",
+      "title": "What the choice between Chuck Schumer and Chris Van Hollen for Senate leader is all about | Bernie Sanders",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/13/chuck-schumer-chris-van-hollen-senate-leader",
+      "summary": "This is not a personality contest. This is a debate about the future of the Democratic party The election for Democratic Senate leader between Chuck Schumer and Chris Van Hollen must be understood for what it is. This is not a personality contest. This is a debate about the future of the Democratic party. It is a debate about whether the Democratic party remains a top-down party dominated by billionaire campaign contributors, inside-the-beltway consultants and 30-second TV ads, or whether we can transform it into a grassroots party of, by and for the working families of our country. Continue r",
+      "published_at": "2026-11-13T21:28:45+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "Bernie Sanders",
+      "categories": [
+        "US Senate",
+        "US Congress",
+        "US news",
+        "US politics",
+        "Democrats",
+        "Chuck Schumer",
+        "ICE (US Immigration and Customs Enforcement)",
+        "Super Pacs",
+        "US political financing",
+        "US-Israel war on Iran"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "bc3cef1c49aae78e93c3",
+      "source_id": "standard",
+      "title": "US-Luftfahrtbehörde stoppt landesweit alle Flüge",
+      "url": "https://www.derstandard.at/story/3000000349205/us-luftfahrtbehoerde-stoppt-landesweit-alle-fluege?ref=rss",
+      "summary": "Als Begründung werden \"außergewöhnliche Umstände und Sicherheitsgründe\" genannt",
+      "published_at": "2026-11-13T21:28:21+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "e4f99c62d6d098d3086f",
+      "source_id": "orf",
+      "title": "US-Luftfahrtbehörde verhängt landesweiten Flugstopp",
+      "url": "https://orf.at/stories/3448132/",
+      "summary": "",
+      "published_at": "2026-11-13T21:16:39+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "5884cd8d4a8bcc5a9d89",
+      "source_id": "bbc-world",
+      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+      "url": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_campaign=rss&at_medium=RSS",
+      "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+      "published_at": "2026-11-13T21:14:22+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "7ad37332082e710afdc6",
+      "source_id": "orf",
+      "title": "New Orleans: Tanker rammt Passagierschiff auf Mississippi",
+      "url": "https://orf.at/stories/3448130/",
+      "summary": "",
+      "published_at": "2026-11-13T20:54:19+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Chronik"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "55172448171893327888",
+      "source_id": "standard",
+      "title": "Vienna dämpft Titelhoffnungen von Sturm Graz",
+      "url": "https://www.derstandard.at/story/3000000349203/fu223ball-vienna-d228mpfte-titelhoffnungen-von-sturm-graz-in-frauenliga?ref=rss",
+      "summary": "Die Döblingerinnen siegten nach Rückstand noch in Messendorf. Die Steirerinnen verpassten den Sprung auf Rang eins",
+      "published_at": "2026-11-13T20:53:50+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "ffd76eef1a0d717fdf93",
+      "source_id": "orf",
+      "title": "Von der Leyen: 500 Milliarden Euro für KI nötig",
+      "url": "https://orf.at/stories/3448129/",
+      "summary": "",
+      "published_at": "2026-11-13T20:38:51+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "478cce86290f5319be32",
+      "source_id": "fox-politics",
+      "title": "Rep Lauren Boebert projected to lose House seat in another Democratic flip",
+      "url": "https://www.foxnews.com/politics/rep-lauren-boebert-projected-lose-house-seat-another-democratic-flip",
+      "summary": "GOP firebrand Rep. Lauren Boebert, R-Colo., is projected to lose her seat in the House to Democratic challenger Eileen Laubacher. The Associated Press made the call in the razor-thin race Friday afternoon in favor of Laubacher, who maintained her slim 48.7% lead over Boebert’s 47.9% once 99% of the ballots had been counted. Libertarian candidate Douglas Mangeris came in third with a little more than 3% of the vote. Laubacher is projected to win Colorado’s 4th Congressional District, according to the AP. Boebert was running for her fourth term in the state. She served her first two seats in Col",
+      "published_at": "2026-11-13T20:37:39+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "86986d6a-61cd-57b6-83ef-c3abf236025a",
+        "fnc",
+        "Fox News",
+        "fox-news/politics/elections/midterm-elections",
+        "fox-news/politics/house-of-representatives/republicans",
+        "fox-news/us/us-regions/west/colorado",
+        "fox-news/democrats",
+        "fox-news/politics",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "0324e30e6a869959bdab",
+      "source_id": "fox-politics",
+      "title": "Former CIA director John Brennan's son arrested after FBI uncovers dozens of alleged child porn images",
+      "url": "https://www.foxnews.com/politics/former-cia-director-john-brennans-son-arrested-after-fbi-uncovers-dozens-alleged-child-porn-images",
+      "summary": "The son of former CIA Director John Brennan has been arrested for allegedly possessing child pornography, Fox News has learned. Kyle Brennan, 40, is charged with transportation of child pornography, according to a federal complaint. The case originated when Adobe CyberTipline reports flagged accounts linked to Brennan for uploading illicit files involving minors. In April and June 2024, Adobe submitted two reports to the National Center for Missing and Exploited Children (NCMEC) regarding an account allegedly used to upload suspected child sexual abuse material. FEDERAL JUDGE BLOCKS BLUE STATE",
+      "published_at": "2026-11-13T20:36:32+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "71199f04-a680-5783-a9b0-c8d2a023140f",
+        "fnc",
+        "Fox News",
+        "fox-news/tech/topics/cia",
+        "fox-news/tech/topics/fbi",
+        "fox-news/politics",
+        "fox-news/us",
+        "fox-news/crime",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "4f798e6b5e4f230e256e",
+      "source_id": "guardian-us",
+      "title": "Across racial lines, Americans celebrate Scott Colom’s historic election: ‘The times they are a-changin’",
+      "url": "https://www.theguardian.com/us-news/2026/nov/13/mississippians-scott-colom-election",
+      "summary": "Seven Americans on their hopes for Colom, 43, Mississippi’s first Black senator since Reconstruction Democrat Scott Colom made history this month, becoming Mississippi’s first Black senator since the Reconstruction era after defeating incumbent Republican senator Cindy Hyde-Smith. The 43-year-old’s win also contributed to a Democratic majority of at least 55 seats in the Senate – the party’s largest midterm gains since 1986. Continue reading...",
+      "published_at": "2026-11-13T20:34:31+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "Maya Yang",
+      "categories": [
+        "Mississippi",
+        "US midterm elections 2026",
+        "US politics",
+        "Race",
+        "US news"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "783d1d16752af1391c68",
+      "source_id": "guardian-us",
+      "title": "Mamdani and Trump agree to 90-day delay on new food assistance rules for corner stores",
+      "url": "https://www.theguardian.com/us-news/2026/nov/13/mamdani-trump-deal-snap-delay",
+      "summary": "New York City mayor says deal will allow bodegas and convenience stores across the country more time to comply Zohran Mamdani, the New York City mayor, has struck a deal with Donald Trump to secure a 90-day delay on new rules for the Supplemental Nutrition Assistance Program (Snap), so that bodegas and corner stores across the country have time to comply. The extension, Mamdani said, starts Friday as a result of conversations he had with Trump and Brooke Rollins, the agriculture secretary. Continue reading...",
+      "published_at": "2026-11-13T20:33:12+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "Shrai Popat",
+      "categories": [
+        "Zohran Mamdani",
+        "Donald Trump",
+        "Food",
+        "Poverty",
+        "US news",
+        "Social exclusion",
+        "Society"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "a1ebc6b94ed7bca85a82",
+      "source_id": "guardian-us",
+      "title": "Send us your questions about climate crisis and politics for the next Stateside guest: Bill McKibben",
+      "url": "https://www.theguardian.com/us-news/2026/nov/13/climate-environment-questions-bill-mckibben",
+      "summary": "Kai Wright of the Guardian podcast Stateside will speak with author and environmentalist Bill McKibben – and we’d like to hear your questions Was the climate crisis one of your top political priorities during the midterm elections? We want to hear from you: what do you want political leaders to do about it in 2027? Democrats will control the House and Senate in the new year, and they have a long list of priorities ahead of them. But it remains to be seen just how much they will focus on one of the most pressing issues of our times: the climate crisis. The UN declared this summer that, despite ",
+      "published_at": "2026-11-13T20:23:23+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "Guardian community team",
+      "categories": [
+        "US midterm elections 2026",
+        "US news",
+        "Climate crisis",
+        "Environment",
+        "US politics"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "4b8ea799e964314ef722",
+      "source_id": "fox-politics",
+      "title": "Schumer's leadership rival reveals major Senate rule change he'd pursue if elected",
+      "url": "https://www.foxnews.com/politics/schumers-leadership-rival-reveals-major-senate-rule-change-hed-pursue-if-elected",
+      "summary": "DENVER — A mile above much of the country, and leagues away from Washington, D.C., Senate Minority Leader Chuck Schumer, D-N.Y., is facing a progressive rebellion that threatens his grip on power. The challenge is being led by Sen. Chris Van Hollen, D-Md., who has served under Schumer since 2017. And he is willing to go further than Schumer ever has on one issue: terminating the filibuster. Years ago, Schumer tried and failed to narrowly change the Senate’s rule to pass a sweeping voting rights package. Republicans have toyed with it over the last two years, but never pulled the trigger. SCHUM",
+      "published_at": "2026-11-13T20:15:55+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "f1395602-5dc7-58bb-92af-502875636bf8",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/person/chuck-schumer",
+        "fox-news/politics/senate",
+        "fox-news/politics/elections/midterm-elections",
+        "fox-news/democrats",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "37d154899061295e8a93",
+      "source_id": "standard",
+      "title": "Der gewaltsame Tod eines 32-jährigen Spitalspatienten schockiert ganz Kroatien",
+      "url": "https://www.derstandard.at/story/3000000349170/der-gewaltsame-tod-eines-32-jaehrigen-spitalspatienten-schockiert-ganz-kroatien?ref=rss",
+      "summary": "Auf einem Video ist zu sehen, wie Krankenhauspersonal den ans Bett fixierten Sportler und Trainer so lange misshandelt, bis er nicht mehr atmet",
+      "published_at": "2026-11-13T20:15:00+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "b838fad415a9e47724af",
+      "source_id": "fox-politics",
+      "title": "Pete Hegseth impeachment effort dies in the House as absent Democrats couldn't beat the traffic",
+      "url": "https://www.foxnews.com/politics/pete-hegseth-impeachment-effort-dies-house-absent-democrats-couldnt-beat-traffic",
+      "summary": "Most of America bemoans political gridlock in the nation’s capital. DC area commuters deplore the city’s transit gridlock. But Pentagon chief Pete Hegseth may now be a fan of DC’s legendary traffic snarls. It appears that crosstown traffic may have prevented him from becoming only the third Cabinet secretary ever impeached by the House of Representatives. The House voted 211-204 this week to divert an effort by Rep. Thomas Massie (R-Ky.) to impeach Hegseth. House Republicans moved to block a straight, up-or-down vote on impeachment. Instead, Republicans forced a vote on sending the articles to",
+      "published_at": "2026-11-13T20:13:17+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "b176f4f6-1992-55a8-a7e5-753f90f975df",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/person/pete-hegseth",
+        "fox-news/politics/house-of-representatives",
+        "fox-news/us/congress",
+        "fox-news/us/washington-dc",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "4edfe31ee32887b6d986",
+      "source_id": "guardian-us",
+      "title": "Trump-backed Maga firebrand Lauren Boebert defeated in Colorado congressional race",
+      "url": "https://www.theguardian.com/us-news/2026/nov/13/trump-maga-lauren-boebert-colorado",
+      "summary": "US congresswoman, who has been caught up in repeated controversies, loses re-election bid to Democrat Eileen Laubacher Lauren Boebert, the firebrand conservative Republican Colorado representative whose three terms in Congress have been marred by multiple controversies, was defeated in her re-election bid. The gun rights advocate, born-again Christian and one-time QAnon fan lost to Democrat Eileen Laubacher by a less than 1% margin, according to the Associated Press. Continue reading...",
+      "published_at": "2026-11-13T20:07:07+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "Dara Kerr",
+      "categories": [
+        "US midterm elections 2026",
+        "Colorado",
+        "US politics",
+        "US news",
+        "World news"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "a3c6b132920fc16f0edd",
+      "source_id": "guardian-us",
+      "title": "Officials name victims of fatal Brooklyn building collapse as investigation widens",
+      "url": "https://www.theguardian.com/us-news/2026/nov/13/brooklyn-building-collapse-victims",
+      "summary": "Authorities conclude search for victims in wreckage of the building and release the names of the eight victims The New York City police department (NYPD) and New York City fire department (FDNY) have concluded the search for victims in the wreckage of the collapsed building in Brooklyn and released the names of the eight people who died. A further 18 people were injured and one was still in critical condition Friday morning, after the disaster on a residential street on Wednesday that saw six men, a boy and a girl among those killed, amid demands for accountability. Continue reading...",
+      "published_at": "2026-11-13T20:02:56+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "Auzzy Byrdsell in New York",
+      "categories": [
+        "New York",
+        "Brooklyn",
+        "US news"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "9a3dc919f6dda48ea8a9",
+      "source_id": "standard",
+      "title": "Ein erdnaher Asteroid beschleunigt auf mysteriöse Weise",
+      "url": "https://www.derstandard.at/story/3000000349081/ein-erdnaher-asteroid-beschleunigt-auf-mysterioese-weise?ref=rss",
+      "summary": "Eine neue Studie widerlegt bisherige Erklärungen für das sonderbare Verhalten von 1998 KY26. Eine japanische Raumsonde soll ihn bald besuchen",
+      "published_at": "2026-11-13T20:00:00+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "86bd2b18fdd46f6f9df0",
+      "source_id": "orf",
+      "title": "Mecklenburg-Vorpommern: Linke für Koalitionsvertrag",
+      "url": "https://orf.at/stories/3448124/",
+      "summary": "",
+      "published_at": "2026-11-13T19:52:35+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "f3815f7197338a3a8fc2",
+      "source_id": "fox-politics",
+      "title": "Two top Trump Cabinet officials go to war over China spy scandal amid explosive accusations: report",
+      "url": "https://www.foxnews.com/politics/two-top-trump-cabinet-officials-go-war-over-china-spy-scandal-amid-explosive-accusations-report",
+      "summary": "A White House Situation Room meeting reportedly turned into a blowout between two of President Donald Trump's Cabinet secretaries after news broke that Nvidia CEO Jensen Huang had an affair with a suspect Chinese spy. Tempers apparently boiled over regarding claims Commerce Secretary Howard Lutnick dragged his feet on placing restrictions on a company run by a suspected Chinese spy with whom Huang admitted to having an affair, even after the Cabinet official received an intel memo informing him of the potential threat. Treasury Secretary Scott Bessent reportedly confronted Lutnick about that i",
+      "published_at": "2026-11-13T19:49:44+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "62210ddd-e484-5d45-91dd-cec613f005cf",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/politics/executive/national-security",
+        "fox-news/person/scott-bessent",
+        "fox-news/person/donald-trump",
+        "fox-news/business",
+        "fox-news/health/orthopedics/technology",
+        "fox-news/politics"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "03096a2525ef61b51fa9",
+      "source_id": "guardian-us",
+      "title": "US supreme court agrees to consider Trump’s ban on asylum at US-Mexico border",
+      "url": "https://www.theguardian.com/us-news/2026/nov/13/supreme-court-us-mexico-border-asylum",
+      "summary": "Trump officials seek to overturn lower court rulings that found executive order banning asylum applications illegal The US supreme court agreed on Friday to consider Donald Trump’s ban on asylum at the US-Mexico border, a pillar of the Republican president’s far-reaching crackdown on immigration. The Trump administration wants to overturn lower court decisions that found the executive order banning asylum applications is illegal. Continue reading...",
+      "published_at": "2026-11-13T19:38:35+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "Associated Press",
+      "categories": [
+        "US supreme court",
+        "US immigration",
+        "US-Mexico border",
+        "US news",
+        "Trump administration",
+        "Donald Trump",
+        "US politics",
+        "Migration"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "5edf966e6141e85c8456",
+      "source_id": "orf",
+      "title": "Niederländische Koalition vorerst gerettet",
+      "url": "https://orf.at/stories/3448123/",
+      "summary": "",
+      "published_at": "2026-11-13T19:31:15+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "e479559e2c0a731cb7f3",
+      "source_id": "guardian-us",
+      "title": "Why the Nvidia scandal is far from over - The Latest",
+      "url": "https://www.theguardian.com/news/video/2026/nov/13/why-the-nvidia-scandal-is-far-from-over-the-latest",
+      "summary": "Jensen Huang’s resignation from the AI chipmaker Nvidia has sent shockwaves through the global economy. Huang resigned after reported affairs with an Nvidia executive and a woman alleged to be a Chinese spy. The fallout is not over yet, with criticism mounting over the apparent lack of action from the US commerce secretary, Howard Lutnick. Lucy Hough speaks to the Guardian’s global technology reporter, Aisha Down Continue reading...",
+      "published_at": "2026-11-13T19:20:53+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "Presented by Lucy Hough with Aisha Down ; produced by Hana Williams ; senior producer Angus Neale ; executive producer Zoe Hitch",
+      "categories": [
+        "Nvidia",
+        "Jensen Huang",
+        "China",
+        "US politics",
+        "AI (artificial intelligence)",
+        "Asia Pacific",
+        "Technology",
+        "US news"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "f33d56ee404749a536dc",
+      "source_id": "orf",
+      "title": "Staatsschulden: IWF-Exekutivdirektor Ettl im Studio",
+      "url": "https://orf.at/stories/3448122/",
+      "summary": "",
+      "published_at": "2026-11-13T19:18:45+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Inland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "b32e8efe991038c8f8c8",
+      "source_id": "fox-politics",
+      "title": "'Traitor!': Jeffries gets rude awakening at Democratic convention as heckler erupts",
+      "url": "https://www.foxnews.com/politics/traitor-jeffries-rude-awakening-democratic-convention-heckler-erupts",
+      "summary": "Protesters confronted Rep. Hakeem Jeffries, D-N.Y., presumed to be the next House speaker, as he spoke at a Democratic conference in Colorado on Friday. While speaking at a panel event moderated by political consultant Jessica Tarlov at the \"What's Next\" conference in Denver, Jeffries was repeatedly interrupted by protesters heckling him. \"When is it time for a Green New Deal?\" protesters shouted at Jeffries. \"When is it time for Medicare-for-all?\" DEMS ADMIT UNCOMFORTABLE ELECTION SWEEP TRUTH AS PARTY DESCENDS ON DENVER TO SHAPE 2028 WITHOUT A FRONTRUNNER Various videos from the conference po",
+      "published_at": "2026-11-13T19:12:05+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "50426290-d99d-582b-8785-b90317eccb92",
+        "fnc",
+        "Fox News",
+        "fox-news/democrats",
+        "fox-news/politics",
+        "fox-news/us/congress",
+        "fox-news/us/democratic-party",
+        "fox-news/politics/house-of-representatives",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "c9c045f5dcf74be23b83",
+      "source_id": "bbc-world",
+      "title": "Democratic Senate leader Schumer set to face leadership challenge",
+      "url": "https://www.bbc.co.uk/news/articles/cmy4930jq749o?at_campaign=rss&at_medium=RSS",
+      "summary": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
+      "published_at": "2026-11-13T19:03:10+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "27b7c49a01743c589aeb",
+      "source_id": "standard",
+      "title": "Nach 5.000 Waldbränden: Brasilien ruft Umweltnotstand aus",
+      "url": "https://www.derstandard.at/story/3000000349202/nach-5000-waldbr228nden-brasilianischer-staat-rief-umweltnotstand-aus?ref=rss",
+      "summary": "Bereits jetzt wurden so viele Brände wie im gesamten November des Vorjahres registriert. Der Notstand gilt zunächst für 120 Tage",
+      "published_at": "2026-11-13T18:42:37+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "5ec51858f43e0baede22",
+      "source_id": "guardian-us",
+      "title": "Tearful Pochettino says leaving USA for Manchester United ‘most difficult decision’ of career: football – as it happened",
+      "url": "https://www.theguardian.com/football/live/2026/nov/13/mauricio-pochettino-manchester-united-head-coach-football-live",
+      "summary": "Mauricio Pochettino gave an emotional press conference after his appointment as Michael Carrick’s successor at Manchester United was confirmed Barney Ronay was at Wembley on Thursday night to celebrate Happy Harry Kane day. “And as the teams lined up there was a surprise appearance from the real star of this stage, the Ballon d’Or itself, wreathed in event glamour and star-flash. Kane drew the ballon from its stone in Arthurian fashion, then held it a little sheepishly in one hand. Prince William walked out and gave him a massive framed shirt, which seemed weird in the moment, like the chief a",
+      "published_at": "2026-11-13T18:37:09+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "Simon Burnton, David Tindall, Dominic Booth and Will Magee",
+      "categories": [
+        "Football",
+        "Sport",
+        "US sports"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "9f394bbc35cb47ab36fe",
+      "source_id": "bbc-world",
+      "title": "The Peruvian city that has embraced Pope Leo as one of its own",
+      "url": "https://www.bbc.co.uk/news/articles/cwg7l8n7dx5mo?at_campaign=rss&at_medium=RSS",
+      "summary": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
+      "published_at": "2026-11-13T18:34:45+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "9e2e4855683745656471",
+      "source_id": "standard",
+      "title": "Russische Luxusjacht \"A\" verlässt Triest nach viereinhalb Jahren",
+      "url": "https://www.derstandard.at/story/3000000349201/russische-luxusjacht-a-verl228sst-triest-nach-viereinhalb-jahren?ref=rss",
+      "summary": "Das 143 Meter lange Schiff soll in den kommenden Tagen den Adria-Hafen Ancona anlaufen. Der geschätzte Wert liegt bei rund 530 Millionen Euro",
+      "published_at": "2026-11-13T18:34:43+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "912130db85631e30d58d",
+      "source_id": "orf",
+      "title": "EU-Einigung auf breites Verhandlungsteam",
+      "url": "https://orf.at/stories/3448115/",
+      "summary": "Die Staats- und Regierungschefs der EU haben sich darauf geeinigt, wer Europa bei künftigen Gesprächen über ein Ende des Ukraine-Krieges vertreten soll: Das „europäische Verhandlungsteam für den Frieden in der Ukraine“ werde „aus den Institutionen der Europäischen Union und den E5“ bestehen, sagte EU-Ratspräsident Antonio Costa am Freitag nach dem informellen EU-Gipfel in Dublin. Bei den E5-Ländern handelt es sich um Deutschland, Großbritannien, Frankreich, Italien und Polen.",
+      "published_at": "2026-11-13T18:30:02+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "f3237c988f3688cfb03d",
+      "source_id": "fox-politics",
+      "title": "Schumer's former ally mounts leadership challenge as Democrats face rare internal power struggle",
+      "url": "https://www.foxnews.com/politics/schumers-former-ally-mounts-leadership-challenge-democrats-face-rare-internal-power-struggle",
+      "summary": "Senate Democrats are getting an opportunity they haven’t had in decades: a different option for who their leader could be. Even before the blue wave crashed over Republicans and Democrats emerged with a commanding majority in the Senate, the rumblings for Senate Minority Leader Chuck Schumer, D-N.Y., to step aside were there. Now, he’s got a challenger in Sen. Chris Van Hollen, D-Md., a familiar face in Washington, D.C., who framed his bid against Schumer as one answering the call for change voters demanded. It’ll be the first time that a Senate Democratic leadership race will be contested sin",
+      "published_at": "2026-11-13T18:23:20+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "bbd4358f-6ec0-54fd-aaec-6c6fa0d1ac2c",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/person/chuck-schumer",
+        "fox-news/person/bernie-sanders",
+        "fox-news/politics/senate",
+        "fox-news/democrats",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "bee1ad8f3b13734ef0fe",
+      "source_id": "standard",
+      "title": "Regierung bereitet schon Kauf des Bundestrojaners vor – doch der VfGH könnte noch alles stoppen",
+      "url": "https://www.derstandard.at/story/3000000348994/regierung-bereitet-schon-kauf-des-bundestrojaners-vor-doch-der-vfgh-koennte-noch-alles-stoppen?ref=rss",
+      "summary": "Ab Frühjahr 2027 soll die Spähsoftware einsatzbereit sein, auch das Personal bereits geschult. Die Opposition kritisiert eine voreilige Faktenlage und fehlende Gegenmaßnahmen",
+      "published_at": "2026-11-13T18:19:25+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "440fd2639933930fc1e3",
+      "source_id": "guardian-us",
+      "title": "The Guardian view on press freedom: authoritarians target journalism because it matters | Editorial",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/13/the-guardian-view-on-press-freedom-authoritarians-target-journalism-because-it-matters",
+      "summary": "From Cairo to Moscow to Washington, governments are turning up the pressure on media workers Lina Attalah is an influential Egyptian journalist. Yet until last month, even she was unaware of a major and concerning piece of news: her own conviction. In 2024, a court issued her a one-year sentence for “spreading false news” and running a website without a licence – which she had repeatedly sought to obtain – after trying her in absentia, even though she was in the country. Ms Attalah learned of the case only after she was separately tried in October, resulting in a large fine and an order for th",
+      "published_at": "2026-11-13T18:01:46+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "Editorial",
+      "categories": [
+        "Press freedom",
+        "Egypt",
+        "Journalism, publishing and public relations",
+        "Media",
+        "Newspapers & magazines",
+        "Middle East and north Africa",
+        "Turkey",
+        "Recep Tayyip Erdoğan",
+        "Donald Trump",
+        "US politics"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "75870c48c4137dc07f6a",
+      "source_id": "bbc-business",
+      "title": "Are board games making a comeback this Christmas?",
+      "url": "https://www.bbc.co.uk/news/videos/ckp80l667rdjo?at_campaign=rss&at_medium=RSS",
+      "summary": "Are board games making a comeback this Christmas?",
+      "published_at": "2026-11-13T18:00:40+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "bbc-business",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "Business"
+    },
+    {
+      "id": "2a9bf3b86874e56c31ed",
+      "source_id": "standard",
+      "title": "Wo große Windräder keinen Platz haben, soll diese Mini-Windturbine helfen",
+      "url": "https://www.derstandard.at/story/3000000348933/wo-grosse-windraeder-keinen-platz-haben-soll-diese-mini-windturbine-helfen?ref=rss",
+      "summary": "Ein Start-up will die Windkraft in bebaute Gebiete bringen und baut kleine Anlagen mit vertikaler Achse. Eine der ersten dreht sich in Österreich",
+      "published_at": "2026-11-13T18:00:00+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "a2e9613895ebd22e7f50",
+      "source_id": "standard",
+      "title": "Sängerin Avril Lavigne ist Mutter geworden",
+      "url": "https://www.derstandard.at/story/3000000349200/s228ngerin-avril-lavigne-ist-mutter-geworden?ref=rss",
+      "summary": "Die 42-Jährige zeigte auf Instagram ein Foto von ihrer \"Prinzessin\"",
+      "published_at": "2026-11-13T17:58:56+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "0ca2ca5d501f0aded656",
+      "source_id": "orf",
+      "title": "EU einig: Verhandlungsteam mit Russland steht",
+      "url": "https://orf.at/stories/3448118/",
+      "summary": "",
+      "published_at": "2026-11-13T17:57:32+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "9a1cbc3f9abda1c7c8c9",
+      "source_id": "orf",
+      "title": "Polizei ermittelt gegen „Little Britain“-Star Walliams",
+      "url": "https://orf.at/stories/3448117/",
+      "summary": "",
+      "published_at": "2026-11-13T17:46:38+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Chronik"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "4f2ff72eed6a2fd7be30",
+      "source_id": "fox-politics",
+      "title": "Rubio takes aim at 'soulless global bureaucrats' pushing Marxism to undermine America",
+      "url": "https://www.foxnews.com/politics/rubio-takes-aim-soulless-global-bureaucrats-pushing-marxism-undermine-america",
+      "summary": "FIRST ON FOX: Secretary of State Marco Rubio is taking aim at \"soulless global bureaucrats\" using \"rules-based order\" arguments to undermine U.S. foreign policy in a speech Friday, warning that the \"spirit of Marx\" outlived the Soviet Union. U.S. leaders of both parties defended the \"rules-based international order,\" the network of postwar institutions America built. Rubio is set to argue the system has been turned against the country that built it, the same case he made at his January 2025 confirmation hearing, when he called the postwar order \"a weapon being used against us.\" In a preview of",
+      "published_at": "2026-11-13T17:41:40+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "64d79bf1-e2a1-5879-96cb-f040f6838d3e",
+        "fnc",
+        "Fox News",
+        "fox-news/person/marco-rubio",
+        "fox-news/politics",
+        "fox-news/politics/foreign-policy",
+        "fox-news/politics/foreign-policy/state-department",
+        "fox-news/politics/judiciary/international-law",
+        "fox-news/world/united-nations/global-government",
+        "fox-news/world/world-regions/china"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "66efe9d6a09bfbce4ab8",
+      "source_id": "standard",
+      "title": "Deutschland: Zustimmung zur Demokratie auf niedrigsten Niveau",
+      "url": "https://www.derstandard.at/story/3000000349027/deutschland-zustimmung-zur-demokratie-auf-niedrigsten-niveau?ref=rss",
+      "summary": "Zukunftsangst erzeugt Vertrauensverlust. Wie sieht es in Österreich aus?",
+      "published_at": "2026-11-13T17:14:37+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "61e284ad53690ba5cf3a",
+      "source_id": "standard",
+      "title": "\"Wie geht das?\": Politischer Wirbel nach STANDARD-Enthüllung über Wohnungsvergaben im FPÖ-Umfeld",
+      "url": "https://www.derstandard.at/story/3000000349099/wie-geht-das-politischer-wirbel-nach-standard-enthuellung-ueber-wohnungsvergaben-im-fpoe-umfeld?ref=rss",
+      "summary": "Vertreter sämtlicher Parteien melden sich zur Wohnungscausa des oberösterreichischen FPÖ-Landesrats Günther Steinkellner zu Wort – nur Herbert Kickls Bundes-FPÖ schweigt",
+      "published_at": "2026-11-13T17:13:47+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "0f75dd067e698b90aaee",
+      "source_id": "fox-politics",
+      "title": "SOUND OFF: Will Democrats and Republicans come together for the good of the country?",
+      "url": "https://www.foxnews.com/politics/sound-off-democrats-republicans-come-together-good-country",
+      "summary": "What do you think: With President Donald Trump's willingness to work with the new Democratic Congress, can the man behind \"The Art of the Deal\" pull off his greatest achievement, the uniting of the United States?",
+      "published_at": "2026-11-13T17:09:24+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "c48727b1-3b73-5281-a986-cb0b82df3c24",
+        "fnc",
+        "Fox News",
+        "fox-news/chat",
+        "fox-news/politics/elections/republicans",
+        "fox-news/democrats",
+        "fox-news/person/donald-trump",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "eb35bab5065c3d180ac1",
+      "source_id": "standard",
+      "title": "Starship: SpaceX will Freitag und Samstag erstmals Booster und Raumschiff auffangen",
+      "url": "https://www.derstandard.at/story/3000000349125/starship-spacex-will-freitag-und-samstag-erstmals-booster-und-raumschiff-auffangen?ref=rss",
+      "summary": "Zum ersten Mal soll nicht nur das Triebwerk, sondern auch das Raumschiff Starship von mechanischen Greifarmen eingefangen werden – angesichts explosiver Tests ein riskantes Unterfangen",
+      "published_at": "2026-11-13T17:03:08+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "b0374dff9dd9d5e06e53",
+      "source_id": "standard",
+      "title": "Sollten Städte und Weihnachtsmärkte auf ihren Christbaum verzichten?",
+      "url": "https://www.derstandard.at/story/3000000347839/sollten-staedte-und-weihnachtsmaerkte-auf-ihren-christbaum-verzichten?ref=rss",
+      "summary": "Sie erzeugen Weihnachtsstimmung und haben Tradition, werden aber mitunter weit transportiert und gehen im Wald als wertvoller Lebensraum ab. Was für und was gegen öffentliche Christbäume spricht",
+      "published_at": "2026-11-13T17:00:44+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "5ec64f3953f7625dc2e3",
+      "source_id": "standard",
+      "title": "Squiggly Sudoku schwierig 6571b",
+      "url": "https://www.derstandard.at/story/3000000348304/squiggly-sudoku-s6434b?ref=rss",
+      "summary": "",
+      "published_at": "2026-11-13T17:00:00+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "d444cb960bf808ea088d",
+      "source_id": "standard",
+      "title": "Sudoku extrem schwierig 6571a",
+      "url": "https://www.derstandard.at/story/3000000348303/sudoku-sschwierig-6434a?ref=rss",
+      "summary": "",
+      "published_at": "2026-11-13T17:00:00+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "9275fac9d0c42253042a",
+      "source_id": "standard",
+      "title": "Smart Sudoku sehr schwierig 790b",
+      "url": "https://www.derstandard.at/story/3000000346594/smart-sudoku-schwierig-73a?ref=rss",
+      "summary": "",
+      "published_at": "2026-11-13T17:00:00+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "e4cbe569fa6d2d7508eb",
+      "source_id": "standard",
+      "title": "Smart Sudoku mittel 790a",
+      "url": "https://www.derstandard.at/story/3000000346593/smart-sudoku-schwierig-73a?ref=rss",
+      "summary": "",
+      "published_at": "2026-11-13T17:00:00+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "0ff9ae7f550001c59909",
+      "source_id": "standard",
+      "title": "Hinter der Nvidia-Affäre steht Trumps größter Verrat",
+      "url": "https://www.derstandard.at/story/3000000349165/hinter-der-nvidia-affaere-steht-trumps-groesster-verrat?ref=rss",
+      "summary": "Der US-Präsident hat dem großen Rivalen China im Wettkampf um die KI zu Vorteilen verholfen – ein womöglich historischer Fehltritt",
+      "published_at": "2026-11-13T16:59:57+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "5adb9122d0bfbba11005",
+      "source_id": "standard",
+      "title": "Wie das Netzwerk der Alice Huang den mächtigen Nvidia-Chef zu Fall brachte",
+      "url": "https://www.derstandard.at/story/3000000349082/wie-das-netzwerk-der-alice-huang-den-maechtigen-nvidia-chef-zu-fall-brachte?ref=rss",
+      "summary": "Die Nvidia-Krise zieht Schockwellen bis ins Weiße Haus und bringt Trump unter Druck. Zugleich kommen immer mehr Details der mutmaßlichen Spionageaffäre ans Licht",
+      "published_at": "2026-11-13T16:59:40+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "6d1e69db3a0fbd779106",
+      "source_id": "guardian-us",
+      "title": "Tearful Pochettino says United job was ‘difficult to turn down’ in USMNT farewell",
+      "url": "https://www.theguardian.com/football/2026/nov/13/mauricio-pochettino-usmnt-manchester-united",
+      "summary": "Coach was ‘transparent’ in dealings with club, federation Pochettino had signed deal to stay with US through 2030 There were always going to be tears at Mauricio Pochettino’s news conference at US Soccer’s national training center on Friday. It was only a matter of when. Pochettino is famously emotional, and nobody in attendance had to wait long for the waterworks – they came during his introductory remarks, as he thanked the US Soccer executives flanking him for the opportunity to guide the US men. He grew emotional again as he addressed his impending departure for Manchester United, one anno",
+      "published_at": "2026-11-13T16:53:14+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "Pablo Iglesias Maurer in Fayetteville, Georgia",
+      "categories": [
+        "USA",
+        "Mauricio Pochettino",
+        "US sports",
+        "Football",
+        "Sport",
+        "Manchester United"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "9e0e8c7d95b59a43b6b6",
+      "source_id": "fox-politics",
+      "title": "Incoming GOP congressman backs halting all immigration to US, warns about Sharia law in Texas",
+      "url": "https://www.foxnews.com/politics/incoming-gop-congressman-backs-halting-all-immigration-us-warns-sharia-law-texas",
+      "summary": "Rep.-elect Jace Yarbrough, a Republican from Texas, is set to enter Congress on Jan. 3 with an agenda to sharply restrict immigration and preserve what he describes as the \"Christian heritage\" of the United States, though he doubts the incoming Democratic majorities in both chambers will be willing to work with him. In an interview with Fox News Digital, Yarbrough repeatedly denounced mass migration and said he'd be in favor of \"stopping immigration altogether for a time because of how insane this has gotten.\" He argued the U.S. is admitting far too many immigrants, including individuals he de",
+      "published_at": "2026-11-13T16:48:35+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "8cb5e7ff-ce4d-5831-bcfa-6a5385c7e7c2",
+        "fnc",
+        "Fox News",
+        "fox-news/politics/meet-the-new-congress",
+        "fox-news/politics/elections/house-of-representatives",
+        "fox-news/us/congress",
+        "fox-news/politics",
+        "fox-news/politics/elections/republicans",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "30ed482e0c9372486da6",
+      "source_id": "bbc-world",
+      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+      "url": "https://www.bbc.co.uk/news/articles/cq39glwprknjo?at_campaign=rss&at_medium=RSS",
+      "summary": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
+      "published_at": "2026-11-13T16:40:31+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "e1ffe01913d2f3370081",
+      "source_id": "orf",
+      "title": "Geharnischte Kritik an „Sozialhilfe neu“",
+      "url": "https://orf.at/stories/3448078/",
+      "summary": "Der Gesetzesentwurf zur „Sozialhilfe neu“ der Bundesregierung sieht sich in der Begutachtungsphase mit teils deutlicher Kritik konfrontiert. In den bis Donnerstagabend eingetroffenen Dutzenden Schreiben werden neben dem Inhalt auch der kurze Begutachtungszeitraum und die kurze Frist bis zur Umsetzung Anfang 2027 kritisiert.",
+      "published_at": "2026-11-13T16:38:21+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Inland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "cfc9b8734364ce0d2a29",
+      "source_id": "bbc-business",
+      "title": "What are people emergency stockpiling?",
+      "url": "https://www.bbc.co.uk/news/videos/c6zxvg79rr9yo?at_campaign=rss&at_medium=RSS",
+      "summary": "From cider to candy canes: What people are emergency stockpiling",
+      "published_at": "2026-11-13T16:31:22+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "bbc-business",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "Business"
+    },
+    {
+      "id": "9a265ec05531ecae1343",
+      "source_id": "standard",
+      "title": "Slalomstart in Levi: Prominente Abwesende und viele Favoriten",
+      "url": "https://www.derstandard.at/story/3000000349133/slalomstart-in-levi-prominente-abwesende-und-viele-favoriten?ref=rss",
+      "summary": "Der Alpine Skiweltcup setzt sich am Wochenende in Finnland fort. Wer fehlt, wer mischt vorne mit, und wie stehen die Chancen für Österreich?",
+      "published_at": "2026-11-13T16:30:11+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "54e1628469001e0c13de",
+      "source_id": "standard",
+      "title": "Alte Garnituren ausgemustert: Ansturm auf Badner-Bahn-Flohmarkt",
+      "url": "https://www.derstandard.at/story/3000000349160/alte-garnituren-ausgemustert-ansturm-auf-badner-bahn-flohmarkt?ref=rss",
+      "summary": "Vom Mistkübel bis zur Notrufsäule konnten Fans der Tram am Freitagnachmittag Andenken erstehen. Ein Flohmarkt-Besuch",
+      "published_at": "2026-11-13T16:24:03+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "6e2d770ae7489f7ccf99",
+      "source_id": "fox-politics",
+      "title": "Trump's spy chiefs put Republican leaders on the clock over 'huge priority' as power shift looms over Congress",
+      "url": "https://www.foxnews.com/politics/trumps-spy-chiefs-put-republican-leaders-clock-huge-priority-power-shift-looms-congress",
+      "summary": "EXCLUSIVE: President Donald Trump's top administration intelligence officials penned a letter to congressional leaders urging them to reauthorize the Foreign Intelligence Surveillance Act (FISA). An administration official told Fox News Digital the intel measure is at top of mind for the White House to get passed in the still-Republican-controlled Congress before Democrats take a majority on Capitol Hill in January. \"This is going to be a huge priority and push by the administration, by the White House for the lame-duck Congress, because this really needs to get done,\" the administration sourc",
+      "published_at": "2026-11-13T16:11:21+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "ca0a5506-4ab4-5abe-a106-7a516dd45033",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/politics/executive/national-security",
+        "fox-news/us/congress",
+        "fox-news/politics/executive/white-house",
+        "fox-news/tech/topics/cia",
+        "fox-news/politics/justice-department",
+        "fox-news/politics/senate"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "24ab229fade6b93e3eab",
+      "source_id": "standard",
+      "title": "Was Sie heute streamen können: \"The Good Daughter\" auf HBO Max",
+      "url": "https://www.derstandard.at/story/3000000348852/was-sie-heute-streamen-koennen-the-good-daughter-auf-hbo-max?ref=rss",
+      "summary": "Familienzusammenführung auf die ungemütliche Art",
+      "published_at": "2026-11-13T16:06:47+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "48f30a1cd42ef2976424",
+      "source_id": "standard",
+      "title": "Putin hat Trump und Europa mit seinem Krieg gegen die Ukraine in eine fatale Falle gelockt",
+      "url": "https://www.derstandard.at/story/3000000349111/putin-hat-trump-und-europa-mit-seinem-krieg-gegen-die-ukraine-in-eine-fatale-falle-gelockt?ref=rss",
+      "summary": "In Abu Dhabi ging es nicht um Frieden für die Ukraine, sondern um Russlands Einfluss auf Europa. Dieses könnte bald vor einem gefährlichen Dilemma stehen",
+      "published_at": "2026-11-13T16:04:27+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "19b17bef73603a15dc98",
+      "source_id": "standard",
+      "title": "Kanada, wir kommen! So haben Österreichs Eishockeyfrauen den Coup geschafft",
+      "url": "https://www.derstandard.at/story/3000000349166/kanada-wir-kommen-so-haben-oesterreichs-eishockeyfrauen-den-coup-geschafft?ref=rss",
+      "summary": "\"Herzblut und Teamgeist\": Kapitänin Anna Meixner schoss das Team zum 2:1-Overtimesieg über Japan und zum Klassenerhalt. Entscheidendes spielte sich auch abseits der Eisfläche ab",
+      "published_at": "2026-11-13T16:02:05+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "88372cdc225c9744b96c",
+      "source_id": "standard",
+      "title": "Arnold Schwarzenegger zum \"heißesten Opa der Welt\" gekürt",
+      "url": "https://www.derstandard.at/story/3000000349172/arnold-schwarzenegger-zum-heissesten-opa-der-welt-gekuert?ref=rss",
+      "summary": "Die Auszeichnung des US-Magazins nahm der 79-jährige Steirer mit Humor",
+      "published_at": "2026-11-13T15:57:16+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "117598b91fb84fc878ec",
+      "source_id": "standard",
+      "title": "Aus für umstrittenen Sponsoring-Deal mit Rheinmetall bei Borussia Dortmund",
+      "url": "https://www.derstandard.at/story/3000000349192/aus-fuer-umstrittenen-sponsoring-deal-mit-rheinmetall-bei-borussia-dortmund?ref=rss",
+      "summary": "Es gibt keine Fortsetzung der Kooperation mit dem Rüstungskonzern. Ausschlaggebend war die anhaltende Kritik der BVB-Fans an der Partnerschaft",
+      "published_at": "2026-11-13T15:49:00+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "9592e46e61295ae4ba57",
+      "source_id": "standard",
+      "title": "Energieagentur: Ölversorgung erholt sich erstmals seit Iran-Krieg",
+      "url": "https://www.derstandard.at/story/3000000349177/energieagentur-oelversorgung-erholt-sich-erstmals-seit-iran-krieg?ref=rss",
+      "summary": "Vorräte stiegen im Oktober um 52 Millionen Barrel",
+      "published_at": "2026-11-13T15:43:46+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "e0b0b7b19b4ba9cbb0a2",
+      "source_id": "bbc-world",
+      "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+      "url": "https://www.bbc.co.uk/news/articles/c6jre3z03w4go?at_campaign=rss&at_medium=RSS",
+      "summary": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
+      "published_at": "2026-11-13T15:42:52+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "ff294371a32fa1ebb59a",
+      "source_id": "fox-politics",
+      "title": "The mistake newly-elected Dems admit they can't afford to make with Trump after sweeping 2026 wins",
+      "url": "https://www.foxnews.com/politics/mistake-newly-elected-dems-admit-cant-afford-make-trump-after-sweeping-2026-wins",
+      "summary": "DENVER — Congressional Democrats are heading into the next two years with a choice: focus on investigating President Donald Trump and his administration or look for ways to work with him to deliver results for Americans. The party, after sweeping pickups in last week's midterms, right away warned Trump and Republicans to \"lawyer up\" and in the following days began outlining investigations into the administration, including its handling of immigration enforcement, the president’s business interests and the Justice Department's actions. But newly elected Democrats and strategists at the \"What’s ",
+      "published_at": "2026-11-13T15:29:50+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "9525723d-3e7a-5ff7-bf4f-36a919b243fc",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/democrats",
+        "fox-news/politics/elections/midterm-elections",
+        "fox-news/politics/elections/republicans",
+        "fox-news/person/donald-trump",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "10519096a57478ce3d29",
+      "source_id": "standard",
+      "title": "Durch Schuss von Polizist verletzt: Erste Einvernahme geplant",
+      "url": "https://www.derstandard.at/story/3000000349190/verletzter-nach-polizei-schuss-in-n214-erste-einvernahme-geplant?ref=rss",
+      "summary": "Ein 38-Jähriger wurde festgenommen und befindet sich weiterhin im Krankenhaus. Die Schussabgabe wird von der Ermittlungs- und Beschwerdestelle Misshandlungsvorwürfe untersucht",
+      "published_at": "2026-11-13T15:29:16+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
       "id": "23e8891bee09e667a962",
       "source_id": "standard",
       "title": "US-Behörde rät 720.000 BMW-Fahrern wegen Brandgefahr im Freien zu parken",
@@ -166,6 +1509,21 @@
       "category": "Politics"
     },
     {
+      "id": "26713b63114e62886741",
+      "source_id": "bbc-world",
+      "title": "At least 24 killed after bus collides with truck in north-east India",
+      "url": "https://www.bbc.co.uk/news/articles/c6r7g5lp1zrxo?at_campaign=rss&at_medium=RSS",
+      "summary": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified.",
+      "published_at": "2026-11-13T15:16:50+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
       "id": "5f96cde97084dd8dd667",
       "source_id": "standard",
       "title": "Bus stieß mit Lastwagen zusammen: 23 Tote in Indien",
@@ -194,6 +1552,21 @@
       "language": "de",
       "country": "AT",
       "category": "Politics"
+    },
+    {
+      "id": "add51d22f25e4611e5b4",
+      "source_id": "bbc-world",
+      "title": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
+      "url": "https://www.bbc.co.uk/news/videos/ckqx5ryx905qo?at_campaign=rss&at_medium=RSS",
+      "summary": "The ship was intentionally sunk off the coast of Florida in order to create the world's largest artificial ocean reef.",
+      "published_at": "2026-11-13T15:09:40+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
     },
     {
       "id": "8d6a28580c7d9f6cf1ec",
@@ -441,6 +1814,21 @@
       "summary": "Keine Entscheidung beim Gipfel in Dublin: Ratspräsident und Favorit Costa soll in zwei Wochen Vorschläge zu Strategie und Finanzierung aus dem EU-Budget machen",
       "published_at": "2026-11-13T14:30:36+00:00",
       "fetched_at": "2026-11-13T15:28:20.716853+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "295e102626fd86147d10",
+      "source_id": "standard",
+      "title": "Gruppe von fünf Staaten vertritt Europa bei Ukraine-Gesprächen",
+      "url": "https://www.derstandard.at/story/3000000349068/costa-und-gruppe-von-staaten-vertritt-europaeer-bei-ukraine-gespraechen?ref=rss",
+      "summary": "Entscheidung beim Gipfel in Dublin. Der Ratspräsident soll in zwei Wochen Vorschläge zu Strategie und EU-Budget machen",
+      "published_at": "2026-11-13T14:30:36+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
       "date_estimated": false,
       "author": "standard",
       "categories": [],
@@ -717,6 +2105,21 @@
       "language": "de",
       "country": "AT",
       "category": "Politics"
+    },
+    {
+      "id": "6a27be3429c1e7b67db2",
+      "source_id": "bbc-world",
+      "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
+      "url": "https://www.bbc.co.uk/news/articles/c5gm3gnwl42eo?at_campaign=rss&at_medium=RSS",
+      "summary": "Sergei Zavorotny, now a journalist and commentator, was previously an adviser to Ukrainian ex-prime minister Mykola Azarov.",
+      "published_at": "2026-11-13T13:11:23+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
     },
     {
       "id": "0f6a787a8abea0004424",
@@ -1161,6 +2564,21 @@
       "summary": "A Microsoft outage is affecting services including Teams, Outlook and AI software Copilot.",
       "published_at": "2026-11-13T11:43:27+00:00",
       "fetched_at": "2026-11-13T15:28:20.716853+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "51579f1ccfec1d5781ab",
+      "source_id": "bbc-world",
+      "title": "Rosalía scoops historic third best album award at Latin Grammys",
+      "url": "https://www.bbc.co.uk/news/articles/cr3eg97eqde1o?at_campaign=rss&at_medium=RSS",
+      "summary": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews.",
+      "published_at": "2026-11-13T11:38:54+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
       "date_estimated": false,
       "author": "bbc-world",
       "categories": [],
@@ -1891,6 +3309,21 @@
       "language": "de",
       "country": "AT",
       "category": "World"
+    },
+    {
+      "id": "d26a6bc8d038ee2eb999",
+      "source_id": "standard",
+      "title": "Auch Norwegen, Schweden und Estland wollen russischen Sportlern Visa verweigern",
+      "url": "https://www.derstandard.at/story/3000000349086/auch-norwegen-will-visa-fuer-russische-sportler-verweigern?ref=rss",
+      "summary": "\"Da Russland seinen brutalen Angriffskrieg fortsetzt\", sind russische Profisportler sowie deren Betreuer in Norwegen unerwünscht. Zuvor sind Finnland und Kanada vorgeprescht",
+      "published_at": "2026-11-13T08:51:19+00:00",
+      "fetched_at": "2026-11-13T22:00:24.519507+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
     },
     {
       "id": "62a51045c0a890945b2a",
@@ -18458,24 +19891,2608 @@
       "language": "de",
       "country": "AT",
       "category": "Politics"
-    },
-    {
-      "id": "cc4630c2ce3ce00183ac",
-      "source_id": "standard",
-      "title": "Behörden dürfen nun mit KI entscheiden – ist das vereinbar mit der Verfassung?",
-      "url": "https://www.derstandard.at/story/3000000346338/behoerden-duerfen-nun-mit-ki-entscheiden-ist-das-vereinbar-mit-der-verfassung?ref=rss",
-      "summary": "Künftig können Behörden Bescheide ohne menschliche Genehmigung erlassen. Die Neuregelung soll die Verwaltung effizienter machen, wirft aber verfassungsrechtliche Fragen auf",
-      "published_at": "2026-11-06T16:00:00+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
     }
   ],
   "stories": [
+    {
+      "id": "story-167db627c1c20dd2ca40",
+      "title": "New Orleans boat crash: tanker collides with river cruise ship carrying more than 130 people – latest updates",
+      "overview": "Rescue efforts under way as American Heritage takes on water; governor confirms incident in Mississippi River Tanker collides with cruise ship on Mississippi River in New Orleans A video circulating around social media shows a different angle during the moment the ship was falling on its side into the water. Passengers can be seen climbing onto the balconies’ railing to avoid sliding into the river as the ship turned horizontally. Several uniformed people can be seen running away from the scene, likely to gather equipment that would help rescue efforts. Martin J Davies, a maritime expert at Tu",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T21:47:36+00:00",
+      "updated_at": "2026-11-13T21:49:50+00:00",
+      "article_ids": [
+        "77c86922fa845f16abdd",
+        "315e43dca758242da02f"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 2,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [
+        "collides",
+        "cruise",
+        "orleans",
+        "river",
+        "ship",
+        "tanker"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-9c43a2cbcd26d14cf478",
+      "title": "Linz schließt mit Sieg in Wien zu ICE-Leader Bozen auf, Pioneers mit erstem Erfolg",
+      "overview": "Die Graz99ers siegten in Südtirol. Der KAC gewann gegen Innsbruck. Salzburg stoppte den Erfolgslauf von Ljubljana. Die Caps kassierten die nächste Niederlage",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T21:42:46+00:00",
+      "updated_at": "2026-11-13T21:42:46+00:00",
+      "article_ids": [
+        "a99e9e7951767a97abc9"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-e9a8874a3fb2465c45e7",
+      "title": "New Orleans: Tanker rammt Passagierschiff auf Mississippi",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T20:54:19+00:00",
+      "updated_at": "2026-11-13T21:36:52+00:00",
+      "article_ids": [
+        "7ad37332082e710afdc6",
+        "28f842c2c4528a80605b"
+      ],
+      "publisher_count": 2,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [
+        "orleans",
+        "passagierschiff",
+        "tanker"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-2dc92c68c9a2365deabf",
+      "title": "As Van Hollen wages a challenge, Senate Democrats are torn on whom to elect as their leader",
+      "overview": "Maryland senator’s bid against Chuck Schumer for leadership could decide direction of the Democratic party US politics live – latest updates Ever since Donald Trump returned to the White House, Democratic officeholders and voters alike have been divided over whether their leader in the Senate, Chuck Schumer, is up to the task of taking the president on. That debate intensified on Thursday, when the Maryland senator Chris Van Hollen announced he will challenge Schumer for the post of Democratic Senate leader, which will become one of the most powerful jobs in Washington when the party takes con",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T21:34:14+00:00",
+      "updated_at": "2026-11-13T21:34:14+00:00",
+      "article_ids": [
+        "00662abcf455e7485508"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-80b5f93a725504572a02",
+      "title": "Chris Van Hollen to challenge Chuck Schumer for Senate majority leader",
+      "overview": "Maryland Democrat challenges party leader after midterms sweep, saying: ‘The American people called for change’ Chris Van Hollen, the Democratic senator of Maryland, announced on Thursday that he is challenging Chuck Schumer for the role of Senate majority leader when Democrats regain the chamber’s majority in January. “In this election, the American people called for change. They called for a change from Donald Trump’s disastrous policies – but even bigger than that, a change from the status quo that isn’t working for working people,” Van Hollen said in a statement posted on social media. Con",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T02:30:07+00:00",
+      "updated_at": "2026-11-13T21:28:45+00:00",
+      "article_ids": [
+        "cf9b40d8625915c9c61b",
+        "a7957da01cb53fcab4bc",
+        "9d6b164dfb130e71aa7f"
+      ],
+      "publisher_count": 2,
+      "article_counts": {
+        "left": 2,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [
+        "bernie",
+        "challenge",
+        "chris",
+        "chuck",
+        "hollen",
+        "leader",
+        "sanders",
+        "schumer",
+        "senate",
+        "van"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-8f94238a397288d38e5c",
+      "title": "US-Luftfahrtbehörde stoppt landesweit alle Flüge",
+      "overview": "Als Begründung werden \"außergewöhnliche Umstände und Sicherheitsgründe\" genannt",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T21:28:21+00:00",
+      "updated_at": "2026-11-13T21:28:21+00:00",
+      "article_ids": [
+        "bc3cef1c49aae78e93c3"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-18a606f9c3361cbac1f2",
+      "title": "US-Luftfahrtbehörde verhängt landesweiten Flugstopp",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T21:16:39+00:00",
+      "updated_at": "2026-11-13T21:16:39+00:00",
+      "article_ids": [
+        "e4f99c62d6d098d3086f"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-eb0500a3b7f1aa1f736e",
+      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+      "overview": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T21:14:22+00:00",
+      "updated_at": "2026-11-13T21:14:22+00:00",
+      "article_ids": [
+        "5884cd8d4a8bcc5a9d89"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-2baffbd30b1a25957536",
+      "title": "Vienna dämpft Titelhoffnungen von Sturm Graz",
+      "overview": "Die Döblingerinnen siegten nach Rückstand noch in Messendorf. Die Steirerinnen verpassten den Sprung auf Rang eins",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T20:53:50+00:00",
+      "updated_at": "2026-11-13T20:53:50+00:00",
+      "article_ids": [
+        "55172448171893327888"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-2723e9e7010d739c9f8e",
+      "title": "Von der Leyen: 500 Milliarden Euro für KI nötig",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T20:38:51+00:00",
+      "updated_at": "2026-11-13T20:38:51+00:00",
+      "article_ids": [
+        "ffd76eef1a0d717fdf93"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-ef08eab9354e94db7bca",
+      "title": "Rep Lauren Boebert projected to lose House seat in another Democratic flip",
+      "overview": "GOP firebrand Rep. Lauren Boebert, R-Colo., is projected to lose her seat in the House to Democratic challenger Eileen Laubacher. The Associated Press made the call in the razor-thin race Friday afternoon in favor of Laubacher, who maintained her slim 48.7% lead over Boebert’s 47.9% once 99% of the ballots had been counted. Libertarian candidate Douglas Mangeris came in third with a little more than 3% of the vote. Laubacher is projected to win Colorado’s 4th Congressional District, according to the AP. Boebert was running for her fourth term in the state. She served her first two seats in Col",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T20:37:39+00:00",
+      "updated_at": "2026-11-13T20:37:39+00:00",
+      "article_ids": [
+        "478cce86290f5319be32"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-d96b45ef0a11015e2c35",
+      "title": "Former CIA director John Brennan's son arrested after FBI uncovers dozens of alleged child porn images",
+      "overview": "The son of former CIA Director John Brennan has been arrested for allegedly possessing child pornography, Fox News has learned. Kyle Brennan, 40, is charged with transportation of child pornography, according to a federal complaint. The case originated when Adobe CyberTipline reports flagged accounts linked to Brennan for uploading illicit files involving minors. In April and June 2024, Adobe submitted two reports to the National Center for Missing and Exploited Children (NCMEC) regarding an account allegedly used to upload suspected child sexual abuse material. FEDERAL JUDGE BLOCKS BLUE STATE",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T20:36:32+00:00",
+      "updated_at": "2026-11-13T20:36:32+00:00",
+      "article_ids": [
+        "0324e30e6a869959bdab"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-0f513eea3c4102daaf86",
+      "title": "Across racial lines, Americans celebrate Scott Colom’s historic election: ‘The times they are a-changin’",
+      "overview": "Seven Americans on their hopes for Colom, 43, Mississippi’s first Black senator since Reconstruction Democrat Scott Colom made history this month, becoming Mississippi’s first Black senator since the Reconstruction era after defeating incumbent Republican senator Cindy Hyde-Smith. The 43-year-old’s win also contributed to a Democratic majority of at least 55 seats in the Senate – the party’s largest midterm gains since 1986. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T20:34:31+00:00",
+      "updated_at": "2026-11-13T20:34:31+00:00",
+      "article_ids": [
+        "4f798e6b5e4f230e256e"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-c2a00746bf78e0cbc979",
+      "title": "Mamdani and Trump agree to 90-day delay on new food assistance rules for corner stores",
+      "overview": "New York City mayor says deal will allow bodegas and convenience stores across the country more time to comply Zohran Mamdani, the New York City mayor, has struck a deal with Donald Trump to secure a 90-day delay on new rules for the Supplemental Nutrition Assistance Program (Snap), so that bodegas and corner stores across the country have time to comply. The extension, Mamdani said, starts Friday as a result of conversations he had with Trump and Brooke Rollins, the agriculture secretary. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T20:33:12+00:00",
+      "updated_at": "2026-11-13T20:33:12+00:00",
+      "article_ids": [
+        "783d1d16752af1391c68"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-abc55906f10666bb2acf",
+      "title": "Send us your questions about climate crisis and politics for the next Stateside guest: Bill McKibben",
+      "overview": "Kai Wright of the Guardian podcast Stateside will speak with author and environmentalist Bill McKibben – and we’d like to hear your questions Was the climate crisis one of your top political priorities during the midterm elections? We want to hear from you: what do you want political leaders to do about it in 2027? Democrats will control the House and Senate in the new year, and they have a long list of priorities ahead of them. But it remains to be seen just how much they will focus on one of the most pressing issues of our times: the climate crisis. The UN declared this summer that, despite ",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T20:23:23+00:00",
+      "updated_at": "2026-11-13T20:23:23+00:00",
+      "article_ids": [
+        "a1ebc6b94ed7bca85a82"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-b871b7115a66f863ea4e",
+      "title": "Schumer's leadership rival reveals major Senate rule change he'd pursue if elected",
+      "overview": "DENVER — A mile above much of the country, and leagues away from Washington, D.C., Senate Minority Leader Chuck Schumer, D-N.Y., is facing a progressive rebellion that threatens his grip on power. The challenge is being led by Sen. Chris Van Hollen, D-Md., who has served under Schumer since 2017. And he is willing to go further than Schumer ever has on one issue: terminating the filibuster. Years ago, Schumer tried and failed to narrowly change the Senate’s rule to pass a sweeping voting rights package. Republicans have toyed with it over the last two years, but never pulled the trigger. SCHUM",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T20:15:55+00:00",
+      "updated_at": "2026-11-13T20:15:55+00:00",
+      "article_ids": [
+        "4b8ea799e964314ef722"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-1c402f7e6fc781f23f94",
+      "title": "Der gewaltsame Tod eines 32-jährigen Spitalspatienten schockiert ganz Kroatien",
+      "overview": "Auf einem Video ist zu sehen, wie Krankenhauspersonal den ans Bett fixierten Sportler und Trainer so lange misshandelt, bis er nicht mehr atmet",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T20:15:00+00:00",
+      "updated_at": "2026-11-13T20:15:00+00:00",
+      "article_ids": [
+        "37d154899061295e8a93"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-91b31c7d0ca2104df0c7",
+      "title": "Pete Hegseth impeachment effort dies in the House as absent Democrats couldn't beat the traffic",
+      "overview": "Most of America bemoans political gridlock in the nation’s capital. DC area commuters deplore the city’s transit gridlock. But Pentagon chief Pete Hegseth may now be a fan of DC’s legendary traffic snarls. It appears that crosstown traffic may have prevented him from becoming only the third Cabinet secretary ever impeached by the House of Representatives. The House voted 211-204 this week to divert an effort by Rep. Thomas Massie (R-Ky.) to impeach Hegseth. House Republicans moved to block a straight, up-or-down vote on impeachment. Instead, Republicans forced a vote on sending the articles to",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T20:13:17+00:00",
+      "updated_at": "2026-11-13T20:13:17+00:00",
+      "article_ids": [
+        "b838fad415a9e47724af"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-2d9e81e91809edfec4ee",
+      "title": "Trump-backed Maga firebrand Lauren Boebert defeated in Colorado congressional race",
+      "overview": "US congresswoman, who has been caught up in repeated controversies, loses re-election bid to Democrat Eileen Laubacher Lauren Boebert, the firebrand conservative Republican Colorado representative whose three terms in Congress have been marred by multiple controversies, was defeated in her re-election bid. The gun rights advocate, born-again Christian and one-time QAnon fan lost to Democrat Eileen Laubacher by a less than 1% margin, according to the Associated Press. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T20:07:07+00:00",
+      "updated_at": "2026-11-13T20:07:07+00:00",
+      "article_ids": [
+        "4edfe31ee32887b6d986"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-0e9dcdbb2da60459a61c",
+      "title": "Officials name victims of fatal Brooklyn building collapse as investigation widens",
+      "overview": "Authorities conclude search for victims in wreckage of the building and release the names of the eight victims The New York City police department (NYPD) and New York City fire department (FDNY) have concluded the search for victims in the wreckage of the collapsed building in Brooklyn and released the names of the eight people who died. A further 18 people were injured and one was still in critical condition Friday morning, after the disaster on a residential street on Wednesday that saw six men, a boy and a girl among those killed, amid demands for accountability. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T20:02:56+00:00",
+      "updated_at": "2026-11-13T20:02:56+00:00",
+      "article_ids": [
+        "a3c6b132920fc16f0edd"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-c457fe4d8f98b01e56fd",
+      "title": "Ein erdnaher Asteroid beschleunigt auf mysteriöse Weise",
+      "overview": "Eine neue Studie widerlegt bisherige Erklärungen für das sonderbare Verhalten von 1998 KY26. Eine japanische Raumsonde soll ihn bald besuchen",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T20:00:00+00:00",
+      "updated_at": "2026-11-13T20:00:00+00:00",
+      "article_ids": [
+        "9a3dc919f6dda48ea8a9"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-b9c7b72ecce281b28978",
+      "title": "Mecklenburg-Vorpommern: Linke für Koalitionsvertrag",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T19:52:35+00:00",
+      "updated_at": "2026-11-13T19:52:35+00:00",
+      "article_ids": [
+        "86bd2b18fdd46f6f9df0"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-e4b50ae96fa832fc3f97",
+      "title": "Two top Trump Cabinet officials go to war over China spy scandal amid explosive accusations: report",
+      "overview": "A White House Situation Room meeting reportedly turned into a blowout between two of President Donald Trump's Cabinet secretaries after news broke that Nvidia CEO Jensen Huang had an affair with a suspect Chinese spy. Tempers apparently boiled over regarding claims Commerce Secretary Howard Lutnick dragged his feet on placing restrictions on a company run by a suspected Chinese spy with whom Huang admitted to having an affair, even after the Cabinet official received an intel memo informing him of the potential threat. Treasury Secretary Scott Bessent reportedly confronted Lutnick about that i",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T19:49:44+00:00",
+      "updated_at": "2026-11-13T19:49:44+00:00",
+      "article_ids": [
+        "f3815f7197338a3a8fc2"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-beae6a4a69e983a75839",
+      "title": "US supreme court agrees to consider Trump’s ban on asylum at US-Mexico border",
+      "overview": "Trump officials seek to overturn lower court rulings that found executive order banning asylum applications illegal The US supreme court agreed on Friday to consider Donald Trump’s ban on asylum at the US-Mexico border, a pillar of the Republican president’s far-reaching crackdown on immigration. The Trump administration wants to overturn lower court decisions that found the executive order banning asylum applications is illegal. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T19:38:35+00:00",
+      "updated_at": "2026-11-13T19:38:35+00:00",
+      "article_ids": [
+        "03096a2525ef61b51fa9"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-b4c8d73cd95cbe06bbec",
+      "title": "Niederländische Koalition vorerst gerettet",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T19:31:15+00:00",
+      "updated_at": "2026-11-13T19:31:15+00:00",
+      "article_ids": [
+        "5edf966e6141e85c8456"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-31ee4832d286e6b5439b",
+      "title": "Why the Nvidia scandal is far from over - The Latest",
+      "overview": "Jensen Huang’s resignation from the AI chipmaker Nvidia has sent shockwaves through the global economy. Huang resigned after reported affairs with an Nvidia executive and a woman alleged to be a Chinese spy. The fallout is not over yet, with criticism mounting over the apparent lack of action from the US commerce secretary, Howard Lutnick. Lucy Hough speaks to the Guardian’s global technology reporter, Aisha Down Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T19:20:53+00:00",
+      "updated_at": "2026-11-13T19:20:53+00:00",
+      "article_ids": [
+        "e479559e2c0a731cb7f3"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-e7ddfa07f325f6418fa0",
+      "title": "Staatsschulden: IWF-Exekutivdirektor Ettl im Studio",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T19:18:45+00:00",
+      "updated_at": "2026-11-13T19:18:45+00:00",
+      "article_ids": [
+        "f33d56ee404749a536dc"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-8350ce550ef8aa65c4d8",
+      "title": "'Traitor!': Jeffries gets rude awakening at Democratic convention as heckler erupts",
+      "overview": "Protesters confronted Rep. Hakeem Jeffries, D-N.Y., presumed to be the next House speaker, as he spoke at a Democratic conference in Colorado on Friday. While speaking at a panel event moderated by political consultant Jessica Tarlov at the \"What's Next\" conference in Denver, Jeffries was repeatedly interrupted by protesters heckling him. \"When is it time for a Green New Deal?\" protesters shouted at Jeffries. \"When is it time for Medicare-for-all?\" DEMS ADMIT UNCOMFORTABLE ELECTION SWEEP TRUTH AS PARTY DESCENDS ON DENVER TO SHAPE 2028 WITHOUT A FRONTRUNNER Various videos from the conference po",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T19:12:05+00:00",
+      "updated_at": "2026-11-13T19:12:05+00:00",
+      "article_ids": [
+        "b32e8efe991038c8f8c8"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-7bfea0b6c38e7a6cf67c",
+      "title": "Democratic Senate leader Schumer set to face leadership challenge",
+      "overview": "Maryland Senator Van Hollen says \"new leadership\" is needed for Democrats following the party's recent midterm successes.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T19:03:10+00:00",
+      "updated_at": "2026-11-13T19:03:10+00:00",
+      "article_ids": [
+        "c9c045f5dcf74be23b83"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-0fc947b3adfddecb2fa2",
+      "title": "Nach 5.000 Waldbränden: Brasilien ruft Umweltnotstand aus",
+      "overview": "Bereits jetzt wurden so viele Brände wie im gesamten November des Vorjahres registriert. Der Notstand gilt zunächst für 120 Tage",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T18:42:37+00:00",
+      "updated_at": "2026-11-13T18:42:37+00:00",
+      "article_ids": [
+        "27b7c49a01743c589aeb"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-7d4f83fb33d2400da548",
+      "title": "Tearful Pochettino says leaving USA for Manchester United ‘most difficult decision’ of career: football – as it happened",
+      "overview": "Mauricio Pochettino gave an emotional press conference after his appointment as Michael Carrick’s successor at Manchester United was confirmed Barney Ronay was at Wembley on Thursday night to celebrate Happy Harry Kane day. “And as the teams lined up there was a surprise appearance from the real star of this stage, the Ballon d’Or itself, wreathed in event glamour and star-flash. Kane drew the ballon from its stone in Arthurian fashion, then held it a little sheepishly in one hand. Prince William walked out and gave him a massive framed shirt, which seemed weird in the moment, like the chief a",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T18:37:09+00:00",
+      "updated_at": "2026-11-13T18:37:09+00:00",
+      "article_ids": [
+        "5ec51858f43e0baede22"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-014936e40c222be842da",
+      "title": "The Peruvian city that has embraced Pope Leo as one of its own",
+      "overview": "Pope Leo XIV is in Peru as part of his Latin America tour, just weeks after having surgery for lung cancer.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T18:34:45+00:00",
+      "updated_at": "2026-11-13T18:34:45+00:00",
+      "article_ids": [
+        "9f394bbc35cb47ab36fe"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-2815f7356fd412ccc3ec",
+      "title": "Russische Luxusjacht \"A\" verlässt Triest nach viereinhalb Jahren",
+      "overview": "Das 143 Meter lange Schiff soll in den kommenden Tagen den Adria-Hafen Ancona anlaufen. Der geschätzte Wert liegt bei rund 530 Millionen Euro",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T18:34:43+00:00",
+      "updated_at": "2026-11-13T18:34:43+00:00",
+      "article_ids": [
+        "9e2e4855683745656471"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-a18e01fe9c883b2b6d0e",
+      "title": "EU-Einigung auf breites Verhandlungsteam",
+      "overview": "Die Staats- und Regierungschefs der EU haben sich darauf geeinigt, wer Europa bei künftigen Gesprächen über ein Ende des Ukraine-Krieges vertreten soll: Das „europäische Verhandlungsteam für den Frieden in der Ukraine“ werde „aus den Institutionen der Europäischen Union und den E5“ bestehen, sagte EU-Ratspräsident Antonio Costa am Freitag nach dem informellen EU-Gipfel in Dublin. Bei den E5-Ländern handelt es sich um Deutschland, Großbritannien, Frankreich, Italien und Polen.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T18:30:02+00:00",
+      "updated_at": "2026-11-13T18:30:02+00:00",
+      "article_ids": [
+        "912130db85631e30d58d"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-7540b25aa3d41d62d49e",
+      "title": "Schumer's former ally mounts leadership challenge as Democrats face rare internal power struggle",
+      "overview": "Senate Democrats are getting an opportunity they haven’t had in decades: a different option for who their leader could be. Even before the blue wave crashed over Republicans and Democrats emerged with a commanding majority in the Senate, the rumblings for Senate Minority Leader Chuck Schumer, D-N.Y., to step aside were there. Now, he’s got a challenger in Sen. Chris Van Hollen, D-Md., a familiar face in Washington, D.C., who framed his bid against Schumer as one answering the call for change voters demanded. It’ll be the first time that a Senate Democratic leadership race will be contested sin",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T18:23:20+00:00",
+      "updated_at": "2026-11-13T18:23:20+00:00",
+      "article_ids": [
+        "f3237c988f3688cfb03d"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-a18e2f0327fb62f302a1",
+      "title": "Regierung bereitet schon Kauf des Bundestrojaners vor – doch der VfGH könnte noch alles stoppen",
+      "overview": "Ab Frühjahr 2027 soll die Spähsoftware einsatzbereit sein, auch das Personal bereits geschult. Die Opposition kritisiert eine voreilige Faktenlage und fehlende Gegenmaßnahmen",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T18:19:25+00:00",
+      "updated_at": "2026-11-13T18:19:25+00:00",
+      "article_ids": [
+        "bee1ad8f3b13734ef0fe"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-eaea88a41e68a0608ac3",
+      "title": "The Guardian view on press freedom: authoritarians target journalism because it matters | Editorial",
+      "overview": "From Cairo to Moscow to Washington, governments are turning up the pressure on media workers Lina Attalah is an influential Egyptian journalist. Yet until last month, even she was unaware of a major and concerning piece of news: her own conviction. In 2024, a court issued her a one-year sentence for “spreading false news” and running a website without a licence – which she had repeatedly sought to obtain – after trying her in absentia, even though she was in the country. Ms Attalah learned of the case only after she was separately tried in October, resulting in a large fine and an order for th",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T18:01:46+00:00",
+      "updated_at": "2026-11-13T18:01:46+00:00",
+      "article_ids": [
+        "440fd2639933930fc1e3"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-4957b2c8f1e9d96f3ca5",
+      "title": "Are board games making a comeback this Christmas?",
+      "overview": "Are board games making a comeback this Christmas?",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T18:00:40+00:00",
+      "updated_at": "2026-11-13T18:00:40+00:00",
+      "article_ids": [
+        "75870c48c4137dc07f6a"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Business",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-4bf7f78bcfa78cf93e5b",
+      "title": "Wo große Windräder keinen Platz haben, soll diese Mini-Windturbine helfen",
+      "overview": "Ein Start-up will die Windkraft in bebaute Gebiete bringen und baut kleine Anlagen mit vertikaler Achse. Eine der ersten dreht sich in Österreich",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T18:00:00+00:00",
+      "updated_at": "2026-11-13T18:00:00+00:00",
+      "article_ids": [
+        "2a9bf3b86874e56c31ed"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-faf05d962dffe3a237df",
+      "title": "Sängerin Avril Lavigne ist Mutter geworden",
+      "overview": "Die 42-Jährige zeigte auf Instagram ein Foto von ihrer \"Prinzessin\"",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T17:58:56+00:00",
+      "updated_at": "2026-11-13T17:58:56+00:00",
+      "article_ids": [
+        "a2e9613895ebd22e7f50"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-92ddbaf97e89cc639133",
+      "title": "EU einig: Verhandlungsteam mit Russland steht",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T17:57:32+00:00",
+      "updated_at": "2026-11-13T17:57:32+00:00",
+      "article_ids": [
+        "0ca2ca5d501f0aded656"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-5594667f93e1ef7123de",
+      "title": "Polizei ermittelt gegen „Little Britain“-Star Walliams",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T17:46:38+00:00",
+      "updated_at": "2026-11-13T17:46:38+00:00",
+      "article_ids": [
+        "9a1cbc3f9abda1c7c8c9"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-4004a985b101c951ca99",
+      "title": "Rubio takes aim at 'soulless global bureaucrats' pushing Marxism to undermine America",
+      "overview": "FIRST ON FOX: Secretary of State Marco Rubio is taking aim at \"soulless global bureaucrats\" using \"rules-based order\" arguments to undermine U.S. foreign policy in a speech Friday, warning that the \"spirit of Marx\" outlived the Soviet Union. U.S. leaders of both parties defended the \"rules-based international order,\" the network of postwar institutions America built. Rubio is set to argue the system has been turned against the country that built it, the same case he made at his January 2025 confirmation hearing, when he called the postwar order \"a weapon being used against us.\" In a preview of",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T17:41:40+00:00",
+      "updated_at": "2026-11-13T17:41:40+00:00",
+      "article_ids": [
+        "4f2ff72eed6a2fd7be30"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-f3b4f8e126159c7b7b45",
+      "title": "Deutschland: Zustimmung zur Demokratie auf niedrigsten Niveau",
+      "overview": "Zukunftsangst erzeugt Vertrauensverlust. Wie sieht es in Österreich aus?",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T17:14:37+00:00",
+      "updated_at": "2026-11-13T17:14:37+00:00",
+      "article_ids": [
+        "66efe9d6a09bfbce4ab8"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-25aea0fa3238ab29394b",
+      "title": "\"Wie geht das?\": Politischer Wirbel nach STANDARD-Enthüllung über Wohnungsvergaben im FPÖ-Umfeld",
+      "overview": "Vertreter sämtlicher Parteien melden sich zur Wohnungscausa des oberösterreichischen FPÖ-Landesrats Günther Steinkellner zu Wort – nur Herbert Kickls Bundes-FPÖ schweigt",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T17:13:47+00:00",
+      "updated_at": "2026-11-13T17:13:47+00:00",
+      "article_ids": [
+        "61e284ad53690ba5cf3a"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-9ffd80481da3bdc2f680",
+      "title": "SOUND OFF: Will Democrats and Republicans come together for the good of the country?",
+      "overview": "What do you think: With President Donald Trump's willingness to work with the new Democratic Congress, can the man behind \"The Art of the Deal\" pull off his greatest achievement, the uniting of the United States?",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T17:09:24+00:00",
+      "updated_at": "2026-11-13T17:09:24+00:00",
+      "article_ids": [
+        "0f75dd067e698b90aaee"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-96d05d8d9c15881806f0",
+      "title": "Starship: SpaceX will Freitag und Samstag erstmals Booster und Raumschiff auffangen",
+      "overview": "Zum ersten Mal soll nicht nur das Triebwerk, sondern auch das Raumschiff Starship von mechanischen Greifarmen eingefangen werden – angesichts explosiver Tests ein riskantes Unterfangen",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T17:03:08+00:00",
+      "updated_at": "2026-11-13T17:03:08+00:00",
+      "article_ids": [
+        "eb35bab5065c3d180ac1"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-363469ef3c15c9067306",
+      "title": "Sollten Städte und Weihnachtsmärkte auf ihren Christbaum verzichten?",
+      "overview": "Sie erzeugen Weihnachtsstimmung und haben Tradition, werden aber mitunter weit transportiert und gehen im Wald als wertvoller Lebensraum ab. Was für und was gegen öffentliche Christbäume spricht",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T17:00:44+00:00",
+      "updated_at": "2026-11-13T17:00:44+00:00",
+      "article_ids": [
+        "b0374dff9dd9d5e06e53"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-e27057233137cce88641",
+      "title": "Smart Sudoku mittel 788a",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T17:00:00+00:00",
+      "updated_at": "2026-11-13T17:00:00+00:00",
+      "article_ids": [
+        "b7b5b33280bb8a1c0b44",
+        "e4cbe569fa6d2d7508eb"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 2,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [
+        "mittel",
+        "smart",
+        "sudoku"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-ef5ea07538c851345398",
+      "title": "Squiggly Sudoku schwierig 6570b",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T17:00:00+00:00",
+      "updated_at": "2026-11-13T17:00:00+00:00",
+      "article_ids": [
+        "483d8582348614ca8382",
+        "5ec64f3953f7625dc2e3"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 2,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [
+        "schwierig",
+        "squiggly",
+        "sudoku"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-242dfd7aa854ada0a0e7",
+      "title": "Smart Sudoku sehr schwierig 790b",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T17:00:00+00:00",
+      "updated_at": "2026-11-13T17:00:00+00:00",
+      "article_ids": [
+        "9275fac9d0c42253042a"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-f456c963734866a73ec4",
+      "title": "Sudoku extrem schwierig 6571a",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T17:00:00+00:00",
+      "updated_at": "2026-11-13T17:00:00+00:00",
+      "article_ids": [
+        "d444cb960bf808ea088d"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-3e0f379b8166f164cd4e",
+      "title": "Hinter der Nvidia-Affäre steht Trumps größter Verrat",
+      "overview": "Der US-Präsident hat dem großen Rivalen China im Wettkampf um die KI zu Vorteilen verholfen – ein womöglich historischer Fehltritt",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T16:59:57+00:00",
+      "updated_at": "2026-11-13T16:59:57+00:00",
+      "article_ids": [
+        "0ff9ae7f550001c59909"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-82d4726dadd393049034",
+      "title": "Wie das Netzwerk der Alice Huang den mächtigen Nvidia-Chef zu Fall brachte",
+      "overview": "Die Nvidia-Krise zieht Schockwellen bis ins Weiße Haus und bringt Trump unter Druck. Zugleich kommen immer mehr Details der mutmaßlichen Spionageaffäre ans Licht",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T16:59:40+00:00",
+      "updated_at": "2026-11-13T16:59:40+00:00",
+      "article_ids": [
+        "5adb9122d0bfbba11005"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-ac4b66eafd032f7edbca",
+      "title": "Tearful Pochettino says United job was ‘difficult to turn down’ in USMNT farewell",
+      "overview": "Coach was ‘transparent’ in dealings with club, federation Pochettino had signed deal to stay with US through 2030 There were always going to be tears at Mauricio Pochettino’s news conference at US Soccer’s national training center on Friday. It was only a matter of when. Pochettino is famously emotional, and nobody in attendance had to wait long for the waterworks – they came during his introductory remarks, as he thanked the US Soccer executives flanking him for the opportunity to guide the US men. He grew emotional again as he addressed his impending departure for Manchester United, one anno",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T16:53:14+00:00",
+      "updated_at": "2026-11-13T16:53:14+00:00",
+      "article_ids": [
+        "6d1e69db3a0fbd779106"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-a8ac51b4b3ef1ee9c85b",
+      "title": "Incoming GOP congressman backs halting all immigration to US, warns about Sharia law in Texas",
+      "overview": "Rep.-elect Jace Yarbrough, a Republican from Texas, is set to enter Congress on Jan. 3 with an agenda to sharply restrict immigration and preserve what he describes as the \"Christian heritage\" of the United States, though he doubts the incoming Democratic majorities in both chambers will be willing to work with him. In an interview with Fox News Digital, Yarbrough repeatedly denounced mass migration and said he'd be in favor of \"stopping immigration altogether for a time because of how insane this has gotten.\" He argued the U.S. is admitting far too many immigrants, including individuals he de",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T16:48:35+00:00",
+      "updated_at": "2026-11-13T16:48:35+00:00",
+      "article_ids": [
+        "9e0e8c7d95b59a43b6b6"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-a1a0b228ddf7998477d9",
+      "title": "Rosenberg: Uncompromising Putin ups demands for peace with Ukraine",
+      "overview": "The fact the question of European security now features in discussions is viewed in Moscow as a victory, BBC Russia Editor Steve Rosenberg says.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T16:40:31+00:00",
+      "updated_at": "2026-11-13T16:40:31+00:00",
+      "article_ids": [
+        "30ed482e0c9372486da6"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-ace706daf02aaf4f01f3",
+      "title": "Geharnischte Kritik an „Sozialhilfe neu“",
+      "overview": "Der Gesetzesentwurf zur „Sozialhilfe neu“ der Bundesregierung sieht sich in der Begutachtungsphase mit teils deutlicher Kritik konfrontiert. In den bis Donnerstagabend eingetroffenen Dutzenden Schreiben werden neben dem Inhalt auch der kurze Begutachtungszeitraum und die kurze Frist bis zur Umsetzung Anfang 2027 kritisiert.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T16:38:21+00:00",
+      "updated_at": "2026-11-13T16:38:21+00:00",
+      "article_ids": [
+        "e1ffe01913d2f3370081"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-373a7593ae41e183b883",
+      "title": "What are people emergency stockpiling?",
+      "overview": "From cider to candy canes: What people are emergency stockpiling",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T16:31:22+00:00",
+      "updated_at": "2026-11-13T16:31:22+00:00",
+      "article_ids": [
+        "cfc9b8734364ce0d2a29"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Business",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-68dc35f396059b465354",
+      "title": "Slalomstart in Levi: Prominente Abwesende und viele Favoriten",
+      "overview": "Der Alpine Skiweltcup setzt sich am Wochenende in Finnland fort. Wer fehlt, wer mischt vorne mit, und wie stehen die Chancen für Österreich?",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T16:30:11+00:00",
+      "updated_at": "2026-11-13T16:30:11+00:00",
+      "article_ids": [
+        "9a265ec05531ecae1343"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-1bd5d56e617ee145295b",
+      "title": "Alte Garnituren ausgemustert: Ansturm auf Badner-Bahn-Flohmarkt",
+      "overview": "Vom Mistkübel bis zur Notrufsäule konnten Fans der Tram am Freitagnachmittag Andenken erstehen. Ein Flohmarkt-Besuch",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T16:24:03+00:00",
+      "updated_at": "2026-11-13T16:24:03+00:00",
+      "article_ids": [
+        "54e1628469001e0c13de"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-3f638e998cf19b83c211",
+      "title": "Trump's spy chiefs put Republican leaders on the clock over 'huge priority' as power shift looms over Congress",
+      "overview": "EXCLUSIVE: President Donald Trump's top administration intelligence officials penned a letter to congressional leaders urging them to reauthorize the Foreign Intelligence Surveillance Act (FISA). An administration official told Fox News Digital the intel measure is at top of mind for the White House to get passed in the still-Republican-controlled Congress before Democrats take a majority on Capitol Hill in January. \"This is going to be a huge priority and push by the administration, by the White House for the lame-duck Congress, because this really needs to get done,\" the administration sourc",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T16:11:21+00:00",
+      "updated_at": "2026-11-13T16:11:21+00:00",
+      "article_ids": [
+        "6e2d770ae7489f7ccf99"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-9b0a9c4810901b16a9fe",
+      "title": "Was Sie heute streamen können: \"The Good Daughter\" auf HBO Max",
+      "overview": "Familienzusammenführung auf die ungemütliche Art",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T16:06:47+00:00",
+      "updated_at": "2026-11-13T16:06:47+00:00",
+      "article_ids": [
+        "24ab229fade6b93e3eab"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-8406d658f6a62f7168f9",
+      "title": "Putin hat Trump und Europa mit seinem Krieg gegen die Ukraine in eine fatale Falle gelockt",
+      "overview": "In Abu Dhabi ging es nicht um Frieden für die Ukraine, sondern um Russlands Einfluss auf Europa. Dieses könnte bald vor einem gefährlichen Dilemma stehen",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T16:04:27+00:00",
+      "updated_at": "2026-11-13T16:04:27+00:00",
+      "article_ids": [
+        "48f30a1cd42ef2976424"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-f3605c7da2eea02cfb6e",
+      "title": "Kanada, wir kommen! So haben Österreichs Eishockeyfrauen den Coup geschafft",
+      "overview": "\"Herzblut und Teamgeist\": Kapitänin Anna Meixner schoss das Team zum 2:1-Overtimesieg über Japan und zum Klassenerhalt. Entscheidendes spielte sich auch abseits der Eisfläche ab",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T16:02:05+00:00",
+      "updated_at": "2026-11-13T16:02:05+00:00",
+      "article_ids": [
+        "19b17bef73603a15dc98"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-5620ec188a7acb03ef93",
+      "title": "Arnold Schwarzenegger zum \"heißesten Opa der Welt\" gekürt",
+      "overview": "Die Auszeichnung des US-Magazins nahm der 79-jährige Steirer mit Humor",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T15:57:16+00:00",
+      "updated_at": "2026-11-13T15:57:16+00:00",
+      "article_ids": [
+        "88372cdc225c9744b96c"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-3b25d4032df046fba132",
+      "title": "Aus für umstrittenen Sponsoring-Deal mit Rheinmetall bei Borussia Dortmund",
+      "overview": "Es gibt keine Fortsetzung der Kooperation mit dem Rüstungskonzern. Ausschlaggebend war die anhaltende Kritik der BVB-Fans an der Partnerschaft",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T15:49:00+00:00",
+      "updated_at": "2026-11-13T15:49:00+00:00",
+      "article_ids": [
+        "117598b91fb84fc878ec"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-bd0c87930a81f87693a4",
+      "title": "IEA: Ölversorgung erholt sich erstmals seit Iran-Krieg",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T13:21:22+00:00",
+      "updated_at": "2026-11-13T15:43:46+00:00",
+      "article_ids": [
+        "35a2882a7f2146b0aa5c",
+        "9592e46e61295ae4ba57"
+      ],
+      "publisher_count": 2,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [
+        "erholt",
+        "erstmals",
+        "iran",
+        "krieg",
+        "seit",
+        "ölversorgung"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-3f68569b4ffea5deace2",
+      "title": "German spies handed new powers to tackle 'hybrid threats' from abroad",
+      "overview": "German reforms mean foreign and domestic intelligence services will have greater powers to combat espionage, terrorism and sabotage.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T15:42:52+00:00",
+      "updated_at": "2026-11-13T15:42:52+00:00",
+      "article_ids": [
+        "e0b0b7b19b4ba9cbb0a2"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-6b124deed58e9eed2b3c",
+      "title": "The mistake newly-elected Dems admit they can't afford to make with Trump after sweeping 2026 wins",
+      "overview": "DENVER — Congressional Democrats are heading into the next two years with a choice: focus on investigating President Donald Trump and his administration or look for ways to work with him to deliver results for Americans. The party, after sweeping pickups in last week's midterms, right away warned Trump and Republicans to \"lawyer up\" and in the following days began outlining investigations into the administration, including its handling of immigration enforcement, the president’s business interests and the Justice Department's actions. But newly elected Democrats and strategists at the \"What’s ",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T15:29:50+00:00",
+      "updated_at": "2026-11-13T15:29:50+00:00",
+      "article_ids": [
+        "ff294371a32fa1ebb59a"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-0b8a67b36e4f68a26d64",
+      "title": "Durch Schuss von Polizist verletzt: Erste Einvernahme geplant",
+      "overview": "Ein 38-Jähriger wurde festgenommen und befindet sich weiterhin im Krankenhaus. Die Schussabgabe wird von der Ermittlungs- und Beschwerdestelle Misshandlungsvorwürfe untersucht",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T15:29:16+00:00",
+      "updated_at": "2026-11-13T15:29:16+00:00",
+      "article_ids": [
+        "10519096a57478ce3d29"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
     {
       "id": "story-3852c44731b03e2edba9",
       "title": "US-Behörde rät 720.000 BMW-Fahrern wegen Brandgefahr im Freien zu parken",
@@ -18657,6 +22674,42 @@
       "ai": null
     },
     {
+      "id": "story-86090305d593c29d6717",
+      "title": "At least 24 killed after bus collides with truck in north-east India",
+      "overview": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T15:16:50+00:00",
+      "updated_at": "2026-11-13T15:16:50+00:00",
+      "article_ids": [
+        "26713b63114e62886741"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
       "id": "story-18acc3cac67839920734",
       "title": "Bus stieß mit Lastwagen zusammen: 23 Tote in Indien",
       "overview": "Die Unfallursache ist unklar. Der Vorfall ereignete sich an einer Schnellstraße nahe des Kaziranga-Nationalparks",
@@ -18721,6 +22774,50 @@
       ],
       "language": "de",
       "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-480de14b7ed5a43d1aab",
+      "title": "Famed ship SS United States deliberately sunk off Florida coast to become a reef",
+      "overview": "Activists wanted the historic liner to be turned into a museum, but it will instead become the world's largest artificial ocean reef.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T04:03:13+00:00",
+      "updated_at": "2026-11-13T15:09:40+00:00",
+      "article_ids": [
+        "943e5a37b13c4ea1a5a9",
+        "add51d22f25e4611e5b4"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 2
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [
+        "coast",
+        "florida",
+        "off",
+        "reef",
+        "ship",
+        "sunk"
+      ],
       "limitations": [
         "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
         "Insufficient coverage for comparison."
@@ -19281,6 +23378,42 @@
       "ai": null
     },
     {
+      "id": "story-c6f61778436686dc5f28",
+      "title": "Gruppe von fünf Staaten vertritt Europa bei Ukraine-Gesprächen",
+      "overview": "Entscheidung beim Gipfel in Dublin. Der Ratspräsident soll in zwei Wochen Vorschläge zu Strategie und EU-Budget machen",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T14:30:36+00:00",
+      "updated_at": "2026-11-13T14:30:36+00:00",
+      "article_ids": [
+        "295e102626fd86147d10"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
       "id": "story-e859357ca31e8c8ab8e3",
       "title": "Alles deutet auf europäische Abschiebezentren in Ruanda hin",
       "overview": "Dass die ersten geplanten Return Hubs im ostafrikanischen Land errichtet werden sollen, dürfte am Montag in Wien bekannt gegeben werden",
@@ -19785,42 +23918,6 @@
       "ai": null
     },
     {
-      "id": "story-bd0c87930a81f87693a4",
-      "title": "IEA: Ölversorgung erholt sich erstmals seit Iran-Krieg",
-      "overview": "",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-13T13:21:22+00:00",
-      "updated_at": "2026-11-13T13:21:22+00:00",
-      "article_ids": [
-        "35a2882a7f2146b0aa5c"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
       "id": "story-31e1a655f39e365f89fc",
       "title": "\"Arena muss bleiben\": Prominente protestieren gegen Förderkürzung der Wiener Stadtregierung",
       "overview": "Das Ansinnen der Wiener Stadtregierung, dem Kulturzentrum Arena existenzbedrohend die Förderung zu kürzen, regt auf. Marco Pogo, Nenda und David Scheid melden sich zu Wort",
@@ -19848,6 +23945,42 @@
         "AT"
       ],
       "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-1efdc0e2811b02848bac",
+      "title": "Aide to fugitive Ukrainian ex-PM wounded in latest Moscow car bombing",
+      "overview": "Sergei Zavorotny, now a journalist and commentator, was previously an adviser to Ukrainian ex-prime minister Mykola Azarov.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T13:11:23+00:00",
+      "updated_at": "2026-11-13T13:11:23+00:00",
+      "article_ids": [
+        "6a27be3429c1e7b67db2"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
       "common_terms": [],
       "limitations": [
         "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
@@ -20842,6 +24975,42 @@
       "ai": null
     },
     {
+      "id": "story-657cbe7fdfee5f756631",
+      "title": "Rosalía scoops historic third best album award at Latin Grammys",
+      "overview": "The Spanish singer is recognised for her fourth album Lux which was released last year to rave reviews.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T11:38:54+00:00",
+      "updated_at": "2026-11-13T11:38:54+00:00",
+      "article_ids": [
+        "51579f1ccfec1d5781ab"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
       "id": "story-6da323eee1c2145036e5",
       "title": "Aus für Ardo-Werk: Weiterhin keine Einigung über Sozialplan",
       "overview": "Die siebente Verhandlungsrunde ist ohne Ergebnis zu Ende gegangen. Es ist kein weiterer Termin geplant",
@@ -21208,50 +25377,6 @@
       "limitations": [
         "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
         "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-80b5f93a725504572a02",
-      "title": "Chris Van Hollen to challenge Chuck Schumer for Senate majority leader",
-      "overview": "Maryland Democrat challenges party leader after midterms sweep, saying: ‘The American people called for change’ Chris Van Hollen, the Democratic senator of Maryland, announced on Thursday that he is challenging Chuck Schumer for the role of Senate majority leader when Democrats regain the chamber’s majority in January. “In this election, the American people called for change. They called for a change from Donald Trump’s disastrous policies – but even bigger than that, a change from the status quo that isn’t working for working people,” Van Hollen said in a statement posted on social media. Con",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-13T02:30:07+00:00",
-      "updated_at": "2026-11-13T11:06:30+00:00",
-      "article_ids": [
-        "cf9b40d8625915c9c61b",
-        "a7957da01cb53fcab4bc"
-      ],
-      "publisher_count": 2,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 1,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 1,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [
-        "challenge",
-        "chris",
-        "hollen",
-        "leader",
-        "schumer",
-        "senate",
-        "van"
-      ],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments."
       ],
       "exposures": [],
       "ai": null
@@ -22409,6 +26534,42 @@
         "unknown": 1
       },
       "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-fe8326c4253bfd3a6778",
+      "title": "Auch Norwegen, Schweden und Estland wollen russischen Sportlern Visa verweigern",
+      "overview": "\"Da Russland seinen brutalen Angriffskrieg fortsetzt\", sind russische Profisportler sowie deren Betreuer in Norwegen unerwünscht. Zuvor sind Finnland und Kanada vorgeprescht",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T08:51:19+00:00",
+      "updated_at": "2026-11-13T08:51:19+00:00",
+      "article_ids": [
+        "d26a6bc8d038ee2eb999"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
       "countries": [
         "AT"
       ],
@@ -27005,42 +31166,6 @@
         "smart",
         "sudoku"
       ],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-ef5ea07538c851345398",
-      "title": "Squiggly Sudoku schwierig 6570b",
-      "overview": "",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-12T17:00:00+00:00",
-      "updated_at": "2026-11-12T17:00:00+00:00",
-      "article_ids": [
-        "483d8582348614ca8382"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
       "limitations": [
         "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
         "Insufficient coverage for comparison."
@@ -33521,42 +37646,6 @@
       "ai": null
     },
     {
-      "id": "story-480de14b7ed5a43d1aab",
-      "title": "Famed ship SS United States deliberately sunk off Florida coast to become a reef",
-      "overview": "Activists wanted the historic liner to be turned into a museum, but it will instead become the world's largest artificial ocean reef.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-12T04:03:13+00:00",
-      "updated_at": "2026-11-12T04:03:13+00:00",
-      "article_ids": [
-        "943e5a37b13c4ea1a5a9"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
       "id": "story-7aa8fb51c8fe8d066349",
       "title": "Die Landeschefs und Ryanair hebeln die Flugabgabe aus – ein Fehler mit Folgen",
       "overview": "Die Landeschefs haben bei ihrem Kampf gegen die Flugabgabe weniger die Interessen der Fluggäste im Blick als ihre Dividenden",
@@ -36199,42 +40288,6 @@
       "updated_at": "2026-11-11T17:00:00+00:00",
       "article_ids": [
         "2b2810a1bf8022e5e8a9"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-e27057233137cce88641",
-      "title": "Smart Sudoku mittel 788a",
-      "overview": "",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-11T17:00:00+00:00",
-      "updated_at": "2026-11-11T17:00:00+00:00",
-      "article_ids": [
-        "b7b5b33280bb8a1c0b44"
       ],
       "publisher_count": 1,
       "article_counts": {
@@ -54731,42 +58784,6 @@
       ],
       "exposures": [],
       "ai": null
-    },
-    {
-      "id": "story-3dd2aaa20987be1bd268",
-      "title": "Behörden dürfen nun mit KI entscheiden – ist das vereinbar mit der Verfassung?",
-      "overview": "Künftig können Behörden Bescheide ohne menschliche Genehmigung erlassen. Die Neuregelung soll die Verwaltung effizienter machen, wirft aber verfassungsrechtliche Fragen auf",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-06T16:00:00+00:00",
-      "updated_at": "2026-11-06T16:00:00+00:00",
-      "article_ids": [
-        "cc4630c2ce3ce00183ac"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
     }
   ],
   "instruments": [
@@ -54891,15 +58908,15 @@
   "markets": [],
   "status": {
     "state": "ok",
-    "attempted_at": "2026-11-13T15:28:20.716853+00:00",
-    "last_success_at": "2026-11-13T15:28:20.716853+00:00",
+    "attempted_at": "2026-11-13T22:00:24.519507+00:00",
+    "last_success_at": "2026-11-13T22:00:24.519507+00:00",
     "errors": [],
     "source_results": {
-      "bbc-world": "22 entries",
+      "bbc-world": "26 entries",
       "guardian-us": "33 entries",
       "fox-politics": "25 entries",
-      "bbc-business": "38 entries",
-      "orf": "22 entries",
+      "bbc-business": "39 entries",
+      "orf": "23 entries",
       "standard": "152 entries"
     },
     "market_status": "Market price data not configured",
