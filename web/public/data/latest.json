@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "mode": "live",
-  "generated_at": "2026-11-12T23:41:50.104061+00:00",
+  "generated_at": "2026-11-13T06:54:28.387530+00:00",
   "refresh_minutes": 60,
   "sources": [
     {
@@ -91,6 +91,753 @@
   ],
   "articles": [
     {
+      "id": "50ed42af2146ca4cb516",
+      "source_id": "guardian-us",
+      "title": "Nvidia scandal sparks US national security furore and calls to take tough line on China",
+      "url": "https://www.theguardian.com/technology/2026/nov/13/nvidia-scandal-sparks-us-national-security-concerns-china",
+      "summary": "Former CEO Jensen Huang and US commerce secretary to appear before Congress amid bipartisan concern that America’s security was put at risk Nvidia scandal – latest updates Analysis: Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached? Nvidia’s ousted CEO Jensen Huang and Donald Trump’s commerce secretary are expected to testify before Congress in the coming weeks, as the fallout from Huang’s reported affair with an alleged Chinese spy reverberated across the US, sparking bipartisan concerns for national security and calls for a tougher stance against Beijing. Se",
+      "published_at": "2026-11-13T06:34:59+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "Jonathan Yerushalmy and agencies",
+      "categories": [
+        "Nvidia",
+        "Jensen Huang",
+        "China",
+        "US politics",
+        "Asia Pacific",
+        "Technology",
+        "AI (artificial intelligence)"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "50f94188933524343c7d",
+      "source_id": "bbc-business",
+      "title": "Politicians back focus on cost of living",
+      "url": "https://www.bbc.co.uk/news/articles/cqj9mjl8jy4no?at_campaign=rss&at_medium=RSS",
+      "summary": "The Government of Jersey's key priorities are passed despite concerns over a lack of \"real action\".",
+      "published_at": "2026-11-13T06:23:37+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "bbc-business",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "Business"
+    },
+    {
+      "id": "ee9c5e3190041bdb4e85",
+      "source_id": "bbc-business",
+      "title": "Cider makers fear future for orchards as costs grow",
+      "url": "https://www.bbc.co.uk/news/articles/c5zjxjzx2dpwo?at_campaign=rss&at_medium=RSS",
+      "summary": "Producers claimed without more support, they could be forced to stop using British-grown apples.",
+      "published_at": "2026-11-13T06:21:34+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "bbc-business",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "Business"
+    },
+    {
+      "id": "edb82ad9dbdd77163ae3",
+      "source_id": "standard",
+      "title": "EU-Einigung: Erleichterung für Industrie im Emissionshandel",
+      "url": "https://www.derstandard.at/story/3000000349060/eu-einigung-erleichterung-f252r-industrie-im-emissionshandel?ref=rss",
+      "summary": "Demnach werden zusätzliche kostenlose Zertifikate bis 2030 ermöglicht. Damit gehen die Verhandler über den Vorschlag der EU-Kommission hinaus",
+      "published_at": "2026-11-13T06:16:47+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "a9c4195c30e33063fafc",
+      "source_id": "standard",
+      "title": "Kushner: Putin bereit für Europäer am Verhandlungstisch",
+      "url": "https://www.derstandard.at/jetzt/livebericht/3000000349025/u?ref=rss",
+      "summary": "Am Freitag findet der EU-Gipfel im Zeichen der Ukraine-Verhandlungen statt. Donnerstagabend traf der ukrainische Präsident auf die beiden US-Sondergesandten, die zuvor im Kreml waren",
+      "published_at": "2026-11-13T06:13:35+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "673176eb7b89c1c080f9",
+      "source_id": "standard",
+      "title": "Sechs Tote nach israelischem Angriff auf Krankenhaus in Gaza bestätigt",
+      "url": "https://www.derstandard.at/story/3000000349059/sechs-tote-nach-israelischem-angriff-auf-krankenhaus-in-gaza-bestaetigt?ref=rss",
+      "summary": "Das Nasser-Krankenhaus meldete den Tod von sechs Menschen. Bei anderen Angriffen der israelischen Armee sind fünf weitere Menschen in Gaza gestorben",
+      "published_at": "2026-11-13T06:04:09+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "ab65bd5959655da7c9c0",
+      "source_id": "guardian-us",
+      "title": "Progressives are still so pessimistic, but why? The populist right can and will be defeated | Andy Beckett",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/13/progressive-pessimism-right-defeat-us-midterms-brazil-hungary",
+      "summary": "From the US midterms to Brazil and Hungary, extremists are floundering yet the left still overestimates their power. Reality is on our side From Brazil to Hungary and Britain to the US, why are so many people so surprised by the right’s election defeats? Flávio Bolsonaro, Viktor Orbán, Reform UK, the Tories and a vast array of Republican candidates have all been rejected in national or local contests this year, even in usually reliably conservative Mississippi. Apparently impregnable incumbents and populist insurgents alike have been beaten, often by big margins. The supposedly ascendant globa",
+      "published_at": "2026-11-13T06:00:12+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "Andy Beckett",
+      "categories": [
+        "US politics",
+        "Politics",
+        "Donald Trump",
+        "The far right",
+        "World news"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "cc1ac1412dbcd9945e1c",
+      "source_id": "standard",
+      "title": "Warum den Vermögensaufbau bekämpfen? Das Zukunftsdepot gehört ausgeweitet",
+      "url": "https://www.derstandard.at/story/3000000348901/warum-den-vermoegensaufbau-bekaempfen-das-zukunftsdepot-gehoert-ausgeweitet?ref=rss",
+      "summary": "All jene, die nicht sparen können, brauchen gezielte Unterstützung. Den Vermögensaufbau für alle anderen unattraktiv zu machen, hilft diesen jungen Menschen nicht. Warum soll die Förderung mit 18 enden?",
+      "published_at": "2026-11-13T06:00:00+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "00e01b73391d018ac985",
+      "source_id": "standard",
+      "title": "Österreichs Eishockeyfrauen sehen sich vor dem \"Finale\" gegen Japan am aufsteigenden Ast",
+      "url": "https://www.derstandard.at/story/3000000348963/oesterreichs-eishockeyfrauen-sehen-sich-vor-dem-finale-gegen-japan-am-aufsteigenden-ast?ref=rss",
+      "summary": "\"Wir müssen den Glauben an uns von Anfang an aufs Eis bringen\", fordert Stürmerin Theresa Schafzahl. Das Relegationsspiel steigt am Freitag (11 Uhr) live auf ORF 1",
+      "published_at": "2026-11-13T06:00:00+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "97d3497deec016540a35",
+      "source_id": "standard",
+      "title": "Handgepäck ohne Kostenfalle: Mit diesen Tricks sparen Flugreisende bares Geld",
+      "url": "https://www.derstandard.at/story/3000000348747/handgepaeck-ohne-kostenfalle-mit-diesen-tricks-sparen-flugreisende-bares-geld?ref=rss",
+      "summary": "Abweichende Maße und zu viel Gewicht führen oft zu Zusatzkosten, die sich durch frühzeitige Prüfung vermeiden lassen",
+      "published_at": "2026-11-13T06:00:00+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "7ad8151e7507eeb4c67d",
+      "source_id": "standard",
+      "title": "\"Will Kuba erledigt haben, bevor ich gehe\": Trump bekräftigt Interesse an Machtwechsel",
+      "url": "https://www.derstandard.at/story/3000000349058/trump-bekr228ftigt-interesse-an-machtwechsel-auf-kuba?ref=rss",
+      "summary": "Trump signalisiert erneut, dass er in den nächsten zwei Jahren seiner Amtszeit einen Machtwechsel auf Kuba erzwingen will und auch einen Militäreinsatz in Kauf nehmen würde",
+      "published_at": "2026-11-13T05:55:22+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "613306088d3f5189b333",
+      "source_id": "standard",
+      "title": "Neuer Höchststand: Fast eine halbe Million Abschiebungen in einem Jahr",
+      "url": "https://www.derstandard.at/story/3000000349057/neuer-hoechststand-fast-eine-halbe-million-abschiebungen-in-einem-jahr?ref=rss",
+      "summary": "Laut dem US-Heimatschutzministerium wurden nie zuvor mehr Menschen abgeschoben. Insgesamt 483.000 Menschen wurden außer Landes gebracht",
+      "published_at": "2026-11-13T05:48:53+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "02f912fae683267798f9",
+      "source_id": "orf",
+      "title": "Tote und Verletzte nach gegenseitigen Drohnenangriffen",
+      "url": "https://orf.at/stories/3448055/",
+      "summary": "",
+      "published_at": "2026-11-13T05:43:15+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "a54556f65234d8bc82d1",
+      "source_id": "standard",
+      "title": "Zahl der Tierversuche in Österreich leicht gesunken",
+      "url": "https://www.derstandard.at/story/3000000349056/zahl-der-tierversuche-in-214sterreich-leicht-gesunken?ref=rss",
+      "summary": "Laut der Tierversuchsstatistik sanken die Versuche 2025 um 3,83 Prozent auf 188.367 Tiere. Allerdings werden deutlich mehr Tierversuche der Kategorie \"schwer\" durchgeführt",
+      "published_at": "2026-11-13T05:42:22+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "319a0e1a106b6d8e02e2",
+      "source_id": "standard",
+      "title": "USA zahlen mehr als zwölf Milliarden Dollar an Venezuela aus",
+      "url": "https://www.derstandard.at/story/3000000349054/usa-zahlen-mehr-als-zw246lf-milliarden-dollar-an-venezuela-aus?ref=rss",
+      "summary": "Der größte Teil der Einnahmen stammt dem Bericht zufolge aus dem Verkauf von Erdöl und Erdölprodukten",
+      "published_at": "2026-11-13T05:36:58+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "a342815b83bf5a88d710",
+      "source_id": "orf",
+      "title": "US-Demokraten: Streit über künftige Führung im Senat",
+      "url": "https://orf.at/stories/3448054/",
+      "summary": "",
+      "published_at": "2026-11-13T05:33:03+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "bf9a81f22a799108a62c",
+      "source_id": "standard",
+      "title": "US-Notenbanker Williams stellt weitere Zinserhöhungen in Aussicht",
+      "url": "https://www.derstandard.at/story/3000000349053/us-notenbanker-williams-stellt-weitere-zinserh246hungen-in-aussicht?ref=rss",
+      "summary": "Grund dafür ist die anhaltende Teuerung. \"Wir haben noch Arbeit vor uns, um die Geldpolotik an den richtigen Punkt zu bringen\", erklärte Williams",
+      "published_at": "2026-11-13T05:24:49+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "daf463f731acd462baab",
+      "source_id": "orf",
+      "title": "US-Ministerium: Halbe Million Abschiebungen in einem Jahr",
+      "url": "https://orf.at/stories/3448053/",
+      "summary": "",
+      "published_at": "2026-11-13T05:18:08+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "650b9663b7508d26d1b2",
+      "source_id": "standard",
+      "title": "US-Senat lädt Ex-Nvidia-Chef Huang und Handelsminister vor",
+      "url": "https://www.derstandard.at/story/3000000349052/fokus-1-us-senat-l228dt-ex-nvidia-chef-und-handelsminister-vor-ruf-nach-mehr-exportkontrollen?ref=rss",
+      "summary": "Im Kongress formt sich eine Mehrheit für schärfere Exportkontrollen von KI-Chips nach China. Huang trat wegen einer Affäre mit einer mutmaßlichen chinesischen Spionin zurück",
+      "published_at": "2026-11-13T05:17:11+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "4ce038453e2b42b81e13",
+      "source_id": "orf",
+      "title": "Erleichterungen für Industrie im Emissionshandel",
+      "url": "https://orf.at/stories/3448052/",
+      "summary": "",
+      "published_at": "2026-11-13T05:14:15+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "b071639b6b5cffbd06c5",
+      "source_id": "orf",
+      "title": "Weltweiter Ausfall beeinträchtigt Microsoft-Dienste",
+      "url": "https://orf.at/stories/3448051/",
+      "summary": "",
+      "published_at": "2026-11-13T05:06:02+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "IT"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "fcd6ee105c284cf12beb",
+      "source_id": "orf",
+      "title": "KI-Agenten als „verlängerter Arm“",
+      "url": "https://orf.at/stories/3446389/",
+      "summary": "Von der Terminerinnerung bis zur Onlinebestellung: KI-Agenten versprechen, das Arbeits- und Privatleben leichter zu machen. Anders als Chatbots können sie selbstständig und proaktiv handeln. Für ein Fehlverhalten der digitalen Helfer haften die Nutzerinnen und Nutzer weitgehend selbst. Eine Erweiterung des Produkthaftungsgesetzes soll künftig auch die Anbieter von künstlicher Intelligenz (KI) stärker in die Pflicht nehmen. Die Begutachtungsfrist endete am Donnerstag.",
+      "published_at": "2026-11-13T05:00:22+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "IT"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "6b5fe79893c1212941c3",
+      "source_id": "standard",
+      "title": "Warum Österreichs Jugend in Englisch brilliert",
+      "url": "https://www.derstandard.at/story/3000000348808/warum-oesterreichs-jugend-in-englisch-brilliert?ref=rss",
+      "summary": "Bei der jüngsten Kompetenzmessung an Mittelschulen und Gymnasien stachen die guten Englischergebnisse der 13- bis 14-Jährigen besonders hervor. Woran liegt das?",
+      "published_at": "2026-11-13T05:00:00+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "e75bc581b5b865c65a1d",
+      "source_id": "standard",
+      "title": "Scheidender Oberrabbiner: \"Werde Wien, Berge und Skifahren vermissen\"",
+      "url": "https://www.derstandard.at/story/3000000348604/scheidender-oberrabbiner-werde-wien-berge-und-skifahren-vermissen?ref=rss",
+      "summary": "Nach sieben Jahren kehrt Jaron Engelmayer mit seiner Familie nach Israel zurück. Ein Abschiedsgespräch im Stadttempel",
+      "published_at": "2026-11-13T05:00:00+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "b144c8f3a2e648748999",
+      "source_id": "standard",
+      "title": "Talking Heads, \"Die großen und die kleinen Lügen\": TV-Tipps für Freitag",
+      "url": "https://www.derstandard.at/story/3000000347455/talking-heads-die-grossen-und-die-kleinen-luegen-tv-tipps-fuer-freitag?ref=rss",
+      "summary": "Außerdem Steven Spielbergs \"Catch Me If You Can\", der Western-Klassiker \"Little Big Man\" und eine Reportage über die WM der Ballonpiloten",
+      "published_at": "2026-11-13T05:00:00+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "f8aad8e01a537c96c60a",
+      "source_id": "standard",
+      "title": "Die STANDARD Wortsuche vom 13. November",
+      "url": "https://www.derstandard.at/story/3000000347748/die-standard-wortsuche-vom-13-november?ref=rss",
+      "summary": "Montag bis Freitag: Begriffe aus einem aktuellen STANDARD Artikel verbergen sich horizontal, vertikal oder diagonal im Buchstabengitter",
+      "published_at": "2026-11-13T05:00:00+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "db5d2f95d195ddac5729",
+      "source_id": "guardian-us",
+      "title": "Washington Commanders keep their season alive with last-gasp win over New York Giants",
+      "url": "https://www.theguardian.com/sport/2026/nov/12/commanders-giants-thursday-night-football-nfl",
+      "summary": "Washington Commanders 24-21 New York Giants Stefon Diggs’s TD seals win in final minute Jayden Daniels threw his third touchdown pass of the game, a 32-yarder to Stefon Diggs with 57 seconds left, and the Commanders rallied to defeat the New York Giants 24-21 on Thursday night in what was essentially a must-win game for Washington. Daniels’ connection with Diggs in the final minute came after the quarterback had thrown his first two interceptions of the season to end the previous two drives. He was 23 of 33 for 249 yards and also had TD throws to Ben Sinnott and Antonio Williams. Continue read",
+      "published_at": "2026-11-13T04:43:26+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "Associated Press",
+      "categories": [
+        "NFL",
+        "Washington Commanders",
+        "New York Giants",
+        "US sports",
+        "Sport"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "5e39af38fd82c2cc45bf",
+      "source_id": "standard",
+      "title": "Abgesagter Auftritt mit der FPÖ: Wer hinter dem umstrittenen Leonhard-Kreis steckt",
+      "url": "https://www.derstandard.at/story/3000000347472/abgesagter-auftritt-mit-der-fpoe-wer-hinter-dem-umstrittenen-leonhard-kreis-steckt?ref=rss",
+      "summary": "Der Leonhard-Kreis gibt sich überparteilich, seine prominenten Köpfe sind politisch jedoch klar verortet. Eine gemeinsame Pressekonferenz mit der FPÖ zu \"Europas Zukunft\" wurde kurzfristig abgesagt, soll aber nachgeholt werden",
+      "published_at": "2026-11-13T04:00:00+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "2b402fa8d132d3bac89f",
+      "source_id": "standard",
+      "title": "KI-Rechenzentren lassen Nachschub für ukrainische Glasfaser-Drohnen versiegen",
+      "url": "https://www.derstandard.at/story/3000000348881/ki-rechenzentren-lassen-nachschub-fuer-ukrainische-glasfaser-drohnen-versiegen?ref=rss",
+      "summary": "Russland kauft zehn Prozent der weltweiten Produktion von Glasfaserkabeln für Kamikazedrohnen, mit China als größtem Lieferanten. Europa kann den Bedarf nicht abfedern",
+      "published_at": "2026-11-13T04:00:00+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "78c27eb20062e1cbfb5d",
+      "source_id": "standard",
+      "title": "Die fünf apokalyptischen Reiter unserer Zeit",
+      "url": "https://www.derstandard.at/story/3000000348928/die-fuenf-apokalyptischen-reiter-unserer-zeit?ref=rss",
+      "summary": "Über Sinn und Unsinn von Weltuntergangsprophezeiungen diskutieren Fachleute derzeit in Wien, der Heimat jenes Forschers, der Freitag den 13. November 2026 als Untergangstag festschrieb",
+      "published_at": "2026-11-13T04:00:00+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "28534190703c775bb000",
+      "source_id": "standard",
+      "title": "Das Comeback eines Urgesteins der Islamischen Republik",
+      "url": "https://www.derstandard.at/story/3000000348634/das-comeback-eines-urgesteins-der-islamischen-republik?ref=rss",
+      "summary": "Mohsen Rezaei, Chef des iranischen Sicherheitsrats, gilt als der einflussreichste Mann in Teheran. Deshalb schlug ihm US-Vizepräsident Vance Verhandlungen vor",
+      "published_at": "2026-11-13T04:00:00+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "e823dacb42a6db8d5c4f",
+      "source_id": "standard",
+      "title": "Wiener Aktionismus Museum am Abgrund: Warum die Schließung notwendig wurde",
+      "url": "https://www.derstandard.at/story/3000000349024/wiener-aktionismus-museum-am-abgrund-warum-die-schliessung-notwendig-wurde?ref=rss",
+      "summary": "Offiziell wird das Ende des Ausstellungsbetriebs mit anhaltender Kritik an Otto Mühl erklärt. Es dürften aber auch wirtschaftliche Gründe eine Rolle spielen",
+      "published_at": "2026-11-13T04:00:00+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "de9ab5b2f5e3c434d832",
+      "source_id": "bbc-world",
+      "title": "Australian footballers will not be charged after hotel incident, police say",
+      "url": "https://www.bbc.co.uk/news/articles/ckregjwr7njqo?at_campaign=rss&at_medium=RSS",
+      "summary": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
+      "published_at": "2026-11-13T03:02:54+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "6cf4eb625cdc4328799d",
+      "source_id": "fox-politics",
+      "title": "Dan Patrick concedes Texas ‘turned purple’ after Democrats’ historic blue wave",
+      "url": "https://www.foxnews.com/politics/dan-patrick-concedes-texas-turned-purple-democrats-historic-blue-wave",
+      "summary": "Outgoing Texas Lt. Gov. Dan Patrick, a Republican, acknowledged Thursday that the Lone Star State \"turned purple\" after Democrats' so-called blue wave swept statewide races and flipped the governor’s office, a U.S. Senate seat and Texas House. During his latest episode of the \"Lt. Dan Podcast,\" Patrick acknowledged that Texas’ political makeup is shifting left but stopped short of saying the state had turned blue after many others had described it as now a blue state. \"Right now, I’d say it’s purple,\" he said. \"We've been winning consistently, and people see it as a red state. But this time, t",
+      "published_at": "2026-11-13T02:49:23+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "42310a37-3f4b-5eab-8e4d-9a6537227230",
+        "fnc",
+        "Fox News",
+        "fox-news/us/us-regions/southwest/texas",
+        "fox-news/politics",
+        "fox-news/politics/elections/midterm-elections",
+        "fox-news/person/greg-abbott",
+        "fox-news/politics/defense/wars/war-with-iran",
+        "fox-news/person/donald-trump",
+        "fox-news/politics"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "4dc24da117b6ded31877",
+      "source_id": "bbc-world",
+      "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+      "url": "https://www.bbc.co.uk/news/articles/cqdj1ellpd70o?at_campaign=rss&at_medium=RSS",
+      "summary": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
+      "published_at": "2026-11-13T02:48:29+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "3c67f45c22110bccf5c7",
+      "source_id": "fox-politics",
+      "title": "Van Hollen challenges Schumer for Senate leadership after Democratic election sweep",
+      "url": "https://www.foxnews.com/politics/van-hollen-challenges-schumer-senate-leadership-after-democratic-election-sweep",
+      "summary": "Senate Minority Leader Chuck Schumer, D-N.Y., officially has a challenger for the mantle of Democratic leader, and incoming majority leader, in the Senate. Sen. Chris Van Hollen, D-Md., who has become a progressive darling and outlet for those against Schumer’s bid for another term as top Democrat, officially announced that he was jumping in to challenge the longtime figurehead of the Senate Democratic Caucus. \"In this election, the American people called for change,\" Van Hollen said in a statement. \"They called for a change from Donald Trump’s disastrous policies – but even bigger than that, ",
+      "published_at": "2026-11-13T02:45:42+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "251459b0-c3cb-504f-b8b9-b36482f9f5f0",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/person/chuck-schumer",
+        "fox-news/politics/senate",
+        "fox-news/democrats",
+        "fox-news/us/us-regions/northeast/maryland",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "cf9b40d8625915c9c61b",
+      "source_id": "guardian-us",
+      "title": "Chris Van Hollen to challenge Chuck Schumer for Senate majority leader",
+      "url": "https://www.theguardian.com/us-news/2026/nov/12/chris-van-hollen-chuck-schumer-senate-majority-leader",
+      "summary": "Maryland Democrat challenges party leader after midterms sweep, saying: ‘The American people called for change’ Chris Van Hollen, the Democratic senator of Maryland, announced on Thursday that he is challenging Chuck Schumer for the role of Senate majority leader when Democrats regain the chamber’s majority in January. “In this election, the American people called for change. They called for a change from Donald Trump’s disastrous policies – but even bigger than that, a change from the status quo that isn’t working for working people,” Van Hollen said in a statement posted on social media. Con",
+      "published_at": "2026-11-13T02:30:07+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "Robert Mackey and agency",
+      "categories": [
+        "US Senate",
+        "Chuck Schumer",
+        "US politics",
+        "US news",
+        "US Congress"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "4e5b28f87f60c31fc2af",
+      "source_id": "bbc-world",
+      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+      "url": "https://www.bbc.co.uk/news/articles/ckn80j9jv3jxo?at_campaign=rss&at_medium=RSS",
+      "summary": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+      "published_at": "2026-11-13T02:01:35+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "c95a7eda9db09982da3f",
+      "source_id": "bbc-business",
+      "title": "'My window faces a brick wall': What's your rent in NYC?",
+      "url": "https://www.bbc.co.uk/news/videos/c6wy9j9v7nl7o?at_campaign=rss&at_medium=RSS",
+      "summary": "We ask people in New York City how much they pay for their homes.",
+      "published_at": "2026-11-13T01:30:31+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "bbc-business",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "Business"
+    },
+    {
+      "id": "228e5ef1bb4602c8e674",
+      "source_id": "bbc-business",
+      "title": "Burnham says 'win-win' deal can be agreed between UK and EU",
+      "url": "https://www.bbc.co.uk/news/articles/cm2l5n07l87vo?at_campaign=rss&at_medium=RSS",
+      "summary": "The prime minister says the deal could be \"more like the Brexit people thought they were voting for\" in 2016.",
+      "published_at": "2026-11-13T01:17:58+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "bbc-business",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "Business"
+    },
+    {
+      "id": "a535ddbed0b9277acd48",
+      "source_id": "guardian-us",
+      "title": "Cubs’ Pete Crow-Armstrong and Astros’ Yordan Alvarez unanimously win MVP awards",
+      "url": "https://www.theguardian.com/sport/2026/nov/12/pete-crow-armstrong-yordan-alvarez-mlb-mvp-awards",
+      "summary": "Cubs star Crow-Armstrong hits 45 homers and steals 41 Astros slugger Alvarez wins AL honor after .316 season Both players earn first MVP awards in unanimous votes Pete Crow-Armstrong was unanimously named the National League’s Most Valuable Player on Thursday after the Chicago Cubs center fielder produced a spectacular all-around season. Crow-Armstrong joined Houston Astros slugger Yordan Alvarez as a first-time MVP winner. Alvarez was the unanimous American League winner after making a run at the Triple Crown, batting a career-high .316 with 42 home runs and 106 RBIs for the AL West champions",
+      "published_at": "2026-11-13T01:07:47+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "Agencies",
+      "categories": [
+        "MLB",
+        "Chicago Cubs",
+        "Houston Astros",
+        "Baseball",
+        "Sport",
+        "US sports"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "cf4a7a2fda925d2fc8b3",
+      "source_id": "bbc-world",
+      "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+      "url": "https://www.bbc.co.uk/news/articles/cm3egjgvp794o?at_campaign=rss&at_medium=RSS",
+      "summary": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
+      "published_at": "2026-11-13T00:20:24+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "c84c9b3a97a3b11afe1e",
+      "source_id": "guardian-us",
+      "title": "Calls grow for release of beloved California nurse detained by ICE: ‘We want her home’",
+      "url": "https://www.theguardian.com/us-news/2026/nov/12/california-nurse-release-ice-custody",
+      "summary": "Ann Lawani was taken from her home, sparking a huge outcry among students and faculty at her university Nearly two months after ICE agents whisked a beloved California nurse and professor from her home in Lodi, her university has ramped up calls for her release. “She needs to come home,” said Eileen Fry-Bowers, dean for the University of San Francisco’s nursing school,in reference to Ann Lawani, who was arrested by immigration agents in September and has since been shuffled between detention centers in California, Texas, and Louisiana, in a series of opaque transfers. Continue reading...",
+      "published_at": "2026-11-13T00:19:54+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "Uwa Ede-Osifo",
+      "categories": [
+        "ICE (US Immigration and Customs Enforcement)",
+        "California",
+        "US news",
+        "West Coast"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "83a8ac5bb4e1526a7a78",
+      "source_id": "bbc-business",
+      "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+      "url": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_campaign=rss&at_medium=RSS",
+      "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+      "published_at": "2026-11-13T00:13:35+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "bbc-business",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "Business"
+    },
+    {
+      "id": "aa7abe71bef2028c3015",
+      "source_id": "bbc-world",
+      "title": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
+      "url": "https://www.bbc.co.uk/news/videos/cv5y1309dg3go?at_campaign=rss&at_medium=RSS",
+      "summary": "BBC's Bernd Debusmann breaks down why Defence Secretary Hegseth's group was reprimanded at Arlington National Cemetery and the history behind its strict rules of conduct.",
+      "published_at": "2026-11-12T23:42:52+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
       "id": "c2388c723a7348aa7b4e",
       "source_id": "bbc-world",
       "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
@@ -104,6 +851,27 @@
       "language": "en",
       "country": "UK",
       "category": "World"
+    },
+    {
+      "id": "4f3d946462977f259abb",
+      "source_id": "guardian-us",
+      "title": "Family Dollar to pay $63m to settle overcharging allegations",
+      "url": "https://www.theguardian.com/us-news/2026/nov/12/family-dollar-overcharging-allegations-settlement",
+      "summary": "Dollar-store chain’s settlement with FTC and state officials comes after Guardian exposé of its pricing practices Discount store giant Family Dollar will pay $63m to settle claims by state and federal authorities that it frequently overcharged its customers for milk, diapers, batteries, toilet paper and other household goods. The enforcement action announced Thursday by the Federal Trade Commission and 17 states followed a Guardian investigation that revealed Family Dollar and its larger rival, Dollar General, frequently charge more at checkout than the prices listed on their shelves. Family D",
+      "published_at": "2026-11-12T23:28:26+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "Michael Hudson",
+      "categories": [
+        "Consumer rights",
+        "Trump administration",
+        "Business",
+        "US news",
+        "Money"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
     },
     {
       "id": "396840a654746a6d74a6",
@@ -769,6 +1537,31 @@
       "category": "Politics"
     },
     {
+      "id": "912fa4197bcd23fe4463",
+      "source_id": "guardian-us",
+      "title": "Trump says no deal needed on Iran war and orders Vance to focus on domestic issues",
+      "url": "https://www.theguardian.com/us-news/2026/nov/12/trump-jd-vance-iran-war",
+      "summary": "President says vice-president will focus on supposed ‘Massive Corruption and Crime taking place in Democrat run Cities and States’ US politics live – latest updates Donald Trump has said that the US is no longer seeking a deal to end the war with Iran and ordered JD Vance, who had spearheaded recent efforts to restart negotiations with Iran, to focus on domestic politics instead. In a post to his social media site on Thursday, Trump said he was redirecting the vice-president to focus his “complete and total attention on the Massive Corruption and Crime taking place in Democrat run Cities and S",
+      "published_at": "2026-11-12T19:01:16+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "Andrew Roth in Washington",
+      "categories": [
+        "Donald Trump",
+        "Iran",
+        "JD Vance",
+        "US-Israel war on Iran",
+        "Trump administration",
+        "US foreign policy",
+        "US national security",
+        "US politics",
+        "US news"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
       "id": "e16b9b1b026a518555d0",
       "source_id": "guardian-us",
       "title": "Mississippi makes history with Democrat Scott Colom’s Senate win - The Latest",
@@ -1000,6 +1793,21 @@
       "summary": "Der Personalsoftware-Anbieter Personio hat interne Daten ausgewertet. Demnach wurden überdurchschnittlich viele Urlaubsanträge für 19. November und danach eingereicht",
       "published_at": "2026-11-12T17:50:16+00:00",
       "fetched_at": "2026-11-12T23:41:50.104061+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "2740360a81cefe49b68c",
+      "source_id": "standard",
+      "title": "Rücktritt von Nvidia-Chef Huang: Was wusste Trump vom Spionageverdacht?",
+      "url": "https://www.derstandard.at/story/3000000349033/ruecktritt-von-nvidia-chef-huang-was-wusste-trump-vom-spionageverdacht?ref=rss",
+      "summary": "Jensen Huang war nicht nur der bedeutendste Vorstandschef des KI-Booms, sondern auch ein enger Ratgeber von US-Präsident Donald Trump. Kommt Trump nun in Bedrängnis?",
+      "published_at": "2026-11-12T17:48:59+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
       "date_estimated": false,
       "author": "standard",
       "categories": [],
@@ -8951,6 +9759,21 @@
       "category": "Politics"
     },
     {
+      "id": "4dedfa9ba4f02c7722c3",
+      "source_id": "standard",
+      "title": "Torten, Kuchen, Kekse: Backst du lieber selbst oder kaufst du?",
+      "url": "https://www.derstandard.at/story/3000000348450/torten-kuchen-kekse-backst-du-lieber-selbst-oder-kaufst-du?ref=rss",
+      "summary": "Mein Forum: Diskutieren Sie dieses Thema mit der STANDARD-Community",
+      "published_at": "2026-11-11T08:00:00+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
       "id": "eff5b1ec03a84b1395b6",
       "source_id": "orf",
       "title": "Gegenseitige Angriffe vor neuen Verhandlungen",
@@ -14222,6 +15045,21 @@
       "category": "World"
     },
     {
+      "id": "56f00621dde2d645fe2f",
+      "source_id": "standard",
+      "title": "Eure Ideen für Kindergeburtstagsfeiern?",
+      "url": "https://www.derstandard.at/story/3000000348381/eure-ideen-fuer-kindergeburtstagsfeiern?ref=rss",
+      "summary": "Mein Forum: Diskutieren Sie dieses Thema mit der STANDARD-Community",
+      "published_at": "2026-11-10T08:38:38+00:00",
+      "fetched_at": "2026-11-13T06:54:28.387530+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
       "id": "eef8ed30b29215952267",
       "source_id": "standard",
       "title": "Täter nach Raubüberfall auf Postfiliale im Nordburgenland weiter flüchtig",
@@ -15499,24 +16337,1614 @@
       "language": "de",
       "country": "AT",
       "category": "Politics"
-    },
-    {
-      "id": "20e8be792230b3fd2a74",
-      "source_id": "bbc-business",
-      "title": "The engine parts that 'fight the laws of the universe'",
-      "url": "https://www.bbc.co.uk/news/articles/cwe9lmp1pyyxo?at_campaign=rss&at_medium=RSS",
-      "summary": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
-      "published_at": "2026-11-06T00:06:06+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "bbc-business",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "Business"
     }
   ],
   "stories": [
+    {
+      "id": "story-b5341f0e7f5e3d7b952c",
+      "title": "Nvidia scandal sparks US national security furore and calls to take tough line on China",
+      "overview": "Former CEO Jensen Huang and US commerce secretary to appear before Congress amid bipartisan concern that America’s security was put at risk Nvidia scandal – latest updates Analysis: Jensen Huang built an AI kingdom. Now he’s gone, will Nvidia’s ramparts be breached? Nvidia’s ousted CEO Jensen Huang and Donald Trump’s commerce secretary are expected to testify before Congress in the coming weeks, as the fallout from Huang’s reported affair with an alleged Chinese spy reverberated across the US, sparking bipartisan concerns for national security and calls for a tougher stance against Beijing. Se",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T06:34:59+00:00",
+      "updated_at": "2026-11-13T06:34:59+00:00",
+      "article_ids": [
+        "50ed42af2146ca4cb516"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-bab3663b66ec6b2ef403",
+      "title": "Politicians back focus on cost of living",
+      "overview": "The Government of Jersey's key priorities are passed despite concerns over a lack of \"real action\".",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T06:23:37+00:00",
+      "updated_at": "2026-11-13T06:23:37+00:00",
+      "article_ids": [
+        "50f94188933524343c7d"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Business",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-9fb22ab763ed23925891",
+      "title": "Cider makers fear future for orchards as costs grow",
+      "overview": "Producers claimed without more support, they could be forced to stop using British-grown apples.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T06:21:34+00:00",
+      "updated_at": "2026-11-13T06:21:34+00:00",
+      "article_ids": [
+        "ee9c5e3190041bdb4e85"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Business",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-cdb7a7501385a64514e4",
+      "title": "EU-Einigung: Erleichterung für Industrie im Emissionshandel",
+      "overview": "Demnach werden zusätzliche kostenlose Zertifikate bis 2030 ermöglicht. Damit gehen die Verhandler über den Vorschlag der EU-Kommission hinaus",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T06:16:47+00:00",
+      "updated_at": "2026-11-13T06:16:47+00:00",
+      "article_ids": [
+        "edb82ad9dbdd77163ae3"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-6e7cda16d26c4b3b9714",
+      "title": "Kushner: Putin bereit für Europäer am Verhandlungstisch",
+      "overview": "Am Freitag findet der EU-Gipfel im Zeichen der Ukraine-Verhandlungen statt. Donnerstagabend traf der ukrainische Präsident auf die beiden US-Sondergesandten, die zuvor im Kreml waren",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T06:13:35+00:00",
+      "updated_at": "2026-11-13T06:13:35+00:00",
+      "article_ids": [
+        "a9c4195c30e33063fafc"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-21004e46a2714fe2d76f",
+      "title": "Sechs Tote nach israelischem Angriff auf Krankenhaus in Gaza bestätigt",
+      "overview": "Das Nasser-Krankenhaus meldete den Tod von sechs Menschen. Bei anderen Angriffen der israelischen Armee sind fünf weitere Menschen in Gaza gestorben",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T06:04:09+00:00",
+      "updated_at": "2026-11-13T06:04:09+00:00",
+      "article_ids": [
+        "673176eb7b89c1c080f9"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-8af1d267a0fc0f51523b",
+      "title": "Progressives are still so pessimistic, but why? The populist right can and will be defeated | Andy Beckett",
+      "overview": "From the US midterms to Brazil and Hungary, extremists are floundering yet the left still overestimates their power. Reality is on our side From Brazil to Hungary and Britain to the US, why are so many people so surprised by the right’s election defeats? Flávio Bolsonaro, Viktor Orbán, Reform UK, the Tories and a vast array of Republican candidates have all been rejected in national or local contests this year, even in usually reliably conservative Mississippi. Apparently impregnable incumbents and populist insurgents alike have been beaten, often by big margins. The supposedly ascendant globa",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T06:00:12+00:00",
+      "updated_at": "2026-11-13T06:00:12+00:00",
+      "article_ids": [
+        "ab65bd5959655da7c9c0"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-1ae202a507abca248b64",
+      "title": "Österreichs Eishockeyfrauen sehen sich vor dem \"Finale\" gegen Japan am aufsteigenden Ast",
+      "overview": "\"Wir müssen den Glauben an uns von Anfang an aufs Eis bringen\", fordert Stürmerin Theresa Schafzahl. Das Relegationsspiel steigt am Freitag (11 Uhr) live auf ORF 1",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T06:00:00+00:00",
+      "updated_at": "2026-11-13T06:00:00+00:00",
+      "article_ids": [
+        "00e01b73391d018ac985"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-b83abafe4cce1c25e00a",
+      "title": "Handgepäck ohne Kostenfalle: Mit diesen Tricks sparen Flugreisende bares Geld",
+      "overview": "Abweichende Maße und zu viel Gewicht führen oft zu Zusatzkosten, die sich durch frühzeitige Prüfung vermeiden lassen",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T06:00:00+00:00",
+      "updated_at": "2026-11-13T06:00:00+00:00",
+      "article_ids": [
+        "97d3497deec016540a35"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-af39bc4d694ce777d030",
+      "title": "Warum den Vermögensaufbau bekämpfen? Das Zukunftsdepot gehört ausgeweitet",
+      "overview": "All jene, die nicht sparen können, brauchen gezielte Unterstützung. Den Vermögensaufbau für alle anderen unattraktiv zu machen, hilft diesen jungen Menschen nicht. Warum soll die Förderung mit 18 enden?",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T06:00:00+00:00",
+      "updated_at": "2026-11-13T06:00:00+00:00",
+      "article_ids": [
+        "cc1ac1412dbcd9945e1c"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-4718bfefa565dc2f2f01",
+      "title": "\"Will Kuba erledigt haben, bevor ich gehe\": Trump bekräftigt Interesse an Machtwechsel",
+      "overview": "Trump signalisiert erneut, dass er in den nächsten zwei Jahren seiner Amtszeit einen Machtwechsel auf Kuba erzwingen will und auch einen Militäreinsatz in Kauf nehmen würde",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T05:55:22+00:00",
+      "updated_at": "2026-11-13T05:55:22+00:00",
+      "article_ids": [
+        "7ad8151e7507eeb4c67d"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-1b3a5b554390492385fb",
+      "title": "US-Ministerium: Halbe Million Abschiebungen in einem Jahr",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T05:18:08+00:00",
+      "updated_at": "2026-11-13T05:48:53+00:00",
+      "article_ids": [
+        "daf463f731acd462baab",
+        "613306088d3f5189b333"
+      ],
+      "publisher_count": 2,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [
+        "abschiebungen",
+        "halbe",
+        "jahr",
+        "million"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-c8fa81e4107471311b72",
+      "title": "Tote und Verletzte nach gegenseitigen Drohnenangriffen",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T05:43:15+00:00",
+      "updated_at": "2026-11-13T05:43:15+00:00",
+      "article_ids": [
+        "02f912fae683267798f9"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-5730af88c57802ec3032",
+      "title": "Zahl der Tierversuche in Österreich leicht gesunken",
+      "overview": "Laut der Tierversuchsstatistik sanken die Versuche 2025 um 3,83 Prozent auf 188.367 Tiere. Allerdings werden deutlich mehr Tierversuche der Kategorie \"schwer\" durchgeführt",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T05:42:22+00:00",
+      "updated_at": "2026-11-13T05:42:22+00:00",
+      "article_ids": [
+        "a54556f65234d8bc82d1"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-9d8f02ed6ac5246f4a97",
+      "title": "USA zahlen mehr als zwölf Milliarden Dollar an Venezuela aus",
+      "overview": "Der größte Teil der Einnahmen stammt dem Bericht zufolge aus dem Verkauf von Erdöl und Erdölprodukten",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T05:36:58+00:00",
+      "updated_at": "2026-11-13T05:36:58+00:00",
+      "article_ids": [
+        "319a0e1a106b6d8e02e2"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-34e2999f9f0412a601a4",
+      "title": "US-Demokraten: Streit über künftige Führung im Senat",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T05:33:03+00:00",
+      "updated_at": "2026-11-13T05:33:03+00:00",
+      "article_ids": [
+        "a342815b83bf5a88d710"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-6931829a591e238bd818",
+      "title": "US-Notenbanker Williams stellt weitere Zinserhöhungen in Aussicht",
+      "overview": "Grund dafür ist die anhaltende Teuerung. \"Wir haben noch Arbeit vor uns, um die Geldpolotik an den richtigen Punkt zu bringen\", erklärte Williams",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T05:24:49+00:00",
+      "updated_at": "2026-11-13T05:24:49+00:00",
+      "article_ids": [
+        "bf9a81f22a799108a62c"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-ffd2b11fe612c69f0703",
+      "title": "Druck auf Nvidia-Chef Huang steigt",
+      "overview": "Bei Nvidia könnte sich laut Medienberichten schon bald die Zukunft von Firmenchef Jensen Huang entscheiden. Der langjährige Chef des weltweit führenden Anbieters von Chips für künstliche Intelligenz (KI) geriet wegen einer außerehelichen Affäre mit einer mutmaßlichen chinesischen Spionin unter Druck. Medienberichten zufolge sei eine weitere Affäre aufgeflogen. Nun drohe Huang der Rauswurf, hieß es mit Verweis auf eine mit der Sache vertraute Person.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T07:47:06+00:00",
+      "updated_at": "2026-11-13T05:17:11+00:00",
+      "article_ids": [
+        "91f00aa75a0d7619b262",
+        "2b5553d1fdb773cb847c",
+        "7fda0f13d6b7ff22f7d8",
+        "650b9663b7508d26d1b2"
+      ],
+      "publisher_count": 2,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 3
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [
+        "chef",
+        "huang",
+        "nvidia",
+        "zurück"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-eb18576b181c6ed22701",
+      "title": "Erleichterungen für Industrie im Emissionshandel",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T05:14:15+00:00",
+      "updated_at": "2026-11-13T05:14:15+00:00",
+      "article_ids": [
+        "4ce038453e2b42b81e13"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-292c18ac9abae3b38446",
+      "title": "Weltweiter Ausfall beeinträchtigt Microsoft-Dienste",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T05:06:02+00:00",
+      "updated_at": "2026-11-13T05:06:02+00:00",
+      "article_ids": [
+        "b071639b6b5cffbd06c5"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-0a6f6ce03b101d468b76",
+      "title": "KI-Agenten als „verlängerter Arm“",
+      "overview": "Von der Terminerinnerung bis zur Onlinebestellung: KI-Agenten versprechen, das Arbeits- und Privatleben leichter zu machen. Anders als Chatbots können sie selbstständig und proaktiv handeln. Für ein Fehlverhalten der digitalen Helfer haften die Nutzerinnen und Nutzer weitgehend selbst. Eine Erweiterung des Produkthaftungsgesetzes soll künftig auch die Anbieter von künstlicher Intelligenz (KI) stärker in die Pflicht nehmen. Die Begutachtungsfrist endete am Donnerstag.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T05:00:22+00:00",
+      "updated_at": "2026-11-13T05:00:22+00:00",
+      "article_ids": [
+        "fcd6ee105c284cf12beb"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-cd269d5dacce42ab1064",
+      "title": "Die STANDARD Wortsuche vom 11. November",
+      "overview": "Montag bis Freitag: Begriffe aus einem aktuellen STANDARD Artikel verbergen sich horizontal, vertikal oder diagonal im Buchstabengitter",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T05:00:00+00:00",
+      "updated_at": "2026-11-13T05:00:00+00:00",
+      "article_ids": [
+        "8386a700d1abcf263260",
+        "e75bfba62b11b7cfc02a",
+        "f8aad8e01a537c96c60a"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 3,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [
+        "november",
+        "standard",
+        "vom",
+        "wortsuche"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-de6e94d98864185d964b",
+      "title": "Warum Österreichs Jugend in Englisch brilliert",
+      "overview": "Bei der jüngsten Kompetenzmessung an Mittelschulen und Gymnasien stachen die guten Englischergebnisse der 13- bis 14-Jährigen besonders hervor. Woran liegt das?",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T05:00:00+00:00",
+      "updated_at": "2026-11-13T05:00:00+00:00",
+      "article_ids": [
+        "6b5fe79893c1212941c3"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-dd526bdb60ed56a4af69",
+      "title": "Talking Heads, \"Die großen und die kleinen Lügen\": TV-Tipps für Freitag",
+      "overview": "Außerdem Steven Spielbergs \"Catch Me If You Can\", der Western-Klassiker \"Little Big Man\" und eine Reportage über die WM der Ballonpiloten",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T05:00:00+00:00",
+      "updated_at": "2026-11-13T05:00:00+00:00",
+      "article_ids": [
+        "b144c8f3a2e648748999"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-ee0810483893ca12c02f",
+      "title": "Scheidender Oberrabbiner: \"Werde Wien, Berge und Skifahren vermissen\"",
+      "overview": "Nach sieben Jahren kehrt Jaron Engelmayer mit seiner Familie nach Israel zurück. Ein Abschiedsgespräch im Stadttempel",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T05:00:00+00:00",
+      "updated_at": "2026-11-13T05:00:00+00:00",
+      "article_ids": [
+        "e75bc581b5b865c65a1d"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-4c2ed826e2c7ae5914c9",
+      "title": "Washington Commanders keep their season alive with last-gasp win over New York Giants",
+      "overview": "Washington Commanders 24-21 New York Giants Stefon Diggs’s TD seals win in final minute Jayden Daniels threw his third touchdown pass of the game, a 32-yarder to Stefon Diggs with 57 seconds left, and the Commanders rallied to defeat the New York Giants 24-21 on Thursday night in what was essentially a must-win game for Washington. Daniels’ connection with Diggs in the final minute came after the quarterback had thrown his first two interceptions of the season to end the previous two drives. He was 23 of 33 for 249 yards and also had TD throws to Ben Sinnott and Antonio Williams. Continue read",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T04:43:26+00:00",
+      "updated_at": "2026-11-13T04:43:26+00:00",
+      "article_ids": [
+        "db5d2f95d195ddac5729"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-f25e009bc4b1d294272f",
+      "title": "Das Comeback eines Urgesteins der Islamischen Republik",
+      "overview": "Mohsen Rezaei, Chef des iranischen Sicherheitsrats, gilt als der einflussreichste Mann in Teheran. Deshalb schlug ihm US-Vizepräsident Vance Verhandlungen vor",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T04:00:00+00:00",
+      "updated_at": "2026-11-13T04:00:00+00:00",
+      "article_ids": [
+        "28534190703c775bb000"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-455dd2264eb7421d84a3",
+      "title": "KI-Rechenzentren lassen Nachschub für ukrainische Glasfaser-Drohnen versiegen",
+      "overview": "Russland kauft zehn Prozent der weltweiten Produktion von Glasfaserkabeln für Kamikazedrohnen, mit China als größtem Lieferanten. Europa kann den Bedarf nicht abfedern",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T04:00:00+00:00",
+      "updated_at": "2026-11-13T04:00:00+00:00",
+      "article_ids": [
+        "2b402fa8d132d3bac89f"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-bf2ac5f0aae722c4231c",
+      "title": "Abgesagter Auftritt mit der FPÖ: Wer hinter dem umstrittenen Leonhard-Kreis steckt",
+      "overview": "Der Leonhard-Kreis gibt sich überparteilich, seine prominenten Köpfe sind politisch jedoch klar verortet. Eine gemeinsame Pressekonferenz mit der FPÖ zu \"Europas Zukunft\" wurde kurzfristig abgesagt, soll aber nachgeholt werden",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T04:00:00+00:00",
+      "updated_at": "2026-11-13T04:00:00+00:00",
+      "article_ids": [
+        "5e39af38fd82c2cc45bf"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-91cf056697ba7a64b140",
+      "title": "Die fünf apokalyptischen Reiter unserer Zeit",
+      "overview": "Über Sinn und Unsinn von Weltuntergangsprophezeiungen diskutieren Fachleute derzeit in Wien, der Heimat jenes Forschers, der Freitag den 13. November 2026 als Untergangstag festschrieb",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T04:00:00+00:00",
+      "updated_at": "2026-11-13T04:00:00+00:00",
+      "article_ids": [
+        "78c27eb20062e1cbfb5d"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-a348b65ecc736459a6d2",
+      "title": "Wiener Aktionismus Museum am Abgrund: Warum die Schließung notwendig wurde",
+      "overview": "Offiziell wird das Ende des Ausstellungsbetriebs mit anhaltender Kritik an Otto Mühl erklärt. Es dürften aber auch wirtschaftliche Gründe eine Rolle spielen",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T04:00:00+00:00",
+      "updated_at": "2026-11-13T04:00:00+00:00",
+      "article_ids": [
+        "e823dacb42a6db8d5c4f"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-e6a608f8ed5746c81e08",
+      "title": "Australian footballers will not be charged after hotel incident, police say",
+      "overview": "Four Sydney Swans players had been under investigation after an alleged sexual assault after a game in Melbourne.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T03:02:54+00:00",
+      "updated_at": "2026-11-13T03:02:54+00:00",
+      "article_ids": [
+        "de9ab5b2f5e3c434d832"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-724115fa8f1a7532b558",
+      "title": "Dan Patrick concedes Texas ‘turned purple’ after Democrats’ historic blue wave",
+      "overview": "Outgoing Texas Lt. Gov. Dan Patrick, a Republican, acknowledged Thursday that the Lone Star State \"turned purple\" after Democrats' so-called blue wave swept statewide races and flipped the governor’s office, a U.S. Senate seat and Texas House. During his latest episode of the \"Lt. Dan Podcast,\" Patrick acknowledged that Texas’ political makeup is shifting left but stopped short of saying the state had turned blue after many others had described it as now a blue state. \"Right now, I’d say it’s purple,\" he said. \"We've been winning consistently, and people see it as a red state. But this time, t",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T02:49:23+00:00",
+      "updated_at": "2026-11-13T02:49:23+00:00",
+      "article_ids": [
+        "6cf4eb625cdc4328799d"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-3ffad3070b756d24d2d5",
+      "title": "North Korean hackers used fake video calls in $400m crypto hack, says FBI",
+      "overview": "More than 900 victims are thought to have fallen prey to the FaceStealer scheme in the last 18 months.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T02:48:29+00:00",
+      "updated_at": "2026-11-13T02:48:29+00:00",
+      "article_ids": [
+        "4dc24da117b6ded31877"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-9c945782726c842d1ba7",
+      "title": "Van Hollen challenges Schumer for Senate leadership after Democratic election sweep",
+      "overview": "Senate Minority Leader Chuck Schumer, D-N.Y., officially has a challenger for the mantle of Democratic leader, and incoming majority leader, in the Senate. Sen. Chris Van Hollen, D-Md., who has become a progressive darling and outlet for those against Schumer’s bid for another term as top Democrat, officially announced that he was jumping in to challenge the longtime figurehead of the Senate Democratic Caucus. \"In this election, the American people called for change,\" Van Hollen said in a statement. \"They called for a change from Donald Trump’s disastrous policies – but even bigger than that, ",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T02:45:42+00:00",
+      "updated_at": "2026-11-13T02:45:42+00:00",
+      "article_ids": [
+        "3c67f45c22110bccf5c7"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-80b5f93a725504572a02",
+      "title": "Chris Van Hollen to challenge Chuck Schumer for Senate majority leader",
+      "overview": "Maryland Democrat challenges party leader after midterms sweep, saying: ‘The American people called for change’ Chris Van Hollen, the Democratic senator of Maryland, announced on Thursday that he is challenging Chuck Schumer for the role of Senate majority leader when Democrats regain the chamber’s majority in January. “In this election, the American people called for change. They called for a change from Donald Trump’s disastrous policies – but even bigger than that, a change from the status quo that isn’t working for working people,” Van Hollen said in a statement posted on social media. Con",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T02:30:07+00:00",
+      "updated_at": "2026-11-13T02:30:07+00:00",
+      "article_ids": [
+        "cf9b40d8625915c9c61b"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-45f4484bada793193ecd",
+      "title": "Zelensky welcomes US bringing Europe into Russia-Ukraine peace talks",
+      "overview": "The Ukrainian president says it makes sense for European leaders to be involved as Ukraine hopes to eventually join the EU.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T02:01:35+00:00",
+      "updated_at": "2026-11-13T02:01:35+00:00",
+      "article_ids": [
+        "4e5b28f87f60c31fc2af"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-f0b1ed6f55b4bebaff17",
+      "title": "'My window faces a brick wall': What's your rent in NYC?",
+      "overview": "We ask people in New York City how much they pay for their homes.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T01:30:31+00:00",
+      "updated_at": "2026-11-13T01:30:31+00:00",
+      "article_ids": [
+        "c95a7eda9db09982da3f"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Business",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-9c23c7d022a6a20086fa",
+      "title": "Burnham says 'win-win' deal can be agreed between UK and EU",
+      "overview": "The prime minister says the deal could be \"more like the Brexit people thought they were voting for\" in 2016.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T01:17:58+00:00",
+      "updated_at": "2026-11-13T01:17:58+00:00",
+      "article_ids": [
+        "228e5ef1bb4602c8e674"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Business",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-8a111268cb3c79651be6",
+      "title": "Cubs’ Pete Crow-Armstrong and Astros’ Yordan Alvarez unanimously win MVP awards",
+      "overview": "Cubs star Crow-Armstrong hits 45 homers and steals 41 Astros slugger Alvarez wins AL honor after .316 season Both players earn first MVP awards in unanimous votes Pete Crow-Armstrong was unanimously named the National League’s Most Valuable Player on Thursday after the Chicago Cubs center fielder produced a spectacular all-around season. Crow-Armstrong joined Houston Astros slugger Yordan Alvarez as a first-time MVP winner. Alvarez was the unanimous American League winner after making a run at the Triple Crown, batting a career-high .316 with 42 home runs and 106 RBIs for the AL West champions",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T01:07:47+00:00",
+      "updated_at": "2026-11-13T01:07:47+00:00",
+      "article_ids": [
+        "a535ddbed0b9277acd48"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-05f3adc61889e018ee69",
+      "title": "Neither war nor peace in Tigray - is Ethiopia's latest conflict really over?",
+      "overview": "The army has taken control of most of Tigray's main towns - it is unclear if the TPLF is capable of fighting back.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T00:20:24+00:00",
+      "updated_at": "2026-11-13T00:20:24+00:00",
+      "article_ids": [
+        "cf4a7a2fda925d2fc8b3"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-f8e5df3612223950d184",
+      "title": "Calls grow for release of beloved California nurse detained by ICE: ‘We want her home’",
+      "overview": "Ann Lawani was taken from her home, sparking a huge outcry among students and faculty at her university Nearly two months after ICE agents whisked a beloved California nurse and professor from her home in Lodi, her university has ramped up calls for her release. “She needs to come home,” said Eileen Fry-Bowers, dean for the University of San Francisco’s nursing school,in reference to Ann Lawani, who was arrested by immigration agents in September and has since been shuffled between detention centers in California, Texas, and Louisiana, in a series of opaque transfers. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T00:19:54+00:00",
+      "updated_at": "2026-11-13T00:19:54+00:00",
+      "article_ids": [
+        "c84c9b3a97a3b11afe1e"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-3dffd2a73772225703d9",
+      "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
+      "overview": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T00:13:35+00:00",
+      "updated_at": "2026-11-13T00:13:35+00:00",
+      "article_ids": [
+        "83a8ac5bb4e1526a7a78"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Business",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-96a3eeb1fae466054cbb",
+      "title": "Military cemetery decorum: The tradition behind Hegseth's Veterans Day reprimand",
+      "overview": "BBC's Bernd Debusmann breaks down why Defence Secretary Hegseth's group was reprimanded at Arlington National Cemetery and the history behind its strict rules of conduct.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T23:42:52+00:00",
+      "updated_at": "2026-11-12T23:42:52+00:00",
+      "article_ids": [
+        "aa7abe71bef2028c3015"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
     {
       "id": "story-9459a9fc414223e84f6c",
       "title": "Scandal-hit Nvidia CEO Jensen Huang quits, plunging AI chipmaking giant into turmoil",
@@ -15543,6 +17971,42 @@
       "category": "World",
       "countries": [
         "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-a4965917481167885b21",
+      "title": "Family Dollar to pay $63m to settle overcharging allegations",
+      "overview": "Dollar-store chain’s settlement with FTC and state officials comes after Guardian exposé of its pricing practices Discount store giant Family Dollar will pay $63m to settle claims by state and federal authorities that it frequently overcharged its customers for milk, diapers, batteries, toilet paper and other household goods. The enforcement action announced Thursday by the Federal Trade Commission and 17 states followed a Guardian investigation that revealed Family Dollar and its larger rival, Dollar General, frequently charge more at checkout than the prices listed on their shelves. Family D",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T23:28:26+00:00",
+      "updated_at": "2026-11-12T23:28:26+00:00",
+      "article_ids": [
+        "4f3d946462977f259abb"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
       ],
       "language": "en",
       "common_terms": [],
@@ -16764,6 +19228,42 @@
       "ai": null
     },
     {
+      "id": "story-64f58caee6be889a7869",
+      "title": "Trump says no deal needed on Iran war and orders Vance to focus on domestic issues",
+      "overview": "President says vice-president will focus on supposed ‘Massive Corruption and Crime taking place in Democrat run Cities and States’ US politics live – latest updates Donald Trump has said that the US is no longer seeking a deal to end the war with Iran and ordered JD Vance, who had spearheaded recent efforts to restart negotiations with Iran, to focus on domestic politics instead. In a post to his social media site on Thursday, Trump said he was redirecting the vice-president to focus his “complete and total attention on the Massive Corruption and Crime taking place in Democrat run Cities and S",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T19:01:16+00:00",
+      "updated_at": "2026-11-12T19:01:16+00:00",
+      "article_ids": [
+        "912fa4197bcd23fe4463"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
       "id": "story-e0885b004899e0f8c69f",
       "title": "Democrat Scott Colom seals historic win in Mississippi Senate race",
       "overview": "Colom is the first black person from the southern state elected to the US Senate in over 140 years.",
@@ -17196,6 +19696,42 @@
       "updated_at": "2026-11-12T17:50:16+00:00",
       "article_ids": [
         "ff92d7a4f04f9ca7ace8"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-92af2b1e0c0adbab04a6",
+      "title": "Rücktritt von Nvidia-Chef Huang: Was wusste Trump vom Spionageverdacht?",
+      "overview": "Jensen Huang war nicht nur der bedeutendste Vorstandschef des KI-Booms, sondern auch ein enger Ratgeber von US-Präsident Donald Trump. Kommt Trump nun in Bedrängnis?",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T17:48:59+00:00",
+      "updated_at": "2026-11-12T17:48:59+00:00",
+      "article_ids": [
+        "2740360a81cefe49b68c"
       ],
       "publisher_count": 1,
       "article_counts": {
@@ -19759,49 +22295,6 @@
       ],
       "language": "en",
       "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-ffd2b11fe612c69f0703",
-      "title": "Druck auf Nvidia-Chef Huang steigt",
-      "overview": "Bei Nvidia könnte sich laut Medienberichten schon bald die Zukunft von Firmenchef Jensen Huang entscheiden. Der langjährige Chef des weltweit führenden Anbieters von Chips für künstliche Intelligenz (KI) geriet wegen einer außerehelichen Affäre mit einer mutmaßlichen chinesischen Spionin unter Druck. Medienberichten zufolge sei eine weitere Affäre aufgeflogen. Nun drohe Huang der Rauswurf, hieß es mit Verweis auf eine mit der Sache vertraute Person.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-12T07:47:06+00:00",
-      "updated_at": "2026-11-12T14:05:30+00:00",
-      "article_ids": [
-        "91f00aa75a0d7619b262",
-        "2b5553d1fdb773cb847c",
-        "7fda0f13d6b7ff22f7d8"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 3
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [
-        "chef",
-        "huang",
-        "nvidia",
-        "zurück"
-      ],
       "limitations": [
         "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
         "Insufficient coverage for comparison."
@@ -24134,48 +26627,6 @@
       ],
       "language": "de",
       "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-cd269d5dacce42ab1064",
-      "title": "Die STANDARD Wortsuche vom 11. November",
-      "overview": "Montag bis Freitag: Begriffe aus einem aktuellen STANDARD Artikel verbergen sich horizontal, vertikal oder diagonal im Buchstabengitter",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-11T05:00:00+00:00",
-      "updated_at": "2026-11-12T05:00:00+00:00",
-      "article_ids": [
-        "8386a700d1abcf263260",
-        "e75bfba62b11b7cfc02a"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 2,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [
-        "november",
-        "standard",
-        "vom",
-        "wortsuche"
-      ],
       "limitations": [
         "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
         "Insufficient coverage for comparison."
@@ -32480,6 +34931,42 @@
       "updated_at": "2026-11-11T08:00:00+00:00",
       "article_ids": [
         "45e03858f2433068124b"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-11578fe4e62b3daea24f",
+      "title": "Torten, Kuchen, Kekse: Backst du lieber selbst oder kaufst du?",
+      "overview": "Mein Forum: Diskutieren Sie dieses Thema mit der STANDARD-Community",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-11T08:00:00+00:00",
+      "updated_at": "2026-11-11T08:00:00+00:00",
+      "article_ids": [
+        "4dedfa9ba4f02c7722c3"
       ],
       "publisher_count": 1,
       "article_counts": {
@@ -42804,6 +45291,42 @@
       "ai": null
     },
     {
+      "id": "story-64083fb76c2cc78a11f1",
+      "title": "Eure Ideen für Kindergeburtstagsfeiern?",
+      "overview": "Mein Forum: Diskutieren Sie dieses Thema mit der STANDARD-Community",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-10T08:38:38+00:00",
+      "updated_at": "2026-11-10T08:38:38+00:00",
+      "article_ids": [
+        "56f00621dde2d645fe2f"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
       "id": "story-c1376e45546037ee37ce",
       "title": "Täter nach Raubüberfall auf Postfiliale im Nordburgenland weiter flüchtig",
       "overview": "Der ursprüngliche Verdächtige wurde wieder freigelassen, die Ermittlungen laufen weiter",
@@ -45725,42 +48248,6 @@
       ],
       "exposures": [],
       "ai": null
-    },
-    {
-      "id": "story-921a335761fa792653aa",
-      "title": "The engine parts that 'fight the laws of the universe'",
-      "overview": "Investment has surged into the making of jet turbine blades - an extremely difficult component to make.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-06T00:06:06+00:00",
-      "updated_at": "2026-11-06T00:06:06+00:00",
-      "article_ids": [
-        "20e8be792230b3fd2a74"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "Business",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
     }
   ],
   "instruments": [
@@ -45885,16 +48372,16 @@
   "markets": [],
   "status": {
     "state": "ok",
-    "attempted_at": "2026-11-12T23:41:50.104061+00:00",
-    "last_success_at": "2026-11-12T23:41:50.104061+00:00",
+    "attempted_at": "2026-11-13T06:54:28.387530+00:00",
+    "last_success_at": "2026-11-13T06:54:28.387530+00:00",
     "errors": [],
     "source_results": {
-      "bbc-world": "30 entries",
+      "bbc-world": "33 entries",
       "guardian-us": "33 entries",
       "fox-politics": "25 entries",
-      "bbc-business": "39 entries",
-      "orf": "26 entries",
-      "standard": "152 entries"
+      "bbc-business": "38 entries",
+      "orf": "28 entries",
+      "standard": "153 entries"
     },
     "market_status": "Market price data not configured",
     "ai_status": "AI enrichment not configured"
