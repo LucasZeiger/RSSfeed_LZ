@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "mode": "live",
-  "generated_at": "2026-11-14T02:29:05.519129+00:00",
+  "generated_at": "2026-11-14T10:37:43.833257+00:00",
   "refresh_minutes": 60,
   "sources": [
     {
@@ -90,6 +90,1084 @@
     }
   ],
   "articles": [
+    {
+      "id": "ff6ad0a37b52b4435958",
+      "source_id": "standard",
+      "title": "Klare Regeln für KI? Was Nobelpreisträger Geoffrey Hinton damit genau meint",
+      "url": "https://www.derstandard.at/story/3000000348095/klare-regeln-fuer-ki-was-nobelpreistraeger-geoffrey-hinton-damit-genau-meint?ref=rss",
+      "summary": "Der \"Vater der KI\" warnt davor, dass KI sich gegen ihre Schöpfer richten könnte. Dem STANDARD erklärt er, welche Maßnahmen dagegen helfen könnten",
+      "published_at": "2026-11-14T10:01:18+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "017fa9e2fd6cdb1ee8c7",
+      "source_id": "fox-politics",
+      "title": "Democrats seize on midterm wins to push massive minimum wage hikes, but economists see trouble ahead",
+      "url": "https://www.foxnews.com/politics/democrats-seize-midterm-wins-push-massive-minimum-wage-hikes-economists-see-trouble-ahead",
+      "summary": "Democrats are pushing major minimum-wage increases after their midterm victories, but economists warn the proposals could come with unintended consequences for small businesses and inexperienced workers. Pennsylvania Gov. Josh Shapiro is pledging to more than double his state's $7.25 minimum wage, while Illinois Gov. JB Pritzker is calling for a federal increase as Democrats make affordability a central part of their governing agenda. The renewed push comes as Seattle, which has one of the nation's highest minimum wages, faces concerns about rising business costs and employment opportunities —",
+      "published_at": "2026-11-14T10:00:15+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "56385976-b1b8-5ea5-af91-ae83ab1795dc",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/person/jb-pritzker",
+        "fox-news/politics/judiciary/state-and-local",
+        "fox-news/democrats",
+        "fox-news/us/economy",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "aae877c2d4c6075d7c0d",
+      "source_id": "standard",
+      "title": "Wehrschütz: \"Leid darf nicht dazu führen, dass man seine Objektivität verliert\"",
+      "url": "https://www.derstandard.at/story/3000000348888/wehrschuetz-leid-darf-nicht-dazu-fuehren-dass-man-seine-objektivitaet-verliert?ref=rss",
+      "summary": "Nach gut 25 Jahren und 20 Kilo mehr (wie er selbst betont) hört Christian Wehrschütz als ORF-Korrespondent auf. Er spricht über den Umgang mit Leid, Ukraine-Kritik und Hofburg-Gerüchte",
+      "published_at": "2026-11-14T10:00:14+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "31864632a96ae2c15f4c",
+      "source_id": "standard",
+      "title": "Ziemowit Szczerek legt ein vielstimmiges Porträt der Stadt Lemberg vor",
+      "url": "https://www.derstandard.at/story/3000000348529/ziemowit-szczerek-legt-ein-vielstimmiges-portraet-der-stadt-lemberg-vor?ref=rss",
+      "summary": "Schmerzpunkte, Mythen und das Schleudertrauma Galizien. Lwiw ist eine schillernde, vielschichtige Stadt. Der polnische Schriftsteller Ziemowit Szczerek nähert sich ihr in einem Buch an",
+      "published_at": "2026-11-14T10:00:00+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "138274fed608850b5cc4",
+      "source_id": "orf",
+      "title": "Selenskyj: USA schlugen NATO-Beitritt bei Gebietsverzicht vor",
+      "url": "https://orf.at/stories/3448165/",
+      "summary": "",
+      "published_at": "2026-11-14T09:53:30+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "52142c12bd086b2fa10b",
+      "source_id": "standard",
+      "title": "Verfassungsschutz erweitert Extremismusprävention für junge Erwachsene",
+      "url": "https://www.derstandard.at/story/3000000349225/verfassungsschutz-erweitert-extremismuspraevention-fuer-junge-erwachsene?ref=rss",
+      "summary": "Das Programm setzt künftig auch bei 17- bis 25-Jährigen an. Schwerpunkte soll es in Berufsschulen geben",
+      "published_at": "2026-11-14T09:53:05+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "af731be306d507df101a",
+      "source_id": "standard",
+      "title": "Emma Aicher führt im Slalom von Levi",
+      "url": "https://www.derstandard.at/story/3000000349224/emma-aicher-fuehrt-im-slalom-von-levi?ref=rss",
+      "summary": "Die Deutsche hält ihre Konkurrenz in Schach. Nur Lara Colturi und Zrinka Ljutic halten den Rückstand unter einer Sekunde",
+      "published_at": "2026-11-14T09:32:35+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "2ec88aad1c02ac60c115",
+      "source_id": "orf",
+      "title": "Ermittlungen gegen ungarischen Ex-Minister: Bargeld gefunden",
+      "url": "https://orf.at/stories/3448162/",
+      "summary": "",
+      "published_at": "2026-11-14T09:21:45+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "175d5f3a19d9bdd5c247",
+      "source_id": "standard",
+      "title": "Ukrainischer Callcenterbetrug: Auch Aktivitäten in Österreich vermutet",
+      "url": "https://www.derstandard.at/story/3000000349212/ukrainischer-callcenterbetrug-auch-aktivitaeten-in-oesterreich-vermutet?ref=rss",
+      "summary": "Laut dem Bundeskriminalamt gab es einen Informationsabfluss an ukrainische Beschuldigte. Derzeit ist kein österreichisches Ermittlungsverfahren anhängig",
+      "published_at": "2026-11-14T09:17:21+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "2b7462526a8e953a83c0",
+      "source_id": "standard",
+      "title": "Österreich empfängt Irland: Eine Heimserie, einige Ausfälle und der Aufstieg als Ziel",
+      "url": "https://www.derstandard.at/story/3000000348930/oesterreich-empfaengt-irland-eine-heimserie-einige-ausfaelle-und-der-aufstieg-als-ziel?ref=rss",
+      "summary": "Österreichs Nationalteam will gegen Irland seine beeindruckende Heimserie fortsetzen und den Aufstieg in die Nations League A fixieren. Trotz zahlreicher Ausfälle steht dabei mehr auf dem Spiel als nur der Gruppensieg",
+      "published_at": "2026-11-14T09:00:41+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "738299c90d2ddb2c65a5",
+      "source_id": "fox-politics",
+      "title": "Massie's push to impeach Hegseth splits constituents in his own backyard: 'Pure spite'",
+      "url": "https://www.foxnews.com/politics/massie-push-impeach-hegseth-splits-constituents-backyard-pure-spite",
+      "summary": "KENTON COUNTY, Ky. — Rep. Thomas Massie's push to impeach War Secretary Pete Hegseth over the Iran war drew sharply different reactions from northern Kentucky residents interviewed by Fox News Digital, who offered competing assessments of the outgoing Republican congressman — and whether his latest confrontation with the Trump administration reflects principle or political payback. Fox News Digital visited Covington, the population center of Massie’s district, along with Newport, Erlanger and other communities across the river from Cincinnati, to ask residents about their outgoing congressman ",
+      "published_at": "2026-11-14T09:00:19+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "483316a1-0c6c-5ae4-90b9-728cea6d4ed1",
+        "fnc",
+        "Fox News",
+        "fox-news/person/pete-hegseth",
+        "fox-news/politics/defense/secretary-of-defense",
+        "fox-news/politics/defense",
+        "fox-news/us/us-regions/southeast/kentucky",
+        "fox-news/politics/elections/house-of-representatives",
+        "fox-news/politics",
+        "fox-news/politics/elections/midterm-elections"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "431931ad54f710988b43",
+      "source_id": "fox-politics",
+      "title": "Blue wave meets ballot box surprises as voters split on abortion, voter ID and billionaire taxes",
+      "url": "https://www.foxnews.com/politics/blue-wave-meets-ballot-box-surprises-voters-split-abortion-voter-id-billionaire-taxes",
+      "summary": "While Democrats’ midterm sweep dominated Election Night, voters in several states delivered consequential — and sometimes crosscutting — verdicts on voter ID, abortion access, taxes and English-language laws. But the down-ballot decisions largely unfolded beneath the shadow of the GOP’s crushing losses, offering a separate look at the policy priorities voters chose to elevate in their states. Read on to learn more about some of the most significant ballot measure results that will be shaping the lives of thousands of Americans. DEMOCRATS ‘DIVORCED FROM VOTERS’ AS 5 STATES BACK CITIZEN-ONLY VOT",
+      "published_at": "2026-11-14T09:00:00+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "01db2e63-0419-5195-8482-4d214f696beb",
+        "fnc",
+        "Fox News",
+        "fox-news/us/us-regions/west/california",
+        "fox-news/politics/elections/midterm-elections",
+        "fox-news/politics/state-and-local",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "90310501f7b336fec64e",
+      "source_id": "standard",
+      "title": "Hochschule tauscht Hörsaal mit Gletscher",
+      "url": "https://www.derstandard.at/story/3000000346661/hochschule-tauscht-hoersaal-mit-gletscher?ref=rss",
+      "summary": "Studierende der FH Joanneum reisten zu einer zweiwöchigen Exkursion in den hohen Norden Schwedens, um Experimente und Messungen durchzuführen – und dabei einiges fürs Leben zu lernen",
+      "published_at": "2026-11-14T09:00:00+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "4c361eb39d95b5465800",
+      "source_id": "standard",
+      "title": "Bargeldfund bei Korruptionsermittlungen gegen Ex-Minister der Orbán-Regierung",
+      "url": "https://www.derstandard.at/story/3000000349222/orban-regime-korruptionsermittlungen-gegen-ungarischen-ex-minister?ref=rss",
+      "summary": "Im Zuge der Ermittlungen wurde Bargeld im Wert von 17,7 Millionen Euro sichergestellt. Das Geld war an unterschiedlichsten Orten versteckt, vergraben und abgelegt",
+      "published_at": "2026-11-14T08:47:11+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "d27eac5985fbc7852f7a",
+      "source_id": "standard",
+      "title": "\"Offen\" und für 100 Menschen gedacht: So soll das erste europäische Rückkehrzentrum in Ruanda aussehen",
+      "url": "https://www.derstandard.at/story/3000000349199/offen-und-fuer-100-menschen-gedacht-so-soll-das-erste-europaeische-rueckkehrzentrum-in-ruanda-aussehen?ref=rss",
+      "summary": "Am Montag wird in Wien bekanntgegeben, dass das ostafrikanische Land als Partner auserkoren wurde. Auf ein Pilotprojekt sollen Einrichtungen auch in anderen Ländern folgen",
+      "published_at": "2026-11-14T08:42:10+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "a2666e6d67c081ef2b84",
+      "source_id": "orf",
+      "title": "Microsoft: Alle Probleme behoben",
+      "url": "https://orf.at/stories/3448158/",
+      "summary": "",
+      "published_at": "2026-11-14T08:36:33+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "ddb030f0210d4dde64b9",
+      "source_id": "standard",
+      "title": "Wahl zur Miss Universe: Gewinnerin bekommt Krone mit mehr als 3.000 Diamanten",
+      "url": "https://www.derstandard.at/story/3000000349221/wahl-zur-miss-universe-gewinnerin-bekommt-krone-mit-mehr-als-3000-diamanten?ref=rss",
+      "summary": "Das neue Schmuckstück ist aus 18-karätigem Weißgold und mit 3.150 Diamanten bestückt. Die Auswahl und Verleihung findet am 24. November in Puerto Rico statt",
+      "published_at": "2026-11-14T08:35:30+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "016a55b8db6a0f7e46a5",
+      "source_id": "orf",
+      "title": "Mehrere Länder für Änderungen beim Familiennachzug",
+      "url": "https://orf.at/stories/3448157/",
+      "summary": "",
+      "published_at": "2026-11-14T08:28:14+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "202f42f711c187be12dd",
+      "source_id": "standard",
+      "title": "Warum Putin-Freund Dodik jetzt die Unterstützer in Washington abhandenkommen",
+      "url": "https://www.derstandard.at/story/3000000349071/warum-putin-freund-dodik-jetzt-die-unterstuetzer-in-washington-abhandenkommen?ref=rss",
+      "summary": "Der Kreml-Freund versucht weiter, den bosnischen Staat zu unterminieren. Trumps Entourage kann indes trotz massiver Verluste bei den Midterm-Wahlen in den USA auf dem Balkan gute Geschäfte machen",
+      "published_at": "2026-11-14T08:27:23+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "139afbfd496f46c44738",
+      "source_id": "orf",
+      "title": "„Licht ins Dunkel“: 2,3 Mio. Euro zum Auftakt gespendet",
+      "url": "https://orf.at/stories/3448156/",
+      "summary": "",
+      "published_at": "2026-11-14T08:17:16+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Chronik"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "c0a27e3bc002cb7c5463",
+      "source_id": "standard",
+      "title": "FIA verbannt Reporter von der Formel 1, weil er Charles Leclerc kritisierte",
+      "url": "https://www.derstandard.at/story/3000000349220/fia-verbannt-reporter-daily-mail-k252ndigt-formel-1-boykott-an?ref=rss",
+      "summary": "Jonathan McEvoy von der Daily Mail bekommt keinen Zugang zu Formel-1-Rennen mehr. Das Medium boykottiert nun die restlichen drei Saisonrennen",
+      "published_at": "2026-11-14T08:15:19+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "4f4f8067d5a68c7a9f2c",
+      "source_id": "bbc-business",
+      "title": "Football kit giveaway aims to boost participation",
+      "url": "https://www.bbc.co.uk/news/articles/ck20v651473qo?at_campaign=rss&at_medium=RSS",
+      "summary": "Millie Bright helps hand out free kit to young girls to help them keep playing in spite of costs.",
+      "published_at": "2026-11-14T08:13:40+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "bbc-business",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "Business"
+    },
+    {
+      "id": "568279af38a669565942",
+      "source_id": "standard",
+      "title": "Nach Fehlerfestival: Sabalenka scheitert bei WTA Finals",
+      "url": "https://www.derstandard.at/story/3000000349219/nach-fehlerfestival-sabalenka-scheitert-bei-wta-finals?ref=rss",
+      "summary": "Die Belarussin wird von der Ukrainerin Elina Switolina nach Hause geschickt. Mirra Andrejewa zeigt sich in Topform",
+      "published_at": "2026-11-14T08:09:24+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "e60f26bd1056d43b3427",
+      "source_id": "standard",
+      "title": "Wohl wegen Stopp von Familiennachzug: Heuer 13 Prozent weniger außerordentliche Schüler",
+      "url": "https://www.derstandard.at/story/3000000349213/heuer-rund-13-prozent-weniger-au223erordentliche-sch252ler?ref=rss",
+      "summary": "Es gab einen Rückgang um 6.300 Kinder und Jugendliche. Insgesamt seien es laut Bildungsminister Wiederkehr (Neos) aber immer noch zu viele Kinder mit schlechten Deutschkenntnissen",
+      "published_at": "2026-11-14T08:08:41+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "38aeb60fc8f14bbe7c9c",
+      "source_id": "standard",
+      "title": "Die schönsten Urlaubsfotos unserer Userinnen und User der Woche",
+      "url": "https://www.derstandard.at/story/3000000348694/die-schoensten-urlaubsfotos-unserer-userinnen-und-user-der-woche?ref=rss",
+      "summary": "Wohin unsere Userinnen und User verreist sind – KW 46/2026",
+      "published_at": "2026-11-14T08:00:00+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "410e2be84e52435999bd",
+      "source_id": "standard",
+      "title": "Strom und Klimaschäden: Was beim Klimagipfel auf dem Spiel steht",
+      "url": "https://www.derstandard.at/story/3000000349191/strom-und-klimaschaeden-was-beim-klimagipfel-auf-dem-spiel-steht?ref=rss",
+      "summary": "Bei der COP31 in Antalya geht es um Elektrifizierung und um Geld für Klimaschäden. Und: Eine Bilanz nach 30 Klimakonferenzen",
+      "published_at": "2026-11-14T08:00:00+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "2087df41c2f778a4223e",
+      "source_id": "standard",
+      "title": "Drei Öltanker in Straße von Hormus laut iranischen Angaben in Brand geraten",
+      "url": "https://www.derstandard.at/story/3000000349211/nahost-iran-zwei-214ltanker-in-stra223e-von-hormuz-in-brand-geraten?ref=rss",
+      "summary": "Sie sollen auf eine Seemine aufgelaufen sein und zuvor versucht haben, die Straße von Hormus heimlich auf einer nicht genehmigten Route zu durchqueren, hieß es von den Revolutionsgarden",
+      "published_at": "2026-11-14T07:56:06+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "80a2a63e5a51878d0fd8",
+      "source_id": "standard",
+      "title": "US-Luftwaffe wehrte mutmaßliche Drohnen über britischem Stützpunkt ab",
+      "url": "https://www.derstandard.at/story/3000000349215/us-luftwaffe-wehrte-mutma223liche-drohnen-252ber-britischem-st252tzpunkt-ab?ref=rss",
+      "summary": "Der Vorfall ereignete sich wenige Tage nach Anklageerhebung gegen drei mutmaßliche Agenten in den USA",
+      "published_at": "2026-11-14T07:55:19+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "a47c56aedc944ae38ba6",
+      "source_id": "standard",
+      "title": "Kürzere Pension oder mehr einzahlen: IWF-Direktor sieht Österreicher in \"ZiB 2\" vor Entscheidung",
+      "url": "https://www.derstandard.at/story/3000000349210/kuerzere-pension-oder-mehr-einzahlen-iwf-direktor-sieht-oesterreicher-in-zib-2-vor-entscheidung?ref=rss",
+      "summary": "\"Bei Pensionen wird etwas passieren müssen\", sagt Helmut Ettl, Österreichs neuer Exekutivdirektor beim Währungsfonds, zur Staatsverschuldung",
+      "published_at": "2026-11-14T07:54:36+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "f1eea67f3e30e0e7bb50",
+      "source_id": "bbc-business",
+      "title": "The rise of 'housefishing' by estate agents",
+      "url": "https://www.bbc.co.uk/news/videos/cmx295lz17wzo?at_campaign=rss&at_medium=RSS",
+      "summary": "The rise of 'housefishing' by estate agents.",
+      "published_at": "2026-11-14T07:45:50+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "bbc-business",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "Business"
+    },
+    {
+      "id": "3e5613f87ace02a954e9",
+      "source_id": "standard",
+      "title": "Prognose für das Defizit der Krankenkassen wesentlich besser als noch im August",
+      "url": "https://www.derstandard.at/story/3000000349214/krankenkassen-2026-weitere-defizit-reduktion-in-richtung-turnaround?ref=rss",
+      "summary": "Das prognostizierte Defizit ist gegenüber der Gebarungsvorschau von August von 111,2 auf 12,7 Millionen Euro gesunken. Für die kommenden Jahre sieht es wieder schlechter aus",
+      "published_at": "2026-11-14T07:44:22+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "85c12f9c6ef58c1067fa",
+      "source_id": "bbc-world",
+      "title": "What we know about the ground stop and what to do if you're affected",
+      "url": "https://www.bbc.co.uk/news/articles/cqx2wyvyr3zzo?at_campaign=rss&at_medium=RSS",
+      "summary": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+      "published_at": "2026-11-14T07:42:11+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "6002f3ba1b1e900558a9",
+      "source_id": "orf",
+      "title": "Verspätungen und Chaos auf US-Flughäfen",
+      "url": "https://orf.at/stories/3448134/",
+      "summary": "Auch wenn die US-Luftfahrtaufsicht (FAA) ein am Freitag wegen einer Computerpanne verhängtes landesweites Startverbot wieder aufgehoben hat, spüren derzeit noch Zehntausende Passagierinnen und Passagiere die Auswirkungen. Denn auf zahlreichen US-Flughäfen müssen Fluggäste weiterhin mit Verspätungen und Chaos rechnen. Auch Flüge aus und nach Europa waren von dem Flugstopp betroffen.",
+      "published_at": "2026-11-14T07:31:04+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "f5680c0f97158824b9d4",
+      "source_id": "standard",
+      "title": "USA schlagen laut Selenskyj Natobeitritt gegen Gebietsabtritt vor, Kyjiw dagegen",
+      "url": "https://www.derstandard.at/jetzt/livebericht/3000000349196/starlink-in-der-ukraine-weiter-eingeschraenkt-us-senatoren-fordern-unterlagen-von-musk?ref=rss",
+      "summary": "Laut Selenskyj sollen die US-Unterhändler die Frage nach einem Natobeitritt der Ukraine im Gegenzug zu Gebietsabtretungen aufgeworfen haben. Die Nato sei \"wieder auf der Tagesordnung\"",
+      "published_at": "2026-11-14T07:25:41+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "eb8c50bd752518ed4ec2",
+      "source_id": "guardian-us",
+      "title": "FAA ground stop sends NBA, NHL and college teams scrambling ahead of weekend",
+      "url": "https://www.theguardian.com/sport/2026/nov/14/faa-ground-stop-nba-nhl-college-football-travel-disruption",
+      "summary": "Nationwide flight shutdown disrupts team travel in US Mississippi v Oklahoma football game moved to Sunday Cavaliers face tight turnaround after Miami travel delay The Federal Aviation Administration’s decision to ground all flights nationwide for several hours on Friday threw the US sports world into disarray, leaving NBA, NHL and college teams scrambling to reach their destinations in time for a packed weekend of games. Transportation officials cited “extraordinary circumstances” caused by communications issues at regional air traffic control centers for the stoppage. Some teams were left se",
+      "published_at": "2026-11-14T07:21:27+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "Agencies",
+      "categories": [
+        "US sports",
+        "Air transport",
+        "NFL",
+        "NBA",
+        "College football",
+        "NHL",
+        "Sport",
+        "Basketball",
+        "College sports",
+        "USA"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "6003a8d6de53b9565fe7",
+      "source_id": "bbc-business",
+      "title": "What do Christmas market traders say about rising prices?",
+      "url": "https://www.bbc.co.uk/news/articles/c95y152k8erpo?at_campaign=rss&at_medium=RSS",
+      "summary": "From £8 bratwursts to £11 Yorkshire pudding wraps, why is the cost of the markets rising year on year?",
+      "published_at": "2026-11-14T07:11:26+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "bbc-business",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "Business"
+    },
+    {
+      "id": "f368fa97ef6536bc0fe6",
+      "source_id": "standard",
+      "title": "Weißes Haus kündigt Dreiertreffen von Trump mit Xi und Putin an",
+      "url": "https://www.derstandard.at/story/3000000349218/wei223es-haus-k252ndigt-dreiertreffen-von-trump-mit-xi-und-putin-an?ref=rss",
+      "summary": "Das historische Gespräch soll nächsten Donnerstag in China stattfinden. Der US-Präsident will vor allem über atomare Abrüstung, offenbar aber nicht über die Ukraine sprechen",
+      "published_at": "2026-11-14T07:08:17+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "fe5ef76540def96a51b6",
+      "source_id": "orf",
+      "title": "Zahl der außerordentlichen Schüler gesunken",
+      "url": "https://orf.at/stories/3448153/",
+      "summary": "",
+      "published_at": "2026-11-14T07:07:46+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Inland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "1f385bb9a4af345efd2f",
+      "source_id": "standard",
+      "title": "\"Wovor wir nicht sicher sind\": Mirjam Rohers \"Wortlaut\"-Siegertext 2026",
+      "url": "https://www.derstandard.at/story/3000000348540/wovor-wir-nicht-sicher-sind-mirjam-rohers-wortlaut-siegertext-2026?ref=rss",
+      "summary": "Mit der Coming-of-Age-Geschichte hat Mirjam Roher den FM4-Kurzgeschichtenwettbewerb \"Wortlaut 2026\" gewonnen. Ein Vorabdruck",
+      "published_at": "2026-11-14T07:00:00+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "50770416370f737c46f5",
+      "source_id": "standard",
+      "title": "Europe has been living beyond its means. Now the bills are due",
+      "url": "https://www.derstandard.at/story/3000000349122/europe-has-been-living-beyond-its-means-now-the-bills-are-due?ref=rss",
+      "summary": "It accounts for half the world’s social spending, but its fractured politics make cuts difficult",
+      "published_at": "2026-11-14T07:00:00+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "cbe430ac91e6acad8108",
+      "source_id": "standard",
+      "title": "Villach voller Verlage: Die Kärntner Spieletage",
+      "url": "https://www.derstandard.at/story/3000000349181/villach-voller-verlage-die-kaerntner-spieletage?ref=rss",
+      "summary": "Auch heuer wieder fand der Brettspielkolumnist Ihres Vertrauens den Weg nach Villach zu den Kärntner Spieletagen, die von 13. bis 15. November stattfinden. Eine kleine Verlagsschau",
+      "published_at": "2026-11-14T07:00:00+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "ee3d40828e0ca613caaf",
+      "source_id": "standard",
+      "title": "Ein Buch vom Iron Maiden Drummer, jede Menge Schuhe...",
+      "url": "https://www.derstandard.at/story/3000000348165/ein-buch-vom-iron-maden-drummer-jede-menge-schuhe?ref=rss",
+      "summary": "... und weitere Tipps zur Freizeitgestaltung",
+      "published_at": "2026-11-14T07:00:00+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "9fb17140366090475bef",
+      "source_id": "standard",
+      "title": "Hallo, was lesen Sie, Davide Franchetto?",
+      "url": "https://www.derstandard.at/story/3000000348256/hallo-was-lesen-sie-davide-franchetto?ref=rss",
+      "summary": "Davide Franchetto, 38, führt in Turin die Buchhandlung Pantaleón (Via Giuseppe Grassi 14)",
+      "published_at": "2026-11-14T07:00:00+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "fe94db248026a72cfbb4",
+      "source_id": "standard",
+      "title": "Fehlschlag bei Starship-Testflug: \"Booster\" stürzte kontrolliert ins Meer und explodierte",
+      "url": "https://www.derstandard.at/story/3000000349216/fehlschlag-bei-starship-testflug-booster-stuerzte-kontrolliert-ins-meer-und-explodierte?ref=rss",
+      "summary": "Eigentlich hätten die wichtigsten Teile der Riesen-Rakete wieder aufgefangen werden sollen. Die untere Raketenstufe kehrte zwar zurück, aber stürzte ins Meer",
+      "published_at": "2026-11-14T06:56:36+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "305b82c71b8bf49f6586",
+      "source_id": "orf",
+      "title": "Microsoft: Probleme bei Privatkunden behoben",
+      "url": "https://orf.at/stories/3448146/",
+      "summary": "",
+      "published_at": "2026-11-14T06:45:43+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "62e48842d34f267dc4b1",
+      "source_id": "orf",
+      "title": "Iran: Öltanker in Straße von Hormus in Brand geraten",
+      "url": "https://orf.at/stories/3448145/",
+      "summary": "",
+      "published_at": "2026-11-14T06:42:18+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "2a4cdcb500eeee9b6993",
+      "source_id": "standard",
+      "title": "Alle Microsoft-Dienste nach weltweitem Ausfall wiederhergestellt",
+      "url": "https://www.derstandard.at/story/3000000349217/-microsoft-dienste-f252r-verbraucher-arbeiten-nach-mega-panne-wieder?ref=rss",
+      "summary": "Zuvor kam es zu einem großflächigen Ausfall bei vielen Diensten des US-Softwareherstellers. Schaden in Höhe mehrerer Milliarden Dollar geschätzt",
+      "published_at": "2026-11-14T06:41:35+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "9eca44080c7dedb3bfcd",
+      "source_id": "bbc-business",
+      "title": "Food bank sees donations drop by 10% each year",
+      "url": "https://www.bbc.co.uk/news/articles/c6702j7e48eno?at_campaign=rss&at_medium=RSS",
+      "summary": "Staff fear the government stockpiling advice will have an impact on donations as Christmas looms.",
+      "published_at": "2026-11-14T06:33:06+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "bbc-business",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "Business"
+    },
+    {
+      "id": "d2cd4cf2b467ff1fa637",
+      "source_id": "orf",
+      "title": "USA: Drohnenaktivitäten über britischem Stützpunkt",
+      "url": "https://orf.at/stories/3448144/",
+      "summary": "",
+      "published_at": "2026-11-14T06:32:28+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "d5eace5cf0aa6646bc5c",
+      "source_id": "orf",
+      "title": "Bataclan-Anschlag: Halbe Million Euro Spenden für Pariser Zeugin",
+      "url": "https://orf.at/stories/3448143/",
+      "summary": "",
+      "published_at": "2026-11-14T06:29:02+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "3d713789e70e0a806317",
+      "source_id": "orf",
+      "title": "Weißes Haus: Treffen mit Xi und Putin nächste Woche",
+      "url": "https://orf.at/stories/3448142/",
+      "summary": "",
+      "published_at": "2026-11-14T06:25:35+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "dc0dc0f0c84b47f45de6",
+      "source_id": "orf",
+      "title": "Schiffsunfall in New Orleans: Alle Passagiere geborgen",
+      "url": "https://orf.at/stories/3448141/",
+      "summary": "",
+      "published_at": "2026-11-14T06:21:05+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Chronik"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "a1cdb107411b2a958287",
+      "source_id": "orf",
+      "title": "Österreichs „enormer Vorteil“",
+      "url": "https://orf.at/stories/3447320/",
+      "summary": "Dieser Tage wird bei der Klimakonferenz (COP31) im türkischen Antalya über das neue weltweite Elektrifizierungsziel beraten: Bis 2035 soll der Anteil an Strom beim Energieverbrauch auf 35 Prozent erhöht werden. Eine Zahl, von der Österreich zwar noch weit entfernt ist, zugleich aber einen „enormen Vorteil“ hat, wie die Forscherin Sonja Wogrin gegenüber ORF.at sagt.",
+      "published_at": "2026-11-14T06:18:07+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Umwelt"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "1dd4dfe491e9b6010dda",
+      "source_id": "fox-politics",
+      "title": "Democrat flips Alaska governor's mansion after Trump-backed GOP infighting",
+      "url": "https://www.foxnews.com/politics/democrat-flips-alaska-governors-mansion-trump-backed-gop-infighting",
+      "summary": "Democrat Jonathan Kreiss-Tomkins has won Alaska's gubernatorial election, defeating Trump-endorsed Republican Bernadette Wilson and flipping the governor's mansion. The Associated Press called the race for Kreiss-Tomkins, a former state lawmaker, Friday evening local time. He is the first Democratic governor in Alaska since 1998. Alaska's gubernatorial election became an unusual contest as Republicans battled among themselves over who should succeed Gov. Mike Dunleavy, who was barred from seeking a third consecutive term. A BLUE WAVE IN GOVERNORS' MANSIONS COULD HURT FAMILIES MORE THAN A BLUE ",
+      "published_at": "2026-11-14T06:09:34+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "236329a5-4edc-5fc0-8449-4093c42f10f3",
+        "fnc",
+        "Fox News",
+        "fox-news/politics/elections/midterm-elections",
+        "fox-news/us/us-regions/west/alaska",
+        "fox-news/politics/elections/gubernatorial",
+        "fox-news/politics",
+        "fox-news/person/donald-trump",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "38ebb1b591eb014413bc",
+      "source_id": "standard",
+      "title": "Südtirol (4/4): Will Österreich den Süden zurück?",
+      "url": "https://www.derstandard.at/story/3000000349077/suedtirol-44-will-oesterreich-den-sueden-zurueck?ref=rss",
+      "summary": "In der letzten Folge der Inside-Austria-Reihe über Südtirol nehmen wir die Beziehung der Österreicher - speziell auch der Politik - in den Fokus.",
+      "published_at": "2026-11-14T06:00:00+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "1453395481589eddb60a",
+      "source_id": "standard",
+      "title": "Mascherl-Gate, Marterbauer und Reiterer im \"Blattsalat\"",
+      "url": "https://www.derstandard.at/story/3000000349083/mascherl-gate-marterbauer-und-reiterer-im-blattsalat?ref=rss",
+      "summary": "Über Claudia Reiterers traurigen ORF-Abschied und Marterbauer als \"Mann mit Eigenschaften\"",
+      "published_at": "2026-11-14T06:00:00+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "709e87fa0a1543026d6c",
+      "source_id": "bbc-world",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "url": "https://www.bbc.co.uk/news/articles/ckz74jzpy18do?at_campaign=rss&at_medium=RSS",
+      "summary": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+      "published_at": "2026-11-14T05:52:31+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "62fa28fd97bb82432f32",
+      "source_id": "standard",
+      "title": "Ab 314 Personen ist beim Familiennachzug Schluss: Sprengt die Regierung die Grenzen des Rechtsstaats?",
+      "url": "https://www.derstandard.at/story/3000000348731/ab-314-personen-ist-beim-familiennachzug-schluss-sprengt-die-regierung-die-grenzen-des-rechtsstaats?ref=rss",
+      "summary": "Die Koalition hat beim Familiennachzug für Asylberechtigte eine Obergrenze eingeführt. Juristen halten das für rechtswidrig. Auch die Berechnung der Zahl wirft Fragen auf",
+      "published_at": "2026-11-14T05:00:00+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "b6930f22e2be9e182473",
+      "source_id": "standard",
+      "title": "Bild-Vergleiche: 50 sein war schon mal gemütlicher",
+      "url": "https://www.derstandard.at/story/3000000349090/bild-vergleiche-50-sein-war-schon-mal-gemuetlicher?ref=rss",
+      "summary": "Mit 50 aussehen wie mit 35: Für weibliche Stars scheint das heute Pflicht. Instagram-Vergleiche sollen den gestiegenen Schönheitsdruck zeigen – und arbeiten sich vor allem an einem größtmöglichen Unterschied ab",
+      "published_at": "2026-11-14T05:00:00+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "3be449ac1e4bbb100264",
+      "source_id": "standard",
+      "title": "Dara im Hotel Anantara: Träumen von Tom Yum",
+      "url": "https://www.derstandard.at/story/3000000348705/dara-im-hotel-anantara-traeumen-von-tom-yum?ref=rss",
+      "summary": "Das Team eines Thai-Luxushotels kocht gerade in Wien – auf eine Art, die Streetfood ziemlich atemberaubend mit Luxus zu verbinden versteht",
+      "published_at": "2026-11-14T05:00:00+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "af05d6277d4ea3ad4e88",
+      "source_id": "standard",
+      "title": "Mercedes-Teamchef Wolff: \"Wir wollten im Auto ein Monster haben\"",
+      "url": "https://www.derstandard.at/story/3000000348811/mercedes-teamchef-wolff-wir-wollten-im-auto-ein-monster-haben?ref=rss",
+      "summary": "Toto Wolff über den WM-Triumph seines Schützlings Kimi Antonelli, die Zweifel während der titellosen Jahre und seine Anfänge als Kerzenverkäufer beim Wiener Lichtermeer",
+      "published_at": "2026-11-14T05:00:00+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "e39424354419ac00f2f7",
+      "source_id": "standard",
+      "title": "Warum ist die menschliche Körpertemperatur in den letzten 150 Jahren gesunken?",
+      "url": "https://www.derstandard.at/story/3000000347761/warum-ist-die-menschliche-koerpertemperatur-in-den-letzten-150-jahren-gesunken?ref=rss",
+      "summary": "Die übliche Normaltemperatur von 37 Grad scheint heute zu hoch angesetzt. Historische und moderne Daten zeigen einen bemerkenswerten Langzeittrend",
+      "published_at": "2026-11-14T05:00:00+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "7287b39543bddb90abdc",
+      "source_id": "standard",
+      "title": "Palantir-CEO Karp ist nun nicht mehr \"anti-woke\", sondern \"progressiv\"",
+      "url": "https://www.derstandard.at/story/3000000348952/palantir-ceo-karp-ist-nun-nicht-mehr-anti-woke-sondern-progressiv?ref=rss",
+      "summary": "Eine Woche nach den Midterms probiert sich der Chef des Unternehmens mit zahlreichen Regierungsverträgen am Imagewandel",
+      "published_at": "2026-11-14T05:00:00+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "1ae68a23da95f9a177ba",
+      "source_id": "standard",
+      "title": "\"Heartland\", \"Avedon\", \"Being Heumann\": Streaming- und TV-Tipps für Samstag",
+      "url": "https://www.derstandard.at/story/3000000347559/heartland-avedon-being-heumann-streaming-und-tv-tipps-fuer-samstag?ref=rss",
+      "summary": "Außerdem die Serie \"Best Medicine\", der Kriegsfilm \"1917\", die Stieg-Larsson-Adaption \"Verblendung\" und eine Doku über dunkle Kometen",
+      "published_at": "2026-11-14T05:00:00+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "be12918f35c5f0bdde65",
+      "source_id": "guardian-us",
+      "title": "Scientists find blood biomarker that opens door to CTE diagnosis in living patients",
+      "url": "https://www.theguardian.com/sport/2026/nov/14/scientists-find-blood-biomarker-cte-diagnosis-rugby-american-football",
+      "summary": "Condition is prevalent in rugby and American football Scientists are optimistic of significant breakthrough Scientists have moved a step closer to diagnosing the degenerative brain condition chronic traumatic encephalopathy in living people, after a study found a blood biomarker that identifies an advanced form of the disease. As things stand CTE, which is caused by repeated trauma to the head and is especially prevalent in collision and contact sports such as American football, rugby and football, can be diagnosed only after death by examining brain tissue. Continue reading...",
+      "published_at": "2026-11-14T04:00:33+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "Sean Ingle",
+      "categories": [
+        "Sport",
+        "Sport politics",
+        "NFL",
+        "Rugby union",
+        "Rugby league",
+        "US sports"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "d3e34544bde6edcdf0f0",
+      "source_id": "bbc-world",
+      "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
+      "url": "https://www.bbc.co.uk/news/videos/c893ryz7lw33o?at_campaign=rss&at_medium=RSS",
+      "summary": "Passengers throughout the country were impacted over what the Federal Aviation Administration (FAA) describes as “safety and communication issues”.",
+      "published_at": "2026-11-14T01:47:36+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
     {
       "id": "27fee21f2e3085279f72",
       "source_id": "guardian-us",
@@ -974,6 +2052,21 @@
       "category": "World"
     },
     {
+      "id": "4a5d1718167946eb9259",
+      "source_id": "bbc-world",
+      "title": "Eurovision is finally coming to Asia - meet the stars gearing up to take the stage",
+      "url": "https://www.bbc.co.uk/news/articles/cw4gn0ky2pgdo?at_campaign=rss&at_medium=RSS",
+      "summary": "On Saturday, the biggest and longest-running international song contest will make a leap into unknown territory.",
+      "published_at": "2026-11-13T19:01:36+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
       "id": "27b7c49a01743c589aeb",
       "source_id": "standard",
       "title": "Nach 5.000 Waldbränden: Brasilien ruft Umweltnotstand aus",
@@ -1181,6 +2274,21 @@
       ],
       "language": "de",
       "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "7f63f80b7de06f2ccb87",
+      "source_id": "bbc-world",
+      "title": "Estonia bans Russian athletes as backlash intensifies",
+      "url": "https://www.bbc.co.uk/sport/articles/cm4gn9lvlgy2o?at_campaign=rss&at_medium=RSS",
+      "summary": "Estonia is the latest country to say it will not allow Russian or Belarusian athletes to compete on its territory as a result of the ongoing war in Ukraine.",
+      "published_at": "2026-11-13T17:54:33+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
       "category": "World"
     },
     {
@@ -3245,6 +4353,21 @@
       "summary": "Positiv fiel dem Rechnungshof auf, dass sich der Zoo von einem Zuschussbetrieb zu einem gewinnbringenden Unternehmen gewandelt hat",
       "published_at": "2026-11-13T10:39:09+00:00",
       "fetched_at": "2026-11-13T15:28:20.716853+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "1d75ead6f31f12ceb359",
+      "source_id": "standard",
+      "title": "Seid ihr in eurem Arbeitsalltag von der Microsoft-Störung betroffen?",
+      "url": "https://www.derstandard.at/story/3000000349124/seid-ihr-in-eurem-arbeitsalltag-von-der-microsoft-stoerung-betroffen?ref=rss",
+      "summary": "Mein Forum: Diskutieren Sie dieses Thema mit der STANDARD-Community",
+      "published_at": "2026-11-13T10:36:43+00:00",
+      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
       "date_estimated": false,
       "author": "standard",
       "categories": [],
@@ -20126,39 +21249,2268 @@
       "language": "en",
       "country": "UK",
       "category": "Business"
-    },
-    {
-      "id": "55915013a485d0fcfa3a",
-      "source_id": "standard",
-      "title": "Südtirol (3/4): Für immer Italien?",
-      "url": "https://www.derstandard.at/story/3000000347827/suedtirol-34-fuer-immer-italien?ref=rss",
-      "summary": "In dritten Teil unserer Serie schauen wir auf die aktuelle politische Lage in Südtirol. Was steckt hinter dem Erfolg der rechtspopulistischen Kräfte, die zurück zu Österreich wollen?",
-      "published_at": "2026-11-07T06:00:00+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "3e5c9bfab17216a1502b",
-      "source_id": "standard",
-      "title": "Zur alten Liebe: Funkhaus kocht!",
-      "url": "https://www.derstandard.at/story/3000000347317/zur-alten-liebe-funkhaus-kocht?ref=rss",
-      "summary": "Das Foyer des einstigen Funkhauses in der Argentinierstraße beherbergt bis Mai ein Pop-up, das vom formidablen Elias Tichy bekocht wird",
-      "published_at": "2026-11-07T05:00:00+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
     }
   ],
   "stories": [
+    {
+      "id": "story-37e9cbf75e3838f5f9d9",
+      "title": "Klare Regeln für KI? Was Nobelpreisträger Geoffrey Hinton damit genau meint",
+      "overview": "Der \"Vater der KI\" warnt davor, dass KI sich gegen ihre Schöpfer richten könnte. Dem STANDARD erklärt er, welche Maßnahmen dagegen helfen könnten",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T10:01:18+00:00",
+      "updated_at": "2026-11-14T10:01:18+00:00",
+      "article_ids": [
+        "ff6ad0a37b52b4435958"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-b44c06922da5bc8ac045",
+      "title": "Democrats seize on midterm wins to push massive minimum wage hikes, but economists see trouble ahead",
+      "overview": "Democrats are pushing major minimum-wage increases after their midterm victories, but economists warn the proposals could come with unintended consequences for small businesses and inexperienced workers. Pennsylvania Gov. Josh Shapiro is pledging to more than double his state's $7.25 minimum wage, while Illinois Gov. JB Pritzker is calling for a federal increase as Democrats make affordability a central part of their governing agenda. The renewed push comes as Seattle, which has one of the nation's highest minimum wages, faces concerns about rising business costs and employment opportunities —",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T10:00:15+00:00",
+      "updated_at": "2026-11-14T10:00:15+00:00",
+      "article_ids": [
+        "017fa9e2fd6cdb1ee8c7"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-fd27f64c619216e518cb",
+      "title": "Wehrschütz: \"Leid darf nicht dazu führen, dass man seine Objektivität verliert\"",
+      "overview": "Nach gut 25 Jahren und 20 Kilo mehr (wie er selbst betont) hört Christian Wehrschütz als ORF-Korrespondent auf. Er spricht über den Umgang mit Leid, Ukraine-Kritik und Hofburg-Gerüchte",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T10:00:14+00:00",
+      "updated_at": "2026-11-14T10:00:14+00:00",
+      "article_ids": [
+        "aae877c2d4c6075d7c0d"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-05735e13426e51c88df3",
+      "title": "Ziemowit Szczerek legt ein vielstimmiges Porträt der Stadt Lemberg vor",
+      "overview": "Schmerzpunkte, Mythen und das Schleudertrauma Galizien. Lwiw ist eine schillernde, vielschichtige Stadt. Der polnische Schriftsteller Ziemowit Szczerek nähert sich ihr in einem Buch an",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T10:00:00+00:00",
+      "updated_at": "2026-11-14T10:00:00+00:00",
+      "article_ids": [
+        "31864632a96ae2c15f4c"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-bb52407f847554b44bba",
+      "title": "Selenskyj: USA schlugen NATO-Beitritt bei Gebietsverzicht vor",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T09:53:30+00:00",
+      "updated_at": "2026-11-14T09:53:30+00:00",
+      "article_ids": [
+        "138274fed608850b5cc4"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-d2f7ede34349a751e3e2",
+      "title": "Verfassungsschutz erweitert Extremismusprävention für junge Erwachsene",
+      "overview": "Das Programm setzt künftig auch bei 17- bis 25-Jährigen an. Schwerpunkte soll es in Berufsschulen geben",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T09:53:05+00:00",
+      "updated_at": "2026-11-14T09:53:05+00:00",
+      "article_ids": [
+        "52142c12bd086b2fa10b"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-2149d705418e05bd71f8",
+      "title": "Emma Aicher führt im Slalom von Levi",
+      "overview": "Die Deutsche hält ihre Konkurrenz in Schach. Nur Lara Colturi und Zrinka Ljutic halten den Rückstand unter einer Sekunde",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T09:32:35+00:00",
+      "updated_at": "2026-11-14T09:32:35+00:00",
+      "article_ids": [
+        "af731be306d507df101a"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-243bc0841dece4fda3ec",
+      "title": "Ermittlungen gegen ungarischen Ex-Minister: Bargeld gefunden",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T09:21:45+00:00",
+      "updated_at": "2026-11-14T09:21:45+00:00",
+      "article_ids": [
+        "2ec88aad1c02ac60c115"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-3a91678fe188acc49d35",
+      "title": "Ukrainischer Callcenterbetrug: Auch Aktivitäten in Österreich vermutet",
+      "overview": "Laut dem Bundeskriminalamt gab es einen Informationsabfluss an ukrainische Beschuldigte. Derzeit ist kein österreichisches Ermittlungsverfahren anhängig",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T09:17:21+00:00",
+      "updated_at": "2026-11-14T09:17:21+00:00",
+      "article_ids": [
+        "175d5f3a19d9bdd5c247"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-e80e8556a82cd46c4bc3",
+      "title": "Österreich empfängt Irland: Eine Heimserie, einige Ausfälle und der Aufstieg als Ziel",
+      "overview": "Österreichs Nationalteam will gegen Irland seine beeindruckende Heimserie fortsetzen und den Aufstieg in die Nations League A fixieren. Trotz zahlreicher Ausfälle steht dabei mehr auf dem Spiel als nur der Gruppensieg",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T09:00:41+00:00",
+      "updated_at": "2026-11-14T09:00:41+00:00",
+      "article_ids": [
+        "2b7462526a8e953a83c0"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-bcc6b24f60ca6e3cb6e6",
+      "title": "Massie's push to impeach Hegseth splits constituents in his own backyard: 'Pure spite'",
+      "overview": "KENTON COUNTY, Ky. — Rep. Thomas Massie's push to impeach War Secretary Pete Hegseth over the Iran war drew sharply different reactions from northern Kentucky residents interviewed by Fox News Digital, who offered competing assessments of the outgoing Republican congressman — and whether his latest confrontation with the Trump administration reflects principle or political payback. Fox News Digital visited Covington, the population center of Massie’s district, along with Newport, Erlanger and other communities across the river from Cincinnati, to ask residents about their outgoing congressman ",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T09:00:19+00:00",
+      "updated_at": "2026-11-14T09:00:19+00:00",
+      "article_ids": [
+        "738299c90d2ddb2c65a5"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-0dc0af7982ba4ddbc221",
+      "title": "Blue wave meets ballot box surprises as voters split on abortion, voter ID and billionaire taxes",
+      "overview": "While Democrats’ midterm sweep dominated Election Night, voters in several states delivered consequential — and sometimes crosscutting — verdicts on voter ID, abortion access, taxes and English-language laws. But the down-ballot decisions largely unfolded beneath the shadow of the GOP’s crushing losses, offering a separate look at the policy priorities voters chose to elevate in their states. Read on to learn more about some of the most significant ballot measure results that will be shaping the lives of thousands of Americans. DEMOCRATS ‘DIVORCED FROM VOTERS’ AS 5 STATES BACK CITIZEN-ONLY VOT",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T09:00:00+00:00",
+      "updated_at": "2026-11-14T09:00:00+00:00",
+      "article_ids": [
+        "431931ad54f710988b43"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-f75672086aa4be23b624",
+      "title": "Hochschule tauscht Hörsaal mit Gletscher",
+      "overview": "Studierende der FH Joanneum reisten zu einer zweiwöchigen Exkursion in den hohen Norden Schwedens, um Experimente und Messungen durchzuführen – und dabei einiges fürs Leben zu lernen",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T09:00:00+00:00",
+      "updated_at": "2026-11-14T09:00:00+00:00",
+      "article_ids": [
+        "90310501f7b336fec64e"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-5f1c09fcad6f6e1ae543",
+      "title": "Bargeldfund bei Korruptionsermittlungen gegen Ex-Minister der Orbán-Regierung",
+      "overview": "Im Zuge der Ermittlungen wurde Bargeld im Wert von 17,7 Millionen Euro sichergestellt. Das Geld war an unterschiedlichsten Orten versteckt, vergraben und abgelegt",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T08:47:11+00:00",
+      "updated_at": "2026-11-14T08:47:11+00:00",
+      "article_ids": [
+        "4c361eb39d95b5465800"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-8c4ceacbe4a486f608ec",
+      "title": "\"Offen\" und für 100 Menschen gedacht: So soll das erste europäische Rückkehrzentrum in Ruanda aussehen",
+      "overview": "Am Montag wird in Wien bekanntgegeben, dass das ostafrikanische Land als Partner auserkoren wurde. Auf ein Pilotprojekt sollen Einrichtungen auch in anderen Ländern folgen",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T08:42:10+00:00",
+      "updated_at": "2026-11-14T08:42:10+00:00",
+      "article_ids": [
+        "d27eac5985fbc7852f7a"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-c1a80dde2adc93787cab",
+      "title": "Microsoft: Probleme bei Privatkunden behoben",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T06:45:43+00:00",
+      "updated_at": "2026-11-14T08:36:33+00:00",
+      "article_ids": [
+        "305b82c71b8bf49f6586",
+        "a2666e6d67c081ef2b84"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 2
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [
+        "behoben",
+        "microsoft",
+        "probleme"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-ea358e454c27839a728d",
+      "title": "Wahl zur Miss Universe: Gewinnerin bekommt Krone mit mehr als 3.000 Diamanten",
+      "overview": "Das neue Schmuckstück ist aus 18-karätigem Weißgold und mit 3.150 Diamanten bestückt. Die Auswahl und Verleihung findet am 24. November in Puerto Rico statt",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T08:35:30+00:00",
+      "updated_at": "2026-11-14T08:35:30+00:00",
+      "article_ids": [
+        "ddb030f0210d4dde64b9"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-738a767144910b45e761",
+      "title": "Mehrere Länder für Änderungen beim Familiennachzug",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T08:28:14+00:00",
+      "updated_at": "2026-11-14T08:28:14+00:00",
+      "article_ids": [
+        "016a55b8db6a0f7e46a5"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-66aa3b36372580237e49",
+      "title": "Warum Putin-Freund Dodik jetzt die Unterstützer in Washington abhandenkommen",
+      "overview": "Der Kreml-Freund versucht weiter, den bosnischen Staat zu unterminieren. Trumps Entourage kann indes trotz massiver Verluste bei den Midterm-Wahlen in den USA auf dem Balkan gute Geschäfte machen",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T08:27:23+00:00",
+      "updated_at": "2026-11-14T08:27:23+00:00",
+      "article_ids": [
+        "202f42f711c187be12dd"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-b94ae8421c5896926458",
+      "title": "„Licht ins Dunkel“: 2,3 Mio. Euro zum Auftakt gespendet",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T08:17:16+00:00",
+      "updated_at": "2026-11-14T08:17:16+00:00",
+      "article_ids": [
+        "139afbfd496f46c44738"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-f79153998ae9e44d64b3",
+      "title": "FIA verbannt Reporter von der Formel 1, weil er Charles Leclerc kritisierte",
+      "overview": "Jonathan McEvoy von der Daily Mail bekommt keinen Zugang zu Formel-1-Rennen mehr. Das Medium boykottiert nun die restlichen drei Saisonrennen",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T08:15:19+00:00",
+      "updated_at": "2026-11-14T08:15:19+00:00",
+      "article_ids": [
+        "c0a27e3bc002cb7c5463"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-b9cd19e0a06f8742dd1e",
+      "title": "Football kit giveaway aims to boost participation",
+      "overview": "Millie Bright helps hand out free kit to young girls to help them keep playing in spite of costs.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T08:13:40+00:00",
+      "updated_at": "2026-11-14T08:13:40+00:00",
+      "article_ids": [
+        "4f4f8067d5a68c7a9f2c"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Business",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-f02c20bb0ffe782e595c",
+      "title": "Nach Fehlerfestival: Sabalenka scheitert bei WTA Finals",
+      "overview": "Die Belarussin wird von der Ukrainerin Elina Switolina nach Hause geschickt. Mirra Andrejewa zeigt sich in Topform",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T08:09:24+00:00",
+      "updated_at": "2026-11-14T08:09:24+00:00",
+      "article_ids": [
+        "568279af38a669565942"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-bd19faec4a1dc86e30fe",
+      "title": "Wohl wegen Stopp von Familiennachzug: Heuer 13 Prozent weniger außerordentliche Schüler",
+      "overview": "Es gab einen Rückgang um 6.300 Kinder und Jugendliche. Insgesamt seien es laut Bildungsminister Wiederkehr (Neos) aber immer noch zu viele Kinder mit schlechten Deutschkenntnissen",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T08:08:41+00:00",
+      "updated_at": "2026-11-14T08:08:41+00:00",
+      "article_ids": [
+        "e60f26bd1056d43b3427"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-8d22be0baaf7c4efacb8",
+      "title": "Die schönsten Urlaubsfotos unserer Userinnen und User der Woche",
+      "overview": "Wohin unsere Userinnen und User verreist sind – KW 46/2026",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T08:00:00+00:00",
+      "updated_at": "2026-11-14T08:00:00+00:00",
+      "article_ids": [
+        "38aeb60fc8f14bbe7c9c"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-fd8cbf07be95ca49fa6c",
+      "title": "Strom und Klimaschäden: Was beim Klimagipfel auf dem Spiel steht",
+      "overview": "Bei der COP31 in Antalya geht es um Elektrifizierung und um Geld für Klimaschäden. Und: Eine Bilanz nach 30 Klimakonferenzen",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T08:00:00+00:00",
+      "updated_at": "2026-11-14T08:00:00+00:00",
+      "article_ids": [
+        "410e2be84e52435999bd"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-1bda041c17865012c1ab",
+      "title": "Iran: Öltanker in Straße von Hormus in Brand geraten",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T06:42:18+00:00",
+      "updated_at": "2026-11-14T07:56:06+00:00",
+      "article_ids": [
+        "62e48842d34f267dc4b1",
+        "2087df41c2f778a4223e"
+      ],
+      "publisher_count": 2,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [
+        "brand",
+        "geraten",
+        "hormus",
+        "straße",
+        "öltanker"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-9c2726b3c9c2b7560d7b",
+      "title": "USA: Drohnenaktivitäten über britischem Stützpunkt",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T06:32:28+00:00",
+      "updated_at": "2026-11-14T07:55:19+00:00",
+      "article_ids": [
+        "d2cd4cf2b467ff1fa637",
+        "80a2a63e5a51878d0fd8"
+      ],
+      "publisher_count": 2,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [
+        "britischem",
+        "stützpunkt",
+        "über"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-092480a401bcd6d8869d",
+      "title": "Kürzere Pension oder mehr einzahlen: IWF-Direktor sieht Österreicher in \"ZiB 2\" vor Entscheidung",
+      "overview": "\"Bei Pensionen wird etwas passieren müssen\", sagt Helmut Ettl, Österreichs neuer Exekutivdirektor beim Währungsfonds, zur Staatsverschuldung",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T07:54:36+00:00",
+      "updated_at": "2026-11-14T07:54:36+00:00",
+      "article_ids": [
+        "a47c56aedc944ae38ba6"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-bb5c1dd7cd75d5316f6e",
+      "title": "The rise of 'housefishing' by estate agents",
+      "overview": "The rise of 'housefishing' by estate agents.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T07:45:50+00:00",
+      "updated_at": "2026-11-14T07:45:50+00:00",
+      "article_ids": [
+        "f1eea67f3e30e0e7bb50"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Business",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-367f7f16e04c48016a8e",
+      "title": "Prognose für das Defizit der Krankenkassen wesentlich besser als noch im August",
+      "overview": "Das prognostizierte Defizit ist gegenüber der Gebarungsvorschau von August von 111,2 auf 12,7 Millionen Euro gesunken. Für die kommenden Jahre sieht es wieder schlechter aus",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T07:44:22+00:00",
+      "updated_at": "2026-11-14T07:44:22+00:00",
+      "article_ids": [
+        "3e5613f87ace02a954e9"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-cfb0815be5af58706387",
+      "title": "What we know about the ground stop and what to do if you're affected",
+      "overview": "US officials say the disruption was caused by old equipment overloading and not a cyber-attack.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T07:42:11+00:00",
+      "updated_at": "2026-11-14T07:42:11+00:00",
+      "article_ids": [
+        "85c12f9c6ef58c1067fa"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-13d0c52988ac5c72e981",
+      "title": "Verspätungen und Chaos auf US-Flughäfen",
+      "overview": "Auch wenn die US-Luftfahrtaufsicht (FAA) ein am Freitag wegen einer Computerpanne verhängtes landesweites Startverbot wieder aufgehoben hat, spüren derzeit noch Zehntausende Passagierinnen und Passagiere die Auswirkungen. Denn auf zahlreichen US-Flughäfen müssen Fluggäste weiterhin mit Verspätungen und Chaos rechnen. Auch Flüge aus und nach Europa waren von dem Flugstopp betroffen.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T07:31:04+00:00",
+      "updated_at": "2026-11-14T07:31:04+00:00",
+      "article_ids": [
+        "6002f3ba1b1e900558a9"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-e2677d77957d68dedd7b",
+      "title": "USA schlagen laut Selenskyj Natobeitritt gegen Gebietsabtritt vor, Kyjiw dagegen",
+      "overview": "Laut Selenskyj sollen die US-Unterhändler die Frage nach einem Natobeitritt der Ukraine im Gegenzug zu Gebietsabtretungen aufgeworfen haben. Die Nato sei \"wieder auf der Tagesordnung\"",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T07:25:41+00:00",
+      "updated_at": "2026-11-14T07:25:41+00:00",
+      "article_ids": [
+        "f5680c0f97158824b9d4"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-14913f0acdd84aa3c458",
+      "title": "FAA ground stop sends NBA, NHL and college teams scrambling ahead of weekend",
+      "overview": "Nationwide flight shutdown disrupts team travel in US Mississippi v Oklahoma football game moved to Sunday Cavaliers face tight turnaround after Miami travel delay The Federal Aviation Administration’s decision to ground all flights nationwide for several hours on Friday threw the US sports world into disarray, leaving NBA, NHL and college teams scrambling to reach their destinations in time for a packed weekend of games. Transportation officials cited “extraordinary circumstances” caused by communications issues at regional air traffic control centers for the stoppage. Some teams were left se",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T07:21:27+00:00",
+      "updated_at": "2026-11-14T07:21:27+00:00",
+      "article_ids": [
+        "eb8c50bd752518ed4ec2"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-9540b0c2788b9c2d232d",
+      "title": "What do Christmas market traders say about rising prices?",
+      "overview": "From £8 bratwursts to £11 Yorkshire pudding wraps, why is the cost of the markets rising year on year?",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T07:11:26+00:00",
+      "updated_at": "2026-11-14T07:11:26+00:00",
+      "article_ids": [
+        "6003a8d6de53b9565fe7"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Business",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-1a62aa6b2b43317c02e1",
+      "title": "Weißes Haus: Treffen mit Xi und Putin nächste Woche",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T06:25:35+00:00",
+      "updated_at": "2026-11-14T07:08:17+00:00",
+      "article_ids": [
+        "3d713789e70e0a806317",
+        "f368fa97ef6536bc0fe6"
+      ],
+      "publisher_count": 2,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [
+        "haus",
+        "putin",
+        "weißes"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-bac0261459a1e0bfdbd4",
+      "title": "Zahl der außerordentlichen Schüler gesunken",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T07:07:46+00:00",
+      "updated_at": "2026-11-14T07:07:46+00:00",
+      "article_ids": [
+        "fe5ef76540def96a51b6"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-bf3aa94156afad44cda1",
+      "title": "\"Wovor wir nicht sicher sind\": Mirjam Rohers \"Wortlaut\"-Siegertext 2026",
+      "overview": "Mit der Coming-of-Age-Geschichte hat Mirjam Roher den FM4-Kurzgeschichtenwettbewerb \"Wortlaut 2026\" gewonnen. Ein Vorabdruck",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T07:00:00+00:00",
+      "updated_at": "2026-11-14T07:00:00+00:00",
+      "article_ids": [
+        "1f385bb9a4af345efd2f"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-65ca63f87d92e24e8f31",
+      "title": "Europe has been living beyond its means. Now the bills are due",
+      "overview": "It accounts for half the world’s social spending, but its fractured politics make cuts difficult",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T07:00:00+00:00",
+      "updated_at": "2026-11-14T07:00:00+00:00",
+      "article_ids": [
+        "50770416370f737c46f5"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-2aa17ad521e34facd396",
+      "title": "Hallo, was lesen Sie, Davide Franchetto?",
+      "overview": "Davide Franchetto, 38, führt in Turin die Buchhandlung Pantaleón (Via Giuseppe Grassi 14)",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T07:00:00+00:00",
+      "updated_at": "2026-11-14T07:00:00+00:00",
+      "article_ids": [
+        "9fb17140366090475bef"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-8bd0c4f1972304a9383c",
+      "title": "Villach voller Verlage: Die Kärntner Spieletage",
+      "overview": "Auch heuer wieder fand der Brettspielkolumnist Ihres Vertrauens den Weg nach Villach zu den Kärntner Spieletagen, die von 13. bis 15. November stattfinden. Eine kleine Verlagsschau",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T07:00:00+00:00",
+      "updated_at": "2026-11-14T07:00:00+00:00",
+      "article_ids": [
+        "cbe430ac91e6acad8108"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-b51c9133398970e1cc8a",
+      "title": "Ein Buch vom Iron Maiden Drummer, jede Menge Schuhe...",
+      "overview": "... und weitere Tipps zur Freizeitgestaltung",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T07:00:00+00:00",
+      "updated_at": "2026-11-14T07:00:00+00:00",
+      "article_ids": [
+        "ee3d40828e0ca613caaf"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-ed3d0f2fad027000aacb",
+      "title": "Fehlschlag bei Starship-Testflug: \"Booster\" stürzte kontrolliert ins Meer und explodierte",
+      "overview": "Eigentlich hätten die wichtigsten Teile der Riesen-Rakete wieder aufgefangen werden sollen. Die untere Raketenstufe kehrte zwar zurück, aber stürzte ins Meer",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T06:56:36+00:00",
+      "updated_at": "2026-11-14T06:56:36+00:00",
+      "article_ids": [
+        "fe94db248026a72cfbb4"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-292c18ac9abae3b38446",
+      "title": "Weltweiter Ausfall beeinträchtigt Microsoft-Dienste",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T05:06:02+00:00",
+      "updated_at": "2026-11-14T06:41:35+00:00",
+      "article_ids": [
+        "b071639b6b5cffbd06c5",
+        "2a4cdcb500eeee9b6993"
+      ],
+      "publisher_count": 2,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [
+        "ausfall",
+        "dienste",
+        "microsoft"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-f1624d4f47d4da7379ee",
+      "title": "Food bank sees donations drop by 10% each year",
+      "overview": "Staff fear the government stockpiling advice will have an impact on donations as Christmas looms.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T06:33:06+00:00",
+      "updated_at": "2026-11-14T06:33:06+00:00",
+      "article_ids": [
+        "9eca44080c7dedb3bfcd"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Business",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-9adf7dcb625247654279",
+      "title": "Bataclan-Anschlag: Halbe Million Euro Spenden für Pariser Zeugin",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T06:29:02+00:00",
+      "updated_at": "2026-11-14T06:29:02+00:00",
+      "article_ids": [
+        "d5eace5cf0aa6646bc5c"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-f16685b1969325f966b3",
+      "title": "Schiffsunfall in New Orleans: Alle Passagiere geborgen",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T06:21:05+00:00",
+      "updated_at": "2026-11-14T06:21:05+00:00",
+      "article_ids": [
+        "dc0dc0f0c84b47f45de6"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-ff33549c79e962d03b22",
+      "title": "Österreichs „enormer Vorteil“",
+      "overview": "Dieser Tage wird bei der Klimakonferenz (COP31) im türkischen Antalya über das neue weltweite Elektrifizierungsziel beraten: Bis 2035 soll der Anteil an Strom beim Energieverbrauch auf 35 Prozent erhöht werden. Eine Zahl, von der Österreich zwar noch weit entfernt ist, zugleich aber einen „enormen Vorteil“ hat, wie die Forscherin Sonja Wogrin gegenüber ORF.at sagt.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T06:18:07+00:00",
+      "updated_at": "2026-11-14T06:18:07+00:00",
+      "article_ids": [
+        "a1cdb107411b2a958287"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-fb66fa19e871191563ae",
+      "title": "Democrat flips Alaska governor's mansion after Trump-backed GOP infighting",
+      "overview": "Democrat Jonathan Kreiss-Tomkins has won Alaska's gubernatorial election, defeating Trump-endorsed Republican Bernadette Wilson and flipping the governor's mansion. The Associated Press called the race for Kreiss-Tomkins, a former state lawmaker, Friday evening local time. He is the first Democratic governor in Alaska since 1998. Alaska's gubernatorial election became an unusual contest as Republicans battled among themselves over who should succeed Gov. Mike Dunleavy, who was barred from seeking a third consecutive term. A BLUE WAVE IN GOVERNORS' MANSIONS COULD HURT FAMILIES MORE THAN A BLUE ",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T06:09:34+00:00",
+      "updated_at": "2026-11-14T06:09:34+00:00",
+      "article_ids": [
+        "1dd4dfe491e9b6010dda"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-fe1b96fdf9a2e2fa39f9",
+      "title": "Mascherl-Gate, Marterbauer und Reiterer im \"Blattsalat\"",
+      "overview": "Über Claudia Reiterers traurigen ORF-Abschied und Marterbauer als \"Mann mit Eigenschaften\"",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T06:00:00+00:00",
+      "updated_at": "2026-11-14T06:00:00+00:00",
+      "article_ids": [
+        "1453395481589eddb60a"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-1fabae3654a55f5976b5",
+      "title": "Südtirol (4/4): Will Österreich den Süden zurück?",
+      "overview": "In der letzten Folge der Inside-Austria-Reihe über Südtirol nehmen wir die Beziehung der Österreicher - speziell auch der Politik - in den Fokus.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T06:00:00+00:00",
+      "updated_at": "2026-11-14T06:00:00+00:00",
+      "article_ids": [
+        "38ebb1b591eb014413bc"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-ef80ca1c6a9a3f31c777",
+      "title": "Trump, Putin and Xi plan historic joint meeting in China next week, White House says",
+      "overview": "Trump will discuss the \"reduction of nuclear weapons\" during the unprecedented talks, a spokeswoman says.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T05:52:31+00:00",
+      "updated_at": "2026-11-14T05:52:31+00:00",
+      "article_ids": [
+        "709e87fa0a1543026d6c"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-ce09077b41a2d24f8326",
+      "title": "\"Heartland\", \"Avedon\", \"Being Heumann\": Streaming- und TV-Tipps für Samstag",
+      "overview": "Außerdem die Serie \"Best Medicine\", der Kriegsfilm \"1917\", die Stieg-Larsson-Adaption \"Verblendung\" und eine Doku über dunkle Kometen",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T05:00:00+00:00",
+      "updated_at": "2026-11-14T05:00:00+00:00",
+      "article_ids": [
+        "1ae68a23da95f9a177ba"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-d9feb92fe6e3bfaf54b1",
+      "title": "Dara im Hotel Anantara: Träumen von Tom Yum",
+      "overview": "Das Team eines Thai-Luxushotels kocht gerade in Wien – auf eine Art, die Streetfood ziemlich atemberaubend mit Luxus zu verbinden versteht",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T05:00:00+00:00",
+      "updated_at": "2026-11-14T05:00:00+00:00",
+      "article_ids": [
+        "3be449ac1e4bbb100264"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-cf5b475e2ec4d750db4c",
+      "title": "Ab 314 Personen ist beim Familiennachzug Schluss: Sprengt die Regierung die Grenzen des Rechtsstaats?",
+      "overview": "Die Koalition hat beim Familiennachzug für Asylberechtigte eine Obergrenze eingeführt. Juristen halten das für rechtswidrig. Auch die Berechnung der Zahl wirft Fragen auf",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T05:00:00+00:00",
+      "updated_at": "2026-11-14T05:00:00+00:00",
+      "article_ids": [
+        "62fa28fd97bb82432f32"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-6fcc153b65937562faad",
+      "title": "Palantir-CEO Karp ist nun nicht mehr \"anti-woke\", sondern \"progressiv\"",
+      "overview": "Eine Woche nach den Midterms probiert sich der Chef des Unternehmens mit zahlreichen Regierungsverträgen am Imagewandel",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T05:00:00+00:00",
+      "updated_at": "2026-11-14T05:00:00+00:00",
+      "article_ids": [
+        "7287b39543bddb90abdc"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-64a742ac7b8a8c638508",
+      "title": "Mercedes-Teamchef Wolff: \"Wir wollten im Auto ein Monster haben\"",
+      "overview": "Toto Wolff über den WM-Triumph seines Schützlings Kimi Antonelli, die Zweifel während der titellosen Jahre und seine Anfänge als Kerzenverkäufer beim Wiener Lichtermeer",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T05:00:00+00:00",
+      "updated_at": "2026-11-14T05:00:00+00:00",
+      "article_ids": [
+        "af05d6277d4ea3ad4e88"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-4c75b460a2da272e1817",
+      "title": "Bild-Vergleiche: 50 sein war schon mal gemütlicher",
+      "overview": "Mit 50 aussehen wie mit 35: Für weibliche Stars scheint das heute Pflicht. Instagram-Vergleiche sollen den gestiegenen Schönheitsdruck zeigen – und arbeiten sich vor allem an einem größtmöglichen Unterschied ab",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T05:00:00+00:00",
+      "updated_at": "2026-11-14T05:00:00+00:00",
+      "article_ids": [
+        "b6930f22e2be9e182473"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-ebd28fd5316c13a62a9d",
+      "title": "Warum ist die menschliche Körpertemperatur in den letzten 150 Jahren gesunken?",
+      "overview": "Die übliche Normaltemperatur von 37 Grad scheint heute zu hoch angesetzt. Historische und moderne Daten zeigen einen bemerkenswerten Langzeittrend",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T05:00:00+00:00",
+      "updated_at": "2026-11-14T05:00:00+00:00",
+      "article_ids": [
+        "e39424354419ac00f2f7"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-1546ba0bfa157297e8af",
+      "title": "Scientists find blood biomarker that opens door to CTE diagnosis in living patients",
+      "overview": "Condition is prevalent in rugby and American football Scientists are optimistic of significant breakthrough Scientists have moved a step closer to diagnosing the degenerative brain condition chronic traumatic encephalopathy in living people, after a study found a blood biomarker that identifies an advanced form of the disease. As things stand CTE, which is caused by repeated trauma to the head and is especially prevalent in collision and contact sports such as American football, rugby and football, can be diagnosed only after death by examining brain tissue. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T04:00:33+00:00",
+      "updated_at": "2026-11-14T04:00:33+00:00",
+      "article_ids": [
+        "be12918f35c5f0bdde65"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-a5b1c6f65e8be3415d5c",
+      "title": "'We'll get home one day' - US travellers impacted by nationwide ground stop",
+      "overview": "Passengers throughout the country were impacted over what the Federal Aviation Administration (FAA) describes as “safety and communication issues”.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T01:47:36+00:00",
+      "updated_at": "2026-11-14T01:47:36+00:00",
+      "article_ids": [
+        "d3e34544bde6edcdf0f0"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
     {
       "id": "story-6b7f4677b90126411f9e",
       "title": "FAA lifts nationwide groundstop affecting more than 11,000 flights",
@@ -21805,6 +25157,42 @@
       "ai": null
     },
     {
+      "id": "story-56d493bb6e71eadbb5fb",
+      "title": "Eurovision is finally coming to Asia - meet the stars gearing up to take the stage",
+      "overview": "On Saturday, the biggest and longest-running international song contest will make a leap into unknown territory.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T19:01:36+00:00",
+      "updated_at": "2026-11-13T19:01:36+00:00",
+      "article_ids": [
+        "4a5d1718167946eb9259"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
       "id": "story-0fc947b3adfddecb2fa2",
       "title": "Nach 5.000 Waldbränden: Brasilien ruft Umweltnotstand aus",
       "overview": "Bereits jetzt wurden so viele Brände wie im gesamten November des Vorjahres registriert. Der Notstand gilt zunächst für 120 Tage",
@@ -22228,6 +25616,42 @@
         "AT"
       ],
       "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-90367b81291464eda881",
+      "title": "Estonia bans Russian athletes as backlash intensifies",
+      "overview": "Estonia is the latest country to say it will not allow Russian or Belarusian athletes to compete on its territory as a result of the ongoing war in Ukraine.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T17:54:33+00:00",
+      "updated_at": "2026-11-13T17:54:33+00:00",
+      "article_ids": [
+        "7f63f80b7de06f2ccb87"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
       "common_terms": [],
       "limitations": [
         "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
@@ -26698,6 +30122,42 @@
       "ai": null
     },
     {
+      "id": "story-dfca9e437ecb6cb38dbd",
+      "title": "Seid ihr in eurem Arbeitsalltag von der Microsoft-Störung betroffen?",
+      "overview": "Mein Forum: Diskutieren Sie dieses Thema mit der STANDARD-Community",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T10:36:43+00:00",
+      "updated_at": "2026-11-13T10:36:43+00:00",
+      "article_ids": [
+        "1d75ead6f31f12ceb359"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
       "id": "story-d25cc0a05b120d524231",
       "title": "Kopfverletzungen und Brüche: SOS Balkanroute berichtet von brutalen Pushbacks an Kroatiens Grenze",
       "overview": "Fünf Menschen mussten mit Bein- und Armbrüchen und Kopfverletzungen von der Rettung abgeholt werden. Neun weitere Personen wurden verletzt. Es sei \"einer der brutalsten Fälle von Grenzgewalt\"",
@@ -28791,42 +32251,6 @@
       "updated_at": "2026-11-13T05:14:15+00:00",
       "article_ids": [
         "4ce038453e2b42b81e13"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-292c18ac9abae3b38446",
-      "title": "Weltweiter Ausfall beeinträchtigt Microsoft-Dienste",
-      "overview": "",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-13T05:06:02+00:00",
-      "updated_at": "2026-11-13T05:06:02+00:00",
-      "article_ids": [
-        "b071639b6b5cffbd06c5"
       ],
       "publisher_count": 1,
       "article_counts": {
@@ -59553,78 +62977,6 @@
       ],
       "exposures": [],
       "ai": null
-    },
-    {
-      "id": "story-09b734218a50499e09b5",
-      "title": "Südtirol (3/4): Für immer Italien?",
-      "overview": "In dritten Teil unserer Serie schauen wir auf die aktuelle politische Lage in Südtirol. Was steckt hinter dem Erfolg der rechtspopulistischen Kräfte, die zurück zu Österreich wollen?",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-07T06:00:00+00:00",
-      "updated_at": "2026-11-07T06:00:00+00:00",
-      "article_ids": [
-        "55915013a485d0fcfa3a"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-e56014e728928a9a6fb8",
-      "title": "Zur alten Liebe: Funkhaus kocht!",
-      "overview": "Das Foyer des einstigen Funkhauses in der Argentinierstraße beherbergt bis Mai ein Pop-up, das vom formidablen Elias Tichy bekocht wird",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-07T05:00:00+00:00",
-      "updated_at": "2026-11-07T05:00:00+00:00",
-      "article_ids": [
-        "3e5c9bfab17216a1502b"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
     }
   ],
   "instruments": [
@@ -59749,16 +63101,16 @@
   "markets": [],
   "status": {
     "state": "ok",
-    "attempted_at": "2026-11-14T02:29:05.519129+00:00",
-    "last_success_at": "2026-11-14T02:29:05.519129+00:00",
+    "attempted_at": "2026-11-14T10:37:43.833257+00:00",
+    "last_success_at": "2026-11-14T10:37:43.833257+00:00",
     "errors": [],
     "source_results": {
-      "bbc-world": "26 entries",
+      "bbc-world": "25 entries",
       "guardian-us": "33 entries",
       "fox-politics": "25 entries",
       "bbc-business": "39 entries",
-      "orf": "23 entries",
-      "standard": "152 entries"
+      "orf": "25 entries",
+      "standard": "149 entries"
     },
     "market_status": "Market price data not configured",
     "ai_status": "AI enrichment not configured"
