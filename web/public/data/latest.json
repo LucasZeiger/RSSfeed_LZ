@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "mode": "live",
-  "generated_at": "2026-11-14T10:37:43.833257+00:00",
+  "generated_at": "2026-11-14T17:12:49.132174+00:00",
   "refresh_minutes": 60,
   "sources": [
     {
@@ -90,6 +90,1454 @@
     }
   ],
   "articles": [
+    {
+      "id": "348e152db4ce9a2d7739",
+      "source_id": "standard",
+      "title": "Österreichs U17 verliert 0:7 gegen Kasachstan und steht vor EM-Quali-Aus",
+      "url": "https://www.derstandard.at/story/3000000349246/oesterreichs-u17-verliert-07-gegen-kasachstan-und-steht-vor-em-quali-aus?ref=rss",
+      "summary": "Die Auswahl von Teamchef Hermann Stadler musste sich beim Mini-Turnier in Georgien dem Team aus Kasachstan deutlich geschlagen geben",
+      "published_at": "2026-11-14T17:09:56+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "9b9daf63ae91a3a99a33",
+      "source_id": "standard",
+      "title": "Raketensystem Freyja soll Europa von US-Patriot-Raketen unabhängig machen",
+      "url": "https://www.derstandard.at/story/3000000348961/raketensystem-freyja-soll-europa-von-us-patriot-raketen-unabhaengig-machen?ref=rss",
+      "summary": "Der ukrainische Raketenhersteller Fire Point und eine Koalition aus neun europäischen Staaten wollen mit der Rakete FP-7.x eine eigene Alternative schaffen. Noch in diesem Jahr soll es erste Ergebnisse geben",
+      "published_at": "2026-11-14T17:00:00+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "b56dd99e93d6ff22a6f0",
+      "source_id": "standard",
+      "title": "Die sechs schönsten Altstädte Europas",
+      "url": "https://www.derstandard.at/story/3000000349079/die-sechs-schoensten-altstaedte-europas?ref=rss",
+      "summary": "Mehr als nur Kulissen sind diese historischen Stadtzentren, die sich vor allem gut zu Fuß erkunden lassen",
+      "published_at": "2026-11-14T17:00:00+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "a1feaccf33b2d42854c8",
+      "source_id": "standard",
+      "title": "Smart Sudoku schwierig 791b",
+      "url": "https://www.derstandard.at/story/3000000346597/smart-sudoku-schwierig-73a?ref=rss",
+      "summary": "",
+      "published_at": "2026-11-14T17:00:00+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "502668c91524d79a5432",
+      "source_id": "standard",
+      "title": "Smart Sudoku mittel 791a",
+      "url": "https://www.derstandard.at/story/3000000346596/smart-sudoku-schwierig-73a?ref=rss",
+      "summary": "",
+      "published_at": "2026-11-14T17:00:00+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "e8b8682ef8a46faa26f9",
+      "source_id": "fox-politics",
+      "title": "Dems seize on midterm rout to demand ICE reform but polls reveal a twist in who prioritized immigration",
+      "url": "https://www.foxnews.com/politics/dems-seize-midterm-rout-demand-ice-reform-polls-reveal-twist-prioritized-immigration",
+      "summary": "Democrats are seizing on their sweeping midterm victories to demand immigration reform, even as polling shows economic concerns far outpaced it as a priority for both Democratic and Hispanic voters. The push follows Democratic gains nationwide, including wins in Texas congressional districts redrawn to favor Republicans and major upsets in the state’s Senate and gubernatorial races. Some winners are casting the results as a mandate to challenge President Donald Trump’s immigration crackdown and putting prospective 2028 Democratic presidential candidates on notice. \"Whoever wants to get our sup",
+      "published_at": "2026-11-14T16:36:20+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "f88ce3df-7b7c-54db-ac58-7c06d78677f4",
+        "fnc",
+        "Fox News",
+        "fox-news/politics/elections/midterm-elections",
+        "fox-news/politics",
+        "fox-news/us/democratic-party",
+        "fox-news/politics/elections/house-of-representatives",
+        "fox-news/elections",
+        "fox-news/politics/elections",
+        "fox-news/politics"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "50a581d9f8cb54520a04",
+      "source_id": "bbc-world",
+      "title": "Italy fines Meta €805m over accessing users' photos",
+      "url": "https://www.bbc.co.uk/news/articles/cwn83gxemk35o?at_campaign=rss&at_medium=RSS",
+      "summary": "The social media giant is accused of not informing about 20 million users it had access to their photos.",
+      "published_at": "2026-11-14T16:29:48+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "87c9bca5078709f481d5",
+      "source_id": "orf",
+      "title": "Europäischer Filmpreis: Sandra Hüller zweimal nominiert",
+      "url": "https://orf.at/stories/3448195/",
+      "summary": "",
+      "published_at": "2026-11-14T16:29:46+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Kultur"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "32d0082dda7d35e01ed4",
+      "source_id": "standard",
+      "title": "Kein Sieger beim Duell Kosovo gegen Israel in Österreich-Gruppe",
+      "url": "https://www.derstandard.at/story/3000000349245/fu223ball-kosovo-und-israel-trennten-sich-in-214sterreich-gruppe-torlos?ref=rss",
+      "summary": "Die Foda-Auswahl hatte Pech mit einem Lattenköpfler und musste die Schlussphase in Unterzahl spielen. Israel bleibt in der Nations League sieglos",
+      "published_at": "2026-11-14T16:19:23+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "641d43db1deb761b6933",
+      "source_id": "standard",
+      "title": "Demokrat Kreiss-Tomkins gewinnt Gouverneurswahl in Alaska",
+      "url": "https://www.derstandard.at/story/3000000349244/demokrat-kreiss-tomkins-gewinnt-gouverneurswahl-in-alaska?ref=rss",
+      "summary": "Es ist der erste Sieg für die Demokraten in Alaska seit rund 30 Jahren. Kreiss-Tomkins wird der jüngste Gouverneur in der Geschichte des Bundesstaats",
+      "published_at": "2026-11-14T16:12:29+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "bee9da384fbac885462a",
+      "source_id": "orf",
+      "title": "Tausende gehen in Antalya auf die Straße",
+      "url": "https://orf.at/stories/3448187/",
+      "summary": "Zur Halbzeit der UNO-Klimakonferenz (COP31) im türkischen Antalya hat am Samstag ein großer Protest zivilgesellschaftlicher Organisationen stattgefunden. Mehr als 10.000 Menschen gingen nach Angaben der Veranstalter für Klimaschutz friedlich auf die Straße. UNO-Klimachef Simon Stiell warnte die Verhandler vor taktischen Spielchen. Demonstriert wurde auch für Menschenrechte und gegen türkische Regierung.",
+      "published_at": "2026-11-14T16:05:52+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Umwelt"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "5878a1e26a0039b84265",
+      "source_id": "fox-politics",
+      "title": "Democrats eye killing Senate filibuster as lawmaker warns move could be a 'double-edged sword'",
+      "url": "https://www.foxnews.com/politics/democrats-eye-killing-senate-filibuster-lawmaker-warns-move-could-double-edged-sword",
+      "summary": "Democratic senators are leaving the door open to eliminating the Senate filibuster as their party prepares to take control of the chamber, with one lawmaker saying the move must be on the table while another warned it could be a \"double-edged sword.\" \"Obviously, the filibuster is something that has to be on the table,\" Sen. Ed Markey, D-Mass., told Fox News Digital when asked about Democrats' plans for the chamber. But Sen. Andy Kim, D-N.J., warned that changing the rules could carry consequences long after Democrats leave power. SCHUMER, JEFFRIES SIDESTEP QUESTIONS ON NUKING FILIBUSTER, LAUNC",
+      "published_at": "2026-11-14T16:00:48+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "9c3dcc4b-8296-515b-8cbf-00e7913a145d",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/politics/senate",
+        "fox-news/us/democratic-party",
+        "fox-news/democrats",
+        "fox-news/person/chuck-schumer",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "085df362180aea28a89d",
+      "source_id": "standard",
+      "title": "Fünf Jahre für ein Schifferl: Die geduldigen Bastler von Floridsdorf",
+      "url": "https://www.derstandard.at/story/3000000343877/modellbau-floridsdorf?ref=rss",
+      "summary": "Im ehemaligen Schuhgeschäft Habitzl bauen Modellbauer historische Schiffe, Panzer und Flugzeuge nach. Es geht um technische Neugier, Fingerspitzengefühl und die Frage, wie man fünf Jahre lang bei einer Sache bleibt",
+      "published_at": "2026-11-14T16:00:00+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "f7b98d395c873b3ffd60",
+      "source_id": "standard",
+      "title": "Was Sie heute Abend streamen können: \"12 12 12\" auf Apple TV",
+      "url": "https://www.derstandard.at/story/3000000348981/was-sie-heute-abend-streamen-koennen-12-12-12-auf-apple-tv?ref=rss",
+      "summary": "Wie gelingt der perfekte Bankraub? Jamie Dornan plant in der Heistserie einen spektakulären Coup",
+      "published_at": "2026-11-14T16:00:00+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "1c3bf8e76eff75c35e9e",
+      "source_id": "orf",
+      "title": "Medien: Demokraten gewinnen Gouverneurswahl in Alaska",
+      "url": "https://orf.at/stories/3448192/",
+      "summary": "",
+      "published_at": "2026-11-14T15:55:28+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "ab9e213b70e94210472c",
+      "source_id": "guardian-us",
+      "title": "Rare nationwide ground stop halts US air traffic – video",
+      "url": "https://www.theguardian.com/world/video/2026/nov/14/rare-nationwide-ground-stop-halts-us-air-traffic-video",
+      "summary": "The US Federal ⁠Aviation Administration (FAA) issued a rare nationwide ground stop on Friday, halting all departures and landings across US airports for just over four hours. The stop marked the longest nationwide shutdown, and only the second nationwide ​ground stop of all departures, since the 9/11 terrorist attacks. The US homeland security secretary, Markwayne Mullin, and the US transportation secretary, Sean Duffy, appeared to suggest that the cause of the outage was older technology becoming overwhelmed with data after new technology was introduced. What to know about the rare nationwide",
+      "published_at": "2026-11-14T15:54:44+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "Guardian Staff",
+      "categories": [
+        "Air transport",
+        "Trump administration",
+        "US news"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "5835a91b7dc868c63b2d",
+      "source_id": "standard",
+      "title": "\"Er ist keine Eintagsfliege\": Bresnik nimmt Zverev in Schutz",
+      "url": "https://www.derstandard.at/story/3000000349198/er-ist-keine-eintagsfliege-bresnik-nimmt-zverev-in-schutz?ref=rss",
+      "summary": "Vor dem Start der ATP Finals hat Tennistrainer Günter Bresnik mehr als Topfavorit Alcaraz im Blick. Mit dem STANDARD schaut er auf das Teilnehmerfeld von Turin",
+      "published_at": "2026-11-14T15:51:21+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "29b003f6088092226acd",
+      "source_id": "bbc-world",
+      "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
+      "url": "https://www.bbc.co.uk/news/articles/cmz6qjpdy2wqo?at_campaign=rss&at_medium=RSS",
+      "summary": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
+      "published_at": "2026-11-14T15:42:54+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "45d519f6761564ba68f4",
+      "source_id": "orf",
+      "title": "Datenschutz: 805 Millionen Euro Strafe für Meta in Italien",
+      "url": "https://orf.at/stories/3448189/",
+      "summary": "",
+      "published_at": "2026-11-14T15:30:47+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "IT"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "0fc7083fb41b1abc3549",
+      "source_id": "guardian-us",
+      "title": "Progressive versus moderate? Democrats deny party rift as they head into new Congress",
+      "url": "https://www.theguardian.com/us-news/2026/nov/14/democrats-moderate-progressive-congress",
+      "summary": "Incoming lawmakers have more in common with each other than they have divisions, even across ideological factions Democrats who won in the midterms, including those in places previously considered off the blue map and those in Democratic strongholds, crafted their campaigns around economic populism and accountability. Lawmakers in the anti-establishment incoming congressional class have more in common with each other than divisions, even across ideological factions. Voters sent a resounding message to work on affordability and rein in the Trump administration, and Democrats across the party ha",
+      "published_at": "2026-11-14T15:28:14+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "Rachel Leingang",
+      "categories": [
+        "Democrats",
+        "House of Representatives",
+        "US Senate",
+        "US Congress",
+        "US politics",
+        "US news"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "565066cc9bdc320ca7fd",
+      "source_id": "fox-politics",
+      "title": "Dems descend on Denver to size up 2028. We asked who wants in the race",
+      "url": "https://www.foxnews.com/politics/dems-descend-denver-size-2028-who-wants-race",
+      "summary": "DENVER — Democrats are already making their case for 2028. Fresh off sweeping midterm victories, party leaders and rising stars descended on Denver for the \"What’s Next\" conference. Several potential presidential contenders tested their 2028 messaging before a crowd of activists, strategists and operatives. The conversations offered an early look at who may be considering a run and who is already stepping aside. Less than 24 hours after announcing a challenge to longtime Senate Democratic leader Sen. Chuck Schumer, D-N.Y., Sen. Chris Van Hollen, D-Md., told reporters he was \"no longer pursuing",
+      "published_at": "2026-11-14T15:22:21+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "3b60f890-07aa-5bff-bcf7-608df3fc0880",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/person/cory-booker",
+        "fox-news/democrats",
+        "fox-news/democrats",
+        "fox-news/politics/elections",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "0f3193026b79e3d77d74",
+      "source_id": "bbc-world",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "url": "https://www.bbc.co.uk/news/articles/cwvg2l312ylqo?at_campaign=rss&at_medium=RSS",
+      "summary": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+      "published_at": "2026-11-14T15:15:57+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "75be7778de201057a4a3",
+      "source_id": "guardian-us",
+      "title": "How ICE raids in Kansas meatpacking country sparked fury – and turned voters against Trump",
+      "url": "https://www.theguardian.com/us-news/2026/nov/14/kansas-ice-meatpacking-raids-trump-midterms",
+      "summary": "In region where migrants have settled to work at abattoirs and feedyards, harsh raids pushed people to vote Democrat José Del Real looked over the crowd from the stage in a park, at hundreds of his neighbors with furious signs tucked under their arms, voicing their anger at immigration agents who had descended on their town and started rounding up their friends and family. His daughters, in the front row, were crying. Del Real, an army veteran who served two tours in Iraq, hadn’t voted in a decade. He thought it would not matter in this ruby red corner of Kansas. But the midterm election was w",
+      "published_at": "2026-11-14T15:00:47+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "Associated Press",
+      "categories": [
+        "Kansas",
+        "ICE (US Immigration and Customs Enforcement)",
+        "US midterm elections 2026",
+        "US news"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "a0eb1628b1c2dff7537a",
+      "source_id": "guardian-us",
+      "title": "How a US extradition bid over Hamas allegations put a wealthy activist before a Spanish court",
+      "url": "https://www.theguardian.com/us-news/2026/nov/14/activist-extradition-gaza-hamas-spanish-court",
+      "summary": "James ‘Fergie’ Chambers, a Cox Enterprises heir, faced a two-hour hearing about alleged support for Hamas A two-hour hearing in Spain’s high court Friday on the US extradition request of wealthy leftwing activist and philanthropist James “Fergie” Chambers turned out to be a study in contrasts. Chambers’s defense took most of the session to query the US citizen and detail irregularities in the Trump administration’s extradition request – several of which the Guardian has reported on – as well as the figures of Spanish law that would lead the three-judge panel to deny the request; while the pros",
+      "published_at": "2026-11-14T15:00:47+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "Timothy Pratt",
+      "categories": [
+        "US news",
+        "Spain",
+        "US justice system",
+        "Israel",
+        "Gaza",
+        "Europe",
+        "US politics"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "cae62379acb29a95a1a8",
+      "source_id": "fox-politics",
+      "title": "Dems' California redistricting mastermind flips script after helping party win 5 GOP seats: 'Kill'",
+      "url": "https://www.foxnews.com/politics/architect-dems-california-redistricting-win-makes-ironic-call-helping-flip-5-gop-seats-kill",
+      "summary": "The architect of California's Democratic-friendly redistricting plan, which helped the party flip five Republican-held House seats in November's midterm elections, is now calling on Democrats to put an end to partisan gerrymandering nationwide. Paul Mitchell claimed in a San Francisco Chronicle op-ed published Wednesday that lawmakers should \"kill partisan gerrymandering for good.\" His comments come after California voters approved Proposition 50 in November 2025, temporarily replacing the state's independently drawn congressional districts with a Democratic-friendly map for elections through ",
+      "published_at": "2026-11-14T15:00:06+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "7ea1916b-25b8-51df-86da-4ef0d569fccc",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/us/congress",
+        "fox-news/democrats",
+        "fox-news/world/united-nations/reform",
+        "fox-news/us/us-regions/west/california",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "d70715cdab35e7842e8c",
+      "source_id": "standard",
+      "title": "Rekord, Rekord, Rekord: \"Dieser Sommer war eine richtige Keule\", sagt Klimatologe",
+      "url": "https://www.derstandard.at/story/3000000349164/rekord-rekord-rekord-dieser-sommer-war-eine-richtige-keule-sagt-klimatologe?ref=rss",
+      "summary": "Bregenz, Graz, Wien: 171 von 280 Stationen der Geosphere Austria verzeichneten neue Hitzetag-Rekorde. Noch mehr überrascht den Klimatologen Alexander Orlik aber etwas anderes",
+      "published_at": "2026-11-14T14:49:24+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "f1785f97cfe014296ca5",
+      "source_id": "guardian-us",
+      "title": "Napping Kansas driver whose truck sped on to soccer field and killed two won’t be charged",
+      "url": "https://www.theguardian.com/us-news/2026/nov/14/kansas-driver-soccer-field-deaths-no-charges",
+      "summary": "Authorities declined to file charges against napping woman whose truck accelerated on to field during youth game A soccer mom napping in her pickup truck when it suddenly accelerated on to the field at a Kansas youth tournament where her child was playing, killing two people, won’t face criminal charges, a prosecutor has said. Investigators believe the 34-year-old woman had failed to put the Chevrolet 1500 in park and likely put her foot on the gas pedal while sleeping at the Stryker Sports Complex in Wichita on 17 October. They conducted multiple interviews and even ran a test in the same par",
+      "published_at": "2026-11-14T14:38:36+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "Associated Press",
+      "categories": [
+        "Kansas",
+        "US policing",
+        "US crime",
+        "US news"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "25c7952d96bc64a165e5",
+      "source_id": "standard",
+      "title": "Von Federkrone bis Muschelpuppen: Was die Rückgabe von Kulturgütern auslöst",
+      "url": "https://www.derstandard.at/story/3000000338766/von-federkrone-bis-muschelpuppen-was-die-rueckgabe-von-kulturguetern-ausloest?ref=rss",
+      "summary": "Museen bergen viele Schätze, deren Geschichte und Aufbewahrungsort umstritten bleibt. Der sensible Umgang mit diesen Objekten und etwaigen Rückgabeforderungen ist ein heikler Grat",
+      "published_at": "2026-11-14T14:35:54+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "8d7859a8ba6a164a800e",
+      "source_id": "orf",
+      "title": "Weiter etliche Ausfälle in US-Luftverkehr",
+      "url": "https://orf.at/stories/3448178/",
+      "summary": "Nach einem landesweiten, rund vier Stunden andauernden Startverbot für alle Flüge kommt die Wiederaufnahme des Normalbetriebs im US-Luftverkehr am Samstag nur schleppend voran. US-Medien berichten von chaotischen Zuständen auf den Flughäfen des Landes und nach wie vor umfangreichen Ausfällen bei nationalen wie auch internationalen US-Flügen.",
+      "published_at": "2026-11-14T14:32:21+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Chronik"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "a4916bce5a34427fa761",
+      "source_id": "standard",
+      "title": "Nach Unwettern in Gaza: EU fordert von Israel Sofortzugang für Helfer",
+      "url": "https://www.derstandard.at/story/3000000349240/nach-unwettern-in-gaza-eu-fordert-von-israel-sofortzugang-f252r-helfer?ref=rss",
+      "summary": "Zehntausende Zelte wurden bereits überschwemmt. Israel muss die Arbeit von Helfern \"erleichtern und all seinen Verpflichtungen gemäß dem Völkerrecht\" nachkommen, fordert EU-Außenbeauftragte Kallas",
+      "published_at": "2026-11-14T14:26:41+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "052dfa2f261ecffb8e86",
+      "source_id": "standard",
+      "title": "Keine Steuern, keine Limits: Noch ist Wien ein Paradies für Pokerprofis",
+      "url": "https://www.derstandard.at/story/3000000347057/keine-steuern-keine-limits-noch-ist-wien-ein-paradies-fuer-pokerprofis?ref=rss",
+      "summary": "Hunderte Onlinepoker-Spieler leben in Wien. Ein neues Gesetz könnte die Blase zum Platzen bringen. Ein Profi erzählt, wie er arbeitet – und warum mehr Regulierung auch gut ist",
+      "published_at": "2026-11-14T14:23:12+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "c19baf4abd432d90531b",
+      "source_id": "guardian-us",
+      "title": "Bomb found at Illinois ethanol plant, prompting evacuations",
+      "url": "https://www.theguardian.com/us-news/2026/nov/14/peoria-illinois-evacuation-bomb",
+      "summary": "Peoria officials said a bomb was found at BioUrja Renewables and later defused; FBI said it is investigating Residents were ordered to evacuate parts of an Illinois community on Friday after the mayor there said authorities found a bomb at a local ethanol- and alcohol-production plant. The discovery reported at BioUrja Renewables in Peoria triggered a mandatory evacuation over a one-mile evacuation zone encompassing sections of that city as well as the adjacent municipality of East Peoria. Continue reading...",
+      "published_at": "2026-11-14T14:13:49+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "Ramon Antonio Vargas",
+      "categories": [
+        "Illinois",
+        "FBI",
+        "US crime",
+        "US news"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "63840ae4210e71b3c510",
+      "source_id": "standard",
+      "title": "AfD nominiert Ex-Profi-Fußballer Thomas Berthold als Bundespräsident",
+      "url": "https://www.derstandard.at/story/3000000349239/afd-nominiert-ex-profi-fussballer-thomas-berthold-als-bundespraesident?ref=rss",
+      "summary": "Als \"Weltmeister ohne Parteibuch\" sei der 62-Jährige \"als Bundespräsident für alle Deutschen\" bestens geeignet",
+      "published_at": "2026-11-14T14:10:43+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "731faf0b60d89d96978a",
+      "source_id": "guardian-us",
+      "title": "Mauricio Pochettino asked the US to believe in his project. Did he believe in it himself?",
+      "url": "https://www.theguardian.com/football/2026/nov/14/mauricio-pochettino-usmnt-legacy-belief",
+      "summary": "The coach’s tenure with the USMNT brought a whiplash of highs and lows. He met some goals but also left many with the impression he never truly bought in It did not take US men’s national team coach Mauricio Pochettino very long to take his first big swing. He’d just taken the reins of the program after a disastrous performance at the 2024 Copa América cost his predecessor his job, with the first home World Cup in three decades looming on the horizon. The federation introduced him in New York City, on the 24th floor of a building overlooking the Hudson River. In short order, he was asked about",
+      "published_at": "2026-11-14T14:06:37+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "Pablo Iglesias Maurer",
+      "categories": [
+        "USA",
+        "Mauricio Pochettino",
+        "US sports",
+        "Sport",
+        "Football"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "b93de50603d031a672ff",
+      "source_id": "fox-politics",
+      "title": "Anti-Trump Republican courts other defectors as House weighs another vote against Iran war",
+      "url": "https://www.foxnews.com/politics/anti-trump-republican-courts-other-defectors-house-weighs-another-vote-against-iran-war",
+      "summary": "EXCLUSIVE: House Republicans and Democrats are preparing another effort to challenge President Donald Trump's military operations in Iran, with lawmakers signaling that additional Republicans could break with the president and support a War Powers resolution. Rep. Thomas Massie, R-Ky., told Fox News Digital that another Iran War Powers resolution could come to the House floor \"in the next few legislative days\" or around Christmas. This would mark the fourth attempt this year to restrict Trump's military actions against Iran. \"I'm offering Republicans a life boat from MAGA,\" Massie told Fox New",
+      "published_at": "2026-11-14T14:00:51+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "2be1d6d1-4a4e-51da-ba37-4b580332b410",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/us/congress",
+        "fox-news/politics/defense/wars/war-with-iran",
+        "fox-news/politics/executive/national-security",
+        "fox-news/politics/elections/republicans",
+        "fox-news/politics/foreign-policy",
+        "fox-news/politics"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "31071783830eea57ff6a",
+      "source_id": "guardian-us",
+      "title": "Indigenous students retrace Lewis and Clark’s historic journey: ‘We can’t protect what we cannot see’",
+      "url": "https://www.theguardian.com/us-news/2026/nov/14/lewis-clark-indigenous-students",
+      "summary": "Two centuries after the expedition, Indigenous students are conducting a new wildlife survey along the route In 1804, when Thomas Jefferson dispatched Meriwether Lewis and William Clark and their Corps of Discovery to explore the newly acquired land west of the Mississippi, the president’s primary aim was political: Americans needed to establish presence, power and trade routes in these territories before the Europeans beat them to it. But Jefferson, an ardent naturalist, had a secondary agenda. He ordered that the expedition also survey the flora and fauna of these landscapes. On their two-ye",
+      "published_at": "2026-11-14T14:00:46+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "Ashley Stimpson",
+      "categories": [
+        "US news",
+        "Environment",
+        "Native Americans",
+        "Museums",
+        "Museums",
+        "Indigenous peoples",
+        "Culture",
+        "Environmental activism",
+        "South Dakota",
+        "North Dakota"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "4926ace6787559ee7cb7",
+      "source_id": "orf",
+      "title": "Braun hält sich hartnäckig",
+      "url": "https://orf.at/stories/3447683/",
+      "summary": "Ob Schokolade, Tabak oder Trüffel – Braun in all seinen Nuancen und schrulligen Umschreibungen ist auch in diesem Herbst tonangebend. Die Farbe, die Laufstege ebenso wie Social-Media-Feeds dominiert, vermag in ihrer Allgegenwärtigkeit mittlerweile sogar mit Schwarz zu konkurrieren. Bei der Verleihung der Latin Grammy Awards in Las Vegas waren am Donnerstag gleich mehrere Künstlerinnen und Künstler in dem erdigen Klassiker zu sehen.",
+      "published_at": "2026-11-14T14:00:29+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Lifestyle"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "a9c9a9899327a0c851ee",
+      "source_id": "fox-politics",
+      "title": "Florida Republican on Democrats' strategy: 'That's the choice they have to make...persecution or policy'",
+      "url": "https://www.foxnews.com/politics/florida-republican-democrats-strategy-thats-choice-have-make-persecution-policy",
+      "summary": "Florida's Rep. Randy Fine has a blunt prescription for a House Republican conference staring down a steep Democratic majority in January: stop worrying about compromise, hand the minority gavel to Rep. Jim Jordan, and start fighting, suggesting that Democrats will likely pursue political persecution as the main focus in the next Congress. In a wide-ranging interview with Fox News Digital, Fine—who expanded his own victory margin to 19 points even as Republicans lost control of the chamber—argued that voters punished the GOP not for its policies, but because they didn't see lawmakers willing to",
+      "published_at": "2026-11-14T14:00:09+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "5fbd0d78-38ca-5701-bbe5-d0d9cf2740db",
+        "fnc",
+        "Fox News",
+        "fox-news/politics/house-of-representatives",
+        "fox-news/politics/elections/house-of-representatives",
+        "fox-news/person/mike-johnson",
+        "fox-news/politics/elections/midterm-elections",
+        "fox-news/us/us-regions/southeast/florida",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "6fc698adf6254a97aa11",
+      "source_id": "standard",
+      "title": "Zerrissen, rau und voller Hoffnung: Jo Angerers Buch \"Kaukasus zwischen Macht und Ohnmacht\"",
+      "url": "https://www.derstandard.at/story/3000000348558/zerrissen-rau-und-voller-hoffnung-jo-angerers-buch-kaukasus-zwischen-macht-und-ohnmacht?ref=rss",
+      "summary": "Der Kaukasus ist laut dem Russland-Experten auch ein Brennpunkt politischer und sozialer Konflikte. Hier ein Vorabdruck aus dem ersten Kapitel",
+      "published_at": "2026-11-14T14:00:00+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "738f35e9ce4288c9c841",
+      "source_id": "orf",
+      "title": "Unwetter in Gaza: EU fordert von Israel Zugang für Helfer",
+      "url": "https://orf.at/stories/3448181/",
+      "summary": "",
+      "published_at": "2026-11-14T13:51:43+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "747fba0cdae3a213b721",
+      "source_id": "standard",
+      "title": "Medienwissenschafter Strick: \"Im Netz üben wir Faschismus ein\"",
+      "url": "https://www.derstandard.at/story/3000000348420/mim-netz-ueben-wir-faschismus-ein-simon-strick-ueber-die-demokratie-und-die-fluchtlinien-des-digitalen?ref=rss",
+      "summary": "Der Medien- und Kulturwissenschafter Simon Strick im Gespräch über sein neues Buch, Faschismus, demokratische Räume und die Fluchtlinien des Digitalen",
+      "published_at": "2026-11-14T13:50:38+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "233ab4f5c0fdf045ccaa",
+      "source_id": "standard",
+      "title": "Rot-rot-grüne Landesregierung in Mecklenburg-Vorpommern fixiert",
+      "url": "https://www.derstandard.at/story/3000000349238/rot-rot-gruene-landesregierung-in-mecklenburg-vorpommern-fixiert?ref=rss",
+      "summary": "Nach den Linken haben am Samstag auch die Grünen und die SPD dem Koalitionsvertrag zugestimmt",
+      "published_at": "2026-11-14T13:43:28+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "ed73f297d80ed5f6672c",
+      "source_id": "standard",
+      "title": "Lawinenabgang am Stubaier Gletscher fordert ein Todesopfer",
+      "url": "https://www.derstandard.at/story/3000000349237/lawinenabgang-am-stubaier-gletscher-fordert-ein-todesopfer?ref=rss",
+      "summary": "Am Stubaier Gletscher ist es Samstagmittag zu einem Lawinenabgang gekommen. Der Wintersportler wurde von den Schneemassen mitgerissen und in eine Randspalte gedrückt",
+      "published_at": "2026-11-14T13:28:16+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "8204af58503d87adead6",
+      "source_id": "standard",
+      "title": "Jensen Huang is out. His successor has the toughest job in tech",
+      "url": "https://www.derstandard.at/story/3000000349118/jensen-huang-is-out-his-successor-has-the-toughest-job-in-tech?ref=rss",
+      "summary": "A company built around one man must now learn to run without him",
+      "published_at": "2026-11-14T13:17:39+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "2dab1d8797a5e4fc8b7a",
+      "source_id": "standard",
+      "title": "Österreichischer Professor mit kruden Thesen rund um Holocaust: STANDARD-Recherchen schlagen in Norwegen hohe Wellen",
+      "url": "https://www.derstandard.at/story/3000000349209/oesterreichischer-professor-mit-kruden-thesen-rund-um-holocaust-standard-recherchen-schlagen-in-norwegen-hohe-wellen?ref=rss",
+      "summary": "Die Studienprogrammleitung der Uni Bergen wendet sich scharf gegen den Historiker. Entrüstung aus norwegischem Außenministerium und israelischer Botschaft. Rektorin verweist auf Meinungsfreiheit",
+      "published_at": "2026-11-14T13:13:26+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "8f3a66eaec90ff72ac88",
+      "source_id": "guardian-us",
+      "title": "Trump ‘whiplash’ on deportations putting Afghans in turmoil: ‘People already survived a war’",
+      "url": "https://www.theguardian.com/us-news/2026/nov/14/afghan-deportations-trump-administration",
+      "summary": "Members of Congress and advocates warn that returning people to their home countries could be a death sentence Dozens of Afghans who are currently in the US but fear being deported back to Afghanistan along with a larger group and possibly killed by the Taliban are experiencing “fragile relief” this weekend after it appeared that the Trump administration had put on hold plans to remove them within days. Members of Congress and advocates have repeatedly warned that the deportations could effectively be a death sentence. Continue reading...",
+      "published_at": "2026-11-14T13:00:47+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "Sanya Mansoor in New York",
+      "categories": [
+        "US immigration",
+        "Afghanistan",
+        "US domestic policy",
+        "US foreign policy",
+        "US news",
+        "US politics"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "7ec4d2c8eefb2df0d4c9",
+      "source_id": "guardian-us",
+      "title": "Corporate Democrats are weaponizing identity politics to smear progressives | Arwa Mahdawi",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/14/corporate-democrats-identity-politics-progressives",
+      "summary": "House members have responded to legitimate criticism with cynicism. Let’s not have another ‘Bernie bros’ moment Before we get started, some ground rules. You are, of course, completely free to disagree with everything I have to say here. However, doing so might mean that you’re racist, homophobic and/or sexist. (Not to boast, but I have a lot of oppression cards to play.) So, you might want to tread carefully, OK? That might sound ridiculous, but I don’t make the rules: I’m just taking a page from the corporate Democrat playbook. From Haley Stevens to Hakeem Jeffries, cynically weaponizing ide",
+      "published_at": "2026-11-14T13:00:46+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "Arwa Mahdawi",
+      "categories": [
+        "US Congress",
+        "US midterm elections 2026",
+        "Hakeem Jeffries",
+        "US news",
+        "US politics",
+        "Super Pacs",
+        "House of Representatives",
+        "Hungary",
+        "Taliban",
+        "Saudi Arabia"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "91e163ed2bc408bfa2a0",
+      "source_id": "guardian-us",
+      "title": "Underwater salt mine closure in Ohio raises safety and supply concerns for winter",
+      "url": "https://www.theguardian.com/us-news/2026/nov/14/salt-mine-ohio-flooding-safety-winter",
+      "summary": "Questions remain about reason for leak, safety of drinking water and where salt can be sourced for roads during winter When water last month began gushing through a crack in the ceiling of a Morton Salt mine in Ohio, the company had only one option: shut the mine down for good. For locals in and around Fairport Harbor, it means the loss of 77 jobs; but for the wider region, which depends on its salt reserves to keep roads ice- and snow-free every winter, it could mean travel chaos. Continue reading...",
+      "published_at": "2026-11-14T13:00:45+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "Stephen Starr",
+      "categories": [
+        "Ohio",
+        "Mining",
+        "Water",
+        "Mining",
+        "Environment",
+        "US news"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "26dbf7936b7aeebe06b7",
+      "source_id": "fox-politics",
+      "title": "GOP midterm bloodbath exposes cracks in Vance's 2028 White House ambitions",
+      "url": "https://www.foxnews.com/politics/gop-midterm-bloodbath-exposes-cracks-vances-2028-white-house-ambitions",
+      "summary": "Vice President JD Vance has long been viewed as President Donald Trump's heir apparent, but a string of developments following Republicans' bruising midterm losses is raising new questions about his potential path to the White House in 2028. Vance is facing criticism from some Republicans over his explanation for the party's election defeats, particularly his decision to blame the Iran war. Meanwhile, other prominent Republicans are beginning to draw support for potential 2028 bids, complicating the political picture for the vice president. The political debate follows a devastating election f",
+      "published_at": "2026-11-14T13:00:38+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "87c2a22b-cf5a-55be-932e-34c72242af36",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/person/jd-vance",
+        "fox-news/politics/defense/wars/war-with-iran",
+        "fox-news/politics/executive/white-house",
+        "fox-news/politics/elections",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "cf4044197ab24f9ac1f5",
+      "source_id": "standard",
+      "title": "Meinl-Reisinger verteidigt Sozialhilfereform und sieht in FPÖ zugleich \"guten Brandmelder\" und \"Brandbeschleuniger\"",
+      "url": "https://www.derstandard.at/story/3000000349236/meinl-reisinger-verteidigt-sozialhilfereform?ref=rss",
+      "summary": "Die Wiener Neos halten am Samstag ihre Landesmitgliederversammlung ab. Meinl-Reisinger fordert dort unter anderem die Abschaffung der nicht-amtsführenden Stadträte",
+      "published_at": "2026-11-14T13:00:32+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "daaec7b6418ba6b446df",
+      "source_id": "standard",
+      "title": "Amal: \"Dann durfte ich kein Kind mehr sein\"",
+      "url": "https://www.derstandard.at/story/3000000347445/amal-dann-durfte-ich-kein-kind-mehr-sein?ref=rss",
+      "summary": "Amal ist gläubige Muslimin und vor familiärer Gewalt im Namen der Ehre nach Österreich geflüchtet. Als Kind musste sie sich verhüllen und wollte so frei wie ein Bub sein. Heute wünscht sie sich ein Kopftuchverbot bis 18",
+      "published_at": "2026-11-14T12:54:58+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "e286272b8e6ab426ab5f",
+      "source_id": "orf",
+      "title": "Wahl im Südsudan erneut verschoben",
+      "url": "https://orf.at/stories/3448179/",
+      "summary": "",
+      "published_at": "2026-11-14T12:54:31+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "0aa78107d35054f8a8c6",
+      "source_id": "standard",
+      "title": "Große Anteilnahme an Trauerfeier für bayerischen Politiker Hubert Aiwanger",
+      "url": "https://www.derstandard.at/story/3000000349235/gro223e-anteilnahme-an-trauerfeier-f252r-hubert-aiwanger-in-m252nchen?ref=rss",
+      "summary": "Der 55-jährige Vize-Ministerpräsident von Bayern war am Mittwoch vergangener Woche tot in seinem Hotelzimmer in Berlin entdeckt worden",
+      "published_at": "2026-11-14T12:42:04+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "90b6e66426bf424ade88",
+      "source_id": "orf",
+      "title": "Mecklenburg-Vorpommern: Weg frei für Rot-Rot-Grün",
+      "url": "https://orf.at/stories/3448177/",
+      "summary": "",
+      "published_at": "2026-11-14T12:31:31+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "26b0acd8d44d41333da9",
+      "source_id": "standard",
+      "title": "Brennendes Fett mit Wasser gelöscht: 24-Jährige schwer verletzt",
+      "url": "https://www.derstandard.at/story/3000000349234/24-j228hrige-bei-fettbrand-in-wiener-neustadt-schwer-verletzt?ref=rss",
+      "summary": "Brennendes Fett darf niemals mit Wasser gelöscht werden. Die 24-Jährige wurde vorsorglich in künstlichen Tiefschlaf versetzt und mit dem Hubschrauber abtransportiert",
+      "published_at": "2026-11-14T12:30:58+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "64e96bd5762e7658923c",
+      "source_id": "fox-politics",
+      "title": "One industry surged DC lobbying 337% under Trump — here’s what’s driving the push",
+      "url": "https://www.foxnews.com/politics/industry-drove-dc-lobbying-337-percent-trump-whats-driving-push",
+      "summary": "FIRST ON FOX: President Donald Trump has made tariffs a centerpiece of his trade agenda, and businesses are spending more on D.C. bureaucrats to help navigate those rules. Rachel Greszler, who authored a new report from Advancing American Freedom (AAF), said companies are paying lobbyists to seek exemptions from tariffs instead of using that money to grow their businesses, hire workers or raise wages. A new report from former Vice President Mike Pence's group found that lobbying disclosures mention tariffs rising 239% in the third quarter of 2026 compared with the same period in 2024. The tota",
+      "published_at": "2026-11-14T12:30:39+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "2611c503-dd61-5fca-980c-aeb349a93842",
+        "fnc",
+        "Fox News",
+        "fox-news/politics/executive/economic-policy",
+        "fox-news/politics",
+        "fox-news/politics/regulation/lobbying",
+        "fox-news/world/global-economy/trade",
+        "fox-news/person/donald-trump",
+        "fox-news/business",
+        "fox-news/politics"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "408eebd1860733802f41",
+      "source_id": "standard",
+      "title": "Mutmaßliche Betrüger festgenommen: 76-Jähriger sollte 100.000 Euro in bar übergeben",
+      "url": "https://www.derstandard.at/story/3000000349233/76-j228hriger-wollte-betr252gern-in-wien-100000-euro-geben-festnahmen?ref=rss",
+      "summary": "Die Polizei wartete bei der Übergabe in der Wohnung des Opfers. Zwei Beschuldigte wurden in die Justizanstalt Josefstadt eingeliefert",
+      "published_at": "2026-11-14T12:20:56+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "9d1c7da3af5d7aeba507",
+      "source_id": "guardian-us",
+      "title": "‘Enough is enough’: rising number of deadly ebike battery fires spark fear in New York City",
+      "url": "https://www.theguardian.com/us-news/2026/nov/14/new-york-city-ebike-battery-fires-deaths",
+      "summary": "City has failed to build infrastructure that could reduce threat, and saw 400 fires, 83 injuries and 12 deaths this year Fires from lithium-ion batteries, which power ebikes and scooters, have become regular occurrences in New York, causing deaths and fear among residents, but the city has failed to build infrastructure that could reduce the threat. New York has seen a dramatic uptick this year in fires from the batteries. In 2025, there were 292 fires, 51 injuries and one death, according to the New York fire department (FDNY). This year, there have already been more than 400 fires, 83 injuri",
+      "published_at": "2026-11-14T12:00:44+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "Eric Berger",
+      "categories": [
+        "New York",
+        "Ebikes",
+        "US news",
+        "Zohran Mamdani",
+        "US politics",
+        "Brooklyn",
+        "Lithium-ion batteries"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "816172e8f7699f73d695",
+      "source_id": "standard",
+      "title": "Identitäre vor Wiener Schulen: Eine alte Strategie kehrt zurück",
+      "url": "https://www.derstandard.at/story/3000000348916/identitaere-vor-wiener-schulen-eine-alte-strategie-kehrt-zurueck?ref=rss",
+      "summary": "Schon vor über 30 Jahren waren Schulen Schauplätze rechtsextremer Propagandaaktionen",
+      "published_at": "2026-11-14T12:00:32+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "ec8a6e47aeba01ee5a9c",
+      "source_id": "fox-politics",
+      "title": "GOP newcomer who toppled Cory Mills sets sights on fraud, inflation as he heads to Capitol Hill",
+      "url": "https://www.foxnews.com/politics/gop-newcomer-who-toppled-cory-mills-sets-sights-fraud-inflation-he-heads-capitol-hill",
+      "summary": "EXCLUSIVE: Florida Republican congressman-elect Ryan Elijah told Fox News Digital that he is heading to Washington with an \"appetite\" to crack down on fraud, protect consumers and tackle inflation, while calling for bipartisan cooperation in the incoming Congress. Elijah, a former Central Florida sports broadcaster, made his remarks amid heightened scrutiny of fraud involving taxpayer-funded federal programs across the country. \"I'm going to lean into consumer protection — that's something I fought for my whole life — and lean into fraud,\" Elijah told Fox News Digital. \"There is so much more W",
+      "published_at": "2026-11-14T12:00:08+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "1948f55f-b604-50c3-9b60-16ef64cbe751",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/politics/elections/house-of-representatives",
+        "fox-news/politics/meet-the-new-congress",
+        "fox-news/us/congress",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "6c38b5219988f89c1d00",
+      "source_id": "standard",
+      "title": "\"Shit Happens\": Zu Besuch bei einer Selbsthilfegruppe der Immobilienbranche",
+      "url": "https://www.derstandard.at/story/3000000349078/shit-happens-zu-besuch-bei-einer-selbsthilfegruppe-der-immobilienbranche?ref=rss",
+      "summary": "Bei der ersten Immo-Shit-Happens-Night in Wien berichteten Jäger des Betongolds von gescheiterten Projekten und ihrem Weg zum Erfolg. Auf viele Immobilien!",
+      "published_at": "2026-11-14T12:00:00+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "8519823d640623356f28",
+      "source_id": "standard",
+      "title": "Was über den längsten Flug-Shutdown in den USA seit 9/11 bisher bekannt ist",
+      "url": "https://www.derstandard.at/story/3000000349223/was-ueber-den-laengsten-flug-shutdown-in-den-usa-seit-911-bisher-bekannt-ist?ref=rss",
+      "summary": "Die Trump-Regierung macht veraltete Technik für den stundenlangen Ausfall verantwortlich, dessen Folgen wohl noch tagelang spürbar sein werden. Ein politischer Streit ist bereits zuvor entbrannt",
+      "published_at": "2026-11-14T11:30:06+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "ab083b41fd50bc065fcc",
+      "source_id": "standard",
+      "title": "Nations League im Liveticker: Österreich vs. Irland, ab 20.45 Uhr",
+      "url": "https://www.derstandard.at/jetzt/livebericht/3000000349231/nations-league-im-liveticker-oesterreich-vs-irland-ab-2045-uhr?ref=rss",
+      "summary": "Das ÖFB-Team bestreitet in Linz sein letztes Heimspiel der laufenden Nations League. Bei einem Sieg winkt der Aufstieg in Liga A. Wir berichten live",
+      "published_at": "2026-11-14T11:23:25+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "05a6c0afe703a8307fbd",
+      "source_id": "standard",
+      "title": "Grüne: Pühringer und Kraus als Wiener Spitzenduo bestätigt",
+      "url": "https://www.derstandard.at/story/3000000349230/gruene-puehringer-und-kraus-als-wiener-spitzenduo-bestaetigt?ref=rss",
+      "summary": "Das Duo Judith Pühringer und Peter Kraus wurde mit 87,7 Prozent der Stimmberechtigten wiedergewählt",
+      "published_at": "2026-11-14T11:20:30+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "1c571492938dec330420",
+      "source_id": "standard",
+      "title": "Anzeige gegen Innsbrucker Bürgermeister nach Mitarbeiterfest",
+      "url": "https://www.derstandard.at/story/3000000349229/anzeige-gegen-innsbrucker-b252rgermeister-nach-mitarbeiterfest?ref=rss",
+      "summary": "Staatsanwaltschaft prüft Anfangsverdacht wegen Amtsmissbrauchs. Der Bürgermeister soll laut der Anzeige Mitarbeitende beim Einsatz wegen Lärmbeschwerden gehindert haben",
+      "published_at": "2026-11-14T11:18:16+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "7751b45bcb19a96e80aa",
+      "source_id": "standard",
+      "title": "Der Falafel-König vom Brunnenmarkt",
+      "url": "https://www.derstandard.at/story/3000000348609/ashraf-falafel-koenig-vom-brunnenmarkt?ref=rss",
+      "summary": "Am Brunnenmarkt verkaufen zwei Brüder aus dem Irak vegetarische Küche aus Syrien. Das schmeckt allen, sogar dem Bürgermeister",
+      "published_at": "2026-11-14T11:01:32+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "597555a1cf68e6b73010",
+      "source_id": "standard",
+      "title": "Kind in Tirol wog nur elf Kilogramm, Eltern im Jänner vor Gericht",
+      "url": "https://www.derstandard.at/story/3000000349228/kind-in-tirol-wog-nur-elf-kilogramm-eltern-im-jaenner-vor-gericht?ref=rss",
+      "summary": "Die Staatsanwaltschaft erhebt Anklage gegen die Eltern eines hautkranken, stark unterernährten siebenjährigen Mädchens",
+      "published_at": "2026-11-14T11:01:32+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "8a9c39436e84f95204a5",
+      "source_id": "standard",
+      "title": "Ein kluges Pferd zeigt Grenzen künstlicher Intelligenz auf",
+      "url": "https://www.derstandard.at/story/3000000347536/ein-kluges-pferd-zeigt-grenzen-kuenstlicher-intelligenz-auf?ref=rss",
+      "summary": "Vor mehr als 120 Jahren verblüffte ein Pferd mit vermeintlichen Rechenkünsten die Welt. Der Fall des klugen Hans offenbart ein grundlegendes Problem der KI – mit Folgen für die Wissenschaft",
+      "published_at": "2026-11-14T11:01:00+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "6bf4ca6fc352e44937c3",
+      "source_id": "guardian-us",
+      "title": "Ecuadorian fishermen who survived US boat strikes sue Trump administration",
+      "url": "https://www.theguardian.com/us-news/2026/nov/14/ecuadorian-fishermen-lawsuit-trump-boat-strike",
+      "summary": "US military has killed nearly 250 people in attack on ‘narco-terrorism’, and on 17 March, sank the 16 plaintiffs’ boat, leaving two with serious burns More than a dozen Ecuadorian fishermen are suing the US government after they survived a military drone attack in the Pacific ocean earlier this year that sank their boat and left two of them with serious burns from the explosions. The 17 March attack on the La Negra Francesca Duarte II was part of the Trump administration’s Operation Southern Spear campaign, announced in November 2025 ostensibly to counter “narco-terrorists” it said operated in",
+      "published_at": "2026-11-14T11:00:42+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "Richard Luscombe",
+      "categories": [
+        "Trump administration",
+        "US military",
+        "US news",
+        "US politics",
+        "Law (US)",
+        "Law",
+        "Ecuador",
+        "Caribbean",
+        "Drones (military)"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "f8b836c87d6110573735",
+      "source_id": "fox-politics",
+      "title": "Inside the House GOP strategy to capitalize on Democrats' warring factions in the new Congress",
+      "url": "https://www.foxnews.com/politics/inside-house-gop-strategy-capitalize-democrats-warring-factions-new-congress",
+      "summary": "EXCLUSIVE: House Republicans are heading into the next Congress ready to brawl. Rep. Tom Emmer, R-Minn., who is set to go from the No. 3 most powerful House Republican to No. 2 next year, told Fox News Digital that the GOP will hold the new Democrat majority \"accountable\" for their far-left faction's ideas over the next two years, even if they cannot control what bills get a vote. Emmer, who has served as House majority whip for the past four years, was elected Tuesday to serve as minority whip alongside incoming House Minority Leader Jim Jordan, R-Ohio. The Speaker of the House position turns",
+      "published_at": "2026-11-14T11:00:13+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "dc112db5-c940-5ee9-b616-0531d3b8a2b0",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/politics/house-of-representatives",
+        "fox-news/us/congress",
+        "fox-news/politics/elections/house-of-representatives",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "dc088edf38bdf605043c",
+      "source_id": "standard",
+      "title": "Warum Entspannung nicht auf Knopfdruck funktioniert – und wie man den Körper dabei unterstützen kann",
+      "url": "https://www.derstandard.at/story/3000000348973/warum-entspannung-nicht-auf-knopfdruck-funktioniert-und-wie-man-den-koerper-dabei-unterstuetzen-kann?ref=rss",
+      "summary": "Der Arbeitstag ist vorbei, der Stress aber nicht: Wer ständig aktiv ist, verlernt mitunter, zur Ruhe zu kommen. Einfache Übungen können das Nervensystem bei der Regulation unterstützen",
+      "published_at": "2026-11-14T11:00:08+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "8816d3ccb2eae699a1d9",
+      "source_id": "fox-politics",
+      "title": "Trump keeps signaling an end to Iran war, but expert warns a crucial piece of his strategy is missing",
+      "url": "https://www.foxnews.com/politics/trump-keeps-signaling-end-iran-war-expert-warns-crucial-piece-his-strategy-missing",
+      "summary": "President Donald Trump declared Thursday that the United States no longer needs a deal with Iran, abruptly shifting his diplomatic message just three days after expressing optimism about negotiations and directing Vice President JD Vance to focus on domestic issues instead. \"We don’t need a deal with Iran. Those days have long since passed,\" Trump wrote on Truth Social. \"We’ve got their money, Hundreds of Billions of Dollars, and we’ve got their Strait!\" Trump's latest declaration came just one day after he proclaimed victory over Iran during a Veterans Day ceremony at Arlington National Cemet",
+      "published_at": "2026-11-14T11:00:05+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "6b328d11-d776-52db-8967-d89f18b4293b",
+        "fnc",
+        "Fox News",
+        "fox-news/politics/defense/wars/war-with-iran",
+        "fox-news/person/donald-trump",
+        "fox-news/world/conflicts/iran",
+        "fox-news/politics/house-of-representatives/foreign-affairs",
+        "fox-news/politics/executive/national-security",
+        "fox-news/politics/defense",
+        "fox-news/politics"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "36251f9ac921317517b4",
+      "source_id": "standard",
+      "title": "Crispy Miso-Aubergine",
+      "url": "https://www.derstandard.at/story/3000000348892/crispy-miso-aubergine?ref=rss",
+      "summary": "Im Rezept aus dem Buch \"Maka Magic\" wird frittierte Melanzani mit einer umamigen Miso-Marinade bestrichen",
+      "published_at": "2026-11-14T11:00:00+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "a5de0132c59e8ddf929f",
+      "source_id": "standard",
+      "title": "Verletzter nach Polizei-Schuss in Niederösterreich: Untersuchungshaft beantragt",
+      "url": "https://www.derstandard.at/story/3000000349227/verletzter-nach-polizei-schuss-in-n214-untersuchungshaft-beantragt?ref=rss",
+      "summary": "Der 38-Jährige ist aus dem künstlichen Tiefschlaf erwacht. Die Staatsanwaltschaft ermittelt wegen versuchter Körperverletzung und Widerstands gegen die Staatsgewalt",
+      "published_at": "2026-11-14T10:54:26+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "d20954244430d4c80e1d",
+      "source_id": "orf",
+      "title": "D: Große Anteilnahme bei Trauerfeier für Aiwanger",
+      "url": "https://orf.at/stories/3448169/",
+      "summary": "",
+      "published_at": "2026-11-14T10:52:31+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "f039de1984b34b9ee6e6",
+      "source_id": "standard",
+      "title": "Eklat mit Vorsitzland, Kritik am Führungsstil: Trotzdem will OSZE-\"General\" Uno-Chef werden",
+      "url": "https://www.derstandard.at/story/3000000348438/eklat-mit-vorsitzland-kritik-am-fuehrungsstil-trotzdem-will-osze-general-uno-chef-werden?ref=rss",
+      "summary": "Der Türke Feridun Sinirlioğlu will Uno-Chef werden. STANDARD-Recherchen legen aber einen schwierigen Führungsstil nahe sowie mögliche Versuche, seine festgelegten Kompetenzen und Befugnisse umzuinterpretieren",
+      "published_at": "2026-11-14T10:50:27+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "a57f1f626f82e79bb0cd",
+      "source_id": "orf",
+      "title": "USA brachten NATO-Beitritt aufs Tapet",
+      "url": "https://orf.at/stories/3448164/",
+      "summary": "Die USA haben nach den Worten des ukrainischen Präsidenten Wolodymyr Selenskyj der Ukraine die NATO-Mitgliedschaft im Gegenzug für einen Gebietsverzicht in Aussicht gestellt. Selenskjy bekräftigte seine Haltung, dass Kiew nicht bereit sei, sich aus seinem Hoheitsgebiet zurückzuziehen – stellte gleichzeitig aber auch ein Referendum zu der Frage in den Raum.",
+      "published_at": "2026-11-14T10:47:55+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "179318a19c3100c421e1",
+      "source_id": "bbc-world",
+      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+      "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_campaign=rss&at_medium=RSS",
+      "summary": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
+      "published_at": "2026-11-14T10:42:20+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "e304208594d5a366d30c",
+      "source_id": "orf",
+      "title": "Krankenkassendefizit 2026 geringer als erwartet",
+      "url": "https://orf.at/stories/3448167/",
+      "summary": "",
+      "published_at": "2026-11-14T10:38:41+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Inland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "25e4fb67fa836816fa22",
+      "source_id": "fox-politics",
+      "title": "Socialist LA mayor's bold homelessness promise ahead of 2028 Olympics hit with reality check: 'Not optimistic'",
+      "url": "https://www.foxnews.com/politics/socialist-la-mayor-bold-homelessness-promise-ahead-2028-olympics-hit-reality-check-not-optimistic",
+      "summary": "Incoming Los Angeles Mayor Nithya Raman has promised to cut the number of people sleeping in tents and homeless encampments by at least 50% before the 2028 Summer Olympics, but one local activist believes her vision may not be realistic. The blue city’s growing homeless population became a major focus of Raman’s mayoral campaign. A member of the Democratic Socialists of America (DSA), she plans to expand shelter and housing options while stretching \"every dollar as far as possible.\" John Alle, a business owner and co-founder of the Santa Monica Coalition, told Fox News Digital Raman won’t be a",
+      "published_at": "2026-11-14T10:30:51+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "b07ecf60-dd71-5108-940c-192a4239bc48",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/topic/homeless-crisis",
+        "fox-news/us/los-angeles",
+        "fox-news/politics/socialism",
+        "fox-news/us/blue-city-crime",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
     {
       "id": "ff6ad0a37b52b4435958",
       "source_id": "standard",
@@ -4486,6 +5934,21 @@
       ],
       "language": "en",
       "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "28e82df66add46e431d3",
+      "source_id": "standard",
+      "title": "Bisher vier Gropyus-Töchter in Insolvenz, eine davon in Österreich",
+      "url": "https://www.derstandard.at/story/3000000349084/bisher-vier-gropyus-toechter-in-insolvenz-eine-davon-in-oesterreich?ref=rss",
+      "summary": "Die oberösterreichische Gropyus Engineering GmbH ist von der großangelegten Umstrukturierung betroffen",
+      "published_at": "2026-11-13T09:58:06+00:00",
+      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
       "category": "Politics"
     },
     {
@@ -21253,6 +22716,2847 @@
   ],
   "stories": [
     {
+      "id": "story-fd3edd5d210290640acc",
+      "title": "Österreichs U17 verliert 0:7 gegen Kasachstan und steht vor EM-Quali-Aus",
+      "overview": "Die Auswahl von Teamchef Hermann Stadler musste sich beim Mini-Turnier in Georgien dem Team aus Kasachstan deutlich geschlagen geben",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T17:09:56+00:00",
+      "updated_at": "2026-11-14T17:09:56+00:00",
+      "article_ids": [
+        "348e152db4ce9a2d7739"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-242dfd7aa854ada0a0e7",
+      "title": "Smart Sudoku sehr schwierig 790b",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T17:00:00+00:00",
+      "updated_at": "2026-11-14T17:00:00+00:00",
+      "article_ids": [
+        "9275fac9d0c42253042a",
+        "a1feaccf33b2d42854c8"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 2,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [
+        "schwierig",
+        "smart",
+        "sudoku"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-6ceec7ad5b1a6ae3cc5e",
+      "title": "Smart Sudoku mittel 791a",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T17:00:00+00:00",
+      "updated_at": "2026-11-14T17:00:00+00:00",
+      "article_ids": [
+        "502668c91524d79a5432"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-0031e4e9981e18acbef2",
+      "title": "Raketensystem Freyja soll Europa von US-Patriot-Raketen unabhängig machen",
+      "overview": "Der ukrainische Raketenhersteller Fire Point und eine Koalition aus neun europäischen Staaten wollen mit der Rakete FP-7.x eine eigene Alternative schaffen. Noch in diesem Jahr soll es erste Ergebnisse geben",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T17:00:00+00:00",
+      "updated_at": "2026-11-14T17:00:00+00:00",
+      "article_ids": [
+        "9b9daf63ae91a3a99a33"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-211f2b1be61824a0eb56",
+      "title": "Die sechs schönsten Altstädte Europas",
+      "overview": "Mehr als nur Kulissen sind diese historischen Stadtzentren, die sich vor allem gut zu Fuß erkunden lassen",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T17:00:00+00:00",
+      "updated_at": "2026-11-14T17:00:00+00:00",
+      "article_ids": [
+        "b56dd99e93d6ff22a6f0"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-f9272e1a3f2cdf892046",
+      "title": "Dems seize on midterm rout to demand ICE reform but polls reveal a twist in who prioritized immigration",
+      "overview": "Democrats are seizing on their sweeping midterm victories to demand immigration reform, even as polling shows economic concerns far outpaced it as a priority for both Democratic and Hispanic voters. The push follows Democratic gains nationwide, including wins in Texas congressional districts redrawn to favor Republicans and major upsets in the state’s Senate and gubernatorial races. Some winners are casting the results as a mandate to challenge President Donald Trump’s immigration crackdown and putting prospective 2028 Democratic presidential candidates on notice. \"Whoever wants to get our sup",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T16:36:20+00:00",
+      "updated_at": "2026-11-14T16:36:20+00:00",
+      "article_ids": [
+        "e8b8682ef8a46faa26f9"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-45b96a074812940a4600",
+      "title": "Italy fines Meta €805m over accessing users' photos",
+      "overview": "The social media giant is accused of not informing about 20 million users it had access to their photos.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T16:29:48+00:00",
+      "updated_at": "2026-11-14T16:29:48+00:00",
+      "article_ids": [
+        "50a581d9f8cb54520a04"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-59c06c8a344232025d2e",
+      "title": "Europäischer Filmpreis: Sandra Hüller zweimal nominiert",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T16:29:46+00:00",
+      "updated_at": "2026-11-14T16:29:46+00:00",
+      "article_ids": [
+        "87c9bca5078709f481d5"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-3ba98fa92900c779365f",
+      "title": "Kein Sieger beim Duell Kosovo gegen Israel in Österreich-Gruppe",
+      "overview": "Die Foda-Auswahl hatte Pech mit einem Lattenköpfler und musste die Schlussphase in Unterzahl spielen. Israel bleibt in der Nations League sieglos",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T16:19:23+00:00",
+      "updated_at": "2026-11-14T16:19:23+00:00",
+      "article_ids": [
+        "32d0082dda7d35e01ed4"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-7134cfb0c2d1b211ec43",
+      "title": "Demokrat Kreiss-Tomkins gewinnt Gouverneurswahl in Alaska",
+      "overview": "Es ist der erste Sieg für die Demokraten in Alaska seit rund 30 Jahren. Kreiss-Tomkins wird der jüngste Gouverneur in der Geschichte des Bundesstaats",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T16:12:29+00:00",
+      "updated_at": "2026-11-14T16:12:29+00:00",
+      "article_ids": [
+        "641d43db1deb761b6933"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-cd5da6ff3ce28fa32d61",
+      "title": "Tausende gehen in Antalya auf die Straße",
+      "overview": "Zur Halbzeit der UNO-Klimakonferenz (COP31) im türkischen Antalya hat am Samstag ein großer Protest zivilgesellschaftlicher Organisationen stattgefunden. Mehr als 10.000 Menschen gingen nach Angaben der Veranstalter für Klimaschutz friedlich auf die Straße. UNO-Klimachef Simon Stiell warnte die Verhandler vor taktischen Spielchen. Demonstriert wurde auch für Menschenrechte und gegen türkische Regierung.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T16:05:52+00:00",
+      "updated_at": "2026-11-14T16:05:52+00:00",
+      "article_ids": [
+        "bee9da384fbac885462a"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-d04208a2f5334d3451f9",
+      "title": "Democrats eye killing Senate filibuster as lawmaker warns move could be a 'double-edged sword'",
+      "overview": "Democratic senators are leaving the door open to eliminating the Senate filibuster as their party prepares to take control of the chamber, with one lawmaker saying the move must be on the table while another warned it could be a \"double-edged sword.\" \"Obviously, the filibuster is something that has to be on the table,\" Sen. Ed Markey, D-Mass., told Fox News Digital when asked about Democrats' plans for the chamber. But Sen. Andy Kim, D-N.J., warned that changing the rules could carry consequences long after Democrats leave power. SCHUMER, JEFFRIES SIDESTEP QUESTIONS ON NUKING FILIBUSTER, LAUNC",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T16:00:48+00:00",
+      "updated_at": "2026-11-14T16:00:48+00:00",
+      "article_ids": [
+        "5878a1e26a0039b84265"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-9b0a9c4810901b16a9fe",
+      "title": "Was Sie heute streamen können: \"The Good Daughter\" auf HBO Max",
+      "overview": "Familienzusammenführung auf die ungemütliche Art",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T16:06:47+00:00",
+      "updated_at": "2026-11-14T16:00:00+00:00",
+      "article_ids": [
+        "24ab229fade6b93e3eab",
+        "f7b98d395c873b3ffd60"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 2,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [
+        "heute",
+        "können",
+        "sie",
+        "streamen",
+        "was"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-f7e7d92487d99e1a5566",
+      "title": "Fünf Jahre für ein Schifferl: Die geduldigen Bastler von Floridsdorf",
+      "overview": "Im ehemaligen Schuhgeschäft Habitzl bauen Modellbauer historische Schiffe, Panzer und Flugzeuge nach. Es geht um technische Neugier, Fingerspitzengefühl und die Frage, wie man fünf Jahre lang bei einer Sache bleibt",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T16:00:00+00:00",
+      "updated_at": "2026-11-14T16:00:00+00:00",
+      "article_ids": [
+        "085df362180aea28a89d"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-65aa2a70b39f6bcdc0e5",
+      "title": "Medien: Demokraten gewinnen Gouverneurswahl in Alaska",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T15:55:28+00:00",
+      "updated_at": "2026-11-14T15:55:28+00:00",
+      "article_ids": [
+        "1c3bf8e76eff75c35e9e"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-b5c30980ea9de31ca54c",
+      "title": "Rare nationwide ground stop halts US air traffic – video",
+      "overview": "The US Federal ⁠Aviation Administration (FAA) issued a rare nationwide ground stop on Friday, halting all departures and landings across US airports for just over four hours. The stop marked the longest nationwide shutdown, and only the second nationwide ​ground stop of all departures, since the 9/11 terrorist attacks. The US homeland security secretary, Markwayne Mullin, and the US transportation secretary, Sean Duffy, appeared to suggest that the cause of the outage was older technology becoming overwhelmed with data after new technology was introduced. What to know about the rare nationwide",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T15:54:44+00:00",
+      "updated_at": "2026-11-14T15:54:44+00:00",
+      "article_ids": [
+        "ab9e213b70e94210472c"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-62cd43b347fe520c5de4",
+      "title": "\"Er ist keine Eintagsfliege\": Bresnik nimmt Zverev in Schutz",
+      "overview": "Vor dem Start der ATP Finals hat Tennistrainer Günter Bresnik mehr als Topfavorit Alcaraz im Blick. Mit dem STANDARD schaut er auf das Teilnehmerfeld von Turin",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T15:51:21+00:00",
+      "updated_at": "2026-11-14T15:51:21+00:00",
+      "article_ids": [
+        "5835a91b7dc868c63b2d"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-b559d89fa17193b0fb3e",
+      "title": "Nigeria cautions against travel via Ethiopia's main airport due to altitude",
+      "overview": "The foreign ministry in Abuja says 6 Nigerians with underlying health problems have died this year while transiting through Addis Ababa.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T15:42:54+00:00",
+      "updated_at": "2026-11-14T15:42:54+00:00",
+      "article_ids": [
+        "29b003f6088092226acd"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-411f03c903fc905ea8b4",
+      "title": "Datenschutz: 805 Millionen Euro Strafe für Meta in Italien",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T15:30:47+00:00",
+      "updated_at": "2026-11-14T15:30:47+00:00",
+      "article_ids": [
+        "45d519f6761564ba68f4"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-8c082484bbeae5323179",
+      "title": "Progressive versus moderate? Democrats deny party rift as they head into new Congress",
+      "overview": "Incoming lawmakers have more in common with each other than they have divisions, even across ideological factions Democrats who won in the midterms, including those in places previously considered off the blue map and those in Democratic strongholds, crafted their campaigns around economic populism and accountability. Lawmakers in the anti-establishment incoming congressional class have more in common with each other than divisions, even across ideological factions. Voters sent a resounding message to work on affordability and rein in the Trump administration, and Democrats across the party ha",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T15:28:14+00:00",
+      "updated_at": "2026-11-14T15:28:14+00:00",
+      "article_ids": [
+        "0fc7083fb41b1abc3549"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-2da3742daf45122f9d38",
+      "title": "Dems descend on Denver to size up 2028. We asked who wants in the race",
+      "overview": "DENVER — Democrats are already making their case for 2028. Fresh off sweeping midterm victories, party leaders and rising stars descended on Denver for the \"What’s Next\" conference. Several potential presidential contenders tested their 2028 messaging before a crowd of activists, strategists and operatives. The conversations offered an early look at who may be considering a run and who is already stepping aside. Less than 24 hours after announcing a challenge to longtime Senate Democratic leader Sen. Chuck Schumer, D-N.Y., Sen. Chris Van Hollen, D-Md., told reporters he was \"no longer pursuing",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T15:22:21+00:00",
+      "updated_at": "2026-11-14T15:22:21+00:00",
+      "article_ids": [
+        "565066cc9bdc320ca7fd"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-fc64be40b0c41b563db1",
+      "title": "US has floated Ukraine ceding Donbas for Nato membership, Zelensky says",
+      "overview": "The Ukrainian president says US envoys touted the exchange as part of efforts to end the war with Russia.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T15:15:57+00:00",
+      "updated_at": "2026-11-14T15:15:57+00:00",
+      "article_ids": [
+        "0f3193026b79e3d77d74"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-e33b09809f0041526525",
+      "title": "How ICE raids in Kansas meatpacking country sparked fury – and turned voters against Trump",
+      "overview": "In region where migrants have settled to work at abattoirs and feedyards, harsh raids pushed people to vote Democrat José Del Real looked over the crowd from the stage in a park, at hundreds of his neighbors with furious signs tucked under their arms, voicing their anger at immigration agents who had descended on their town and started rounding up their friends and family. His daughters, in the front row, were crying. Del Real, an army veteran who served two tours in Iraq, hadn’t voted in a decade. He thought it would not matter in this ruby red corner of Kansas. But the midterm election was w",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T15:00:47+00:00",
+      "updated_at": "2026-11-14T15:00:47+00:00",
+      "article_ids": [
+        "75be7778de201057a4a3"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-bb2d7df0a43be1280dd5",
+      "title": "How a US extradition bid over Hamas allegations put a wealthy activist before a Spanish court",
+      "overview": "James ‘Fergie’ Chambers, a Cox Enterprises heir, faced a two-hour hearing about alleged support for Hamas A two-hour hearing in Spain’s high court Friday on the US extradition request of wealthy leftwing activist and philanthropist James “Fergie” Chambers turned out to be a study in contrasts. Chambers’s defense took most of the session to query the US citizen and detail irregularities in the Trump administration’s extradition request – several of which the Guardian has reported on – as well as the figures of Spanish law that would lead the three-judge panel to deny the request; while the pros",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T15:00:47+00:00",
+      "updated_at": "2026-11-14T15:00:47+00:00",
+      "article_ids": [
+        "a0eb1628b1c2dff7537a"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-4bdbd7a9c1ceb142e711",
+      "title": "Dems' California redistricting mastermind flips script after helping party win 5 GOP seats: 'Kill'",
+      "overview": "The architect of California's Democratic-friendly redistricting plan, which helped the party flip five Republican-held House seats in November's midterm elections, is now calling on Democrats to put an end to partisan gerrymandering nationwide. Paul Mitchell claimed in a San Francisco Chronicle op-ed published Wednesday that lawmakers should \"kill partisan gerrymandering for good.\" His comments come after California voters approved Proposition 50 in November 2025, temporarily replacing the state's independently drawn congressional districts with a Democratic-friendly map for elections through ",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T15:00:06+00:00",
+      "updated_at": "2026-11-14T15:00:06+00:00",
+      "article_ids": [
+        "cae62379acb29a95a1a8"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-b27d73fb27d611a00836",
+      "title": "Rekord, Rekord, Rekord: \"Dieser Sommer war eine richtige Keule\", sagt Klimatologe",
+      "overview": "Bregenz, Graz, Wien: 171 von 280 Stationen der Geosphere Austria verzeichneten neue Hitzetag-Rekorde. Noch mehr überrascht den Klimatologen Alexander Orlik aber etwas anderes",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T14:49:24+00:00",
+      "updated_at": "2026-11-14T14:49:24+00:00",
+      "article_ids": [
+        "d70715cdab35e7842e8c"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-aec4648061963be51108",
+      "title": "Napping Kansas driver whose truck sped on to soccer field and killed two won’t be charged",
+      "overview": "Authorities declined to file charges against napping woman whose truck accelerated on to field during youth game A soccer mom napping in her pickup truck when it suddenly accelerated on to the field at a Kansas youth tournament where her child was playing, killing two people, won’t face criminal charges, a prosecutor has said. Investigators believe the 34-year-old woman had failed to put the Chevrolet 1500 in park and likely put her foot on the gas pedal while sleeping at the Stryker Sports Complex in Wichita on 17 October. They conducted multiple interviews and even ran a test in the same par",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T14:38:36+00:00",
+      "updated_at": "2026-11-14T14:38:36+00:00",
+      "article_ids": [
+        "f1785f97cfe014296ca5"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-c116412531f6084fdd51",
+      "title": "Von Federkrone bis Muschelpuppen: Was die Rückgabe von Kulturgütern auslöst",
+      "overview": "Museen bergen viele Schätze, deren Geschichte und Aufbewahrungsort umstritten bleibt. Der sensible Umgang mit diesen Objekten und etwaigen Rückgabeforderungen ist ein heikler Grat",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T14:35:54+00:00",
+      "updated_at": "2026-11-14T14:35:54+00:00",
+      "article_ids": [
+        "25c7952d96bc64a165e5"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-818d1b6692e2224029f1",
+      "title": "Weiter etliche Ausfälle in US-Luftverkehr",
+      "overview": "Nach einem landesweiten, rund vier Stunden andauernden Startverbot für alle Flüge kommt die Wiederaufnahme des Normalbetriebs im US-Luftverkehr am Samstag nur schleppend voran. US-Medien berichten von chaotischen Zuständen auf den Flughäfen des Landes und nach wie vor umfangreichen Ausfällen bei nationalen wie auch internationalen US-Flügen.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T14:32:21+00:00",
+      "updated_at": "2026-11-14T14:32:21+00:00",
+      "article_ids": [
+        "8d7859a8ba6a164a800e"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-3f2992adddf22c414d86",
+      "title": "Unwetter in Gaza: EU fordert von Israel Zugang für Helfer",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T13:51:43+00:00",
+      "updated_at": "2026-11-14T14:26:41+00:00",
+      "article_ids": [
+        "738f35e9ce4288c9c841",
+        "a4916bce5a34427fa761"
+      ],
+      "publisher_count": 2,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [
+        "fordert",
+        "gaza",
+        "helfer",
+        "israel"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-8eb96d3ddc139202682e",
+      "title": "Keine Steuern, keine Limits: Noch ist Wien ein Paradies für Pokerprofis",
+      "overview": "Hunderte Onlinepoker-Spieler leben in Wien. Ein neues Gesetz könnte die Blase zum Platzen bringen. Ein Profi erzählt, wie er arbeitet – und warum mehr Regulierung auch gut ist",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T14:23:12+00:00",
+      "updated_at": "2026-11-14T14:23:12+00:00",
+      "article_ids": [
+        "052dfa2f261ecffb8e86"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-3f7494f0f30855b366a5",
+      "title": "Bomb found at Illinois ethanol plant, prompting evacuations",
+      "overview": "Peoria officials said a bomb was found at BioUrja Renewables and later defused; FBI said it is investigating Residents were ordered to evacuate parts of an Illinois community on Friday after the mayor there said authorities found a bomb at a local ethanol- and alcohol-production plant. The discovery reported at BioUrja Renewables in Peoria triggered a mandatory evacuation over a one-mile evacuation zone encompassing sections of that city as well as the adjacent municipality of East Peoria. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T14:13:49+00:00",
+      "updated_at": "2026-11-14T14:13:49+00:00",
+      "article_ids": [
+        "c19baf4abd432d90531b"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-2648f0d3a2c57110429e",
+      "title": "AfD nominiert Ex-Profi-Fußballer Thomas Berthold als Bundespräsident",
+      "overview": "Als \"Weltmeister ohne Parteibuch\" sei der 62-Jährige \"als Bundespräsident für alle Deutschen\" bestens geeignet",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T14:10:43+00:00",
+      "updated_at": "2026-11-14T14:10:43+00:00",
+      "article_ids": [
+        "63840ae4210e71b3c510"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-88f375c5798ec8a1e33a",
+      "title": "Mauricio Pochettino asked the US to believe in his project. Did he believe in it himself?",
+      "overview": "The coach’s tenure with the USMNT brought a whiplash of highs and lows. He met some goals but also left many with the impression he never truly bought in It did not take US men’s national team coach Mauricio Pochettino very long to take his first big swing. He’d just taken the reins of the program after a disastrous performance at the 2024 Copa América cost his predecessor his job, with the first home World Cup in three decades looming on the horizon. The federation introduced him in New York City, on the 24th floor of a building overlooking the Hudson River. In short order, he was asked about",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T14:06:37+00:00",
+      "updated_at": "2026-11-14T14:06:37+00:00",
+      "article_ids": [
+        "731faf0b60d89d96978a"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-089a75e14958656485f3",
+      "title": "Anti-Trump Republican courts other defectors as House weighs another vote against Iran war",
+      "overview": "EXCLUSIVE: House Republicans and Democrats are preparing another effort to challenge President Donald Trump's military operations in Iran, with lawmakers signaling that additional Republicans could break with the president and support a War Powers resolution. Rep. Thomas Massie, R-Ky., told Fox News Digital that another Iran War Powers resolution could come to the House floor \"in the next few legislative days\" or around Christmas. This would mark the fourth attempt this year to restrict Trump's military actions against Iran. \"I'm offering Republicans a life boat from MAGA,\" Massie told Fox New",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T14:00:51+00:00",
+      "updated_at": "2026-11-14T14:00:51+00:00",
+      "article_ids": [
+        "b93de50603d031a672ff"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-39a36bac0b0df137d65f",
+      "title": "Indigenous students retrace Lewis and Clark’s historic journey: ‘We can’t protect what we cannot see’",
+      "overview": "Two centuries after the expedition, Indigenous students are conducting a new wildlife survey along the route In 1804, when Thomas Jefferson dispatched Meriwether Lewis and William Clark and their Corps of Discovery to explore the newly acquired land west of the Mississippi, the president’s primary aim was political: Americans needed to establish presence, power and trade routes in these territories before the Europeans beat them to it. But Jefferson, an ardent naturalist, had a secondary agenda. He ordered that the expedition also survey the flora and fauna of these landscapes. On their two-ye",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T14:00:46+00:00",
+      "updated_at": "2026-11-14T14:00:46+00:00",
+      "article_ids": [
+        "31071783830eea57ff6a"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-fc9b481fbe8570db5f28",
+      "title": "Braun hält sich hartnäckig",
+      "overview": "Ob Schokolade, Tabak oder Trüffel – Braun in all seinen Nuancen und schrulligen Umschreibungen ist auch in diesem Herbst tonangebend. Die Farbe, die Laufstege ebenso wie Social-Media-Feeds dominiert, vermag in ihrer Allgegenwärtigkeit mittlerweile sogar mit Schwarz zu konkurrieren. Bei der Verleihung der Latin Grammy Awards in Las Vegas waren am Donnerstag gleich mehrere Künstlerinnen und Künstler in dem erdigen Klassiker zu sehen.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T14:00:29+00:00",
+      "updated_at": "2026-11-14T14:00:29+00:00",
+      "article_ids": [
+        "4926ace6787559ee7cb7"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-e6687e4ab8980fe1c088",
+      "title": "Florida Republican on Democrats' strategy: 'That's the choice they have to make...persecution or policy'",
+      "overview": "Florida's Rep. Randy Fine has a blunt prescription for a House Republican conference staring down a steep Democratic majority in January: stop worrying about compromise, hand the minority gavel to Rep. Jim Jordan, and start fighting, suggesting that Democrats will likely pursue political persecution as the main focus in the next Congress. In a wide-ranging interview with Fox News Digital, Fine—who expanded his own victory margin to 19 points even as Republicans lost control of the chamber—argued that voters punished the GOP not for its policies, but because they didn't see lawmakers willing to",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T14:00:09+00:00",
+      "updated_at": "2026-11-14T14:00:09+00:00",
+      "article_ids": [
+        "a9c9a9899327a0c851ee"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-9d9ac32ba6bce7c5d546",
+      "title": "Zerrissen, rau und voller Hoffnung: Jo Angerers Buch \"Kaukasus zwischen Macht und Ohnmacht\"",
+      "overview": "Der Kaukasus ist laut dem Russland-Experten auch ein Brennpunkt politischer und sozialer Konflikte. Hier ein Vorabdruck aus dem ersten Kapitel",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T14:00:00+00:00",
+      "updated_at": "2026-11-14T14:00:00+00:00",
+      "article_ids": [
+        "6fc698adf6254a97aa11"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-a132c50ae50677903c15",
+      "title": "Medienwissenschafter Strick: \"Im Netz üben wir Faschismus ein\"",
+      "overview": "Der Medien- und Kulturwissenschafter Simon Strick im Gespräch über sein neues Buch, Faschismus, demokratische Räume und die Fluchtlinien des Digitalen",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T13:50:38+00:00",
+      "updated_at": "2026-11-14T13:50:38+00:00",
+      "article_ids": [
+        "747fba0cdae3a213b721"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-d3a865e2e835ea56b0af",
+      "title": "Mecklenburg-Vorpommern: Weg frei für Rot-Rot-Grün",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T12:31:31+00:00",
+      "updated_at": "2026-11-14T13:43:28+00:00",
+      "article_ids": [
+        "90b6e66426bf424ade88",
+        "233ab4f5c0fdf045ccaa"
+      ],
+      "publisher_count": 2,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [
+        "mecklenburg",
+        "rot",
+        "vorpommern"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-55775ed78f5827e94714",
+      "title": "Lawinenabgang am Stubaier Gletscher fordert ein Todesopfer",
+      "overview": "Am Stubaier Gletscher ist es Samstagmittag zu einem Lawinenabgang gekommen. Der Wintersportler wurde von den Schneemassen mitgerissen und in eine Randspalte gedrückt",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T13:28:16+00:00",
+      "updated_at": "2026-11-14T13:28:16+00:00",
+      "article_ids": [
+        "ed73f297d80ed5f6672c"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-e69c79909385f4297e21",
+      "title": "Jensen Huang is out. His successor has the toughest job in tech",
+      "overview": "A company built around one man must now learn to run without him",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T13:17:39+00:00",
+      "updated_at": "2026-11-14T13:17:39+00:00",
+      "article_ids": [
+        "8204af58503d87adead6"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-42d97aeb507256655861",
+      "title": "Österreichischer Professor mit kruden Thesen rund um Holocaust: STANDARD-Recherchen schlagen in Norwegen hohe Wellen",
+      "overview": "Die Studienprogrammleitung der Uni Bergen wendet sich scharf gegen den Historiker. Entrüstung aus norwegischem Außenministerium und israelischer Botschaft. Rektorin verweist auf Meinungsfreiheit",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T13:13:26+00:00",
+      "updated_at": "2026-11-14T13:13:26+00:00",
+      "article_ids": [
+        "2dab1d8797a5e4fc8b7a"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-70a7f5803e7b8b1521cd",
+      "title": "Trump ‘whiplash’ on deportations putting Afghans in turmoil: ‘People already survived a war’",
+      "overview": "Members of Congress and advocates warn that returning people to their home countries could be a death sentence Dozens of Afghans who are currently in the US but fear being deported back to Afghanistan along with a larger group and possibly killed by the Taliban are experiencing “fragile relief” this weekend after it appeared that the Trump administration had put on hold plans to remove them within days. Members of Congress and advocates have repeatedly warned that the deportations could effectively be a death sentence. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T13:00:47+00:00",
+      "updated_at": "2026-11-14T13:00:47+00:00",
+      "article_ids": [
+        "8f3a66eaec90ff72ac88"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-a1f54e50eb9a40f56326",
+      "title": "Corporate Democrats are weaponizing identity politics to smear progressives | Arwa Mahdawi",
+      "overview": "House members have responded to legitimate criticism with cynicism. Let’s not have another ‘Bernie bros’ moment Before we get started, some ground rules. You are, of course, completely free to disagree with everything I have to say here. However, doing so might mean that you’re racist, homophobic and/or sexist. (Not to boast, but I have a lot of oppression cards to play.) So, you might want to tread carefully, OK? That might sound ridiculous, but I don’t make the rules: I’m just taking a page from the corporate Democrat playbook. From Haley Stevens to Hakeem Jeffries, cynically weaponizing ide",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T13:00:46+00:00",
+      "updated_at": "2026-11-14T13:00:46+00:00",
+      "article_ids": [
+        "7ec4d2c8eefb2df0d4c9"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-dd38ace8819950ff2db6",
+      "title": "Underwater salt mine closure in Ohio raises safety and supply concerns for winter",
+      "overview": "Questions remain about reason for leak, safety of drinking water and where salt can be sourced for roads during winter When water last month began gushing through a crack in the ceiling of a Morton Salt mine in Ohio, the company had only one option: shut the mine down for good. For locals in and around Fairport Harbor, it means the loss of 77 jobs; but for the wider region, which depends on its salt reserves to keep roads ice- and snow-free every winter, it could mean travel chaos. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T13:00:45+00:00",
+      "updated_at": "2026-11-14T13:00:45+00:00",
+      "article_ids": [
+        "91e163ed2bc408bfa2a0"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-d3c049ad6fdb161d05b5",
+      "title": "GOP midterm bloodbath exposes cracks in Vance's 2028 White House ambitions",
+      "overview": "Vice President JD Vance has long been viewed as President Donald Trump's heir apparent, but a string of developments following Republicans' bruising midterm losses is raising new questions about his potential path to the White House in 2028. Vance is facing criticism from some Republicans over his explanation for the party's election defeats, particularly his decision to blame the Iran war. Meanwhile, other prominent Republicans are beginning to draw support for potential 2028 bids, complicating the political picture for the vice president. The political debate follows a devastating election f",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T13:00:38+00:00",
+      "updated_at": "2026-11-14T13:00:38+00:00",
+      "article_ids": [
+        "26dbf7936b7aeebe06b7"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-2dacb5ae8d8a933a3233",
+      "title": "Meinl-Reisinger verteidigt Sozialhilfereform und sieht in FPÖ zugleich \"guten Brandmelder\" und \"Brandbeschleuniger\"",
+      "overview": "Die Wiener Neos halten am Samstag ihre Landesmitgliederversammlung ab. Meinl-Reisinger fordert dort unter anderem die Abschaffung der nicht-amtsführenden Stadträte",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T13:00:32+00:00",
+      "updated_at": "2026-11-14T13:00:32+00:00",
+      "article_ids": [
+        "cf4044197ab24f9ac1f5"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-7157a7ecf100799260e2",
+      "title": "Amal: \"Dann durfte ich kein Kind mehr sein\"",
+      "overview": "Amal ist gläubige Muslimin und vor familiärer Gewalt im Namen der Ehre nach Österreich geflüchtet. Als Kind musste sie sich verhüllen und wollte so frei wie ein Bub sein. Heute wünscht sie sich ein Kopftuchverbot bis 18",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T12:54:58+00:00",
+      "updated_at": "2026-11-14T12:54:58+00:00",
+      "article_ids": [
+        "daaec7b6418ba6b446df"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-bc97a607cb152c7e153a",
+      "title": "Wahl im Südsudan erneut verschoben",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T12:54:31+00:00",
+      "updated_at": "2026-11-14T12:54:31+00:00",
+      "article_ids": [
+        "e286272b8e6ab426ab5f"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-eaa9cc3e6397e07185be",
+      "title": "D: Große Anteilnahme bei Trauerfeier für Aiwanger",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T10:52:31+00:00",
+      "updated_at": "2026-11-14T12:42:04+00:00",
+      "article_ids": [
+        "d20954244430d4c80e1d",
+        "0aa78107d35054f8a8c6"
+      ],
+      "publisher_count": 2,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [
+        "aiwanger",
+        "anteilnahme",
+        "große",
+        "trauerfeier"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-1b40e6a3316f27b9ba7d",
+      "title": "Brennendes Fett mit Wasser gelöscht: 24-Jährige schwer verletzt",
+      "overview": "Brennendes Fett darf niemals mit Wasser gelöscht werden. Die 24-Jährige wurde vorsorglich in künstlichen Tiefschlaf versetzt und mit dem Hubschrauber abtransportiert",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T12:30:58+00:00",
+      "updated_at": "2026-11-14T12:30:58+00:00",
+      "article_ids": [
+        "26b0acd8d44d41333da9"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-434baa350ab8cdc9c3bb",
+      "title": "One industry surged DC lobbying 337% under Trump — here’s what’s driving the push",
+      "overview": "FIRST ON FOX: President Donald Trump has made tariffs a centerpiece of his trade agenda, and businesses are spending more on D.C. bureaucrats to help navigate those rules. Rachel Greszler, who authored a new report from Advancing American Freedom (AAF), said companies are paying lobbyists to seek exemptions from tariffs instead of using that money to grow their businesses, hire workers or raise wages. A new report from former Vice President Mike Pence's group found that lobbying disclosures mention tariffs rising 239% in the third quarter of 2026 compared with the same period in 2024. The tota",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T12:30:39+00:00",
+      "updated_at": "2026-11-14T12:30:39+00:00",
+      "article_ids": [
+        "64e96bd5762e7658923c"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-78f84ff4d6872f7573ae",
+      "title": "Mutmaßliche Betrüger festgenommen: 76-Jähriger sollte 100.000 Euro in bar übergeben",
+      "overview": "Die Polizei wartete bei der Übergabe in der Wohnung des Opfers. Zwei Beschuldigte wurden in die Justizanstalt Josefstadt eingeliefert",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T12:20:56+00:00",
+      "updated_at": "2026-11-14T12:20:56+00:00",
+      "article_ids": [
+        "408eebd1860733802f41"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-9334ff98a8ce09541cd2",
+      "title": "‘Enough is enough’: rising number of deadly ebike battery fires spark fear in New York City",
+      "overview": "City has failed to build infrastructure that could reduce threat, and saw 400 fires, 83 injuries and 12 deaths this year Fires from lithium-ion batteries, which power ebikes and scooters, have become regular occurrences in New York, causing deaths and fear among residents, but the city has failed to build infrastructure that could reduce the threat. New York has seen a dramatic uptick this year in fires from the batteries. In 2025, there were 292 fires, 51 injuries and one death, according to the New York fire department (FDNY). This year, there have already been more than 400 fires, 83 injuri",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T12:00:44+00:00",
+      "updated_at": "2026-11-14T12:00:44+00:00",
+      "article_ids": [
+        "9d1c7da3af5d7aeba507"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-5b0e64dd28015986259b",
+      "title": "Identitäre vor Wiener Schulen: Eine alte Strategie kehrt zurück",
+      "overview": "Schon vor über 30 Jahren waren Schulen Schauplätze rechtsextremer Propagandaaktionen",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T12:00:32+00:00",
+      "updated_at": "2026-11-14T12:00:32+00:00",
+      "article_ids": [
+        "816172e8f7699f73d695"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-61a978ee7dc1a410ba62",
+      "title": "GOP newcomer who toppled Cory Mills sets sights on fraud, inflation as he heads to Capitol Hill",
+      "overview": "EXCLUSIVE: Florida Republican congressman-elect Ryan Elijah told Fox News Digital that he is heading to Washington with an \"appetite\" to crack down on fraud, protect consumers and tackle inflation, while calling for bipartisan cooperation in the incoming Congress. Elijah, a former Central Florida sports broadcaster, made his remarks amid heightened scrutiny of fraud involving taxpayer-funded federal programs across the country. \"I'm going to lean into consumer protection — that's something I fought for my whole life — and lean into fraud,\" Elijah told Fox News Digital. \"There is so much more W",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T12:00:08+00:00",
+      "updated_at": "2026-11-14T12:00:08+00:00",
+      "article_ids": [
+        "ec8a6e47aeba01ee5a9c"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [
+        {
+          "category": "Rates and inflation",
+          "sector": "Broad market",
+          "symbols": [
+            "SPY"
+          ],
+          "mechanism": "Interest rates and inflation affect financing costs, discount rates and spending.",
+          "positive": "Lower borrowing costs may support investment and demand.",
+          "negative": "Persistent inflation or tighter policy may increase financing pressure.",
+          "horizon": "Weeks to months; timing uncertain",
+          "uncertainty": "Magnitude, policy details, timing and existing market expectations are uncertain. Scenarios may not materialise.",
+          "article_ids": [
+            "ec8a6e47aeba01ee5a9c"
+          ],
+          "matches": {
+            "SPY": "Available reporting mentions “inflation”; this links to the configured Broad market exposure, not proof of a price effect."
+          }
+        }
+      ],
+      "ai": null
+    },
+    {
+      "id": "story-bc971b41449879b4320e",
+      "title": "\"Shit Happens\": Zu Besuch bei einer Selbsthilfegruppe der Immobilienbranche",
+      "overview": "Bei der ersten Immo-Shit-Happens-Night in Wien berichteten Jäger des Betongolds von gescheiterten Projekten und ihrem Weg zum Erfolg. Auf viele Immobilien!",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T12:00:00+00:00",
+      "updated_at": "2026-11-14T12:00:00+00:00",
+      "article_ids": [
+        "6c38b5219988f89c1d00"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-43c51060a357fe205d23",
+      "title": "Was über den längsten Flug-Shutdown in den USA seit 9/11 bisher bekannt ist",
+      "overview": "Die Trump-Regierung macht veraltete Technik für den stundenlangen Ausfall verantwortlich, dessen Folgen wohl noch tagelang spürbar sein werden. Ein politischer Streit ist bereits zuvor entbrannt",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T11:30:06+00:00",
+      "updated_at": "2026-11-14T11:30:06+00:00",
+      "article_ids": [
+        "8519823d640623356f28"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-609d847b5434cac47238",
+      "title": "Nations League im Liveticker: Österreich vs. Irland, ab 20.45 Uhr",
+      "overview": "Das ÖFB-Team bestreitet in Linz sein letztes Heimspiel der laufenden Nations League. Bei einem Sieg winkt der Aufstieg in Liga A. Wir berichten live",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T11:23:25+00:00",
+      "updated_at": "2026-11-14T11:23:25+00:00",
+      "article_ids": [
+        "ab083b41fd50bc065fcc"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-9602e10fdb11dbe63e62",
+      "title": "Grüne: Pühringer und Kraus als Wiener Spitzenduo bestätigt",
+      "overview": "Das Duo Judith Pühringer und Peter Kraus wurde mit 87,7 Prozent der Stimmberechtigten wiedergewählt",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T11:20:30+00:00",
+      "updated_at": "2026-11-14T11:20:30+00:00",
+      "article_ids": [
+        "05a6c0afe703a8307fbd"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-b309ed0c742cf75a4c66",
+      "title": "Anzeige gegen Innsbrucker Bürgermeister nach Mitarbeiterfest",
+      "overview": "Staatsanwaltschaft prüft Anfangsverdacht wegen Amtsmissbrauchs. Der Bürgermeister soll laut der Anzeige Mitarbeitende beim Einsatz wegen Lärmbeschwerden gehindert haben",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T11:18:16+00:00",
+      "updated_at": "2026-11-14T11:18:16+00:00",
+      "article_ids": [
+        "1c571492938dec330420"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-af00e4cd8093a4af971c",
+      "title": "Kind in Tirol wog nur elf Kilogramm, Eltern im Jänner vor Gericht",
+      "overview": "Die Staatsanwaltschaft erhebt Anklage gegen die Eltern eines hautkranken, stark unterernährten siebenjährigen Mädchens",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T11:01:32+00:00",
+      "updated_at": "2026-11-14T11:01:32+00:00",
+      "article_ids": [
+        "597555a1cf68e6b73010"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-9f7cdbc967b187639068",
+      "title": "Der Falafel-König vom Brunnenmarkt",
+      "overview": "Am Brunnenmarkt verkaufen zwei Brüder aus dem Irak vegetarische Küche aus Syrien. Das schmeckt allen, sogar dem Bürgermeister",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T11:01:32+00:00",
+      "updated_at": "2026-11-14T11:01:32+00:00",
+      "article_ids": [
+        "7751b45bcb19a96e80aa"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-41841785ed7eade8cff6",
+      "title": "Ein kluges Pferd zeigt Grenzen künstlicher Intelligenz auf",
+      "overview": "Vor mehr als 120 Jahren verblüffte ein Pferd mit vermeintlichen Rechenkünsten die Welt. Der Fall des klugen Hans offenbart ein grundlegendes Problem der KI – mit Folgen für die Wissenschaft",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T11:01:00+00:00",
+      "updated_at": "2026-11-14T11:01:00+00:00",
+      "article_ids": [
+        "8a9c39436e84f95204a5"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-951c50aa819065ad899c",
+      "title": "Ecuadorian fishermen who survived US boat strikes sue Trump administration",
+      "overview": "US military has killed nearly 250 people in attack on ‘narco-terrorism’, and on 17 March, sank the 16 plaintiffs’ boat, leaving two with serious burns More than a dozen Ecuadorian fishermen are suing the US government after they survived a military drone attack in the Pacific ocean earlier this year that sank their boat and left two of them with serious burns from the explosions. The 17 March attack on the La Negra Francesca Duarte II was part of the Trump administration’s Operation Southern Spear campaign, announced in November 2025 ostensibly to counter “narco-terrorists” it said operated in",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T11:00:42+00:00",
+      "updated_at": "2026-11-14T11:00:42+00:00",
+      "article_ids": [
+        "6bf4ca6fc352e44937c3"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-828535bbb937542d46c2",
+      "title": "Inside the House GOP strategy to capitalize on Democrats' warring factions in the new Congress",
+      "overview": "EXCLUSIVE: House Republicans are heading into the next Congress ready to brawl. Rep. Tom Emmer, R-Minn., who is set to go from the No. 3 most powerful House Republican to No. 2 next year, told Fox News Digital that the GOP will hold the new Democrat majority \"accountable\" for their far-left faction's ideas over the next two years, even if they cannot control what bills get a vote. Emmer, who has served as House majority whip for the past four years, was elected Tuesday to serve as minority whip alongside incoming House Minority Leader Jim Jordan, R-Ohio. The Speaker of the House position turns",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T11:00:13+00:00",
+      "updated_at": "2026-11-14T11:00:13+00:00",
+      "article_ids": [
+        "f8b836c87d6110573735"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-8b4c565905271eaeaf28",
+      "title": "Warum Entspannung nicht auf Knopfdruck funktioniert – und wie man den Körper dabei unterstützen kann",
+      "overview": "Der Arbeitstag ist vorbei, der Stress aber nicht: Wer ständig aktiv ist, verlernt mitunter, zur Ruhe zu kommen. Einfache Übungen können das Nervensystem bei der Regulation unterstützen",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T11:00:08+00:00",
+      "updated_at": "2026-11-14T11:00:08+00:00",
+      "article_ids": [
+        "dc088edf38bdf605043c"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [
+        {
+          "category": "Regulation and spending",
+          "sector": "Regulated sectors",
+          "symbols": [],
+          "mechanism": "Policy changes can alter compliance costs, public demand and market access.",
+          "positive": "Public investment or clearer rules may benefit some suppliers.",
+          "negative": "New constraints may increase costs or restrict activity.",
+          "horizon": "Weeks to months; timing uncertain",
+          "uncertainty": "Magnitude, policy details, timing and existing market expectations are uncertain. Scenarios may not materialise.",
+          "article_ids": [
+            "dc088edf38bdf605043c"
+          ],
+          "matches": {}
+        }
+      ],
+      "ai": null
+    },
+    {
+      "id": "story-8835a4cf83f689fa9b20",
+      "title": "Trump keeps signaling an end to Iran war, but expert warns a crucial piece of his strategy is missing",
+      "overview": "President Donald Trump declared Thursday that the United States no longer needs a deal with Iran, abruptly shifting his diplomatic message just three days after expressing optimism about negotiations and directing Vice President JD Vance to focus on domestic issues instead. \"We don’t need a deal with Iran. Those days have long since passed,\" Trump wrote on Truth Social. \"We’ve got their money, Hundreds of Billions of Dollars, and we’ve got their Strait!\" Trump's latest declaration came just one day after he proclaimed victory over Iran during a Veterans Day ceremony at Arlington National Cemet",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T11:00:05+00:00",
+      "updated_at": "2026-11-14T11:00:05+00:00",
+      "article_ids": [
+        "8816d3ccb2eae699a1d9"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-1d5fb7b05fc84b5c275a",
+      "title": "Crispy Miso-Aubergine",
+      "overview": "Im Rezept aus dem Buch \"Maka Magic\" wird frittierte Melanzani mit einer umamigen Miso-Marinade bestrichen",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T11:00:00+00:00",
+      "updated_at": "2026-11-14T11:00:00+00:00",
+      "article_ids": [
+        "36251f9ac921317517b4"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-4fa029013e61e4f2bd8f",
+      "title": "Mann nach Attacke in Niederösterreich durch Schuss von Polizei verletzt",
+      "overview": "Der 38-Jährige hatte sich an Gleisanlage der Westbahn aufgehalten und soll trotz Pfefferspray-Einsatz renitent geblieben sein. Er befindet sich außer Lebensgefahr",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T12:40:55+00:00",
+      "updated_at": "2026-11-14T10:54:26+00:00",
+      "article_ids": [
+        "9f0094b0e046956c0006",
+        "a5de0132c59e8ddf929f"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 2,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [
+        "nach",
+        "niederösterreich",
+        "polizei",
+        "schuss"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-10b681936f5862ff1ec2",
+      "title": "Eklat mit Vorsitzland, Kritik am Führungsstil: Trotzdem will OSZE-\"General\" Uno-Chef werden",
+      "overview": "Der Türke Feridun Sinirlioğlu will Uno-Chef werden. STANDARD-Recherchen legen aber einen schwierigen Führungsstil nahe sowie mögliche Versuche, seine festgelegten Kompetenzen und Befugnisse umzuinterpretieren",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T10:50:27+00:00",
+      "updated_at": "2026-11-14T10:50:27+00:00",
+      "article_ids": [
+        "f039de1984b34b9ee6e6"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-4b2b93eaf341a2797b30",
+      "title": "USA brachten NATO-Beitritt aufs Tapet",
+      "overview": "Die USA haben nach den Worten des ukrainischen Präsidenten Wolodymyr Selenskyj der Ukraine die NATO-Mitgliedschaft im Gegenzug für einen Gebietsverzicht in Aussicht gestellt. Selenskjy bekräftigte seine Haltung, dass Kiew nicht bereit sei, sich aus seinem Hoheitsgebiet zurückzuziehen – stellte gleichzeitig aber auch ein Referendum zu der Frage in den Raum.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T10:47:55+00:00",
+      "updated_at": "2026-11-14T10:47:55+00:00",
+      "article_ids": [
+        "a57f1f626f82e79bb0cd"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-5c88af98c973b6098486",
+      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
+      "overview": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T10:42:20+00:00",
+      "updated_at": "2026-11-14T10:42:20+00:00",
+      "article_ids": [
+        "179318a19c3100c421e1"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-26bcc9c28b6dc4ab2c3f",
+      "title": "Krankenkassendefizit 2026 geringer als erwartet",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T10:38:41+00:00",
+      "updated_at": "2026-11-14T10:38:41+00:00",
+      "article_ids": [
+        "e304208594d5a366d30c"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-628b6af00c57fe6253e5",
+      "title": "Socialist LA mayor's bold homelessness promise ahead of 2028 Olympics hit with reality check: 'Not optimistic'",
+      "overview": "Incoming Los Angeles Mayor Nithya Raman has promised to cut the number of people sleeping in tents and homeless encampments by at least 50% before the 2028 Summer Olympics, but one local activist believes her vision may not be realistic. The blue city’s growing homeless population became a major focus of Raman’s mayoral campaign. A member of the Democratic Socialists of America (DSA), she plans to expand shelter and housing options while stretching \"every dollar as far as possible.\" John Alle, a business owner and co-founder of the Santa Monica Coalition, told Fox News Digital Raman won’t be a",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T10:30:51+00:00",
+      "updated_at": "2026-11-14T10:30:51+00:00",
+      "article_ids": [
+        "25e4fb67fa836816fa22"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
       "id": "story-37e9cbf75e3838f5f9d9",
       "title": "Klare Regeln für KI? Was Nobelpreisträger Geoffrey Hinton damit genau meint",
       "overview": "Der \"Vater der KI\" warnt davor, dass KI sich gegen ihre Schöpfer richten könnte. Dem STANDARD erklärt er, welche Maßnahmen dagegen helfen könnten",
@@ -25995,42 +30299,6 @@
       "ai": null
     },
     {
-      "id": "story-242dfd7aa854ada0a0e7",
-      "title": "Smart Sudoku sehr schwierig 790b",
-      "overview": "",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-13T17:00:00+00:00",
-      "updated_at": "2026-11-13T17:00:00+00:00",
-      "article_ids": [
-        "9275fac9d0c42253042a"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
       "id": "story-f456c963734866a73ec4",
       "title": "Sudoku extrem schwierig 6571a",
       "overview": "",
@@ -26418,42 +30686,6 @@
         "US"
       ],
       "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-9b0a9c4810901b16a9fe",
-      "title": "Was Sie heute streamen können: \"The Good Daughter\" auf HBO Max",
-      "overview": "Familienzusammenführung auf die ungemütliche Art",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-13T16:06:47+00:00",
-      "updated_at": "2026-11-13T16:06:47+00:00",
-      "article_ids": [
-        "24ab229fade6b93e3eab"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
       "common_terms": [],
       "limitations": [
         "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
@@ -30407,6 +34639,42 @@
         "US"
       ],
       "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-3d24141a5ecfb7b30fa4",
+      "title": "Bisher vier Gropyus-Töchter in Insolvenz, eine davon in Österreich",
+      "overview": "Die oberösterreichische Gropyus Engineering GmbH ist von der großangelegten Umstrukturierung betroffen",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T09:58:06+00:00",
+      "updated_at": "2026-11-13T09:58:06+00:00",
+      "article_ids": [
+        "28e82df66add46e431d3"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
       "common_terms": [],
       "limitations": [
         "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
@@ -38175,42 +42443,6 @@
       "updated_at": "2026-11-12T12:51:41+00:00",
       "article_ids": [
         "7b66ed356b120926cb4a"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-4fa029013e61e4f2bd8f",
-      "title": "Mann nach Attacke in Niederösterreich durch Schuss von Polizei verletzt",
-      "overview": "Der 38-Jährige hatte sich an Gleisanlage der Westbahn aufgehalten und soll trotz Pfefferspray-Einsatz renitent geblieben sein. Er befindet sich außer Lebensgefahr",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-12T12:40:55+00:00",
-      "updated_at": "2026-11-12T12:40:55+00:00",
-      "article_ids": [
-        "9f0094b0e046956c0006"
       ],
       "publisher_count": 1,
       "article_counts": {
@@ -63101,16 +67333,16 @@
   "markets": [],
   "status": {
     "state": "ok",
-    "attempted_at": "2026-11-14T10:37:43.833257+00:00",
-    "last_success_at": "2026-11-14T10:37:43.833257+00:00",
+    "attempted_at": "2026-11-14T17:12:49.132174+00:00",
+    "last_success_at": "2026-11-14T17:12:49.132174+00:00",
     "errors": [],
     "source_results": {
       "bbc-world": "25 entries",
       "guardian-us": "33 entries",
       "fox-politics": "25 entries",
       "bbc-business": "39 entries",
-      "orf": "25 entries",
-      "standard": "149 entries"
+      "orf": "23 entries",
+      "standard": "151 entries"
     },
     "market_status": "Market price data not configured",
     "ai_status": "AI enrichment not configured"
