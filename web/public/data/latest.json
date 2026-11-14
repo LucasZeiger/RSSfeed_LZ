@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "mode": "live",
-  "generated_at": "2026-11-14T17:12:49.132174+00:00",
+  "generated_at": "2026-11-14T21:34:39.903319+00:00",
   "refresh_minutes": 60,
   "sources": [
     {
@@ -91,6 +91,357 @@
   ],
   "articles": [
     {
+      "id": "bf655f113c932cfd3973",
+      "source_id": "orf",
+      "title": "Vom Teenie-Hype zum Unterhaltungsimperium",
+      "url": "https://orf.at/stories/3447393/",
+      "summary": "Drei Staffeln Netflix, ein Podcast mit 100 Millionen Streams, im Dezember „Wetten, dass ..?\": Die Kaulitz-Brüder sind 2026 mehr präsent als zu Hochzeiten ihres Teenie-Megahits „Durch den Monsun\" (2005). Am Sonntag spielt ihre Band Tokio Hotel in der ausverkauften Wiener Stadthalle. Erwartet werden alte Fans und neue, die sie womöglich noch gar nicht als Musiker kennen.",
+      "published_at": "2026-11-14T21:32:08+00:00",
+      "fetched_at": "2026-11-14T21:34:39.903319+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Kultur"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "a021f406c13959fb3d93",
+      "source_id": "standard",
+      "title": "VW-Konzernchef: Wollen 2030 neun Millionen Autos verkaufen",
+      "url": "https://www.derstandard.at/story/3000000349257/vw-konzernchef-wollen-2030-neun-millionen-autos-verkaufen?ref=rss",
+      "summary": "Der deutsche Volkswagen-Konzern bekräftigte seine Ziele für 2030. China sei \"noch kein verlorener Markt\", sagte Konzernchef Oliver Blume",
+      "published_at": "2026-11-14T20:50:28+00:00",
+      "fetched_at": "2026-11-14T21:34:39.903319+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "24ea4b3bb7ed390cfb25",
+      "source_id": "standard",
+      "title": "18. Penalty-Versuch bringt VSV-Sieg, Innsbruck verliert in Ljubljana",
+      "url": "https://www.derstandard.at/story/3000000349256/18-penalty-versuch-bringt-vsv-sieg-innsbruck-verliert-in-ljubljana?ref=rss",
+      "summary": "Ljubljana übernimmt mit dem Sieg die Tabellenführung in der Eishockey-Liga",
+      "published_at": "2026-11-14T20:45:50+00:00",
+      "fetched_at": "2026-11-14T21:34:39.903319+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "bf7fde3bcf1a5cde5475",
+      "source_id": "guardian-us",
+      "title": "Georgia football recruit Marcellus Young Casario dies at 18 after medical emergency",
+      "url": "https://www.theguardian.com/sport/2026/nov/14/marcellus-young-casario-georgia-football-recruit-dies",
+      "summary": "Canadian lineman died Friday after medical incident Three-star prospect committed to Georgia in June High school postpones game as coach pays tribute Marcellus Young Casario, an 18-year-old Canadian high school football player who had committed to Georgia, died Friday following what his school described as a medical emergency. Casario, a senior defensive lineman at Rabun Gap-Nacoochee School in northeast Georgia, was taken to hospital after an incident Friday morning. The school announced his death later that day but did not identify him until Saturday. No further details about the circumstanc",
+      "published_at": "2026-11-14T20:44:28+00:00",
+      "fetched_at": "2026-11-14T21:34:39.903319+00:00",
+      "date_estimated": false,
+      "author": "Guardian sport",
+      "categories": [
+        "College football",
+        "College sports",
+        "Sport",
+        "US sports"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "b7ad8aa9f59dab919dbf",
+      "source_id": "orf",
+      "title": "Tod von psychisch Krankem löst Empörung in Kroatien aus",
+      "url": "https://orf.at/stories/3448202/",
+      "summary": "",
+      "published_at": "2026-11-14T20:23:42+00:00",
+      "fetched_at": "2026-11-14T21:34:39.903319+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Chronik"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "5fcc6a5d631b1002203a",
+      "source_id": "orf",
+      "title": "Medien: USA verlieren Status als masernfreies Land",
+      "url": "https://orf.at/stories/3448201/",
+      "summary": "",
+      "published_at": "2026-11-14T20:02:24+00:00",
+      "fetched_at": "2026-11-14T21:34:39.903319+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Gesundheit"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "e7b5cf3e4a67822c19f9",
+      "source_id": "orf",
+      "title": "200 Festnahmen bei neuen Protesten in Frankreich",
+      "url": "https://orf.at/stories/3448200/",
+      "summary": "",
+      "published_at": "2026-11-14T19:58:27+00:00",
+      "fetched_at": "2026-11-14T21:34:39.903319+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "a5812be4d51b21d8b914",
+      "source_id": "standard",
+      "title": "200 Festnahmen bei Protesten in Frankreich",
+      "url": "https://www.derstandard.at/story/3000000349254/200-festnahmen-bei-protesten-in-frankreich?ref=rss",
+      "summary": "Erneut gab es in Frankreich Proteste gegen hohe Lebenshaltungskosten und für bessere Bildung. In mehreren Städten wie Marseille, Grenoble und Lyon gab es Zwischenfälle",
+      "published_at": "2026-11-14T19:51:23+00:00",
+      "fetched_at": "2026-11-14T21:34:39.903319+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "bd31629412ad5c2a6587",
+      "source_id": "guardian-us",
+      "title": "Mike Johnson: ‘Leaders have to take responsibility when things go wrong’",
+      "url": "https://www.theguardian.com/us-news/2026/nov/14/mike-johnson-republican-midterms-losses",
+      "summary": "Republican House speaker not running for re-election contrasts sharply with president who avoids accountability In his first interview since the midterm elections, the US House speaker, Mike Johnson, said that the Republican party’s crushing losses during the 3 November elections prompted his decision to step away from party leadership. “Leaders have to take responsibility when things go wrong,” Johnson said on Fox News on Saturday. Continue reading...",
+      "published_at": "2026-11-14T19:38:19+00:00",
+      "fetched_at": "2026-11-14T21:34:39.903319+00:00",
+      "date_estimated": false,
+      "author": "Anna Betts",
+      "categories": [
+        "Mike Johnson",
+        "US midterm elections 2026",
+        "House of Representatives",
+        "US Congress",
+        "Donald Trump",
+        "US politics",
+        "US news"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "d1e83084f525fbb3217a",
+      "source_id": "standard",
+      "title": "USA verlieren laut Berichten Status als masernfreies Land",
+      "url": "https://www.derstandard.at/story/3000000349253/usa-verlieren-status-als-masernfreies-land?ref=rss",
+      "summary": "Grund dafür ist, dass derselbe Masernvirusstamm seit mindestens zwölf Monaten ununterbrochen innerhalb des Lands übertragen wird. In diesem Jahr wurden bereits 5412 Infektionen registriert",
+      "published_at": "2026-11-14T19:34:41+00:00",
+      "fetched_at": "2026-11-14T21:34:39.903319+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "fb69ae30d23bbc27d933",
+      "source_id": "fox-politics",
+      "title": "Justice Alito warns America must preserve 3 core principles regardless of country’s ‘atmosphere’",
+      "url": "https://www.foxnews.com/politics/justice-alito-warns-america-preserve-3-core-principles-regardless-countrys-atmosphere",
+      "summary": "Supreme Court Justice Samuel Alito recently laid out three principles Americans must cling to to ensure the integrity of the republic: freedom of speech, religious liberty and racial equality. \"I'm not saying we're entering the dark age, but these are things that we have to preserve no matter what the atmosphere is in the country or the world at the time,\" Alito said during a fireside chat with Mollie Hemingway, editor-in-chief at the Federalist, which followed the Antonin Scalia Memorial Dinner at the 2026 National Lawyer's Convention in Washington D.C. The remarks come on the heels of the bl",
+      "published_at": "2026-11-14T19:29:34+00:00",
+      "fetched_at": "2026-11-14T21:34:39.903319+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "999f28d2-eb0d-5bd6-b3de-232e4e55414f",
+        "fnc",
+        "Fox News",
+        "fox-news/politics/judiciary",
+        "fox-news/us/personal-freedoms",
+        "fox-news/opinion/culture-opinion",
+        "fox-news/us/personal-freedoms/first-amendment",
+        "fox-news/us/personal-freedoms/bill-of-rights",
+        "fox-news/faith-values",
+        "fox-news/politics/judiciary/supreme-court"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "bbfa1b99ce19da058fc7",
+      "source_id": "orf",
+      "title": "Ungarische Ermittler finden Millionen Euro",
+      "url": "https://orf.at/stories/3448196/",
+      "summary": "Die in Ungarn neu geschaffene Antikorruptionsbehörde NVVH hat Bargeld im Wert von knapp 18 Millionen Euro gefunden. In Bündeln sei das Geld in einem Wald vergraben, Lagerhallen versteckt und in Tresoren gelagert gewesen. Der Fund betreffe Ermittlungen gegen den Ex-Minister der Regierung des früheren Premier Viktor Orban, Miklos Sesztak, teilte die Behörde gegenüber der Nachrichtenagentur MTI am Freitag mit.",
+      "published_at": "2026-11-14T19:15:11+00:00",
+      "fetched_at": "2026-11-14T21:34:39.903319+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "6565a4d0b8b4a7f03549",
+      "source_id": "standard",
+      "title": "ÖBV-Frauen in EM-Quali gegen Italien chancenlos",
+      "url": "https://www.derstandard.at/story/3000000349251/basketball-214bv-frauen-in-em-quali-gegen-italien-chancenlos?ref=rss",
+      "summary": "Nach der zweiten Niederlage im zweiten Spiel sind die Chancen auf eine EM-Teilnahme im Juni 2027 erneut gesunken. Topscorerin Sagerer sagt: \"Es war ein Spiel zum Lernen\"",
+      "published_at": "2026-11-14T19:13:16+00:00",
+      "fetched_at": "2026-11-14T21:34:39.903319+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "9d6b7f66f5b1f6a6ece2",
+      "source_id": "bbc-world",
+      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy9lynq4qno?at_campaign=rss&at_medium=RSS",
+      "summary": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+      "published_at": "2026-11-14T19:12:25+00:00",
+      "fetched_at": "2026-11-14T21:34:39.903319+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "4e581ec9ee5259460358",
+      "source_id": "orf",
+      "title": "Deutsche gewinnt „Mensch ärgere Dich nicht“-WM",
+      "url": "https://orf.at/stories/3448198/",
+      "summary": "",
+      "published_at": "2026-11-14T19:08:50+00:00",
+      "fetched_at": "2026-11-14T21:34:39.903319+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Chronik"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "588311969d234ea6b132",
+      "source_id": "standard",
+      "title": "Ärztin: \"Selbstbefriedigung kann die Lust auf gemeinsamen Sex steigern\"",
+      "url": "https://www.derstandard.at/story/3000000347538/aerztin-selbstbefriedigung-kann-die-lust-auf-gemeinsamen-sex-steigern?ref=rss",
+      "summary": "Selbstbefriedigung ist in Beziehungen ganz normal – und trotzdem oft ein Tabuthema. Eine Sexualtherapeutin erklärt, warum Solo-Sex das gemeinsame Sexleben bereichern kann",
+      "published_at": "2026-11-14T19:00:00+00:00",
+      "fetched_at": "2026-11-14T21:34:39.903319+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "782dbe6a8788312f9e58",
+      "source_id": "standard",
+      "title": "Deutscher Ex-Arbeitsminister Hubertus Heil kandidiert für SPD-Vorsitz",
+      "url": "https://www.derstandard.at/story/3000000349250/zeitung-ex-arbeitsminister-hubertus-heil-kandidiert-f252r-spd-vorsitz?ref=rss",
+      "summary": "Heil hat laut Berichten am Samstag seine Bewerbung verschickt. Die SPD will im Jänner bei einem Sonder-Parteitag ihre gesamte Führungsspitze neu wählen",
+      "published_at": "2026-11-14T18:49:11+00:00",
+      "fetched_at": "2026-11-14T21:34:39.903319+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "62df003ebd99c002bee1",
+      "source_id": "bbc-world",
+      "title": "Philippines wins first Eurovision Song Contest Asia",
+      "url": "https://www.bbc.co.uk/news/articles/cqrlgnx9dx6eo?at_campaign=rss&at_medium=RSS",
+      "summary": "Front-runner Carmelle emerges victorious with her women's empowerment anthem Sobra-Sobra.",
+      "published_at": "2026-11-14T18:17:58+00:00",
+      "fetched_at": "2026-11-14T21:34:39.903319+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "d0e02433ec035202530d",
+      "source_id": "bbc-world",
+      "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+      "url": "https://www.bbc.co.uk/news/articles/cmwy05gg75lvo?at_campaign=rss&at_medium=RSS",
+      "summary": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
+      "published_at": "2026-11-14T18:00:10+00:00",
+      "fetched_at": "2026-11-14T21:34:39.903319+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "99229266a72a67d78492",
+      "source_id": "standard",
+      "title": "Buchtipps der Woche: Selbstlose Heldinnen, Island-Krimi und liebe wütende Waschbären",
+      "url": "https://www.derstandard.at/story/3000000348532/buchtipps-der-woche-selbstlose-heldinnen-island-krimi-und-liebe-wuetende-waschbaeren?ref=rss",
+      "summary": "Von der Graphic Novel über den Krimi bis zur Lyrik, vom Kinderbuch bis zum Bildband: die aktuellen Empfehlungen der ALBUM-Redaktion",
+      "published_at": "2026-11-14T18:00:00+00:00",
+      "fetched_at": "2026-11-14T21:34:39.903319+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "f7648a2ea92d1cb65c8c",
+      "source_id": "standard",
+      "title": "Yusuf Demir verlängert Rapid-Vertrag vorzeitig bis 2031",
+      "url": "https://www.derstandard.at/story/3000000349248/yusuf-demir-verlaengert-rapid-vertrag-vorzeitig-bis-2031?ref=rss",
+      "summary": "Der 23-jährige Offensivspieler kommt in der laufenden Saison auf 15 Torbeteiligungen in 19 Pflichtspielen",
+      "published_at": "2026-11-14T17:34:49+00:00",
+      "fetched_at": "2026-11-14T21:34:39.903319+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
       "id": "348e152db4ce9a2d7739",
       "source_id": "standard",
       "title": "Österreichs U17 verliert 0:7 gegen Kasachstan und steht vor EM-Quali-Aus",
@@ -103,6 +454,27 @@
       "categories": [],
       "language": "de",
       "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "74f38ff4e1361723dbcd",
+      "source_id": "fox-politics",
+      "title": "White House lawyer's hardball warning to Dems has legal experts on both sides questioning one key threat",
+      "url": "https://www.foxnews.com/politics/white-house-lawyers-hardball-warning-dems-has-legal-experts-both-sides-questioning-one-key-threat",
+      "summary": "Counsel to the president William Scharf sent a letter to House Committee on Oversight and Government Reform ranking member California Democratic Rep. Robert Garcia Nov. 9, warning Democrats against running afoul of their allotted powers pertaining to investigations and subpoenas. The letter put Democratic lawmakers on notice to remind them of the \"foundational limits that the Constitution imposes on congressional investigations and subpoenas\" and suggesting that their actions could cross the line of criminal misconduct. Garcia, who is poised to chair the committee next year when Democrats gain",
+      "published_at": "2026-11-14T17:00:05+00:00",
+      "fetched_at": "2026-11-14T21:34:39.903319+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "e2647ba4-c04a-5b77-a910-d53549a67781",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
       "category": "Politics"
     },
     {
@@ -163,6 +535,27 @@
       "categories": [],
       "language": "de",
       "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "898e12ad324137b4c0fa",
+      "source_id": "guardian-us",
+      "title": "Democrat wins Alaska governor’s seat for first time in nearly 30 years",
+      "url": "https://www.theguardian.com/us-news/2026/nov/14/alaska-governor-democrat-jonathan-kreiss-tomkins-wins",
+      "summary": "Jonathan Kreiss-Tomkins’ victory means Democrats will now hold 30 US governorships after midterm blowout Democrats have captured Alaska’s governor’s seat for the first time in nearly three decades, marking another major victory for their party in a midterm election period that has dramatically shifted political power across the US. Former Alaska state legislator Jonathan Kreiss-Tomkins defeated three Republican opponents, including a candidate backed by Donald Trump, becoming the first Democrat elected governor of Alaska since 1998. Continue reading...",
+      "published_at": "2026-11-14T16:58:33+00:00",
+      "fetched_at": "2026-11-14T21:34:39.903319+00:00",
+      "date_estimated": false,
+      "author": "Marina Dunbar",
+      "categories": [
+        "Alaska",
+        "Democrats",
+        "US midterm elections 2026",
+        "US politics",
+        "US news"
+      ],
+      "language": "en",
+      "country": "US",
       "category": "Politics"
     },
     {
@@ -1311,6 +1704,28 @@
       "category": "Politics"
     },
     {
+      "id": "d5504ad22eb919650058",
+      "source_id": "guardian-us",
+      "title": "‘We must deliver’: jubilant Democrats gather in Denver to chart way forward",
+      "url": "https://www.theguardian.com/us-news/2026/nov/14/democrats-denver-whats-next-conference",
+      "summary": "At party’s ‘What’s Next’ conference, consensus is they need to act quickly, but over affordability or accountability is the question What’s next for Democrats? It’s the question thousands of Democrats, including lawmakers, strategists, pollsters, creators, organizers, staffers and 2028 presidential hopefuls are trying to answer at a three-day gathering in Denver, after a sweeping victory in the 2026 midterm elections. Continue reading...",
+      "published_at": "2026-11-14T11:00:44+00:00",
+      "fetched_at": "2026-11-14T21:34:39.903319+00:00",
+      "date_estimated": false,
+      "author": "Ariana Baio in Denver",
+      "categories": [
+        "Democrats",
+        "US midterm elections 2026",
+        "US politics",
+        "Denver",
+        "US news",
+        "Colorado"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
       "id": "6bf4ca6fc352e44937c3",
       "source_id": "guardian-us",
       "title": "Ecuadorian fishermen who survived US boat strikes sue Trump administration",
@@ -1447,6 +1862,21 @@
       "language": "de",
       "country": "AT",
       "category": "World"
+    },
+    {
+      "id": "d1753442ff840c4e6119",
+      "source_id": "standard",
+      "title": "OSCE \"general\" sets sights on top UN job, despite clash with chairmanship and criticism of his leadership",
+      "url": "https://www.derstandard.at/story/3000000348977/osce-general-sets-sights-on-top-un-job-despite-clash-with-chairmanship-and-criticism-of-his-leadership?ref=rss",
+      "summary": "Turkey’s Feridun Sinirlioğlu wants to become Secretary-General of the UN. But an investigation by DER STANDARD points to a difficult leadership style and possible attempts to reinterpret his formally defined responsibilities and powers",
+      "published_at": "2026-11-14T10:50:31+00:00",
+      "fetched_at": "2026-11-14T21:34:39.903319+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
     },
     {
       "id": "f039de1984b34b9ee6e6",
@@ -6473,6 +6903,21 @@
       "summary": "Aus einer schwierigen Geschwisterbeziehung wird eine der wichtigsten Verbindungen im Leben unserer Autorin. Über das Glück, im eigenen Bruder einen Menschen fürs Leben zu finden",
       "published_at": "2026-11-13T07:00:00+00:00",
       "fetched_at": "2026-11-13T15:28:20.716853+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "03702e0d5891c4da2b43",
+      "source_id": "standard",
+      "title": "Welche Erinnerungen verbindet ihr mit der Arena Wien?",
+      "url": "https://www.derstandard.at/story/3000000349042/welche-erinnerungen-verbindet-ihr-mit-der-arena-wien?ref=rss",
+      "summary": "Mein Forum: Diskutieren Sie dieses Thema mit der STANDARD-Community",
+      "published_at": "2026-11-13T07:00:00+00:00",
+      "fetched_at": "2026-11-14T21:34:39.903319+00:00",
       "date_estimated": false,
       "author": "standard",
       "categories": [],
@@ -22716,6 +23161,711 @@
   ],
   "stories": [
     {
+      "id": "story-45c3bf74002412d77d07",
+      "title": "Vom Teenie-Hype zum Unterhaltungsimperium",
+      "overview": "Drei Staffeln Netflix, ein Podcast mit 100 Millionen Streams, im Dezember „Wetten, dass ..?\": Die Kaulitz-Brüder sind 2026 mehr präsent als zu Hochzeiten ihres Teenie-Megahits „Durch den Monsun\" (2005). Am Sonntag spielt ihre Band Tokio Hotel in der ausverkauften Wiener Stadthalle. Erwartet werden alte Fans und neue, die sie womöglich noch gar nicht als Musiker kennen.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T21:32:08+00:00",
+      "updated_at": "2026-11-14T21:32:08+00:00",
+      "article_ids": [
+        "bf655f113c932cfd3973"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-bd4089346e864aead78e",
+      "title": "VW-Konzernchef: Wollen 2030 neun Millionen Autos verkaufen",
+      "overview": "Der deutsche Volkswagen-Konzern bekräftigte seine Ziele für 2030. China sei \"noch kein verlorener Markt\", sagte Konzernchef Oliver Blume",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T20:50:28+00:00",
+      "updated_at": "2026-11-14T20:50:28+00:00",
+      "article_ids": [
+        "a021f406c13959fb3d93"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-e2a51358618c3fc96577",
+      "title": "18. Penalty-Versuch bringt VSV-Sieg, Innsbruck verliert in Ljubljana",
+      "overview": "Ljubljana übernimmt mit dem Sieg die Tabellenführung in der Eishockey-Liga",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T20:45:50+00:00",
+      "updated_at": "2026-11-14T20:45:50+00:00",
+      "article_ids": [
+        "24ea4b3bb7ed390cfb25"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-e6565543ba6ba2f25082",
+      "title": "Georgia football recruit Marcellus Young Casario dies at 18 after medical emergency",
+      "overview": "Canadian lineman died Friday after medical incident Three-star prospect committed to Georgia in June High school postpones game as coach pays tribute Marcellus Young Casario, an 18-year-old Canadian high school football player who had committed to Georgia, died Friday following what his school described as a medical emergency. Casario, a senior defensive lineman at Rabun Gap-Nacoochee School in northeast Georgia, was taken to hospital after an incident Friday morning. The school announced his death later that day but did not identify him until Saturday. No further details about the circumstanc",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T20:44:28+00:00",
+      "updated_at": "2026-11-14T20:44:28+00:00",
+      "article_ids": [
+        "bf7fde3bcf1a5cde5475"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-976dd92a2d23f8eddafd",
+      "title": "Tod von psychisch Krankem löst Empörung in Kroatien aus",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T20:23:42+00:00",
+      "updated_at": "2026-11-14T20:23:42+00:00",
+      "article_ids": [
+        "b7ad8aa9f59dab919dbf"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-47ef1010b454a3c50d52",
+      "title": "USA verlieren laut Berichten Status als masernfreies Land",
+      "overview": "Grund dafür ist, dass derselbe Masernvirusstamm seit mindestens zwölf Monaten ununterbrochen innerhalb des Lands übertragen wird. In diesem Jahr wurden bereits 5412 Infektionen registriert",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T19:34:41+00:00",
+      "updated_at": "2026-11-14T20:02:24+00:00",
+      "article_ids": [
+        "d1e83084f525fbb3217a",
+        "5fcc6a5d631b1002203a"
+      ],
+      "publisher_count": 2,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [
+        "als",
+        "land",
+        "masernfreies",
+        "status",
+        "usa",
+        "verlieren"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-670f26ef3099cf3f7839",
+      "title": "200 Festnahmen bei Protesten in Frankreich",
+      "overview": "Erneut gab es in Frankreich Proteste gegen hohe Lebenshaltungskosten und für bessere Bildung. In mehreren Städten wie Marseille, Grenoble und Lyon gab es Zwischenfälle",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T19:51:23+00:00",
+      "updated_at": "2026-11-14T19:58:27+00:00",
+      "article_ids": [
+        "a5812be4d51b21d8b914",
+        "e7b5cf3e4a67822c19f9"
+      ],
+      "publisher_count": 2,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [
+        "200",
+        "bei",
+        "festnahmen",
+        "frankreich",
+        "protesten"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-439e512299570c5443aa",
+      "title": "Mike Johnson: ‘Leaders have to take responsibility when things go wrong’",
+      "overview": "Republican House speaker not running for re-election contrasts sharply with president who avoids accountability In his first interview since the midterm elections, the US House speaker, Mike Johnson, said that the Republican party’s crushing losses during the 3 November elections prompted his decision to step away from party leadership. “Leaders have to take responsibility when things go wrong,” Johnson said on Fox News on Saturday. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T19:38:19+00:00",
+      "updated_at": "2026-11-14T19:38:19+00:00",
+      "article_ids": [
+        "bd31629412ad5c2a6587"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-21219484288ca6d37be6",
+      "title": "Justice Alito warns America must preserve 3 core principles regardless of country’s ‘atmosphere’",
+      "overview": "Supreme Court Justice Samuel Alito recently laid out three principles Americans must cling to to ensure the integrity of the republic: freedom of speech, religious liberty and racial equality. \"I'm not saying we're entering the dark age, but these are things that we have to preserve no matter what the atmosphere is in the country or the world at the time,\" Alito said during a fireside chat with Mollie Hemingway, editor-in-chief at the Federalist, which followed the Antonin Scalia Memorial Dinner at the 2026 National Lawyer's Convention in Washington D.C. The remarks come on the heels of the bl",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T19:29:34+00:00",
+      "updated_at": "2026-11-14T19:29:34+00:00",
+      "article_ids": [
+        "fb69ae30d23bbc27d933"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-830efce2637e7185d40d",
+      "title": "Ungarische Ermittler finden Millionen Euro",
+      "overview": "Die in Ungarn neu geschaffene Antikorruptionsbehörde NVVH hat Bargeld im Wert von knapp 18 Millionen Euro gefunden. In Bündeln sei das Geld in einem Wald vergraben, Lagerhallen versteckt und in Tresoren gelagert gewesen. Der Fund betreffe Ermittlungen gegen den Ex-Minister der Regierung des früheren Premier Viktor Orban, Miklos Sesztak, teilte die Behörde gegenüber der Nachrichtenagentur MTI am Freitag mit.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T19:15:11+00:00",
+      "updated_at": "2026-11-14T19:15:11+00:00",
+      "article_ids": [
+        "bbfa1b99ce19da058fc7"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-7443f68101a6475a1e8c",
+      "title": "ÖBV-Frauen in EM-Quali gegen Italien chancenlos",
+      "overview": "Nach der zweiten Niederlage im zweiten Spiel sind die Chancen auf eine EM-Teilnahme im Juni 2027 erneut gesunken. Topscorerin Sagerer sagt: \"Es war ein Spiel zum Lernen\"",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T19:13:16+00:00",
+      "updated_at": "2026-11-14T19:13:16+00:00",
+      "article_ids": [
+        "6565a4d0b8b4a7f03549"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-84a68bc85d369b5ec46c",
+      "title": "Copper wire upgrade caused nationwide flight suspension, US transport secretary says",
+      "overview": "The US government is trying to find out whether the chaos was caused by \"incompetence\" or faulty equipment.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T19:12:25+00:00",
+      "updated_at": "2026-11-14T19:12:25+00:00",
+      "article_ids": [
+        "9d6b7f66f5b1f6a6ece2"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-c970c90f74037822fa04",
+      "title": "Deutsche gewinnt „Mensch ärgere Dich nicht“-WM",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T19:08:50+00:00",
+      "updated_at": "2026-11-14T19:08:50+00:00",
+      "article_ids": [
+        "4e581ec9ee5259460358"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-6b76c372a305e9e6a1a7",
+      "title": "Ärztin: \"Selbstbefriedigung kann die Lust auf gemeinsamen Sex steigern\"",
+      "overview": "Selbstbefriedigung ist in Beziehungen ganz normal – und trotzdem oft ein Tabuthema. Eine Sexualtherapeutin erklärt, warum Solo-Sex das gemeinsame Sexleben bereichern kann",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T19:00:00+00:00",
+      "updated_at": "2026-11-14T19:00:00+00:00",
+      "article_ids": [
+        "588311969d234ea6b132"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-7fd73fda1824e8fe71be",
+      "title": "Deutscher Ex-Arbeitsminister Hubertus Heil kandidiert für SPD-Vorsitz",
+      "overview": "Heil hat laut Berichten am Samstag seine Bewerbung verschickt. Die SPD will im Jänner bei einem Sonder-Parteitag ihre gesamte Führungsspitze neu wählen",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T18:49:11+00:00",
+      "updated_at": "2026-11-14T18:49:11+00:00",
+      "article_ids": [
+        "782dbe6a8788312f9e58"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-0cae1d445c029dca7e66",
+      "title": "Will the Eurovision Song Contest succeed in Asia?",
+      "overview": "The world’s biggest and longest-running song contest is coming to Asia, with eleven countries competing in Bangkok, Thailand on Saturday.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T02:24:11+00:00",
+      "updated_at": "2026-11-14T18:17:58+00:00",
+      "article_ids": [
+        "995588920a6a44eb6776",
+        "62df003ebd99c002bee1"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 2
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [
+        "asia",
+        "contest",
+        "eurovision",
+        "song"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-7a4f0acdca486b3b71e0",
+      "title": "Sotheby's auction of $180m Van Gogh challenged over claims it was 'sold under duress'",
+      "overview": "Sotheby's says it will work with the heirs of a family who had previously owned the artwork to try and reach a solution.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T18:00:10+00:00",
+      "updated_at": "2026-11-14T18:00:10+00:00",
+      "article_ids": [
+        "d0e02433ec035202530d"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-142b0d77a97dc7dabc34",
+      "title": "Buchtipps der Woche: Selbstlose Heldinnen, Island-Krimi und liebe wütende Waschbären",
+      "overview": "Von der Graphic Novel über den Krimi bis zur Lyrik, vom Kinderbuch bis zum Bildband: die aktuellen Empfehlungen der ALBUM-Redaktion",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T18:00:00+00:00",
+      "updated_at": "2026-11-14T18:00:00+00:00",
+      "article_ids": [
+        "99229266a72a67d78492"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-0b3c156bd44b65453f95",
+      "title": "Yusuf Demir verlängert Rapid-Vertrag vorzeitig bis 2031",
+      "overview": "Der 23-jährige Offensivspieler kommt in der laufenden Saison auf 15 Torbeteiligungen in 19 Pflichtspielen",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T17:34:49+00:00",
+      "updated_at": "2026-11-14T17:34:49+00:00",
+      "article_ids": [
+        "f7648a2ea92d1cb65c8c"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
       "id": "story-fd3edd5d210290640acc",
       "title": "Österreichs U17 verliert 0:7 gegen Kasachstan und steht vor EM-Quali-Aus",
       "overview": "Die Auswahl von Teamchef Hermann Stadler musste sich beim Mini-Turnier in Georgien dem Team aus Kasachstan deutlich geschlagen geben",
@@ -22743,6 +23893,42 @@
         "AT"
       ],
       "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-c9d284f008c9f6ddaa9a",
+      "title": "White House lawyer's hardball warning to Dems has legal experts on both sides questioning one key threat",
+      "overview": "Counsel to the president William Scharf sent a letter to House Committee on Oversight and Government Reform ranking member California Democratic Rep. Robert Garcia Nov. 9, warning Democrats against running afoul of their allotted powers pertaining to investigations and subpoenas. The letter put Democratic lawmakers on notice to remind them of the \"foundational limits that the Constitution imposes on congressional investigations and subpoenas\" and suggesting that their actions could cross the line of criminal misconduct. Garcia, who is poised to chair the committee next year when Democrats gain",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T17:00:05+00:00",
+      "updated_at": "2026-11-14T17:00:05+00:00",
+      "article_ids": [
+        "74f38ff4e1361723dbcd"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
       "common_terms": [],
       "limitations": [
         "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
@@ -22892,6 +24078,42 @@
         "AT"
       ],
       "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-bbf4e9255d7b93bf6deb",
+      "title": "Democrat wins Alaska governor’s seat for first time in nearly 30 years",
+      "overview": "Jonathan Kreiss-Tomkins’ victory means Democrats will now hold 30 US governorships after midterm blowout Democrats have captured Alaska’s governor’s seat for the first time in nearly three decades, marking another major victory for their party in a midterm election period that has dramatically shifted political power across the US. Former Alaska state legislator Jonathan Kreiss-Tomkins defeated three Republican opponents, including a candidate backed by Donald Trump, becoming the first Democrat elected governor of Alaska since 1998. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T16:58:33+00:00",
+      "updated_at": "2026-11-14T16:58:33+00:00",
+      "article_ids": [
+        "898e12ad324137b4c0fa"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
       "common_terms": [],
       "limitations": [
         "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
@@ -25140,6 +26362,42 @@
       "ai": null
     },
     {
+      "id": "story-c1c51c8bbfba8e4291a0",
+      "title": "‘We must deliver’: jubilant Democrats gather in Denver to chart way forward",
+      "overview": "At party’s ‘What’s Next’ conference, consensus is they need to act quickly, but over affordability or accountability is the question What’s next for Democrats? It’s the question thousands of Democrats, including lawmakers, strategists, pollsters, creators, organizers, staffers and 2028 presidential hopefuls are trying to answer at a three-day gathering in Denver, after a sweeping victory in the 2026 midterm elections. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T11:00:44+00:00",
+      "updated_at": "2026-11-14T11:00:44+00:00",
+      "article_ids": [
+        "d5504ad22eb919650058"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
       "id": "story-951c50aa819065ad899c",
       "title": "Ecuadorian fishermen who survived US boat strikes sue Trump administration",
       "overview": "US military has killed nearly 250 people in attack on ‘narco-terrorism’, and on 17 March, sank the 16 plaintiffs’ boat, leaving two with serious burns More than a dozen Ecuadorian fishermen are suing the US government after they survived a military drone attack in the Pacific ocean earlier this year that sank their boat and left two of them with serious burns from the explosions. The 17 March attack on the La Negra Francesca Duarte II was part of the Trump administration’s Operation Southern Spear campaign, announced in November 2025 ostensibly to counter “narco-terrorists” it said operated in",
@@ -25369,6 +26627,42 @@
         "polizei",
         "schuss"
       ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-f95de0ab2ff32aa0d2e4",
+      "title": "OSCE \"general\" sets sights on top UN job, despite clash with chairmanship and criticism of his leadership",
+      "overview": "Turkey’s Feridun Sinirlioğlu wants to become Secretary-General of the UN. But an investigation by DER STANDARD points to a difficult leadership style and possible attempts to reinterpret his formally defined responsibilities and powers",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T10:50:31+00:00",
+      "updated_at": "2026-11-14T10:50:31+00:00",
+      "article_ids": [
+        "d1753442ff840c4e6119"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
       "limitations": [
         "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
         "Insufficient coverage for comparison."
@@ -35705,6 +36999,42 @@
       "ai": null
     },
     {
+      "id": "story-c785158ca9889bae5f51",
+      "title": "Welche Erinnerungen verbindet ihr mit der Arena Wien?",
+      "overview": "Mein Forum: Diskutieren Sie dieses Thema mit der STANDARD-Community",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T07:00:00+00:00",
+      "updated_at": "2026-11-13T07:00:00+00:00",
+      "article_ids": [
+        "03702e0d5891c4da2b43"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
       "id": "story-2a7dcdffb1728b6cdea3",
       "title": "Großer Bruder, kleine Schwester: Wie wir unerwartet zu besten Freunden wurden",
       "overview": "Aus einer schwierigen Geschwisterbeziehung wird eine der wichtigsten Verbindungen im Leben unserer Autorin. Über das Glück, im eigenen Bruder einen Menschen fürs Leben zu finden",
@@ -37083,42 +38413,6 @@
       "category": "Politics",
       "countries": [
         "US"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-0cae1d445c029dca7e66",
-      "title": "Will the Eurovision Song Contest succeed in Asia?",
-      "overview": "The world’s biggest and longest-running song contest is coming to Asia, with eleven countries competing in Bangkok, Thailand on Saturday.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-13T02:24:11+00:00",
-      "updated_at": "2026-11-13T02:24:11+00:00",
-      "article_ids": [
-        "995588920a6a44eb6776"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "UK"
       ],
       "language": "en",
       "common_terms": [],
@@ -67333,15 +68627,15 @@
   "markets": [],
   "status": {
     "state": "ok",
-    "attempted_at": "2026-11-14T17:12:49.132174+00:00",
-    "last_success_at": "2026-11-14T17:12:49.132174+00:00",
+    "attempted_at": "2026-11-14T21:34:39.903319+00:00",
+    "last_success_at": "2026-11-14T21:34:39.903319+00:00",
     "errors": [],
     "source_results": {
-      "bbc-world": "25 entries",
+      "bbc-world": "23 entries",
       "guardian-us": "33 entries",
       "fox-politics": "25 entries",
       "bbc-business": "39 entries",
-      "orf": "23 entries",
+      "orf": "25 entries",
       "standard": "151 entries"
     },
     "market_status": "Market price data not configured",
