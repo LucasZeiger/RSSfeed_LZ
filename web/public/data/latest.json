@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "mode": "live",
-  "generated_at": "2026-11-14T21:34:39.903319+00:00",
+  "generated_at": "2026-11-15T01:58:33.364278+00:00",
   "refresh_minutes": 60,
   "sources": [
     {
@@ -90,6 +90,262 @@
     }
   ],
   "articles": [
+    {
+      "id": "4dcfd8e7136b7f3db817",
+      "source_id": "guardian-us",
+      "title": "NFL referee faces 112-mile dash on double-duty Sunday after FAA ground stop",
+      "url": "https://www.theguardian.com/sport/2026/nov/14/nfl-referee-two-games-faa-ground-stop-sports-travel-disruption",
+      "summary": "Don Willard faces 112-mile trip between NFL games NBA scrambles to replace referees stranded by delays College football games postponed as teams struggle An NFL official will work two games on the same day Sunday after the Federal Aviation Administration grounded all flights nationwide for several hours Friday, disrupting travel plans for professional and college teams across the country. Don Willard will officiate the Miami Dolphins’ game against the Indianapolis Colts at 1pm ET before traveling 112 miles east to work the Pittsburgh Steelers’ Sunday Night Football matchup against the Cincinna",
+      "published_at": "2026-11-15T01:26:32+00:00",
+      "fetched_at": "2026-11-15T01:58:33.364278+00:00",
+      "date_estimated": false,
+      "author": "Guardian sport and agencies",
+      "categories": [
+        "US sports",
+        "NFL",
+        "NBA",
+        "NWSL",
+        "Air transport",
+        "College football",
+        "NHL"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "6d56e2307778ae9fe3d1",
+      "source_id": "bbc-world",
+      "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
+      "url": "https://www.bbc.co.uk/news/articles/cmvg2e2q28w1o?at_campaign=rss&at_medium=RSS",
+      "summary": "Fear and misinformation surrounds the Ebola outbreak in DR Congo - Dr Kamwanga's mother was not immune.",
+      "published_at": "2026-11-15T00:06:55+00:00",
+      "fetched_at": "2026-11-15T01:58:33.364278+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "12dcfd8a9ad45f1ef5d0",
+      "source_id": "bbc-world",
+      "title": "Judo champion shakes up French presidential race with surprise candidacy",
+      "url": "https://www.bbc.co.uk/news/articles/c6dj1e8wyykmo?at_campaign=rss&at_medium=RSS",
+      "summary": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him.",
+      "published_at": "2026-11-15T00:06:51+00:00",
+      "fetched_at": "2026-11-15T01:58:33.364278+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "9072c7f958594b975e85",
+      "source_id": "bbc-business",
+      "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+      "url": "https://www.bbc.co.uk/news/articles/cqn83l442724o?at_campaign=rss&at_medium=RSS",
+      "summary": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
+      "published_at": "2026-11-15T00:01:07+00:00",
+      "fetched_at": "2026-11-15T01:58:33.364278+00:00",
+      "date_estimated": false,
+      "author": "bbc-business",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "Business"
+    },
+    {
+      "id": "06bc18071a4e26217be5",
+      "source_id": "guardian-us",
+      "title": "Andreeva to face Svitolina in WTA Finals showpiece as Sabalenka apologises",
+      "url": "https://www.theguardian.com/sport/2026/nov/14/mirra-andreeva-jessica-pegula-wta-finals-semi-final-indian-wells",
+      "summary": "Russian teen will face Ukraine star in the final Sabalenka issues public apology after social media storm The rise of Mirra Andreeva has seemed inevitable ever since she burst on to the tour as a precocious 15-year-old more than three years ago, but this week, six months after her maiden grand slam triumph at Roland Garros, she has taken another massive step forward in her career. The 19-year-old will attempt to close out the most impressive week of her career by winning one of her most significant titles after thoroughly outplaying Jessica Pegula, the fifth seed, 6-3, 6-4 to reach the champio",
+      "published_at": "2026-11-14T23:46:09+00:00",
+      "fetched_at": "2026-11-15T01:58:33.364278+00:00",
+      "date_estimated": false,
+      "author": "Tumaini Carayol",
+      "categories": [
+        "WTA Finals",
+        "Sport",
+        "Tennis",
+        "US sports",
+        "Aryna Sabalenka"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "318b3eb9593b262f354f",
+      "source_id": "guardian-us",
+      "title": "Pulisic double leads US to 6-0 rout of Haiti in Pochettino’s farewell tour",
+      "url": "https://www.theguardian.com/football/2026/nov/14/usmnt-haiti-pulisic-pochettino-nations-league-quarter-final",
+      "summary": "US take 5-0 lead in Nations League quarter-final Hall, 18, scores again as Pochettino prepares for exit Pulisic goes into fourth on all-time US scoring list When Mauricio Pochettino named his US roster for the November window, few could have expected that the games would double as his brief lame-duck era. A week of camp instead brought constant media coverage, efficient negotiations and questions about the future of the national team. Come Wednesday, his day job will take him far from the federation’s headquarters in Fayetteville, Georgia, as he hopes to make sense of Manchester United. Saturd",
+      "published_at": "2026-11-14T23:43:28+00:00",
+      "fetched_at": "2026-11-15T01:58:33.364278+00:00",
+      "date_estimated": false,
+      "author": "Jeff Rueter",
+      "categories": [
+        "USA",
+        "Haiti football team",
+        "Mauricio Pochettino",
+        "Manchester United",
+        "Football",
+        "US sports",
+        "Sport",
+        "Christian Pulisic"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "4d307e636692c39e603d",
+      "source_id": "standard",
+      "title": "Rapid-Mitglieder stimmen gegen U21-EM im Allianz Stadion",
+      "url": "https://www.derstandard.at/story/3000000349261/fu223ball-rapid-mitglieder-stimmten-gegen-u21-em-im-allianz-stadion?ref=rss",
+      "summary": "Österreich bewirbt sich unter anderem mit dem Allianz Stadion für die Endrunde, die am 7. Dezember vergeben wird. Es ist offen, ob das Rapid-Präsidium die Zusage an den ÖFB nun zurückzieht",
+      "published_at": "2026-11-14T22:53:15+00:00",
+      "fetched_at": "2026-11-15T01:58:33.364278+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "a6b1353b9e95cec7a7db",
+      "source_id": "standard",
+      "title": "Russin Andrejewa erste Finalistin bei WTA Finals",
+      "url": "https://www.derstandard.at/story/3000000349260/russin-andrejewa-erste-finalistin-bei-wta-finals?ref=rss",
+      "summary": "Die 19-Jährige ist ab Montag die Nummer zwei der Welt. Im Finale trifft sie entweder auf die Ukrainerin Switolina oder die Tschechin Nosková",
+      "published_at": "2026-11-14T22:47:30+00:00",
+      "fetched_at": "2026-11-15T01:58:33.364278+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "afd03cd84e15dd32ecb9",
+      "source_id": "orf",
+      "title": "Drei Öltanker in Straße von Hormus nach Minenkontakt in Brand",
+      "url": "https://orf.at/stories/3448208/",
+      "summary": "",
+      "published_at": "2026-11-14T22:29:20+00:00",
+      "fetched_at": "2026-11-15T01:58:33.364278+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "24e0c783c889156f093f",
+      "source_id": "orf",
+      "title": "Europa im Christkindlmarkt-Wettstreit",
+      "url": "https://orf.at/stories/3447970/",
+      "summary": "Am Wochenende ist der Startschuss für viele große Christkindlmärkte in Österreich gefallen. Doch nicht nur hier: Für mehrere Wochen verwandeln sich die Innenstädte vieler Städte in Europa in fast flächendeckende Marktgebiete. Um hervorzustechen werben Veranstalter mit Superlativen und offiziellen Titeln um immer noch wachsende Zielgruppen. Beschwerden häufen sich hingegen in Großbritannien – nicht jeder Markt scheint dort zu halten, was er verspricht.",
+      "published_at": "2026-11-14T22:23:49+00:00",
+      "fetched_at": "2026-11-15T01:58:33.364278+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Lifestyle"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "4115912fac3bd2e17266",
+      "source_id": "orf",
+      "title": "Haus eines Journalisten in Panama in Brand",
+      "url": "https://orf.at/stories/3448205/",
+      "summary": "",
+      "published_at": "2026-11-14T22:12:58+00:00",
+      "fetched_at": "2026-11-15T01:58:33.364278+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Chronik"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "0b06d42bcfbea00e28d7",
+      "source_id": "bbc-world",
+      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "url": "https://www.bbc.co.uk/news/videos/cwlym2gy3y3eo?at_campaign=rss&at_medium=RSS",
+      "summary": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+      "published_at": "2026-11-14T22:09:40+00:00",
+      "fetched_at": "2026-11-15T01:58:33.364278+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "c77d1187a11e7e4272c2",
+      "source_id": "standard",
+      "title": "1:0-Sieg gegen Irland: Österreich steigt in Liga A auf",
+      "url": "https://www.derstandard.at/story/3000000349255/10-sieg-gegen-irland-oesterreich-steigt-in-liga-a-auf?ref=rss",
+      "summary": "Rangnicks Elf setzte sich in Linz nach einem Goldtor von Kalajdžić durch und ist damit vorzeitig Gruppensieger in der Nations League",
+      "published_at": "2026-11-14T22:02:08+00:00",
+      "fetched_at": "2026-11-15T01:58:33.364278+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "f9cf38842aab904a33fb",
+      "source_id": "standard",
+      "title": "SpaceX fängt Riesen-Rakete Starship erstmals wieder auf",
+      "url": "https://www.derstandard.at/story/3000000349258/spacex-f228ngt-riesen-rakete-starship-erstmals-wieder-auf?ref=rss",
+      "summary": "Zuvor hatte es einen Rückschlag für das Raumfahrtunternehmen von Elon Musk gegeben",
+      "published_at": "2026-11-14T21:48:47+00:00",
+      "fetched_at": "2026-11-15T01:58:33.364278+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "6d9fae0ad73d77fa3688",
+      "source_id": "orf",
+      "title": "SpaceX fängt Riesen-Rakete Starship erstmals wieder auf",
+      "url": "https://orf.at/stories/3448204/",
+      "summary": "",
+      "published_at": "2026-11-14T21:41:57+00:00",
+      "fetched_at": "2026-11-15T01:58:33.364278+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Science"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
     {
       "id": "bf655f113c932cfd3973",
       "source_id": "orf",
@@ -23142,24 +23398,531 @@
       "language": "de",
       "country": "AT",
       "category": "Politics"
-    },
-    {
-      "id": "bfa2f512f2375f5f9b07",
-      "source_id": "bbc-business",
-      "title": "Ipswich Town's new club shop 'here to stay'",
-      "url": "https://www.bbc.co.uk/news/videos/cxnv0455zq5jo?at_campaign=rss&at_medium=RSS",
-      "summary": "Fans and players are delighted at the new \"activation space\" in the town centre.",
-      "published_at": "2026-11-07T21:40:32+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "bbc-business",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "Business"
     }
   ],
   "stories": [
+    {
+      "id": "story-1611adcdc7b3e0694db1",
+      "title": "NFL referee faces 112-mile dash on double-duty Sunday after FAA ground stop",
+      "overview": "Don Willard faces 112-mile trip between NFL games NBA scrambles to replace referees stranded by delays College football games postponed as teams struggle An NFL official will work two games on the same day Sunday after the Federal Aviation Administration grounded all flights nationwide for several hours Friday, disrupting travel plans for professional and college teams across the country. Don Willard will officiate the Miami Dolphins’ game against the Indianapolis Colts at 1pm ET before traveling 112 miles east to work the Pittsburgh Steelers’ Sunday Night Football matchup against the Cincinna",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T01:26:32+00:00",
+      "updated_at": "2026-11-15T01:26:32+00:00",
+      "article_ids": [
+        "4dcfd8e7136b7f3db817"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-362cccdd42d3634f2693",
+      "title": "My mother told me I would die if I sought treatment for Ebola - I am proof you can survive",
+      "overview": "Fear and misinformation surrounds the Ebola outbreak in DR Congo - Dr Kamwanga's mother was not immune.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T00:06:55+00:00",
+      "updated_at": "2026-11-15T00:06:55+00:00",
+      "article_ids": [
+        "6d56e2307778ae9fe3d1"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-6717f7f89782aab6a9c3",
+      "title": "Judo champion shakes up French presidential race with surprise candidacy",
+      "overview": "Teddy Riner is one of the most popular figures in modern-day France, and one in five voters say they could support him.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T00:06:51+00:00",
+      "updated_at": "2026-11-15T00:06:51+00:00",
+      "article_ids": [
+        "12dcfd8a9ad45f1ef5d0"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-d4a6a7b9c26fff160e96",
+      "title": "Beauty advent calendars can cost hundreds - but are they value for money?",
+      "overview": "Beauty calendars have become a Christmas staple and have become particularly popular with female shoppers.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T00:01:07+00:00",
+      "updated_at": "2026-11-15T00:01:07+00:00",
+      "article_ids": [
+        "9072c7f958594b975e85"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Business",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-520897e2e1831b346949",
+      "title": "Andreeva to face Svitolina in WTA Finals showpiece as Sabalenka apologises",
+      "overview": "Russian teen will face Ukraine star in the final Sabalenka issues public apology after social media storm The rise of Mirra Andreeva has seemed inevitable ever since she burst on to the tour as a precocious 15-year-old more than three years ago, but this week, six months after her maiden grand slam triumph at Roland Garros, she has taken another massive step forward in her career. The 19-year-old will attempt to close out the most impressive week of her career by winning one of her most significant titles after thoroughly outplaying Jessica Pegula, the fifth seed, 6-3, 6-4 to reach the champio",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T23:46:09+00:00",
+      "updated_at": "2026-11-14T23:46:09+00:00",
+      "article_ids": [
+        "06bc18071a4e26217be5"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-a2b8c9c34524471c5e95",
+      "title": "Pulisic double leads US to 6-0 rout of Haiti in Pochettino’s farewell tour",
+      "overview": "US take 5-0 lead in Nations League quarter-final Hall, 18, scores again as Pochettino prepares for exit Pulisic goes into fourth on all-time US scoring list When Mauricio Pochettino named his US roster for the November window, few could have expected that the games would double as his brief lame-duck era. A week of camp instead brought constant media coverage, efficient negotiations and questions about the future of the national team. Come Wednesday, his day job will take him far from the federation’s headquarters in Fayetteville, Georgia, as he hopes to make sense of Manchester United. Saturd",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T23:43:28+00:00",
+      "updated_at": "2026-11-14T23:43:28+00:00",
+      "article_ids": [
+        "318b3eb9593b262f354f"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-2f4825299cd140743594",
+      "title": "Rapid-Mitglieder stimmen gegen U21-EM im Allianz Stadion",
+      "overview": "Österreich bewirbt sich unter anderem mit dem Allianz Stadion für die Endrunde, die am 7. Dezember vergeben wird. Es ist offen, ob das Rapid-Präsidium die Zusage an den ÖFB nun zurückzieht",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T22:53:15+00:00",
+      "updated_at": "2026-11-14T22:53:15+00:00",
+      "article_ids": [
+        "4d307e636692c39e603d"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-10a75f0b2b3e998c4bab",
+      "title": "Russin Andrejewa erste Finalistin bei WTA Finals",
+      "overview": "Die 19-Jährige ist ab Montag die Nummer zwei der Welt. Im Finale trifft sie entweder auf die Ukrainerin Switolina oder die Tschechin Nosková",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T22:47:30+00:00",
+      "updated_at": "2026-11-14T22:47:30+00:00",
+      "article_ids": [
+        "a6b1353b9e95cec7a7db"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-1bda041c17865012c1ab",
+      "title": "Iran: Öltanker in Straße von Hormus in Brand geraten",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T06:42:18+00:00",
+      "updated_at": "2026-11-14T22:29:20+00:00",
+      "article_ids": [
+        "62e48842d34f267dc4b1",
+        "2087df41c2f778a4223e",
+        "afd03cd84e15dd32ecb9"
+      ],
+      "publisher_count": 2,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 2
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [
+        "brand",
+        "drei",
+        "geraten",
+        "hormus",
+        "straße",
+        "öltanker"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-ce39a9f2173eeda21af2",
+      "title": "Europa im Christkindlmarkt-Wettstreit",
+      "overview": "Am Wochenende ist der Startschuss für viele große Christkindlmärkte in Österreich gefallen. Doch nicht nur hier: Für mehrere Wochen verwandeln sich die Innenstädte vieler Städte in Europa in fast flächendeckende Marktgebiete. Um hervorzustechen werben Veranstalter mit Superlativen und offiziellen Titeln um immer noch wachsende Zielgruppen. Beschwerden häufen sich hingegen in Großbritannien – nicht jeder Markt scheint dort zu halten, was er verspricht.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T22:23:49+00:00",
+      "updated_at": "2026-11-14T22:23:49+00:00",
+      "article_ids": [
+        "24e0c783c889156f093f"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-4e83ec0eee88ff4eff04",
+      "title": "Haus eines Journalisten in Panama in Brand",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T22:12:58+00:00",
+      "updated_at": "2026-11-14T22:12:58+00:00",
+      "article_ids": [
+        "4115912fac3bd2e17266"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-d259b9bcc5e44a010c3d",
+      "title": "'Can you believe it?': SpaceX catches part of its Starship rocket on return to Earth",
+      "overview": "SpaceX has performed the historic catch using mechanical arms nicknamed \"chopsticks\".",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T22:09:40+00:00",
+      "updated_at": "2026-11-14T22:09:40+00:00",
+      "article_ids": [
+        "0b06d42bcfbea00e28d7"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-411d80a2e70e23a8bc8b",
+      "title": "1:0-Sieg gegen Irland: Österreich steigt in Liga A auf",
+      "overview": "Rangnicks Elf setzte sich in Linz nach einem Goldtor von Kalajdžić durch und ist damit vorzeitig Gruppensieger in der Nations League",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T22:02:08+00:00",
+      "updated_at": "2026-11-14T22:02:08+00:00",
+      "article_ids": [
+        "c77d1187a11e7e4272c2"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-f75b5ace8c66332abc3d",
+      "title": "SpaceX fängt Riesen-Rakete Starship erstmals wieder auf",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T21:41:57+00:00",
+      "updated_at": "2026-11-14T21:48:47+00:00",
+      "article_ids": [
+        "6d9fae0ad73d77fa3688",
+        "f9cf38842aab904a33fb"
+      ],
+      "publisher_count": 2,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [
+        "erstmals",
+        "fängt",
+        "rakete",
+        "riesen",
+        "spacex",
+        "starship",
+        "wieder"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
     {
       "id": "story-45c3bf74002412d77d07",
       "title": "Vom Teenie-Hype zum Unterhaltungsimperium",
@@ -27784,49 +28547,6 @@
       ],
       "language": "de",
       "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-1bda041c17865012c1ab",
-      "title": "Iran: Öltanker in Straße von Hormus in Brand geraten",
-      "overview": "",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-14T06:42:18+00:00",
-      "updated_at": "2026-11-14T07:56:06+00:00",
-      "article_ids": [
-        "62e48842d34f267dc4b1",
-        "2087df41c2f778a4223e"
-      ],
-      "publisher_count": 2,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [
-        "brand",
-        "geraten",
-        "hormus",
-        "straße",
-        "öltanker"
-      ],
       "limitations": [
         "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
         "Insufficient coverage for comparison."
@@ -68467,42 +69187,6 @@
       ],
       "exposures": [],
       "ai": null
-    },
-    {
-      "id": "story-db8b3b93e73216ef06a6",
-      "title": "Ipswich Town's new club shop 'here to stay'",
-      "overview": "Fans and players are delighted at the new \"activation space\" in the town centre.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-07T21:40:32+00:00",
-      "updated_at": "2026-11-07T21:40:32+00:00",
-      "article_ids": [
-        "bfa2f512f2375f5f9b07"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "Business",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
     }
   ],
   "instruments": [
@@ -68627,14 +69311,14 @@
   "markets": [],
   "status": {
     "state": "ok",
-    "attempted_at": "2026-11-14T21:34:39.903319+00:00",
-    "last_success_at": "2026-11-14T21:34:39.903319+00:00",
+    "attempted_at": "2026-11-15T01:58:33.364278+00:00",
+    "last_success_at": "2026-11-15T01:58:33.364278+00:00",
     "errors": [],
     "source_results": {
       "bbc-world": "23 entries",
       "guardian-us": "33 entries",
       "fox-politics": "25 entries",
-      "bbc-business": "39 entries",
+      "bbc-business": "40 entries",
       "orf": "25 entries",
       "standard": "151 entries"
     },
