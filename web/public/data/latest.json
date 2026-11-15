@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "mode": "live",
-  "generated_at": "2026-11-15T17:15:10.838578+00:00",
+  "generated_at": "2026-11-15T21:54:22.531480+00:00",
   "refresh_minutes": 60,
   "sources": [
     {
@@ -90,6 +90,626 @@
     }
   ],
   "articles": [
+    {
+      "id": "2a3428db9a2afe6c1011",
+      "source_id": "guardian-us",
+      "title": "WTA Finals final: Elina Svitolina v Mirra Andreeva – live",
+      "url": "https://www.theguardian.com/sport/live/2026/nov/15/wta-finals-final-elina-svitolina-v-mirra-andreeva-live",
+      "summary": "Players meet for end of year championship Sabalenka apologizes to Svitolina after outburst First set: Andreeva* 1-0 Svitolina (*next server) Svitolina quickly drops two points and then sprays a shot wide to give Andreeva three break opportunities. Andreeva hits long on the first. Svitolina misses her first serve, takes her second one despite an emergency vehicle siren in the distance, and it’s a let. She lands the second one, and we have our longest rally so far. Svitolina slowly but surely takes control, and the 19-year-old Andreeva hits just wide. Continue reading...",
+      "published_at": "2026-11-15T21:44:06+00:00",
+      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
+      "date_estimated": false,
+      "author": "Beau Dure",
+      "categories": [
+        "WTA Finals",
+        "Tennis",
+        "US sports",
+        "Sport"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "0938f76e459de2d58f43",
+      "source_id": "standard",
+      "title": "Nutzlast-Rakete von Boeing/Lockheed kurz nach Start abgestürzt",
+      "url": "https://www.derstandard.at/story/3000000349335/nutzlast-rakete-von-boeinglockheed-kurz-nach-start-abgest252rzt?ref=rss",
+      "summary": "Dabei wurden 40 Satelliten zerstört, die für das Internet-Netzwerk Leo des Online-Konzerns Amazon gedacht waren. Die Ursache war zunächst unklar",
+      "published_at": "2026-11-15T21:41:47+00:00",
+      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "306d1c095e373aad202c",
+      "source_id": "guardian-us",
+      "title": "Somali-American Uber driver brutally assaulted in alleged hate crime in Minnesota",
+      "url": "https://www.theguardian.com/us-news/2026/nov/15/somali-american-uber-driver-attack-minnesota",
+      "summary": "Mohamed Yusuf is fighting for his life after alleged attack by passenger who said he did not like driver’s first name A Somali-American Uber driver was allegedly brutally assaulted by a passenger in Hopkins, Minnesota, on Saturday, in what his family says “appears to be a hate crime”. The driver, Mohamed Yusuf, is currently hospitalized and fighting for his life, his family told the Somali Brief, a digital news site run by two Somali American journalists. The driver’s cousin, Abdinasir Ali told the outlet that the alleged attack took place early Saturday after a passenger in Hopkins, a suburba",
+      "published_at": "2026-11-15T21:10:38+00:00",
+      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
+      "date_estimated": false,
+      "author": "Michael Sainato",
+      "categories": [
+        "Minnesota",
+        "US news",
+        "Minneapolis",
+        "Hate crime",
+        "Uber",
+        "US crime"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "839013bff185466b2723",
+      "source_id": "orf",
+      "title": "Boeing-Lockheed-Rakete kurz nach Start abgestürzt",
+      "url": "https://orf.at/stories/3448284/",
+      "summary": "",
+      "published_at": "2026-11-15T21:10:35+00:00",
+      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Wirtschaft"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "3f6f7da7e42b2f1650a1",
+      "source_id": "orf",
+      "title": "Ein Sechser bei Lotto „6 aus 45“",
+      "url": "https://orf.at/stories/3448283/",
+      "summary": "",
+      "published_at": "2026-11-15T21:04:09+00:00",
+      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Chronik"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "81d0644e311b4e1655f5",
+      "source_id": "standard",
+      "title": "Israelische Soldaten nehmen AFP-Mitarbeiter im Westjordanland fest",
+      "url": "https://www.derstandard.at/story/3000000349334/israelische-soldaten-nehmen-afp-mitarbeiter-im-westjordanland-fest?ref=rss",
+      "summary": "Der Vorfall ereignete sich während einer nächtlichen Razzia in seinem Haus. Er werde verdächtigt, \"Verbindungen zur Hamas\" zu haben. Die Nachrichtenagentur forderte Beweise",
+      "published_at": "2026-11-15T21:01:57+00:00",
+      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "82a2d0f56e0ccb0b8894",
+      "source_id": "fox-politics",
+      "title": "FAA ground stop timeline: Weekend chaos grounds planes and postpones games",
+      "url": "https://www.foxnews.com/politics/faa-ground-stop-timeline-weekend-chaos-grounds-planes-postpones-games",
+      "summary": "A communications failure brought departures across the country to a halt Friday, stranding travelers, disrupting professional sports teams and sending federal officials scrambling to restore flights and determine what went wrong. The longest nationwide ground stop in 25 years ended after more than four hours, but the fallout stretched through the weekend as airlines worked through cancellations and investigators zeroed in on routers tied to the outage. Here’s a timeline of the shutdown and the federal response. All times are Eastern. 4 CRITICAL TRAVEL ISSUES FOR THOSE DELAYED AND DISRUPTED BY ",
+      "published_at": "2026-11-15T20:51:02+00:00",
+      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "58cb3baf-94be-5090-8984-37fc8b11ddbb",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/travel/general/airports",
+        "fox-news/travel/general/airlines",
+        "fox-news/politics/finance/investigations",
+        "fox-news/politics/executive/national-security",
+        "fox-news/world/disasters/transportation",
+        "fox-news/politics"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "96566ae82b341c33ca57",
+      "source_id": "orf",
+      "title": "Papst besuchte Anden-Stadt Cusco auf 3.400 Meter Höhe",
+      "url": "https://orf.at/stories/3448281/",
+      "summary": "",
+      "published_at": "2026-11-15T20:18:54+00:00",
+      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Religion"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "5c9f4a3750419587c56d",
+      "source_id": "orf",
+      "title": "Flugchaos in USA hält an: Ursache Router aus 2001",
+      "url": "https://orf.at/stories/3448280/",
+      "summary": "",
+      "published_at": "2026-11-15T20:14:27+00:00",
+      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Wirtschaft"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "2a4271276b4ab7bedc2a",
+      "source_id": "orf",
+      "title": "Bericht: Huthis rücken Richtung Aden vor",
+      "url": "https://orf.at/stories/3448279/",
+      "summary": "",
+      "published_at": "2026-11-15T19:57:50+00:00",
+      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "424157e1e3fc043b75ba",
+      "source_id": "guardian-us",
+      "title": "LSU star MiLaysia Fulwiley arrested after allegedly striking police officer with car",
+      "url": "https://www.theguardian.com/sport/2026/nov/15/lsu-star-milaysia-fulwiley-arrested-after-allegedly-striking-police-officer-with-car",
+      "summary": "Guard allegedly tried to flee traffic stop in Baton Rouge Tigers say they are aware of situation involving player LSU guard MiLaysia Fulwiley, one of the ninth-ranked Tigers’ leading scorers, was arrested after allegedly striking a police officer while attempting to flee from a traffic stop. LSU’s athletic department, in a written statement provided to The Associated Press, said university officials “are aware of the situation and have no further comment at this time as it’s an ongoing legal matter.” Continue reading...",
+      "published_at": "2026-11-15T19:53:07+00:00",
+      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
+      "date_estimated": false,
+      "author": "Associated Press",
+      "categories": [
+        "College basketball",
+        "College sports",
+        "US sports",
+        "Sport",
+        "Louisiana",
+        "US news"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "717c7468013a75db62df",
+      "source_id": "standard",
+      "title": "Rund 1500 Migranten erreichen Kanaren an einem einzigen Tag",
+      "url": "https://www.derstandard.at/story/3000000349332/rund-1500-migranten-erreichen-kanaren-an-einem-einzigen-tag?ref=rss",
+      "summary": "Es war die höchste Zahl innerhalb eines Tages seit Beginn der Erfassungen. Der Großteil der Menschen erreichte die kleine Insel El Hierro",
+      "published_at": "2026-11-15T19:45:31+00:00",
+      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "27b0bafcaf060bc7305a",
+      "source_id": "orf",
+      "title": "Gaza-Hilfe: GB, Italien, Kanada und Australien erhöhen Druck",
+      "url": "https://orf.at/stories/3448278/",
+      "summary": "",
+      "published_at": "2026-11-15T19:44:55+00:00",
+      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "19c2cf0ad4d03856c146",
+      "source_id": "standard",
+      "title": "Huang arbeitet laut Bericht an Rückkehr an Nvidia-Konzernspitze",
+      "url": "https://www.derstandard.at/story/3000000349333/zeitung-ex-nvidia-chef-huang-arbeitet-an-r252ckkehr-an-die-konzernspitze?ref=rss",
+      "summary": "Verbündete im Silicon Valley sollen laut einem Bericht Druck auf den Verwaltungsrat ausüben, Huang wieder an die Spitze des Chipkonzerns zu setzen. Huang war in der vergangenen Woche zurückgetreten",
+      "published_at": "2026-11-15T19:36:14+00:00",
+      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "a5d1637de92e1ec6de66",
+      "source_id": "bbc-world",
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_campaign=rss&at_medium=RSS",
+      "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
+      "published_at": "2026-11-15T19:32:39+00:00",
+      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "d49b9ed0e01e0342dc31",
+      "source_id": "bbc-world",
+      "title": "Ronaldinho makes comeback in Ravenna win",
+      "url": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_campaign=rss&at_medium=RSS",
+      "summary": "Brazil legend Ronaldinho makes his comeback aged 46 for Ravenna, playing the first half of their Italian third-tier derby against Forli.",
+      "published_at": "2026-11-15T19:31:48+00:00",
+      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "5c2d18c58acc28b1e420",
+      "source_id": "orf",
+      "title": "China-Exporte: Bessent fordert Aufklärung von Nvidia",
+      "url": "https://orf.at/stories/3448277/",
+      "summary": "",
+      "published_at": "2026-11-15T19:29:51+00:00",
+      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "64cf291aafa5d7891dad",
+      "source_id": "guardian-us",
+      "title": "Red Brawl New York: Fighting and six red cards mar ‘friendly’ v Club América",
+      "url": "https://www.theguardian.com/football/2026/nov/15/red-bulls-club-america-brawl-friendly",
+      "summary": "Game played without veterans and stars on both sides Red Bulls’ MLS season is already over One hallmark of Mauricio Pochettino’s time in international management has been his refusal to embrace the term “friendly”. His preferred branding is “unofficial games”. His spin gained a bit of validity on Saturday, in the New York Red Bulls’ “friendly” against Club América, marred by a mass brawl between the sides that resulted in five red cards and a bevy of beverages thrown from the stands. Continue reading...",
+      "published_at": "2026-11-15T19:29:41+00:00",
+      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
+      "date_estimated": false,
+      "author": "Jeff Rueter",
+      "categories": [
+        "New York Red Bulls",
+        "MLS",
+        "US sports",
+        "Sport",
+        "Football",
+        "Club América"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "4b8ce86545244339b8bb",
+      "source_id": "guardian-us",
+      "title": "Texas puts to death man who beheaded three children, hours after Oklahoma execution",
+      "url": "https://www.theguardian.com/us-news/2026/nov/15/texas-execution-john-allen-rubio-oklahoma-james-pavatt",
+      "summary": "Oklahoma man, 73, executed for killing ex’s estranged husband, as US nears 40 executions for second straight year A Texas man convicted of fatally stabbing and beheading his three young children in a squalid, windowless apartment in 2003 was recently executed. John Allen Rubio, 46, was pronounced dead at 6.47 pm on Thursday after a lethal injection at the state prison in Huntsville, Texas. His killings of his baby girl and two toddlers so rocked the city of Brownsville on the US border with Mexico that the apartment building was later demolished – and the land turned into a park and community ",
+      "published_at": "2026-11-15T19:27:24+00:00",
+      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
+      "date_estimated": false,
+      "author": "Associated Press",
+      "categories": [
+        "Capital punishment",
+        "US crime",
+        "Texas",
+        "Oklahoma",
+        "US news"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "e1a768ca261aa7e6a701",
+      "source_id": "bbc-world",
+      "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+      "url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_campaign=rss&at_medium=RSS",
+      "summary": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
+      "published_at": "2026-11-15T19:20:53+00:00",
+      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "c45f82138f1dd9f1cf11",
+      "source_id": "standard",
+      "title": "Triumphales Heimspiel für Lions-Superstar St. Brown in München",
+      "url": "https://www.derstandard.at/story/3000000349329/triumph-f252r-st-brown-lions-dominieren-patriots?ref=rss",
+      "summary": "Die Patriots müssen um die Playoffs bangen, zudem verletzte sich Quarterback Drake Maye. Auch DJ Ötzi trat bei der NFL-Party auf",
+      "published_at": "2026-11-15T19:05:19+00:00",
+      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "96c2408a42ac756463e0",
+      "source_id": "standard",
+      "title": "Einblick in fünf heimische Badezimmer: „Im Bad spiegelt sich der Zeitgeist besonders stark wieder“",
+      "url": "https://www.derstandard.at/story/3000000348157/einblick-in-fuenf-heimische-badezimmer-im-bad-spiegelt-sich-der-zeitgeist-besonders-stark-wieder?ref=rss",
+      "summary": "Ein Badezimmer muss gewisse Grundfunktionen erfüllen, eh klar! Dass es sich jedoch lohnt, auch diesem Raum gestalterisch mehr Aufmerksamkeit zu widmen, zeigen diese Exemplare",
+      "published_at": "2026-11-15T19:00:00+00:00",
+      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "fbdad3d4d5a81c8af4d3",
+      "source_id": "orf",
+      "title": "Estland schließt Grenze zu Russland",
+      "url": "https://orf.at/stories/3448259/",
+      "summary": "Nach einem versuchten Brandanschlag auf das Gebäude des Drohnenherstellers Threod Systems in Estland hat die Regierung in Tallinn beschlossen, die Grenzen zu Russland zu schließen. Außenminister Margus Tsahkna sprach am Sonntag von einem Sabotageakt gegen die Rüstungsindustrie des Landes und warf dem russischen Militärgeheimdienst GRU vor, diesen in Auftrag gegeben zu haben.",
+      "published_at": "2026-11-15T18:59:56+00:00",
+      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "fd8450bf85102a661f01",
+      "source_id": "standard",
+      "title": "Kanada bleibt dabei: U20-WM ohne Russland",
+      "url": "https://www.derstandard.at/story/3000000349330/kanada-bleibt-dabei-u20-wm-ohne-russland?ref=rss",
+      "summary": "Weil Gastgeberland Kanada keine Visa ausstellt, findet die WM der U20-Männer ohne russische Beteiligung statt, teilte der Eishockey-Weltverband IIHF mit",
+      "published_at": "2026-11-15T18:55:44+00:00",
+      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "a56bf5a0eeb9e1d029d6",
+      "source_id": "guardian-us",
+      "title": "Senator-elect Scott Colom vows to ensure Trump follows through on his promises",
+      "url": "https://www.theguardian.com/us-news/2026/nov/15/scott-colom-mississippi-senate-trump",
+      "summary": "Mississippi Democrat points to commitments Trump made: lower prices, halt endless wars and release Epstein files After recently becoming the first Mississippi Democrat elected to the US Senate in more than four decades, Scott Colom pledged to try to ensure Donald Trump “follows through on the commitments” he made while successfully running for a second presidency in 2024. Colom, while being interviewed by CNN host Dana Bash on Sunday, alluded to various campaign promises made by Trump – including lowering consumer prices, halting the seemingly endless wars waged under other presidential admini",
+      "published_at": "2026-11-15T18:48:10+00:00",
+      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
+      "date_estimated": false,
+      "author": "Ramon Antonio Vargas",
+      "categories": [
+        "US midterm elections 2026",
+        "Democrats",
+        "US politics",
+        "Mississippi",
+        "US news",
+        "Trump administration",
+        "Donald Trump",
+        "US Senate"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "e333adc66cda8feae7d4",
+      "source_id": "guardian-us",
+      "title": "Chris Van Hollen says he has path to win Senate leader over Chuck Schumer",
+      "url": "https://www.theguardian.com/us-news/2026/nov/15/chris-van-hollen-senate-majority-leader",
+      "summary": "Progressive US senator calling for more inclusion within Democratic caucus cites openness to change among peers Democratic US senator Chris Van Hollen on Sunday escalated his bid to lead his party’s incoming Senate majority rather than Chuck Schumer, asserting that he has a path to victory amid a dedicated campaign that includes a series of television appearances. Van Hollen, a Maryland progressive, appeared on Sunday on CNN, ABC and Fox News as he continues to make his case for why his peers in the Senate should reject Schumer, who has led the Democratic caucus for nearly a decade. Continue r",
+      "published_at": "2026-11-15T18:46:49+00:00",
+      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
+      "date_estimated": false,
+      "author": "Marina Dunbar",
+      "categories": [
+        "US Senate",
+        "Democrats",
+        "Chuck Schumer",
+        "US politics",
+        "US news",
+        "US Congress",
+        "Maryland"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "cbb2409cceeef7edf02c",
+      "source_id": "bbc-world",
+      "title": "Pope Leo rides in helicopter cockpit during Peru trip",
+      "url": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_campaign=rss&at_medium=RSS",
+      "summary": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
+      "published_at": "2026-11-15T18:38:11+00:00",
+      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "f669f8e447cd9464ce5f",
+      "source_id": "orf",
+      "title": "Trump will Berufung gegen Golfplatzstopp einlegen",
+      "url": "https://orf.at/stories/3448274/",
+      "summary": "",
+      "published_at": "2026-11-15T18:09:11+00:00",
+      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "d044591bd225383ec406",
+      "source_id": "standard",
+      "title": "Zu Forschungszwecken: KI-Modelle legen Windpark in unter zwei Stunden lahm",
+      "url": "https://www.derstandard.at/story/3000000349319/zu-forschungszwecken-ki-modelle-legen-windpark-in-unter-zwei-stunden-lahm?ref=rss",
+      "summary": "Als Testumgebung wurde jene Anlage in Polen nachgebaut, die Ende 2025 zum Ziel russischer Hacker wurde",
+      "published_at": "2026-11-15T18:00:00+00:00",
+      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "cfa729087ede9bf4a75b",
+      "source_id": "standard",
+      "title": "ORF steuert auf zweistelligen Millionenverlust zu",
+      "url": "https://www.derstandard.at/story/3000000349314/orf-steuert-auf-zweistelligen-millionenverlust-zu?ref=rss",
+      "summary": "Generaldirektorin Ingrid Thurnher gibt ihrem Nachfolger Clemens Pig einen Finanzplan mit auf den Weg, der wegen Budgetkürzungen Reserven auflöst und ein Minus ausweist",
+      "published_at": "2026-11-15T18:00:00+00:00",
+      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "4705e61e87ea87e799d5",
+      "source_id": "standard",
+      "title": "Echte Zungenbrecher: Die längsten Ortsnamen der Welt",
+      "url": "https://www.derstandard.at/story/3000000349105/echte-zungenbrecher-die-laengsten-ortsnamen-der-welt?ref=rss",
+      "summary": "Einige der längsten Ortsnamen stammen aus Neuseeland, Wales und den USA, mit einzigartigen Geschichten und kulturellen Bedeutungen",
+      "published_at": "2026-11-15T18:00:00+00:00",
+      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "7ae9a3d1d00ff920102f",
+      "source_id": "orf",
+      "title": "Zu Gast: Leonore Gewessler, Bundessprecherin der Grünen",
+      "url": "https://orf.at/stories/3448273/",
+      "summary": "",
+      "published_at": "2026-11-15T17:58:43+00:00",
+      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Inland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "51d2dfbbb4c318038be8",
+      "source_id": "orf",
+      "title": "AFP-Mitarbeiter in Westjordanland festgenommen",
+      "url": "https://orf.at/stories/3448272/",
+      "summary": "",
+      "published_at": "2026-11-15T17:55:32+00:00",
+      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "291ae51dd5d35ceabf07",
+      "source_id": "orf",
+      "title": "Countrysänger Richard Sterban gestorben",
+      "url": "https://orf.at/stories/3448268/",
+      "summary": "",
+      "published_at": "2026-11-15T17:34:04+00:00",
+      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Kultur"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "b67019305d20a477fa8e",
+      "source_id": "guardian-us",
+      "title": "The Guardian view on Cop31: the green transition must not be derailed | Editorial",
+      "url": "https://www.theguardian.com/commentisfree/2026/nov/15/the-guardian-view-on-cop31-the-green-transition-must-not-be-derailed",
+      "summary": "Renewed commitments to electrification and climate science are vital outcomes from the latest round of UN talks The Cop31 climate talks have acquired something their delegates scarcely expected: a little political breathing space. The comeback by Luiz Inácio Lula da Silva in the second round of Brazil’s presidential race was important for many reasons. Victory for his opponent, Flávio Bolsonaro, would have marked a dangerous retreat from democracy. But Mr Bolsonaro’s commitment to environmental deregulation would also have spelled disaster for the Amazon, making Lula’s re-election a big win fo",
+      "published_at": "2026-11-15T17:30:19+00:00",
+      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
+      "date_estimated": false,
+      "author": "Editorial",
+      "categories": [
+        "Cop31",
+        "Climate crisis",
+        "Luiz Inácio Lula da Silva",
+        "Flávio Bolsonaro",
+        "Brazil",
+        "Amazon rainforest",
+        "Turkey",
+        "Recep Tayyip Erdoğan",
+        "United Nations",
+        "G7"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
     {
       "id": "ef8b0666c8fa856edafa",
       "source_id": "orf",
@@ -284,6 +904,21 @@
       ],
       "language": "de",
       "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "72f20297b8579dfd7e54",
+      "source_id": "bbc-world",
+      "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+      "url": "https://www.bbc.co.uk/news/articles/cx5y1pzr9604o?at_campaign=rss&at_medium=RSS",
+      "summary": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
+      "published_at": "2026-11-15T16:15:20+00:00",
+      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
       "category": "World"
     },
     {
@@ -1572,6 +2207,21 @@
       ],
       "language": "en",
       "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "ba640d78e6bf7fd4b8fd",
+      "source_id": "standard",
+      "title": "„Na gut, dann Action!“ im Volkstheater: Eiersuppe auf der Drachenbühne",
+      "url": "https://www.derstandard.at/story/3000000349183/na-gut-dann-action-im-volkstheater-eiersuppe-auf-der-drachenbuehne?ref=rss",
+      "summary": "Christian Brey inszeniert Henry Shields’ schwarze Komödie als deftige Premiere",
+      "published_at": "2026-11-15T10:25:34+00:00",
+      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
       "category": "Politics"
     },
     {
@@ -25228,544 +25878,1229 @@
       "language": "en",
       "country": "UK",
       "category": "World"
-    },
-    {
-      "id": "4f8c122c2c14c2ada720",
-      "source_id": "bbc-business",
-      "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
-      "url": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_campaign=rss&at_medium=RSS",
-      "summary": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
-      "published_at": "2026-11-09T21:52:28+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "bbc-business",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "Business"
-    },
-    {
-      "id": "04d800ed9879cdf789c3",
-      "source_id": "standard",
-      "title": "Alternative Theorie des Universums ohne Dunkle Materie besteht wichtige Tests",
-      "url": "https://www.derstandard.at/story/3000000348156/alternative-theorie-des-universums-ohne-dunkle-materie-besteht-wichtige-tests?ref=rss",
-      "summary": "Der Urknall hätte sich nach diesem Modell namens CCC+TL vor rund 26,7 Milliarden Jahren zugetragen. Etliche wichtige Beobachtungen ließen sich damit erklären",
-      "published_at": "2026-11-09T20:00:00+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "e538de8483b7e5324cbb",
-      "source_id": "bbc-business",
-      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-      "url": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_campaign=rss&at_medium=RSS",
-      "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
-      "published_at": "2026-11-09T19:58:01+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "bbc-business",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "Business"
-    },
-    {
-      "id": "ce4b06cc0f26bde422e3",
-      "source_id": "standard",
-      "title": "APA-Chefredakteurin Katharina Schell ist erste Präsidentin des Presseclubs Concordia",
-      "url": "https://www.derstandard.at/story/3000000348336/apa-chefredakteurin-katharina-schell-ist-erste-praesidentin-des-presseclubs-concordia?ref=rss",
-      "summary": "Gedenken an den im Frühsommer verstorbenen langjährigen Concordia-Präsidenten Andreas Koller: Er hinterlasse eine \"Lücke, die nicht zu schließen ist\"",
-      "published_at": "2026-11-09T19:44:15+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "b7e4bc9a3db0972326f0",
-      "source_id": "bbc-business",
-      "title": "The facial recognition technology stopping shoplifters",
-      "url": "https://www.bbc.co.uk/news/videos/c5x2v2kpwzgvo?at_campaign=rss&at_medium=RSS",
-      "summary": "Business correspondent Emma Simpson tries out Sainsbury's facial recognition technology.",
-      "published_at": "2026-11-09T19:00:43+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "bbc-business",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "Business"
-    },
-    {
-      "id": "24ece97bd31e08245482",
-      "source_id": "standard",
-      "title": "Warum Großstädter jetzt ausgerechnet Dackel lieben",
-      "url": "https://www.derstandard.at/story/3000000348186/warum-grossstaedter-jetzt-ausgerechnet-dackel-lieben?ref=rss",
-      "summary": "Chihuahuas haben ausgedient. Der kleine Jagdhund, der ein traditionelles wie eigensinniges Hundebild verkörpert, ist in den Städten zum bevorzugten Begleiter geworden",
-      "published_at": "2026-11-09T18:56:00+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "4bf48c10d46c669c4092",
-      "source_id": "guardian-us",
-      "title": "The Guardian view on Jensen Huang’s affair: why did Trump ignore the warnings? | Editorial",
-      "url": "https://www.theguardian.com/commentisfree/2026/nov/09/the-guardian-view-on-jensen-huangs-affair-why-did-trump-ignore-the-warnings",
-      "summary": "The AI chip boss’s actions raise urgent questions about corporate influence, national security and the US president’s willingness to listen to intelligence warnings It could be the plot of a spy thriller. One of the most powerful figures in the AI revolution admitted to having an affair with a Chinese businesswomen said to have passed intelligence to Beijing. When Donald Trump was briefed about the Nvidia co-founder Jensen Huang’s liaisons with Alice Huang, he took no action. Perhaps he thought only marriage vows had been broken. Or perhaps Mr Trump was willing to overlook the conduct of a fri",
-      "published_at": "2026-11-09T18:51:10+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "Editorial",
-      "categories": [
-        "Donald Trump",
-        "Nvidia",
-        "China",
-        "AI (artificial intelligence)",
-        "Asia Pacific",
-        "Trump administration",
-        "World news",
-        "US news",
-        "Jensen Huang"
-      ],
-      "language": "en",
-      "country": "US",
-      "category": "Politics"
-    },
-    {
-      "id": "1ece488c65e5b9267369",
-      "source_id": "bbc-business",
-      "title": "How a civil servant got away with juggling five jobs for so long",
-      "url": "https://www.bbc.co.uk/news/articles/cw1m4d8vjvppo?at_campaign=rss&at_medium=RSS",
-      "summary": "Kashim Chowdhury has been convicted of fraud after pocketing £284,000 of taxpayers' money over three years.",
-      "published_at": "2026-11-09T18:40:31+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "bbc-business",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "Business"
-    },
-    {
-      "id": "b2aa326667df7e4c3cdb",
-      "source_id": "standard",
-      "title": "US-Arzneimittelbehörde warnt vor Augenrisiken durch beliebte Abnehmspritzen",
-      "url": "https://www.derstandard.at/story/3000000348333/us-arzneimittelbehoerde-warnt-vor-augenrisiken-durch-beliebte-abnehmspritzen?ref=rss",
-      "summary": "Laut der europäischen Arzneimittelbehörde könnte bis zu einer von 10.000 Patienten betroffen sein. Die Hersteller müssen ihre Produkte in den USA jetzt kennzeichnen",
-      "published_at": "2026-11-09T17:44:54+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "c8ebfe3489f21af40dd0",
-      "source_id": "standard",
-      "title": "Kein Recht auf Altersteilzeit: Höchstgericht schränkt Kollektivverträge ein",
-      "url": "https://www.derstandard.at/story/3000000348144/kein-recht-auf-altersteilzeit-hoechstgericht-schraenkt-kollektivvertraege-ein?ref=rss",
-      "summary": "Der Handels-KV sieht einen Anspruch auf Altersteilzeit vor. Laut dem Obersten Gerichtshof ist dieser Anspruch für Arbeitnehmer aber nicht durchsetzbar. Die Gewerkschaft will das Problem lösen",
-      "published_at": "2026-11-09T17:13:30+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "92a2e647814d2190ba4c",
-      "source_id": "standard",
-      "title": "Rückkehr ins Büro: \"Würde kündigen, wenn mein Arbeitgeber das Homeoffice reduziert\"",
-      "url": "https://www.derstandard.at/story/3000000347878/rueckkehr-ins-buero-wuerde-kuendigen-wenn-mein-arbeitgeber-das-homeoffice-reduziert?ref=rss",
-      "summary": "Nicht überall ist das Homeoffice gekommen, um zu bleiben. Vier Beschäftigte erzählen, wie wichtig ihnen Remote Work ist – und was ihre Vorgesetzten davon halten",
-      "published_at": "2026-11-09T17:13:16+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "20ef05f2d475d8d19401",
-      "source_id": "standard",
-      "title": "Christian Kern ante portas: Der Eishockeyverband steht vor dem Umbruch",
-      "url": "https://www.derstandard.at/story/3000000348187/christian-kern-ante-portas-der-eishockeyverband-steht-vor-dem-umbruch?ref=rss",
-      "summary": "Ex-Kanzler sammelt Stimmen, um sich in einer außerordentlichen ÖEHV-Generalversammlung durchzusetzen. Michael Berger: \"Wir haben Ideen und die Werkzeuge, um diese Ideen umzusetzen\"",
-      "published_at": "2026-11-09T16:49:42+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "2d8cc483840e75977fac",
-      "source_id": "bbc-business",
-      "title": "Poundland unable to buy new stock as fears over collapse grow",
-      "url": "https://www.bbc.co.uk/news/articles/cw1l3lmem165o?at_campaign=rss&at_medium=RSS",
-      "summary": "The discount chain is continuing to edge towards collapse and is said to be \"running on fumes\", according to one insider.",
-      "published_at": "2026-11-09T16:46:40+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "bbc-business",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "Business"
-    },
-    {
-      "id": "74380ff7953c5f7b478c",
-      "source_id": "standard",
-      "title": "Trumps Endspiel: Wie gefährlich wird das Ende der Trump-Ära?",
-      "url": "https://www.derstandard.at/story/3000000348163/trumps-endspiel-wie-gefaehrlich-werden-die-letzten-jahre-seiner-praesidentschaft?ref=rss",
-      "summary": "US-Anwältin Sandra Navidi und US-Politikexperte Reinhard Heinisch erklären, wie erratisch und radikal der angeschlagene Präsident weiterregieren wird und was das für 2028 bedeutet",
-      "published_at": "2026-11-09T16:25:54+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "686b4a32b36c720d6cb0",
-      "source_id": "standard",
-      "title": "Kundenkonto wird bei der Lufthansa-Gruppe Pflicht für den Online-Check-in",
-      "url": "https://www.derstandard.at/story/3000000348275/kundenkonto-wird-bei-der-lufthansa-gruppe-pflicht-fuer-den-online-check-in?ref=rss",
-      "summary": "Für den Check-in über die Websites und Apps wird auch bei der AUA schrittweise eine Travel ID erforderlich",
-      "published_at": "2026-11-09T15:48:50+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "04a9768897afe7860082",
-      "source_id": "standard",
-      "title": "Hass = Solidarität?",
-      "url": "https://www.derstandard.at/story/3000000348261/hass-solidaritaet?ref=rss",
-      "summary": "Wenn sich Solidarität mit den Palästinensern mit Judenhass vermischt",
-      "published_at": "2026-11-09T15:26:00+00:00",
-      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "6a4ccdd84d35a3ae0701",
-      "source_id": "standard",
-      "title": "Trumps Pläne für die Ukraine sind eine gefährliche Drohung für Europa",
-      "url": "https://www.derstandard.at/story/3000000348264/trumps-plaene-fuer-die-ukraine-sind-eine-gefaehrliche-drohung-fuer-europa?ref=rss",
-      "summary": "Nach dem Midterms-Fiasko hat der US-Präsident seine Maske endgültig abgelegt und redet Putin noch deutlicher als zuvor nach dem Mund",
-      "published_at": "2026-11-09T15:12:03+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "35ecdc82cd287c946b97",
-      "source_id": "standard",
-      "title": "Martin Sellner im Führich-Salon: Naivität oder Schulterschluss?",
-      "url": "https://www.derstandard.at/story/3000000343682/martin-sellner-im-fuehrich-salon-naivitaet-oder-schulterschluss?ref=rss",
-      "summary": "Petra Führich bietet Esoterikern und Verschwörungsideologen eine Bühne. Nun darf auch Rechtsextremist Martin Sellner unwidersprochen seine Botschaften verbreiten",
-      "published_at": "2026-11-09T14:00:00+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "76b47bfb3412cb0c6e82",
-      "source_id": "standard",
-      "title": "Kakaobauern ernten viermal mehr, wenn rund um ihre Plantagen Wald stehen bleibt",
-      "url": "https://www.derstandard.at/story/3000000348269/kakaobauern-ernten-viermal-mehr-wenn-rund-um-ihre-plantagen-wald-stehen-bleibt?ref=rss",
-      "summary": "Eine Studie der Uni Wien zeigt anhand von Bio-Kakaofarmen in Peru: Vögel und Fledermäuse aus dem umliegenden Wald fressen Schädlinge und steigern so die Ernte",
-      "published_at": "2026-11-09T13:37:00+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "034b8b23cdf082d53ae8",
-      "source_id": "standard",
-      "title": "Acht empfehlenswerte Beautysalons in Wien",
-      "url": "https://www.derstandard.at/story/3000000346174/acht-empfehlenswerte-beautysalons-in-wien?ref=rss",
-      "summary": "Die STANDARD-Redaktion hat für euch herausgefunden, wo man sich in Wien verwöhnen lassen kann",
-      "published_at": "2026-11-09T13:00:00+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "d070eabef3c91f334ae9",
-      "source_id": "bbc-business",
-      "title": "Government's EV targets expected to be reduced this week",
-      "url": "https://www.bbc.co.uk/news/articles/cqkg5g2970epo?at_campaign=rss&at_medium=RSS",
-      "summary": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
-      "published_at": "2026-11-09T12:06:22+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "bbc-business",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "Business"
-    },
-    {
-      "id": "41814bc9e5b73a688087",
-      "source_id": "standard",
-      "title": "Warum Europas Unternehmen eine gemeinsame Rechtsform brauchen",
-      "url": "https://www.derstandard.at/story/3000000347930/warum-europas-unternehmen-eine-gemeinsame-rechtsform-brauchen?ref=rss",
-      "summary": "Europas Binnenmarkt bleibt für viele Unternehmen ein Flickenteppich. Damit die geplante EU Inc. das tatsächlich ändern kann, sind mehrere Punkte entscheidend",
-      "published_at": "2026-11-09T12:00:00+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "9314be92b5e78b4b6669",
-      "source_id": "standard",
-      "title": "Wohltätig statt Wichtel: Eure Ideen",
-      "url": "https://www.derstandard.at/story/3000000348151/wohltaetig-statt-wichtel-eure-ideen?ref=rss",
-      "summary": "Mein Forum: Diskutieren Sie dieses Thema mit der STANDARD-Community",
-      "published_at": "2026-11-09T12:00:00+00:00",
-      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "a8db15a264dee1abdb81",
-      "source_id": "standard",
-      "title": "Kalabrien bietet im Kampf gegen den Bevölkerungsschwund Gratis-Häuser",
-      "url": "https://www.derstandard.at/story/3000000348206/kalabrien-bietet-im-kampf-gegen-den-bevoelkerungsschwund-gratis-haeuser?ref=rss",
-      "summary": "50 Immobilien werden kostenlos vergeben, sofern bestimmte Voraussetzungen erfüllt sind. Die Regionalregierung übernimmt sogar Sanierungskosten",
-      "published_at": "2026-11-09T11:10:55+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "e3ca269ef8d2225554fe",
-      "source_id": "standard",
-      "title": "Der Anruf, der mich zur Fahrradaktivistin machte",
-      "url": "https://www.derstandard.at/story/3000000347437/der-anruf-der-mich-zur-fahrradaktivistin-machte?ref=rss",
-      "summary": "Oder: Warum wird man eigentlich Fahrradaktivistin?",
-      "published_at": "2026-11-09T11:00:00+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "a71727ab169c2ba093cc",
-      "source_id": "standard",
-      "title": "Wie Herr Singerl das Haus des Herrn Singer kaufte",
-      "url": "https://www.derstandard.at/story/3000000347325/wie-herr-singerl-das-haus-des-herrn-singer-kaufte?ref=rss",
-      "summary": "Ein literarischer Text über familiäres Schweigen, verdrängte NS-Vergangenheit und die Verantwortung der Mitläufer",
-      "published_at": "2026-11-09T11:00:00+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "52e94421d5689cf4a941",
-      "source_id": "standard",
-      "title": "Wie nehme ich genügend Protein zu mir?",
-      "url": "https://www.derstandard.at/story/3000000346993/wie-nehme-ich-genuegend-protein-zu-mir?ref=rss",
-      "summary": "Wer Muskeln aufbauen und gesund Gewicht verlieren will, braucht Eiweiß. Eine Diätologin erklärt, wie viel wirklich nötig ist und mit welchen Lebensmitteln man den Bedarf decken kann",
-      "published_at": "2026-11-09T11:00:00+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "27efb0f75b5a7e471e2a",
-      "source_id": "standard",
-      "title": "Verkauf von Jahresvignette 2027 startet – Asfinag warnt vor Phishing-Mails",
-      "url": "https://www.derstandard.at/story/3000000348184/verkauf-von-jahresvignette-2027-startet-asfinag-warnt-vor-phishing-mails?ref=rss",
-      "summary": "Ab 1. Jänner ist die Autobahnmaut um zwei Prozent teurer. Bis Ende Dezember zahlt man noch den niedrigeren Preis von 2026",
-      "published_at": "2026-11-09T10:03:00+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "5615f1bcaf63fe699e55",
-      "source_id": "standard",
-      "title": "Wie die innere Uhr die psychische Gesundheit beeinflusst – und wie man hilft, damit sie richtig tickt",
-      "url": "https://www.derstandard.at/story/3000000347835/wie-die-innere-uhr-die-psychische-gesundheit-beeinflusst-und-wie-man-hilft-damit-sie-richtig-tickt?ref=rss",
-      "summary": "Schlechter Schlaf beeinflusst die Stimmung. Das hat auch mit dem zirkadianen Rhythmus zu tun, nach dem unser Stoffwechsel funktioniert. Bestimmte Gewohnheiten helfen, ihn zu unterstützen",
-      "published_at": "2026-11-09T08:00:00+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "084cfbebf1893f1bcd48",
-      "source_id": "standard",
-      "title": "Gerichtsgutachten: Wie viel Künstliche Intelligenz ist zulässig?",
-      "url": "https://www.derstandard.at/story/3000000346320/gerichtsgutachten-wie-viel-kuenstliche-intelligenz-ist-zulaessig?ref=rss",
-      "summary": "KI könnte die Arbeit von Gerichtssachverständigen grundlegend verändern. Gutachten müssen jedoch weiterhin von Menschen erstellt und verantwortet werden",
-      "published_at": "2026-11-09T08:00:00+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "98f836ea2a25b65f8aa7",
-      "source_id": "standard",
-      "title": "Air France bietet reichen Fluggästen jetzt 3,5 Quadratmeter Platz",
-      "url": "https://www.derstandard.at/story/3000000347176/air-france-bietet-reichen-fluggaesten-jetzt-35-quadratmeter-platz?ref=rss",
-      "summary": "Neue Luxuskabinen zeigen, wie wenig sich auch europäische Fluglinien um Klimaschutz bemühen. Notwendig wäre Regulierung. Experten sind uneins, wie die aussehen soll",
-      "published_at": "2026-11-09T08:00:00+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "e0c4924e504bc1e11779",
-      "source_id": "bbc-business",
-      "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
-      "url": "https://www.bbc.co.uk/news/videos/cq3989nkzn3ko?at_campaign=rss&at_medium=RSS",
-      "summary": "Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?",
-      "published_at": "2026-11-09T07:10:11+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "bbc-business",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "Business"
-    },
-    {
-      "id": "023a9767731c8d957c5d",
-      "source_id": "standard",
-      "title": "Die Musik der Sonne und sonnenähnlicher Sterne",
-      "url": "https://www.derstandard.at/story/3000000334372/die-musik-der-sonne-und-sonnenaehnlicher-sterne?ref=rss",
-      "summary": "Wie und warum der europäische Planetenjäger PLATO sonnenähnliche Sterne beobachten wird",
-      "published_at": "2026-11-09T07:00:00+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "d3ce318faeb1d9c7b280",
-      "source_id": "standard",
-      "title": "Musikerpaar: \"Wir haben ein Klo, das ist jetzt eine Abstellkammer\"",
-      "url": "https://www.derstandard.at/story/3000000344407/musikerpaar-wir-haben-ein-klo-das-ist-jetzt-eine-abstellkammer?ref=rss",
-      "summary": "Eine blaue Wand, ein Sekretär, ein balinesischer Hausdrache: Die Wohnung von Anna Sushon und Alexander Kaimbacher ist so vielseitig wie das Musikerpaar selbst",
-      "published_at": "2026-11-09T04:00:00+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "4bfab3c8a577f6304cb8",
-      "source_id": "bbc-business",
-      "title": "Doing these things now will help you save money at Christmas",
-      "url": "https://www.bbc.co.uk/news/articles/ck7vppll151mo?at_campaign=rss&at_medium=RSS",
-      "summary": "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips.",
-      "published_at": "2026-11-09T00:09:14+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "bbc-business",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "Business"
     }
   ],
   "stories": [
+    {
+      "id": "story-520897e2e1831b346949",
+      "title": "Andreeva to face Svitolina in WTA Finals showpiece as Sabalenka apologises",
+      "overview": "Russian teen will face Ukraine star in the final Sabalenka issues public apology after social media storm The rise of Mirra Andreeva has seemed inevitable ever since she burst on to the tour as a precocious 15-year-old more than three years ago, but this week, six months after her maiden grand slam triumph at Roland Garros, she has taken another massive step forward in her career. The 19-year-old will attempt to close out the most impressive week of her career by winning one of her most significant titles after thoroughly outplaying Jessica Pegula, the fifth seed, 6-3, 6-4 to reach the champio",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T23:46:09+00:00",
+      "updated_at": "2026-11-15T21:44:06+00:00",
+      "article_ids": [
+        "06bc18071a4e26217be5",
+        "2a3428db9a2afe6c1011"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 2,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [
+        "andreeva",
+        "finals",
+        "svitolina",
+        "wta"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-732c1f6f4d4554786ac5",
+      "title": "Boeing-Lockheed-Rakete kurz nach Start abgestürzt",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T21:10:35+00:00",
+      "updated_at": "2026-11-15T21:41:47+00:00",
+      "article_ids": [
+        "839013bff185466b2723",
+        "0938f76e459de2d58f43"
+      ],
+      "publisher_count": 2,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [
+        "abgestürzt",
+        "boeing",
+        "kurz",
+        "lockheed",
+        "nach",
+        "rakete",
+        "start"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-ca9469a23f937baae423",
+      "title": "Somali-American Uber driver brutally assaulted in alleged hate crime in Minnesota",
+      "overview": "Mohamed Yusuf is fighting for his life after alleged attack by passenger who said he did not like driver’s first name A Somali-American Uber driver was allegedly brutally assaulted by a passenger in Hopkins, Minnesota, on Saturday, in what his family says “appears to be a hate crime”. The driver, Mohamed Yusuf, is currently hospitalized and fighting for his life, his family told the Somali Brief, a digital news site run by two Somali American journalists. The driver’s cousin, Abdinasir Ali told the outlet that the alleged attack took place early Saturday after a passenger in Hopkins, a suburba",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T21:10:38+00:00",
+      "updated_at": "2026-11-15T21:10:38+00:00",
+      "article_ids": [
+        "306d1c095e373aad202c"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-c352b05c768a50497d30",
+      "title": "Ein Sechser bei Lotto „6 aus 45“",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T21:04:09+00:00",
+      "updated_at": "2026-11-15T21:04:09+00:00",
+      "article_ids": [
+        "3f6f7da7e42b2f1650a1"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-9d00e0ab4da27461a7ff",
+      "title": "AFP-Mitarbeiter in Westjordanland festgenommen",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T17:55:32+00:00",
+      "updated_at": "2026-11-15T21:01:57+00:00",
+      "article_ids": [
+        "51d2dfbbb4c318038be8",
+        "81d0644e311b4e1655f5"
+      ],
+      "publisher_count": 2,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [
+        "afp",
+        "mitarbeiter",
+        "westjordanland"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-1316892ef0e110c90917",
+      "title": "FAA ground stop timeline: Weekend chaos grounds planes and postpones games",
+      "overview": "A communications failure brought departures across the country to a halt Friday, stranding travelers, disrupting professional sports teams and sending federal officials scrambling to restore flights and determine what went wrong. The longest nationwide ground stop in 25 years ended after more than four hours, but the fallout stretched through the weekend as airlines worked through cancellations and investigators zeroed in on routers tied to the outage. Here’s a timeline of the shutdown and the federal response. All times are Eastern. 4 CRITICAL TRAVEL ISSUES FOR THOSE DELAYED AND DISRUPTED BY ",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T20:51:02+00:00",
+      "updated_at": "2026-11-15T20:51:02+00:00",
+      "article_ids": [
+        "82a2d0f56e0ccb0b8894"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-a67ce50cb74d48ce93f2",
+      "title": "Papst besuchte Anden-Stadt Cusco auf 3.400 Meter Höhe",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T20:18:54+00:00",
+      "updated_at": "2026-11-15T20:18:54+00:00",
+      "article_ids": [
+        "96566ae82b341c33ca57"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-aa290a8eb0020589f0f9",
+      "title": "Flugchaos in USA hält an: Ursache Router aus 2001",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T20:14:27+00:00",
+      "updated_at": "2026-11-15T20:14:27+00:00",
+      "article_ids": [
+        "5c9f4a3750419587c56d"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-50614d9762dcfa6bce6f",
+      "title": "Bericht: Huthis rücken Richtung Aden vor",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T19:57:50+00:00",
+      "updated_at": "2026-11-15T19:57:50+00:00",
+      "article_ids": [
+        "2a4271276b4ab7bedc2a"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-68bff88066979ea57e74",
+      "title": "LSU star MiLaysia Fulwiley arrested after allegedly striking police officer with car",
+      "overview": "Guard allegedly tried to flee traffic stop in Baton Rouge Tigers say they are aware of situation involving player LSU guard MiLaysia Fulwiley, one of the ninth-ranked Tigers’ leading scorers, was arrested after allegedly striking a police officer while attempting to flee from a traffic stop. LSU’s athletic department, in a written statement provided to The Associated Press, said university officials “are aware of the situation and have no further comment at this time as it’s an ongoing legal matter.” Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T19:53:07+00:00",
+      "updated_at": "2026-11-15T19:53:07+00:00",
+      "article_ids": [
+        "424157e1e3fc043b75ba"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-10d89e671c42ec2eb23b",
+      "title": "1.500 Migranten erreichen Kanaren an einem einzigen Tag",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T16:57:12+00:00",
+      "updated_at": "2026-11-15T19:45:31+00:00",
+      "article_ids": [
+        "68f53378d36e67bf4abe",
+        "717c7468013a75db62df"
+      ],
+      "publisher_count": 2,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [
+        "einzigen",
+        "erreichen",
+        "kanaren",
+        "migranten",
+        "tag"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-55584342d71173fcf92d",
+      "title": "Gaza-Hilfe: GB, Italien, Kanada und Australien erhöhen Druck",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T19:44:55+00:00",
+      "updated_at": "2026-11-15T19:44:55+00:00",
+      "article_ids": [
+        "27b0bafcaf060bc7305a"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-f886703cd871398439c5",
+      "title": "Huang arbeitet laut Bericht an Rückkehr an Nvidia-Konzernspitze",
+      "overview": "Verbündete im Silicon Valley sollen laut einem Bericht Druck auf den Verwaltungsrat ausüben, Huang wieder an die Spitze des Chipkonzerns zu setzen. Huang war in der vergangenen Woche zurückgetreten",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T19:36:14+00:00",
+      "updated_at": "2026-11-15T19:36:14+00:00",
+      "article_ids": [
+        "19c2cf0ad4d03856c146"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-1b577c11ee4272ab64b2",
+      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
+      "overview": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T19:32:39+00:00",
+      "updated_at": "2026-11-15T19:32:39+00:00",
+      "article_ids": [
+        "a5d1637de92e1ec6de66"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-bd840ebd6688591ceccc",
+      "title": "Ronaldinho makes comeback in Ravenna win",
+      "overview": "Brazil legend Ronaldinho makes his comeback aged 46 for Ravenna, playing the first half of their Italian third-tier derby against Forli.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T19:31:48+00:00",
+      "updated_at": "2026-11-15T19:31:48+00:00",
+      "article_ids": [
+        "d49b9ed0e01e0342dc31"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-b3f344a2a18b478f4361",
+      "title": "China-Exporte: Bessent fordert Aufklärung von Nvidia",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T19:29:51+00:00",
+      "updated_at": "2026-11-15T19:29:51+00:00",
+      "article_ids": [
+        "5c2d18c58acc28b1e420"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-e6b8189a7c337ac69727",
+      "title": "Red Brawl New York: Fighting and six red cards mar ‘friendly’ v Club América",
+      "overview": "Game played without veterans and stars on both sides Red Bulls’ MLS season is already over One hallmark of Mauricio Pochettino’s time in international management has been his refusal to embrace the term “friendly”. His preferred branding is “unofficial games”. His spin gained a bit of validity on Saturday, in the New York Red Bulls’ “friendly” against Club América, marred by a mass brawl between the sides that resulted in five red cards and a bevy of beverages thrown from the stands. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T19:29:41+00:00",
+      "updated_at": "2026-11-15T19:29:41+00:00",
+      "article_ids": [
+        "64cf291aafa5d7891dad"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-a6ce2a14ac66b2ca370c",
+      "title": "Texas puts to death man who beheaded three children, hours after Oklahoma execution",
+      "overview": "Oklahoma man, 73, executed for killing ex’s estranged husband, as US nears 40 executions for second straight year A Texas man convicted of fatally stabbing and beheading his three young children in a squalid, windowless apartment in 2003 was recently executed. John Allen Rubio, 46, was pronounced dead at 6.47 pm on Thursday after a lethal injection at the state prison in Huntsville, Texas. His killings of his baby girl and two toddlers so rocked the city of Brownsville on the US border with Mexico that the apartment building was later demolished – and the land turned into a park and community ",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T19:27:24+00:00",
+      "updated_at": "2026-11-15T19:27:24+00:00",
+      "article_ids": [
+        "4b8ce86545244339b8bb"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-fc54db8a0561e0c80b38",
+      "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
+      "overview": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T19:20:53+00:00",
+      "updated_at": "2026-11-15T19:20:53+00:00",
+      "article_ids": [
+        "e1a768ca261aa7e6a701"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-328ac65932bd93b06632",
+      "title": "Triumphales Heimspiel für Lions-Superstar St. Brown in München",
+      "overview": "Die Patriots müssen um die Playoffs bangen, zudem verletzte sich Quarterback Drake Maye. Auch DJ Ötzi trat bei der NFL-Party auf",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T19:05:19+00:00",
+      "updated_at": "2026-11-15T19:05:19+00:00",
+      "article_ids": [
+        "c45f82138f1dd9f1cf11"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-25fc1f9acf2c18b5d824",
+      "title": "Einblick in fünf heimische Badezimmer: „Im Bad spiegelt sich der Zeitgeist besonders stark wieder“",
+      "overview": "Ein Badezimmer muss gewisse Grundfunktionen erfüllen, eh klar! Dass es sich jedoch lohnt, auch diesem Raum gestalterisch mehr Aufmerksamkeit zu widmen, zeigen diese Exemplare",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T19:00:00+00:00",
+      "updated_at": "2026-11-15T19:00:00+00:00",
+      "article_ids": [
+        "96c2408a42ac756463e0"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-a41225fa9d9270afe6a9",
+      "title": "Estland schließt Grenzübergänge zu Russland",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T16:13:50+00:00",
+      "updated_at": "2026-11-15T18:59:56+00:00",
+      "article_ids": [
+        "b8ad1f8415aa5ded0104",
+        "fbdad3d4d5a81c8af4d3"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 2
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [
+        "estland",
+        "russland",
+        "schließt"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-da3ae8032d86e61b0223",
+      "title": "Kanada bleibt dabei: U20-WM ohne Russland",
+      "overview": "Weil Gastgeberland Kanada keine Visa ausstellt, findet die WM der U20-Männer ohne russische Beteiligung statt, teilte der Eishockey-Weltverband IIHF mit",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T18:55:44+00:00",
+      "updated_at": "2026-11-15T18:55:44+00:00",
+      "article_ids": [
+        "fd8450bf85102a661f01"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-3900803fcee30e9fbab7",
+      "title": "Senator-elect Scott Colom vows to ensure Trump follows through on his promises",
+      "overview": "Mississippi Democrat points to commitments Trump made: lower prices, halt endless wars and release Epstein files After recently becoming the first Mississippi Democrat elected to the US Senate in more than four decades, Scott Colom pledged to try to ensure Donald Trump “follows through on the commitments” he made while successfully running for a second presidency in 2024. Colom, while being interviewed by CNN host Dana Bash on Sunday, alluded to various campaign promises made by Trump – including lowering consumer prices, halting the seemingly endless wars waged under other presidential admini",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T18:48:10+00:00",
+      "updated_at": "2026-11-15T18:48:10+00:00",
+      "article_ids": [
+        "a56bf5a0eeb9e1d029d6"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-c527804d5be225d51723",
+      "title": "Chris Van Hollen says he has path to win Senate leader over Chuck Schumer",
+      "overview": "Progressive US senator calling for more inclusion within Democratic caucus cites openness to change among peers Democratic US senator Chris Van Hollen on Sunday escalated his bid to lead his party’s incoming Senate majority rather than Chuck Schumer, asserting that he has a path to victory amid a dedicated campaign that includes a series of television appearances. Van Hollen, a Maryland progressive, appeared on Sunday on CNN, ABC and Fox News as he continues to make his case for why his peers in the Senate should reject Schumer, who has led the Democratic caucus for nearly a decade. Continue r",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T18:46:49+00:00",
+      "updated_at": "2026-11-15T18:46:49+00:00",
+      "article_ids": [
+        "e333adc66cda8feae7d4"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-27ddd760eb6879fe4393",
+      "title": "Pope Leo rides in helicopter cockpit during Peru trip",
+      "overview": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T18:38:11+00:00",
+      "updated_at": "2026-11-15T18:38:11+00:00",
+      "article_ids": [
+        "cbb2409cceeef7edf02c"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-1f25f7e51e30ce288b89",
+      "title": "Trump will Berufung gegen Golfplatzstopp einlegen",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T18:09:11+00:00",
+      "updated_at": "2026-11-15T18:09:11+00:00",
+      "article_ids": [
+        "f669f8e447cd9464ce5f"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-9170283057aec333ad46",
+      "title": "Echte Zungenbrecher: Die längsten Ortsnamen der Welt",
+      "overview": "Einige der längsten Ortsnamen stammen aus Neuseeland, Wales und den USA, mit einzigartigen Geschichten und kulturellen Bedeutungen",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T18:00:00+00:00",
+      "updated_at": "2026-11-15T18:00:00+00:00",
+      "article_ids": [
+        "4705e61e87ea87e799d5"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-5b118884e5c00cac057b",
+      "title": "ORF steuert auf zweistelligen Millionenverlust zu",
+      "overview": "Generaldirektorin Ingrid Thurnher gibt ihrem Nachfolger Clemens Pig einen Finanzplan mit auf den Weg, der wegen Budgetkürzungen Reserven auflöst und ein Minus ausweist",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T18:00:00+00:00",
+      "updated_at": "2026-11-15T18:00:00+00:00",
+      "article_ids": [
+        "cfa729087ede9bf4a75b"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-e54b01adf54e9aa45ac4",
+      "title": "Zu Forschungszwecken: KI-Modelle legen Windpark in unter zwei Stunden lahm",
+      "overview": "Als Testumgebung wurde jene Anlage in Polen nachgebaut, die Ende 2025 zum Ziel russischer Hacker wurde",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T18:00:00+00:00",
+      "updated_at": "2026-11-15T18:00:00+00:00",
+      "article_ids": [
+        "d044591bd225383ec406"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-f9f7023f4e1ecf982787",
+      "title": "Zu Gast: Leonore Gewessler, Bundessprecherin der Grünen",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T17:58:43+00:00",
+      "updated_at": "2026-11-15T17:58:43+00:00",
+      "article_ids": [
+        "7ae9a3d1d00ff920102f"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-7ee48266b2aa47af52b9",
+      "title": "Countrysänger Richard Sterban gestorben",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T17:34:04+00:00",
+      "updated_at": "2026-11-15T17:34:04+00:00",
+      "article_ids": [
+        "291ae51dd5d35ceabf07"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-af0eebf41459bce9cd55",
+      "title": "The Guardian view on Cop31: the green transition must not be derailed | Editorial",
+      "overview": "Renewed commitments to electrification and climate science are vital outcomes from the latest round of UN talks The Cop31 climate talks have acquired something their delegates scarcely expected: a little political breathing space. The comeback by Luiz Inácio Lula da Silva in the second round of Brazil’s presidential race was important for many reasons. Victory for his opponent, Flávio Bolsonaro, would have marked a dangerous retreat from democracy. But Mr Bolsonaro’s commitment to environmental deregulation would also have spelled disaster for the Amazon, making Lula’s re-election a big win fo",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T17:30:19+00:00",
+      "updated_at": "2026-11-15T17:30:19+00:00",
+      "article_ids": [
+        "b67019305d20a477fa8e"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
     {
       "id": "story-1ac5b89c828c6f22a637",
       "title": "Die Welt im „GTA VI“-Fieber",
@@ -25934,42 +27269,6 @@
         "unknown": 0
       },
       "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-10d89e671c42ec2eb23b",
-      "title": "1.500 Migranten erreichen Kanaren an einem einzigen Tag",
-      "overview": "",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-15T16:57:12+00:00",
-      "updated_at": "2026-11-15T16:57:12+00:00",
-      "article_ids": [
-        "68f53378d36e67bf4abe"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
       "countries": [
         "AT"
       ],
@@ -26163,14 +27462,14 @@
       "ai": null
     },
     {
-      "id": "story-a41225fa9d9270afe6a9",
-      "title": "Estland schließt Grenzübergänge zu Russland",
-      "overview": "",
+      "id": "story-ed7edca1ea25250fba4e",
+      "title": "Clothing factories shut in Bangladesh as workers strike over pay",
+      "overview": "Workers are striking over demands for a minimum wage of 30,000 taka (£182) a month.",
       "title_kind": "source_headline",
-      "first_published": "2026-11-15T16:13:50+00:00",
-      "updated_at": "2026-11-15T16:13:50+00:00",
+      "first_published": "2026-11-15T16:15:20+00:00",
+      "updated_at": "2026-11-15T16:15:20+00:00",
       "article_ids": [
-        "b8ad1f8415aa5ded0104"
+        "72f20297b8579dfd7e54"
       ],
       "publisher_count": 1,
       "article_counts": {
@@ -26187,9 +27486,9 @@
       },
       "category": "World",
       "countries": [
-        "AT"
+        "UK"
       ],
-      "language": "de",
+      "language": "en",
       "common_terms": [],
       "limitations": [
         "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
@@ -28875,6 +30174,42 @@
       "ai": null
     },
     {
+      "id": "story-9af00bb4dcb8675d62e5",
+      "title": "„Na gut, dann Action!“ im Volkstheater: Eiersuppe auf der Drachenbühne",
+      "overview": "Christian Brey inszeniert Henry Shields’ schwarze Komödie als deftige Premiere",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T10:25:34+00:00",
+      "updated_at": "2026-11-15T10:25:34+00:00",
+      "article_ids": [
+        "ba640d78e6bf7fd4b8fd"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
       "id": "story-904a6d5d14542e6e6e91",
       "title": "Emmerling schlägt Fußfessel für unmündige Straftäter vor",
       "overview": "Die Wiener Jugendstadträtin Bettina Emmerling plädiert für eine einheitliche Lösung in Österreich",
@@ -30988,42 +32323,6 @@
       "category": "Business",
       "countries": [
         "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-520897e2e1831b346949",
-      "title": "Andreeva to face Svitolina in WTA Finals showpiece as Sabalenka apologises",
-      "overview": "Russian teen will face Ukraine star in the final Sabalenka issues public apology after social media storm The rise of Mirra Andreeva has seemed inevitable ever since she burst on to the tour as a precocious 15-year-old more than three years ago, but this week, six months after her maiden grand slam triumph at Roland Garros, she has taken another massive step forward in her career. The 19-year-old will attempt to close out the most impressive week of her career by winning one of her most significant titles after thoroughly outplaying Jessica Pegula, the fifth seed, 6-3, 6-4 to reach the champio",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-14T23:46:09+00:00",
-      "updated_at": "2026-11-14T23:46:09+00:00",
-      "article_ids": [
-        "06bc18071a4e26217be5"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "US"
       ],
       "language": "en",
       "common_terms": [],
@@ -66636,13 +67935,12 @@
     },
     {
       "id": "story-d2b37577405de9d3401e",
-      "title": "What do we know about Nvidia CEO’s affair with a suspected Chinese spy?",
-      "overview": "Adoration for the US tech giant’s CEO Jensen Huang has been labelled “Jensanity”, but can his reputation survive the news of his affair?",
+      "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
+      "overview": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
       "title_kind": "source_headline",
-      "first_published": "2026-11-09T07:10:11+00:00",
+      "first_published": "2026-11-10T21:22:36+00:00",
       "updated_at": "2026-11-10T21:22:36+00:00",
       "article_ids": [
-        "e0c4924e504bc1e11779",
         "28a7ffc1a8fa9a014d02"
       ],
       "publisher_count": 1,
@@ -66650,7 +67948,7 @@
         "left": 0,
         "centre": 0,
         "right": 0,
-        "unknown": 2
+        "unknown": 1
       },
       "publisher_counts": {
         "left": 0,
@@ -66663,15 +67961,7 @@
         "UK"
       ],
       "language": "en",
-      "common_terms": [
-        "about",
-        "affair",
-        "chinese",
-        "know",
-        "spy",
-        "suspected",
-        "what"
-      ],
+      "common_terms": [],
       "limitations": [
         "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
         "Insufficient coverage for comparison."
@@ -73936,13 +75226,12 @@
     },
     {
       "id": "story-19aef1821f2bd8a0ed9d",
-      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-      "overview": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
+      "title": "Trump says FBI investigating Nvidia boss's affair with alleged Chinese spy",
+      "overview": "The US president said he spoke with Jensen Huang on Monday and asked him about the affair with the alleged spy.",
       "title_kind": "source_headline",
-      "first_published": "2026-11-09T19:58:01+00:00",
+      "first_published": "2026-11-10T08:23:21+00:00",
       "updated_at": "2026-11-10T08:23:21+00:00",
       "article_ids": [
-        "e538de8483b7e5324cbb",
         "89a2887496fec4a58833"
       ],
       "publisher_count": 1,
@@ -73950,7 +75239,7 @@
         "left": 0,
         "centre": 0,
         "right": 0,
-        "unknown": 2
+        "unknown": 1
       },
       "publisher_counts": {
         "left": 0,
@@ -73958,18 +75247,12 @@
         "right": 0,
         "unknown": 1
       },
-      "category": "Business",
+      "category": "World",
       "countries": [
         "UK"
       ],
       "language": "en",
-      "common_terms": [
-        "affair",
-        "alleged",
-        "chinese",
-        "nvidia",
-        "spy"
-      ],
+      "common_terms": [],
       "limitations": [
         "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
         "Insufficient coverage for comparison."
@@ -75236,1194 +76519,6 @@
       ],
       "exposures": [],
       "ai": null
-    },
-    {
-      "id": "story-6f0bae2030f0059dcd35",
-      "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
-      "overview": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-09T21:52:28+00:00",
-      "updated_at": "2026-11-09T21:52:28+00:00",
-      "article_ids": [
-        "4f8c122c2c14c2ada720"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "Business",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-3c7410acdd6306bd1d1b",
-      "title": "Alternative Theorie des Universums ohne Dunkle Materie besteht wichtige Tests",
-      "overview": "Der Urknall hätte sich nach diesem Modell namens CCC+TL vor rund 26,7 Milliarden Jahren zugetragen. Etliche wichtige Beobachtungen ließen sich damit erklären",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-09T20:00:00+00:00",
-      "updated_at": "2026-11-09T20:00:00+00:00",
-      "article_ids": [
-        "04d800ed9879cdf789c3"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-53619c7e20cf03130a05",
-      "title": "APA-Chefredakteurin Katharina Schell ist erste Präsidentin des Presseclubs Concordia",
-      "overview": "Gedenken an den im Frühsommer verstorbenen langjährigen Concordia-Präsidenten Andreas Koller: Er hinterlasse eine \"Lücke, die nicht zu schließen ist\"",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-09T19:44:15+00:00",
-      "updated_at": "2026-11-09T19:44:15+00:00",
-      "article_ids": [
-        "ce4b06cc0f26bde422e3"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-7c49922b747464c839cc",
-      "title": "The facial recognition technology stopping shoplifters",
-      "overview": "Business correspondent Emma Simpson tries out Sainsbury's facial recognition technology.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-09T19:00:43+00:00",
-      "updated_at": "2026-11-09T19:00:43+00:00",
-      "article_ids": [
-        "b7e4bc9a3db0972326f0"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "Business",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-eea613bf8fd3d2cd414d",
-      "title": "Warum Großstädter jetzt ausgerechnet Dackel lieben",
-      "overview": "Chihuahuas haben ausgedient. Der kleine Jagdhund, der ein traditionelles wie eigensinniges Hundebild verkörpert, ist in den Städten zum bevorzugten Begleiter geworden",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-09T18:56:00+00:00",
-      "updated_at": "2026-11-09T18:56:00+00:00",
-      "article_ids": [
-        "24ece97bd31e08245482"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-9a6b2f6dcdef6d24ff5a",
-      "title": "The Guardian view on Jensen Huang’s affair: why did Trump ignore the warnings? | Editorial",
-      "overview": "The AI chip boss’s actions raise urgent questions about corporate influence, national security and the US president’s willingness to listen to intelligence warnings It could be the plot of a spy thriller. One of the most powerful figures in the AI revolution admitted to having an affair with a Chinese businesswomen said to have passed intelligence to Beijing. When Donald Trump was briefed about the Nvidia co-founder Jensen Huang’s liaisons with Alice Huang, he took no action. Perhaps he thought only marriage vows had been broken. Or perhaps Mr Trump was willing to overlook the conduct of a fri",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-09T18:51:10+00:00",
-      "updated_at": "2026-11-09T18:51:10+00:00",
-      "article_ids": [
-        "4bf48c10d46c669c4092"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-4dd99d6b44b292b0cd07",
-      "title": "How a civil servant got away with juggling five jobs for so long",
-      "overview": "Kashim Chowdhury has been convicted of fraud after pocketing £284,000 of taxpayers' money over three years.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-09T18:40:31+00:00",
-      "updated_at": "2026-11-09T18:40:31+00:00",
-      "article_ids": [
-        "1ece488c65e5b9267369"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "Business",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-e32b13aba0934802cc94",
-      "title": "US-Arzneimittelbehörde warnt vor Augenrisiken durch beliebte Abnehmspritzen",
-      "overview": "Laut der europäischen Arzneimittelbehörde könnte bis zu einer von 10.000 Patienten betroffen sein. Die Hersteller müssen ihre Produkte in den USA jetzt kennzeichnen",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-09T17:44:54+00:00",
-      "updated_at": "2026-11-09T17:44:54+00:00",
-      "article_ids": [
-        "b2aa326667df7e4c3cdb"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-2a3f6bdd78c07ac5a02c",
-      "title": "Kein Recht auf Altersteilzeit: Höchstgericht schränkt Kollektivverträge ein",
-      "overview": "Der Handels-KV sieht einen Anspruch auf Altersteilzeit vor. Laut dem Obersten Gerichtshof ist dieser Anspruch für Arbeitnehmer aber nicht durchsetzbar. Die Gewerkschaft will das Problem lösen",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-09T17:13:30+00:00",
-      "updated_at": "2026-11-09T17:13:30+00:00",
-      "article_ids": [
-        "c8ebfe3489f21af40dd0"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-3ae20765593bacfb5c93",
-      "title": "Rückkehr ins Büro: \"Würde kündigen, wenn mein Arbeitgeber das Homeoffice reduziert\"",
-      "overview": "Nicht überall ist das Homeoffice gekommen, um zu bleiben. Vier Beschäftigte erzählen, wie wichtig ihnen Remote Work ist – und was ihre Vorgesetzten davon halten",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-09T17:13:16+00:00",
-      "updated_at": "2026-11-09T17:13:16+00:00",
-      "article_ids": [
-        "92a2e647814d2190ba4c"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-78c6b9d38a507bd22ef5",
-      "title": "Christian Kern ante portas: Der Eishockeyverband steht vor dem Umbruch",
-      "overview": "Ex-Kanzler sammelt Stimmen, um sich in einer außerordentlichen ÖEHV-Generalversammlung durchzusetzen. Michael Berger: \"Wir haben Ideen und die Werkzeuge, um diese Ideen umzusetzen\"",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-09T16:49:42+00:00",
-      "updated_at": "2026-11-09T16:49:42+00:00",
-      "article_ids": [
-        "20ef05f2d475d8d19401"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-d91bf5c0563bafcd907b",
-      "title": "Poundland unable to buy new stock as fears over collapse grow",
-      "overview": "The discount chain is continuing to edge towards collapse and is said to be \"running on fumes\", according to one insider.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-09T16:46:40+00:00",
-      "updated_at": "2026-11-09T16:46:40+00:00",
-      "article_ids": [
-        "2d8cc483840e75977fac"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "Business",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-9f1702bd8a7bffb8fc53",
-      "title": "Trumps Endspiel: Wie gefährlich wird das Ende der Trump-Ära?",
-      "overview": "US-Anwältin Sandra Navidi und US-Politikexperte Reinhard Heinisch erklären, wie erratisch und radikal der angeschlagene Präsident weiterregieren wird und was das für 2028 bedeutet",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-09T16:25:54+00:00",
-      "updated_at": "2026-11-09T16:25:54+00:00",
-      "article_ids": [
-        "74380ff7953c5f7b478c"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-126a83ee249e541930c7",
-      "title": "Kundenkonto wird bei der Lufthansa-Gruppe Pflicht für den Online-Check-in",
-      "overview": "Für den Check-in über die Websites und Apps wird auch bei der AUA schrittweise eine Travel ID erforderlich",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-09T15:48:50+00:00",
-      "updated_at": "2026-11-09T15:48:50+00:00",
-      "article_ids": [
-        "686b4a32b36c720d6cb0"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-5188b42b3ea06b15abe3",
-      "title": "Hass = Solidarität?",
-      "overview": "Wenn sich Solidarität mit den Palästinensern mit Judenhass vermischt",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-09T15:26:00+00:00",
-      "updated_at": "2026-11-09T15:26:00+00:00",
-      "article_ids": [
-        "04a9768897afe7860082"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-bc10ac9f50bde2087f18",
-      "title": "Trumps Pläne für die Ukraine sind eine gefährliche Drohung für Europa",
-      "overview": "Nach dem Midterms-Fiasko hat der US-Präsident seine Maske endgültig abgelegt und redet Putin noch deutlicher als zuvor nach dem Mund",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-09T15:12:03+00:00",
-      "updated_at": "2026-11-09T15:12:03+00:00",
-      "article_ids": [
-        "6a4ccdd84d35a3ae0701"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-51ce41a66292579ee752",
-      "title": "Martin Sellner im Führich-Salon: Naivität oder Schulterschluss?",
-      "overview": "Petra Führich bietet Esoterikern und Verschwörungsideologen eine Bühne. Nun darf auch Rechtsextremist Martin Sellner unwidersprochen seine Botschaften verbreiten",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-09T14:00:00+00:00",
-      "updated_at": "2026-11-09T14:00:00+00:00",
-      "article_ids": [
-        "35ecdc82cd287c946b97"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-e55c04e8851891fa1e48",
-      "title": "Kakaobauern ernten viermal mehr, wenn rund um ihre Plantagen Wald stehen bleibt",
-      "overview": "Eine Studie der Uni Wien zeigt anhand von Bio-Kakaofarmen in Peru: Vögel und Fledermäuse aus dem umliegenden Wald fressen Schädlinge und steigern so die Ernte",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-09T13:37:00+00:00",
-      "updated_at": "2026-11-09T13:37:00+00:00",
-      "article_ids": [
-        "76b47bfb3412cb0c6e82"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-d134d1e24e8bed9ff577",
-      "title": "Acht empfehlenswerte Beautysalons in Wien",
-      "overview": "Die STANDARD-Redaktion hat für euch herausgefunden, wo man sich in Wien verwöhnen lassen kann",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-09T13:00:00+00:00",
-      "updated_at": "2026-11-09T13:00:00+00:00",
-      "article_ids": [
-        "034b8b23cdf082d53ae8"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-09c98d070e7f56e77952",
-      "title": "Government's EV targets expected to be reduced this week",
-      "overview": "New petrol or diesel cars are due to be phased out by 2030 and by 2035 all new cars must be zero emission.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-09T12:06:22+00:00",
-      "updated_at": "2026-11-09T12:06:22+00:00",
-      "article_ids": [
-        "d070eabef3c91f334ae9"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "Business",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-b4e0c57500ba252661a4",
-      "title": "Warum Europas Unternehmen eine gemeinsame Rechtsform brauchen",
-      "overview": "Europas Binnenmarkt bleibt für viele Unternehmen ein Flickenteppich. Damit die geplante EU Inc. das tatsächlich ändern kann, sind mehrere Punkte entscheidend",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-09T12:00:00+00:00",
-      "updated_at": "2026-11-09T12:00:00+00:00",
-      "article_ids": [
-        "41814bc9e5b73a688087"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-2eafe6fa9304066d91b5",
-      "title": "Wohltätig statt Wichtel: Eure Ideen",
-      "overview": "Mein Forum: Diskutieren Sie dieses Thema mit der STANDARD-Community",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-09T12:00:00+00:00",
-      "updated_at": "2026-11-09T12:00:00+00:00",
-      "article_ids": [
-        "9314be92b5e78b4b6669"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-2713a46c76b110a6c850",
-      "title": "Kalabrien bietet im Kampf gegen den Bevölkerungsschwund Gratis-Häuser",
-      "overview": "50 Immobilien werden kostenlos vergeben, sofern bestimmte Voraussetzungen erfüllt sind. Die Regionalregierung übernimmt sogar Sanierungskosten",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-09T11:10:55+00:00",
-      "updated_at": "2026-11-09T11:10:55+00:00",
-      "article_ids": [
-        "a8db15a264dee1abdb81"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-bfb8bf439f8f37f9cfca",
-      "title": "Wie nehme ich genügend Protein zu mir?",
-      "overview": "Wer Muskeln aufbauen und gesund Gewicht verlieren will, braucht Eiweiß. Eine Diätologin erklärt, wie viel wirklich nötig ist und mit welchen Lebensmitteln man den Bedarf decken kann",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-09T11:00:00+00:00",
-      "updated_at": "2026-11-09T11:00:00+00:00",
-      "article_ids": [
-        "52e94421d5689cf4a941"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-da0bf2a09d5e8a262873",
-      "title": "Wie Herr Singerl das Haus des Herrn Singer kaufte",
-      "overview": "Ein literarischer Text über familiäres Schweigen, verdrängte NS-Vergangenheit und die Verantwortung der Mitläufer",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-09T11:00:00+00:00",
-      "updated_at": "2026-11-09T11:00:00+00:00",
-      "article_ids": [
-        "a71727ab169c2ba093cc"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-7b5a274a97ff3753013c",
-      "title": "Der Anruf, der mich zur Fahrradaktivistin machte",
-      "overview": "Oder: Warum wird man eigentlich Fahrradaktivistin?",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-09T11:00:00+00:00",
-      "updated_at": "2026-11-09T11:00:00+00:00",
-      "article_ids": [
-        "e3ca269ef8d2225554fe"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-bf910952d9de4025a288",
-      "title": "Verkauf von Jahresvignette 2027 startet – Asfinag warnt vor Phishing-Mails",
-      "overview": "Ab 1. Jänner ist die Autobahnmaut um zwei Prozent teurer. Bis Ende Dezember zahlt man noch den niedrigeren Preis von 2026",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-09T10:03:00+00:00",
-      "updated_at": "2026-11-09T10:03:00+00:00",
-      "article_ids": [
-        "27efb0f75b5a7e471e2a"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-b8d9afba8027e793f63e",
-      "title": "Gerichtsgutachten: Wie viel Künstliche Intelligenz ist zulässig?",
-      "overview": "KI könnte die Arbeit von Gerichtssachverständigen grundlegend verändern. Gutachten müssen jedoch weiterhin von Menschen erstellt und verantwortet werden",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-09T08:00:00+00:00",
-      "updated_at": "2026-11-09T08:00:00+00:00",
-      "article_ids": [
-        "084cfbebf1893f1bcd48"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-cd878b1896905f686edd",
-      "title": "Wie die innere Uhr die psychische Gesundheit beeinflusst – und wie man hilft, damit sie richtig tickt",
-      "overview": "Schlechter Schlaf beeinflusst die Stimmung. Das hat auch mit dem zirkadianen Rhythmus zu tun, nach dem unser Stoffwechsel funktioniert. Bestimmte Gewohnheiten helfen, ihn zu unterstützen",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-09T08:00:00+00:00",
-      "updated_at": "2026-11-09T08:00:00+00:00",
-      "article_ids": [
-        "5615f1bcaf63fe699e55"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-9aaae660682b8b6dc7c3",
-      "title": "Air France bietet reichen Fluggästen jetzt 3,5 Quadratmeter Platz",
-      "overview": "Neue Luxuskabinen zeigen, wie wenig sich auch europäische Fluglinien um Klimaschutz bemühen. Notwendig wäre Regulierung. Experten sind uneins, wie die aussehen soll",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-09T08:00:00+00:00",
-      "updated_at": "2026-11-09T08:00:00+00:00",
-      "article_ids": [
-        "98f836ea2a25b65f8aa7"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-8024a1755eb8c408dfdc",
-      "title": "Die Musik der Sonne und sonnenähnlicher Sterne",
-      "overview": "Wie und warum der europäische Planetenjäger PLATO sonnenähnliche Sterne beobachten wird",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-09T07:00:00+00:00",
-      "updated_at": "2026-11-09T07:00:00+00:00",
-      "article_ids": [
-        "023a9767731c8d957c5d"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-46f31ca5b37def08805b",
-      "title": "Musikerpaar: \"Wir haben ein Klo, das ist jetzt eine Abstellkammer\"",
-      "overview": "Eine blaue Wand, ein Sekretär, ein balinesischer Hausdrache: Die Wohnung von Anna Sushon und Alexander Kaimbacher ist so vielseitig wie das Musikerpaar selbst",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-09T04:00:00+00:00",
-      "updated_at": "2026-11-09T04:00:00+00:00",
-      "article_ids": [
-        "d3ce318faeb1d9c7b280"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-af92361292016304abf9",
-      "title": "Doing these things now will help you save money at Christmas",
-      "overview": "Small decisions made now can make a big difference to your festive finances, charities say, so here are some tips.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-09T00:09:14+00:00",
-      "updated_at": "2026-11-09T00:09:14+00:00",
-      "article_ids": [
-        "4bfab3c8a577f6304cb8"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "Business",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
     }
   ],
   "instruments": [
@@ -76548,16 +76643,16 @@
   "markets": [],
   "status": {
     "state": "ok",
-    "attempted_at": "2026-11-15T17:15:10.838578+00:00",
-    "last_success_at": "2026-11-15T17:15:10.838578+00:00",
+    "attempted_at": "2026-11-15T21:54:22.531480+00:00",
+    "last_success_at": "2026-11-15T21:54:22.531480+00:00",
     "errors": [],
     "source_results": {
-      "bbc-world": "26 entries",
+      "bbc-world": "20 entries",
       "guardian-us": "33 entries",
       "fox-politics": "25 entries",
       "bbc-business": "40 entries",
-      "orf": "24 entries",
-      "standard": "151 entries"
+      "orf": "26 entries",
+      "standard": "150 entries"
     },
     "market_status": "Market price data not configured",
     "ai_status": "AI enrichment not configured"
