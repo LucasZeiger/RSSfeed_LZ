@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "mode": "live",
-  "generated_at": "2026-11-15T01:58:33.364278+00:00",
+  "generated_at": "2026-11-15T09:35:10.876300+00:00",
   "refresh_minutes": 60,
   "sources": [
     {
@@ -90,6 +90,791 @@
     }
   ],
   "articles": [
+    {
+      "id": "e6174484fe09ea2af3eb",
+      "source_id": "orf",
+      "title": "Berichte: Ukraine griff großen Industriekomplex an",
+      "url": "https://orf.at/stories/3448229/",
+      "summary": "",
+      "published_at": "2026-11-15T09:32:46+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "df8bb3ef10f509e14f4f",
+      "source_id": "standard",
+      "title": "\"Als würde es sie nicht interessieren\": Truppe staunt über Aichers Fahrstil",
+      "url": "https://www.derstandard.at/story/3000000349281/als-wuerde-es-sie-nicht-interessieren-truppe-staunt-ueber-aichers-fahrstil?ref=rss",
+      "summary": "Ein dritter Platz zum Saisonstart und Laufbestzeit im zweiten Durchgang: Katharina Truppe reist zufrieden aus Levi ab. Sie bewundert den Fahrstil der Siegerin",
+      "published_at": "2026-11-15T09:29:29+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "4f3e1594301b7c6c1164",
+      "source_id": "standard",
+      "title": "König Charles und Elton John scherzen im Radio über das Älterwerden",
+      "url": "https://www.derstandard.at/story/3000000349280/koenig-charles-und-elton-john-scherzen-im-radio-ueber-das-aelterwerden?ref=rss",
+      "summary": "Die Sondersendung von Elton Johns \"Rocket Hour\" auf Apple Music fand am Samstag statt",
+      "published_at": "2026-11-15T09:28:02+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "30a36ba4ddf7ef0d47f7",
+      "source_id": "orf",
+      "title": "Truppen des Jemen ziehen sich von Bab al-Mandab zurück",
+      "url": "https://orf.at/stories/3448228/",
+      "summary": "",
+      "published_at": "2026-11-15T09:27:46+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "3f421f757296584ded17",
+      "source_id": "bbc-world",
+      "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+      "url": "https://www.bbc.co.uk/news/articles/cmrlgn4x2xw8o?at_campaign=rss&at_medium=RSS",
+      "summary": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
+      "published_at": "2026-11-15T09:26:37+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "82525270f22037cccd3b",
+      "source_id": "standard",
+      "title": "Drei Viertel der Flüchtlinge von 2015 haben heute Jobs – sofern es Männer sind",
+      "url": "https://www.derstandard.at/story/3000000348827/drei-viertel-der-fluechtlinge-von-2015-haben-heute-jobs-sofern-es-maenner-sind?ref=rss",
+      "summary": "Ein Forscherteam hat analysiert, wie die 1,77 Millionen Zuwanderer der vergangenen zehn Jahre vorangekommen sind. Entmutigendes und positive Überraschung – die Ergebnisse zeigen beides",
+      "published_at": "2026-11-15T09:26:23+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "8751de25cb1aeb68329a",
+      "source_id": "standard",
+      "title": "Was will Österreich von Frauen? Ein zweiter Geburtstag schafft keinen Betreuungsplatz",
+      "url": "https://www.derstandard.at/story/3000000348400/was-will-oesterreich-von-frauen-ein-zweiter-geburtstag-schafft-keinen-betreuungsplatz?ref=rss",
+      "summary": "Die Sozialhilfereform soll geflüchtete Mütter früher in Arbeit bringen. Wer darin einen Befreiungsschlag sieht, sollte fragen, welche Arbeit diesen Frauen offensteht und ob sie davon leben können. Eine Replik",
+      "published_at": "2026-11-15T09:26:21+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "a9b4896c8776119b9ad7",
+      "source_id": "standard",
+      "title": "Philippinen gewinnen ersten asiatischen ESC-Ableger in Thailand",
+      "url": "https://www.derstandard.at/story/3000000349279/philippinen-gewinnen-ersten-asiatischen-esc-ableger-in-thailand?ref=rss",
+      "summary": "Große Bandbreite an Künstlern dabei",
+      "published_at": "2026-11-15T09:17:31+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "e701ffaf87e022649560",
+      "source_id": "standard",
+      "title": "Foto Arsenal Wien 2027: Von Yves Saint Laurent bis zu \"Third Places\"",
+      "url": "https://www.derstandard.at/story/3000000349277/foto-arsenal-wien-2027-von-yves-saint-laurent-bis-zu-third-places?ref=rss",
+      "summary": "Ausstellungen von u.a. Jojo Gronostay, Martin Parr und Liz Johnson Artur sind geplant, im Oktober das Festival \"Foto Wien\"",
+      "published_at": "2026-11-15T09:09:40+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "d9b661e25f8f716f192c",
+      "source_id": "standard",
+      "title": "Hamas-Kommandant bei israelischem Angriff in Gaza getötet",
+      "url": "https://www.derstandard.at/story/3000000349276/nahost-hamas-kommandant-bei-israelischem-angriff-in-gaza-get246tet?ref=rss",
+      "summary": "Samir Abu Younis befehligte die Rafah-Brigade im Süden des Gazastreifens",
+      "published_at": "2026-11-15T09:04:54+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "655a961be45fde0e888f",
+      "source_id": "standard",
+      "title": "Mikroskopische Eisenräuber könnten zu Verbündeten der Medizin werden",
+      "url": "https://www.derstandard.at/story/3000000342999/mikroskopische-eisenraeuber-koennten-zu-verbuendeten-der-medizin-werden?ref=rss",
+      "summary": "Siderophore entreißen überlebensnotwendiges Eisen. Sie können damit allerdings auch Partner versorgen. Diese überraschende Entdeckung birgt medizinisches Potenzial",
+      "published_at": "2026-11-15T09:00:00+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "7221d4ff8fb3e20bba7b",
+      "source_id": "standard",
+      "title": "Hyundai Ioniq 6 N, die Kanonenkuppel aus Korea",
+      "url": "https://www.derstandard.at/story/3000000349087/hyundai-ioniq-6-n-die-kanonenkuppel-aus-korea?ref=rss",
+      "summary": "Ein hochaktuelles Auto für die großen Gefühle aus der „guten“ alten Zeit. Dabei wäre vieles, was dieses Auto kann, als Verbrenner nie möglich gewesen",
+      "published_at": "2026-11-15T09:00:00+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "7843acc7ede56c70f7db",
+      "source_id": "standard",
+      "title": "Haus eines Journalisten in Panama ging in Flammen auf",
+      "url": "https://www.derstandard.at/story/3000000349273/haus-eines-journalisten-in-panama-ging-in-flammen-auf?ref=rss",
+      "summary": "Die Zeitung \"La Prensa\" sieht den Hintergrund in Recherchen zu Staatsaufträgen",
+      "published_at": "2026-11-15T08:45:13+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "e2307d7f15ff92a7885f",
+      "source_id": "standard",
+      "title": "Flugrettung: Wien und Burgenland ändern Abrechnungsmodus 2028",
+      "url": "https://www.derstandard.at/story/3000000349272/flugrettung-wien-und-burgenland-228ndern-abrechnungsmodus-2028?ref=rss",
+      "summary": "Künftig werden Echtkosten pro Flugminute statt einer Pauschale abgerechnet",
+      "published_at": "2026-11-15T08:34:40+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "7e7aa9f5a6b161d255f9",
+      "source_id": "standard",
+      "title": "Weitere Ermittlungen nach tödlichem Lawinenunfall in Tirol",
+      "url": "https://www.derstandard.at/story/3000000349271/weitere-ermittlungen-nach-t246dlichem-lawinenunfall-in-tirol?ref=rss",
+      "summary": "Ein Wintersportler wurde am Stubaier Gletscher von einem Schneebrett erfasst und ist 20 Meter in Gletscherspalte gestürzt. Die Identität des Verunglückten sei laut Polizei vorerst noch unklar",
+      "published_at": "2026-11-15T08:29:09+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "9575b4771232457a0761",
+      "source_id": "bbc-world",
+      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "url": "https://www.bbc.co.uk/news/articles/cqrkg4r6mg7xo?at_campaign=rss&at_medium=RSS",
+      "summary": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
+      "published_at": "2026-11-15T08:17:41+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "b0e2c0c67925c49ed1f9",
+      "source_id": "orf",
+      "title": "Philippinen gewinnen ersten Song Contest in Asien",
+      "url": "https://orf.at/stories/3448226/",
+      "summary": "",
+      "published_at": "2026-11-15T08:11:28+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Kultur"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "9c53dff88c57ac7da127",
+      "source_id": "standard",
+      "title": "Argentiniens \"Kettensägen\"-Präsident Milei will wieder kandidieren",
+      "url": "https://www.derstandard.at/story/3000000349270/argentiniens-kettens228gen-pr228sident-milei-will-wieder-kandidieren?ref=rss",
+      "summary": "Seine marktradikale Politik brachte Wachstum, aber ein Drittel der Einwohner gilt als arm",
+      "published_at": "2026-11-15T08:10:25+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "3ef87fe7ab0c7eb35c86",
+      "source_id": "standard",
+      "title": "Eine Bank² im Tor und der klassische Gregerl: Die ÖFB-Spieler in der Einzelkritik",
+      "url": "https://www.derstandard.at/story/3000000349249/eine-bank-im-tor-und-der-klassische-gregerl-die-oefb-spieler-in-der-einzelkritik?ref=rss",
+      "summary": "Beim 1:0 gegen Irland bewies Saša Kalajdžić einmal mehr seine Jokerqualitäten, die Defensive zeigte Schwachstellen",
+      "published_at": "2026-11-15T08:04:17+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "348dc62527bfb31e04c5",
+      "source_id": "standard",
+      "title": "Poet, Liedermacher und DDR-Staatsfeind Wolf Biermann: \"Selbstbesoffen war ich nie\"",
+      "url": "https://www.derstandard.at/story/3000000348574/poet-liedermacher-und-ddr-staatsfeind-wolf-biermann-selbstbesoffen-war-ich-nie?ref=rss",
+      "summary": "Im Oktober war Biermann anlässlich einer Kinodokumentation über ihn zu Gast auf der Viennale. Nach einem Schnuppern am Schuh erzählte er angeregt aus seinem übervollen Leben",
+      "published_at": "2026-11-15T08:00:00+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "7d618085b7048554259d",
+      "source_id": "standard",
+      "title": "Karl-Markus Gauß: Man muss die Freiheitlichen bei ihrem identitären Wort nehmen",
+      "url": "https://www.derstandard.at/story/3000000349141/karl-markus-gauss-man-muss-die-freiheitlichen-bei-ihrem-identitaeren-wort-nehmen?ref=rss",
+      "summary": "Kickl und seine rechtsextremen Freunde: Diese versuchen, Schüler als Gefolgsleute zu rekrutieren. Warum wird allzu oft mehr zaghaft denn kämpferisch reagiert? Wir sollten nicht warten, bis aus Worten Taten werden",
+      "published_at": "2026-11-15T08:00:00+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "91062196733403ace524",
+      "source_id": "standard",
+      "title": "Macron warnt vor Kürzung der Ukraine-Hilfen",
+      "url": "https://www.derstandard.at/jetzt/livebericht/3000000349243/starlink-in-der-ukraine-weiter-eingeschraenkt-us-senatoren-fordern-unterlagen-von-musk?ref=rss",
+      "summary": "Die USA schlagen laut Selenskyj einen Natobeitritt gegen Gebietsabtritt vor",
+      "published_at": "2026-11-15T07:45:15+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "f5d2c627beebc00f81d3",
+      "source_id": "standard",
+      "title": "Hafenbetreiber klagt Tanker nach Schiffskollision in New Orleans",
+      "url": "https://www.derstandard.at/story/3000000349267/hafenbetreiber-klagt-tanker-nach-schiffskollision-in-new-orleans?ref=rss",
+      "summary": "Der Tankschiffbetreiber soll für rund eine Million Schaden aufkommen",
+      "published_at": "2026-11-15T07:27:41+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "da11b40523f71a97faf5",
+      "source_id": "standard",
+      "title": "Irans Revolutionsgarden: Drohnenangriff auf US-Radaranlage in Bahrain",
+      "url": "https://www.derstandard.at/story/3000000349266/irans-revolutionsgarden-drohnenangriff-auf-us-radaranlage-in-bahrain?ref=rss",
+      "summary": "Die Anlage auf dem Hubschrauber-Stützpunkt Al-Riffa sei mit sechs Drohnen attackiert worden",
+      "published_at": "2026-11-15T07:19:28+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "a0e91481e0016b6f0639",
+      "source_id": "orf",
+      "title": "Guatemala: Trauerfeier für Literaturnobelpreisträger Asturias",
+      "url": "https://orf.at/stories/3448218/",
+      "summary": "",
+      "published_at": "2026-11-15T07:14:08+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Kultur"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "f13b2554606c934bc6a3",
+      "source_id": "orf",
+      "title": "Netzwerk „The Com“ hinter mehreren Kriminalfällen",
+      "url": "https://orf.at/stories/3448217/",
+      "summary": "",
+      "published_at": "2026-11-15T07:10:51+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Chronik"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "40ee9ac82c4ba080f0ec",
+      "source_id": "standard",
+      "title": "US-Richterin blockiert Parkschließung für Trumps Golfplatz",
+      "url": "https://www.derstandard.at/story/3000000349265/us-richterin-blockiert-parkschlie223ung-f252r-trumps-golfplatz?ref=rss",
+      "summary": "Das Areal darf nicht für 15 Monate geschlossen werden, die Anordnung gilt bis 28. November",
+      "published_at": "2026-11-15T07:09:25+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "9514cfdc382c8a99a97c",
+      "source_id": "orf",
+      "title": "Schiffskollision in New Orleans: Hafenbetreiber klagt",
+      "url": "https://orf.at/stories/3448216/",
+      "summary": "",
+      "published_at": "2026-11-15T07:00:37+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Chronik"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "5a2b216a30c031e94243",
+      "source_id": "standard",
+      "title": "Liepaja 2027: Eine Kulturhauptstadt wie ein Gefängnisausbruch",
+      "url": "https://www.derstandard.at/story/3000000348587/liepaja-2027-eine-kulturhauptstadt-wie-ein-gefaengnisausbruch?ref=rss",
+      "summary": "Die lettische Küstenstadt war zu Sowjetzeiten Sperrgebiet. Dieser Background und ein subversives Liedgut bilden einen guten Grundstock für das kommende Kulturjahr",
+      "published_at": "2026-11-15T07:00:00+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "675f37305eae4182b6c0",
+      "source_id": "standard",
+      "title": "Ein Papst auf Triumphzug: Leo zurück in Chiclayo",
+      "url": "https://www.derstandard.at/story/3000000349264/ein-papst-auf-triumphzug-leo-zur252ck-in-chiclayo?ref=rss",
+      "summary": "Die Heimkehr in seine alte Wirkungsstätte ist der emotionale Höhepunkt des zwölftägigen Südamerika-Besuchs des Kirchenoberhaupts",
+      "published_at": "2026-11-15T06:58:47+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "8e37b6bf2b40a9634104",
+      "source_id": "orf",
+      "title": "Iran meldet Angriff auf US-Stützpunkt in Bahrain",
+      "url": "https://orf.at/stories/3448215/",
+      "summary": "",
+      "published_at": "2026-11-15T06:54:07+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "4e610fb6d22b878337e3",
+      "source_id": "orf",
+      "title": "Argentinischer Präsident Milei will wieder kandidieren",
+      "url": "https://orf.at/stories/3448214/",
+      "summary": "",
+      "published_at": "2026-11-15T06:49:15+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "70e6af4ed70c49d88a9b",
+      "source_id": "standard",
+      "title": "COP31: Das alljährliche Konfliktthema Klimafinanzierung",
+      "url": "https://www.derstandard.at/story/3000000349263/cop31-das-allj228hrliche-konfliktthema-klimafinanzierung?ref=rss",
+      "summary": "Historische Mittelkürzungen stehen einem neuen Finanzierungsziel gegenüber",
+      "published_at": "2026-11-15T06:49:01+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "de48ffe8888d51bd3eef",
+      "source_id": "orf",
+      "title": "US-Richterin stoppt Trumps Golfplatzprojekt in Washington",
+      "url": "https://orf.at/stories/3448213/",
+      "summary": "",
+      "published_at": "2026-11-15T06:44:10+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "79a1028d3ac1aa452ded",
+      "source_id": "orf",
+      "title": "Riad: Militärkoalition fängt Huthi-Raketen ab",
+      "url": "https://orf.at/stories/3448212/",
+      "summary": "",
+      "published_at": "2026-11-15T06:34:41+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "6630d34f4bf9db2a42cf",
+      "source_id": "orf",
+      "title": "Israel meldet Tötung von Hamas-Kommandeur in Gaza",
+      "url": "https://orf.at/stories/3448211/",
+      "summary": "",
+      "published_at": "2026-11-15T06:32:25+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "c19a832e3650e6a78c61",
+      "source_id": "orf",
+      "title": "Warum die Friedensbewegung erstarrte",
+      "url": "https://orf.at/stories/3446294/",
+      "summary": "Am Montag beginnen die „Graz Peace Dialogues“, eine internationale Konferenz, bei der die „Zukunft des Friedens in einer sich rasant verändernden Welt“ diskutiert werden soll. Die Gegenwart sieht recht düster aus. Im Gespräch mit ORF.at beantworten Friedensforschende, warum trotz zunehmender Militarisierung und Aufrüstung die Straßen leer bleiben.",
+      "published_at": "2026-11-15T06:28:46+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "bbc1be738fd38d93c380",
+      "source_id": "standard",
+      "title": "\"The COM\" steckte hinter 20 Kriminalfällen in Österreich",
+      "url": "https://www.derstandard.at/story/3000000349262/the-com-steckte-bei-20-kriminalf228llen-in-214sterreich-dahinter?ref=rss",
+      "summary": "300 Fälle konnten rückanalysiert werden, 115 haben Bezug zu gewaltbereitem Netzwerk",
+      "published_at": "2026-11-15T06:18:09+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "93e528796ac43b893017",
+      "source_id": "standard",
+      "title": "Pro & Kontra: Gemeinsam duschen",
+      "url": "https://www.derstandard.at/story/3000000345261/pro-kontra-gemeinsam-duschen?ref=rss",
+      "summary": "Kuscheln unterm Wasserstrahl",
+      "published_at": "2026-11-15T06:00:00+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "e6e3417e96fd0da89de0",
+      "source_id": "guardian-us",
+      "title": "US Olympic hero Kayla Harrison submits Amanda Nunes to retain UFC title at MSG",
+      "url": "https://www.theguardian.com/sport/2026/nov/15/kayla-harrison-amanda-nunes-ufc-334-ciryl-gane-josh-hokit",
+      "summary": "Two-time Olympic judo champion submits MMA legend Nunes falls short in return from three-year retirement Gane edges Hokit on points to retain heavyweight crown Kayla Harrison retained her UFC women’s bantamweight championship with a fourth-round submission of Amanda Nunes on Saturday night at Madison Square Garden, spoiling the comeback bid of the woman widely regarded as the greatest female fighter in MMA history. Harrison (20-1) had plenty to prove in her first title defense against Nunes, who ended a three-year retirement for the long-awaited showdown. It was also Harrison’s first fight sin",
+      "published_at": "2026-11-15T05:31:10+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "Agencies",
+      "categories": [
+        "UFC",
+        "MMA",
+        "Sport",
+        "US sports"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "03f33ba9350e05a9b6e8",
+      "source_id": "standard",
+      "title": "Wie ein außergewöhnlich starker El Niño die globale Erwärmung antreibt",
+      "url": "https://www.derstandard.at/story/3000000347379/wie-ein-aussergewoehnlich-starker-el-nino-die-globale-erwaermung-antreibt?ref=rss",
+      "summary": "Der aktuelle El Niño könnte der stärkste seit 1000 Jahren sein. 2027 erwarten Forschende 1,8 Grad über dem vorindustriellen Niveau – und sehen Hinweise, dass der Klimawandel das Phänomen selbst verstärkt",
+      "published_at": "2026-11-15T05:00:00+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "589f2bb42cffb8e008a9",
+      "source_id": "standard",
+      "title": "Magnus Carlsen zeigt sich beim \"Total Chess in Budapest\" total außer Form",
+      "url": "https://www.derstandard.at/story/3000000349232/magnus-carlsen-zeigt-sich-beim-total-chess-in-budapest-total-ausser-form?ref=rss",
+      "summary": "Beim Pilot-Turnier für die Ermittlung des besten Schachspielers aller Bedenkzeitklassen legt die Nummer eins einen Fehlstart hin",
+      "published_at": "2026-11-15T05:00:00+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "3e74af5ddcb45d88b093",
+      "source_id": "standard",
+      "title": "Was bedeutet der Abgang von Konzernchef Huang für die Nvidia-Aktie?",
+      "url": "https://www.derstandard.at/story/3000000349115/was-bedeutet-der-abgang-von-konzernchef-huang-fuer-die-nvidia-aktie?ref=rss",
+      "summary": "Nach dem Kursrutsch ist Nvidia an der Börse billiger als vor einem Jahr, gleichzeitig sind Umsatz und Gewinn stark gestiegen. Allerdings steht der Chipkonzern nach Huangs Rücktritt vor einer ungewissen Zukunft",
+      "published_at": "2026-11-15T05:00:00+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "83e31d14487f75a8c75f",
+      "source_id": "standard",
+      "title": "Lucy, Betsey und Anarcha: Die unbekannten \"Mütter der Gynäkologie\"",
+      "url": "https://www.derstandard.at/story/3000000347913/lucy-betsey-und-anarcha-die-unbekannten-muetter-der-gynaekologie?ref=rss",
+      "summary": "Der US-amerikanische Arzt J. Marion Sims wird für die Behandlung von Geburtsverletzungen als \"Vater der Gynäkologie\" gewürdigt. Dabei experimentierte er ohne Betäubung an versklavten Frauen",
+      "published_at": "2026-11-15T05:00:00+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "e0030b4ad26defaef249",
+      "source_id": "standard",
+      "title": "Opernweltstar seit einem Jahr in Tiflis in Haft: Sorge und Bemühungen um Paata Burchuladze",
+      "url": "https://www.derstandard.at/story/3000000348679/opernweltstar-seit-einem-jahr-in-tiflis-in-haft-sorge-und-bemuehungen-um-paata-burchuladze?ref=rss",
+      "summary": "Als Bass ist er international bekannt, als Oppositionspolitiker wurde er zu sieben Jahren Gefängnis verurteilt. Nun beginnt in Georgien unter österreichischer Beobachtung die Berufungsverhandlung um den Sänger",
+      "published_at": "2026-11-15T05:00:00+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "463ab03dad6aa2c3c099",
+      "source_id": "standard",
+      "title": "Überflutungsgefahr im Postfach: Wozu braucht es das Meer an Tracking-Mails für Pakete?",
+      "url": "https://www.derstandard.at/story/3000000348948/ueberflutungsgefahr-im-postfach-wozu-braucht-es-das-meer-an-tracking-mails-fuer-pakete?ref=rss",
+      "summary": "Von der Bestellbestätigung bis zum Abholungscode: Im Onlinehandel haben Pakete unzählige E-Mail-Benachrichtigungen im Gepäck – die gleich wieder im Papierkorb landen",
+      "published_at": "2026-11-15T05:00:00+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "1431ce24ff64d79d8898",
+      "source_id": "standard",
+      "title": "\"Fedora\", \"Planet der Affen 3\", \"The Hateful Eight\": TV-Tipps für Sonntag",
+      "url": "https://www.derstandard.at/story/3000000348233/fedora-planet-der-affen-3-the-hateful-eight-tv-tipps-fuer-sonntag?ref=rss",
+      "summary": "Außerdem die \"Pressestunde\" und \"Das Gespräch mit Susanne Schnabl\"",
+      "published_at": "2026-11-15T05:00:00+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "209f21f4567ddfaa70d5",
+      "source_id": "guardian-us",
+      "title": "US judge blocks Trump’s plan to renovate historic DC golf course",
+      "url": "https://www.theguardian.com/us-news/2026/nov/15/us-judge-blocks-trumps-plan-to-renovate-historic-dc-golf-course",
+      "summary": "Order by judge Ana Reyes is the latest instance of the federal judiciary pushing back against Trump’s efforts to redesign the nation’s capital A federal judge has ordered a temporary suspension of any work at a historic Washington public golf course, in the latest setback for US president Donald Trump’s plan to turn it ⁠into a championship-level course. In a 30-page decision, US district judge Ana Reyes temporarily blocked the federal government from moving forward with a plan that would have closed East Potomac Park on Sunday. Trump said in an 18 ⁠October social media post that the closure wo",
+      "published_at": "2026-11-15T04:52:34+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "Guardian staff and agencies",
+      "categories": [
+        "Trump administration",
+        "Donald Trump",
+        "Washington DC",
+        "US politics",
+        "Public lands"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "d1f7e2a06421c73d1c3c",
+      "source_id": "bbc-world",
+      "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+      "url": "https://www.bbc.co.uk/news/articles/c6j9mn7l14y0o?at_campaign=rss&at_medium=RSS",
+      "summary": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links.",
+      "published_at": "2026-11-15T03:21:04+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "f9ab62ddd2bb5676360a",
+      "source_id": "bbc-world",
+      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "url": "https://www.bbc.co.uk/news/articles/cr4gnz0lv2vlo?at_campaign=rss&at_medium=RSS",
+      "summary": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
+      "published_at": "2026-11-15T02:49:45+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
     {
       "id": "4dcfd8e7136b7f3db817",
       "source_id": "guardian-us",
@@ -248,6 +1033,21 @@
       ],
       "language": "de",
       "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "647f8a274d3132bd35d5",
+      "source_id": "bbc-world",
+      "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+      "url": "https://www.bbc.co.uk/news/articles/cwe89y2r5j20o?at_campaign=rss&at_medium=RSS",
+      "summary": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
+      "published_at": "2026-11-14T22:27:06+00:00",
+      "fetched_at": "2026-11-15T09:35:10.876300+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
       "category": "World"
     },
     {
@@ -23383,24 +24183,1707 @@
       "language": "de",
       "country": "AT",
       "category": "Politics"
-    },
-    {
-      "id": "ba76a208ceaa6c957c43",
-      "source_id": "standard",
-      "title": "\"Ich esse doch wie immer\" – warum das in den Wechseljahren nicht mehr reicht. Plus Rezepte",
-      "url": "https://www.derstandard.at/story/3000000347143/ich-esse-doch-wie-immer-warum-das-in-den-wechseljahren-nicht-mehr-reicht-plus-rezepte?ref=rss",
-      "summary": "Mit der Perimenopause verändert sich der Stoffwechsel. Weniger Östrogen führt bei vielen zu mehr Bauchfett. Doch das lässt sich ändern, sagt Ernährungsexpertin Susanne Liedtke",
-      "published_at": "2026-11-08T08:00:00+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
     }
   ],
   "stories": [
+    {
+      "id": "story-2bfc19e3c1ca7b58d1d4",
+      "title": "Berichte: Ukraine griff großen Industriekomplex an",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T09:32:46+00:00",
+      "updated_at": "2026-11-15T09:32:46+00:00",
+      "article_ids": [
+        "e6174484fe09ea2af3eb"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-847b47f9ea7efb70705f",
+      "title": "\"Als würde es sie nicht interessieren\": Truppe staunt über Aichers Fahrstil",
+      "overview": "Ein dritter Platz zum Saisonstart und Laufbestzeit im zweiten Durchgang: Katharina Truppe reist zufrieden aus Levi ab. Sie bewundert den Fahrstil der Siegerin",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T09:29:29+00:00",
+      "updated_at": "2026-11-15T09:29:29+00:00",
+      "article_ids": [
+        "df8bb3ef10f509e14f4f"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-785701de2aa491cfaaf1",
+      "title": "König Charles und Elton John scherzen im Radio über das Älterwerden",
+      "overview": "Die Sondersendung von Elton Johns \"Rocket Hour\" auf Apple Music fand am Samstag statt",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T09:28:02+00:00",
+      "updated_at": "2026-11-15T09:28:02+00:00",
+      "article_ids": [
+        "4f3e1594301b7c6c1164"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-9afdf6c829fb97e17db8",
+      "title": "Truppen des Jemen ziehen sich von Bab al-Mandab zurück",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T09:27:46+00:00",
+      "updated_at": "2026-11-15T09:27:46+00:00",
+      "article_ids": [
+        "30a36ba4ddf7ef0d47f7"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-b7823a6bf9f6b97d8ccc",
+      "title": "Fifth Canadian soldier dies from injuries caused by large fire at military base",
+      "overview": "Pte William Douglas Dal Bianco died from his injuries on Friday, a month after a fire that tore through CFB Wainwright.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T09:26:37+00:00",
+      "updated_at": "2026-11-15T09:26:37+00:00",
+      "article_ids": [
+        "3f421f757296584ded17"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-aed084b1ac7b8d8f6b34",
+      "title": "Drei Viertel der Flüchtlinge von 2015 haben heute Jobs – sofern es Männer sind",
+      "overview": "Ein Forscherteam hat analysiert, wie die 1,77 Millionen Zuwanderer der vergangenen zehn Jahre vorangekommen sind. Entmutigendes und positive Überraschung – die Ergebnisse zeigen beides",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T09:26:23+00:00",
+      "updated_at": "2026-11-15T09:26:23+00:00",
+      "article_ids": [
+        "82525270f22037cccd3b"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-7e275edd61c7004acdfd",
+      "title": "Was will Österreich von Frauen? Ein zweiter Geburtstag schafft keinen Betreuungsplatz",
+      "overview": "Die Sozialhilfereform soll geflüchtete Mütter früher in Arbeit bringen. Wer darin einen Befreiungsschlag sieht, sollte fragen, welche Arbeit diesen Frauen offensteht und ob sie davon leben können. Eine Replik",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T09:26:21+00:00",
+      "updated_at": "2026-11-15T09:26:21+00:00",
+      "article_ids": [
+        "8751de25cb1aeb68329a"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-f9f1948cd12a694d6566",
+      "title": "Philippinen gewinnen ersten asiatischen ESC-Ableger in Thailand",
+      "overview": "Große Bandbreite an Künstlern dabei",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T09:17:31+00:00",
+      "updated_at": "2026-11-15T09:17:31+00:00",
+      "article_ids": [
+        "a9b4896c8776119b9ad7"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-015e86bc3e4efdf8b414",
+      "title": "Foto Arsenal Wien 2027: Von Yves Saint Laurent bis zu \"Third Places\"",
+      "overview": "Ausstellungen von u.a. Jojo Gronostay, Martin Parr und Liz Johnson Artur sind geplant, im Oktober das Festival \"Foto Wien\"",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T09:09:40+00:00",
+      "updated_at": "2026-11-15T09:09:40+00:00",
+      "article_ids": [
+        "e701ffaf87e022649560"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-73feb8b96f472ff43b1d",
+      "title": "Hamas-Kommandant bei israelischem Angriff in Gaza getötet",
+      "overview": "Samir Abu Younis befehligte die Rafah-Brigade im Süden des Gazastreifens",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T09:04:54+00:00",
+      "updated_at": "2026-11-15T09:04:54+00:00",
+      "article_ids": [
+        "d9b661e25f8f716f192c"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-cda5c5264954612030aa",
+      "title": "Mikroskopische Eisenräuber könnten zu Verbündeten der Medizin werden",
+      "overview": "Siderophore entreißen überlebensnotwendiges Eisen. Sie können damit allerdings auch Partner versorgen. Diese überraschende Entdeckung birgt medizinisches Potenzial",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T09:00:00+00:00",
+      "updated_at": "2026-11-15T09:00:00+00:00",
+      "article_ids": [
+        "655a961be45fde0e888f"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-ccc9903def34d8df0b9a",
+      "title": "Hyundai Ioniq 6 N, die Kanonenkuppel aus Korea",
+      "overview": "Ein hochaktuelles Auto für die großen Gefühle aus der „guten“ alten Zeit. Dabei wäre vieles, was dieses Auto kann, als Verbrenner nie möglich gewesen",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T09:00:00+00:00",
+      "updated_at": "2026-11-15T09:00:00+00:00",
+      "article_ids": [
+        "7221d4ff8fb3e20bba7b"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-4e83ec0eee88ff4eff04",
+      "title": "Haus eines Journalisten in Panama in Brand",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T22:12:58+00:00",
+      "updated_at": "2026-11-15T08:45:13+00:00",
+      "article_ids": [
+        "4115912fac3bd2e17266",
+        "7843acc7ede56c70f7db"
+      ],
+      "publisher_count": 2,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [
+        "eines",
+        "haus",
+        "journalisten",
+        "panama"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-e125356e79b59c7aee9d",
+      "title": "Flugrettung: Wien und Burgenland ändern Abrechnungsmodus 2028",
+      "overview": "Künftig werden Echtkosten pro Flugminute statt einer Pauschale abgerechnet",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T08:34:40+00:00",
+      "updated_at": "2026-11-15T08:34:40+00:00",
+      "article_ids": [
+        "e2307d7f15ff92a7885f"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-e3c3575ce5b3c9a87d2f",
+      "title": "Weitere Ermittlungen nach tödlichem Lawinenunfall in Tirol",
+      "overview": "Ein Wintersportler wurde am Stubaier Gletscher von einem Schneebrett erfasst und ist 20 Meter in Gletscherspalte gestürzt. Die Identität des Verunglückten sei laut Polizei vorerst noch unklar",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T08:29:09+00:00",
+      "updated_at": "2026-11-15T08:29:09+00:00",
+      "article_ids": [
+        "7e7aa9f5a6b161d255f9"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-deec5ba981476081ae50",
+      "title": "Israel kills Hamas commander in strike on Gaza camp, officials say",
+      "overview": "Both Hamas and IDF officials confirm the death of Samir Abu Younis, commander of the Rafah Brigade.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T08:17:41+00:00",
+      "updated_at": "2026-11-15T08:17:41+00:00",
+      "article_ids": [
+        "9575b4771232457a0761"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-42fccaaee470ea6446b5",
+      "title": "Feuerprobe für Song Contest in Asien",
+      "overview": "Ein halbes Jahr nachdem der Song Contest im Mai in Wien seine 70. Ausgabe gefeiert hat, gibt es für den Bewerb eine Premiere: Mit Eurovision Asia geht am Samstag in Bangkok erstmals ein Ablegerformat für asiatische Länder über die Bühne. Über zehn Jahre wurde an dem Konzept gefeilt – nun steht dem asiatischen Song Contest die Feuerprobe bevor.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T12:14:40+00:00",
+      "updated_at": "2026-11-15T08:11:28+00:00",
+      "article_ids": [
+        "d9c5650223fee02de1db",
+        "b0e2c0c67925c49ed1f9"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 2
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [
+        "asien",
+        "contest",
+        "song"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-dc53c0a526849a9a15f5",
+      "title": "Argentinischer Präsident Milei will wieder kandidieren",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T06:49:15+00:00",
+      "updated_at": "2026-11-15T08:10:25+00:00",
+      "article_ids": [
+        "4e610fb6d22b878337e3",
+        "9c53dff88c57ac7da127"
+      ],
+      "publisher_count": 2,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [
+        "kandidieren",
+        "milei",
+        "präsident",
+        "wieder"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-18186ef1988045258510",
+      "title": "Eine Bank² im Tor und der klassische Gregerl: Die ÖFB-Spieler in der Einzelkritik",
+      "overview": "Beim 1:0 gegen Irland bewies Saša Kalajdžić einmal mehr seine Jokerqualitäten, die Defensive zeigte Schwachstellen",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T08:04:17+00:00",
+      "updated_at": "2026-11-15T08:04:17+00:00",
+      "article_ids": [
+        "3ef87fe7ab0c7eb35c86"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-fd3bb5dc0f240798e8e1",
+      "title": "Poet, Liedermacher und DDR-Staatsfeind Wolf Biermann: \"Selbstbesoffen war ich nie\"",
+      "overview": "Im Oktober war Biermann anlässlich einer Kinodokumentation über ihn zu Gast auf der Viennale. Nach einem Schnuppern am Schuh erzählte er angeregt aus seinem übervollen Leben",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T08:00:00+00:00",
+      "updated_at": "2026-11-15T08:00:00+00:00",
+      "article_ids": [
+        "348dc62527bfb31e04c5"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-76dde42d7debd9c37bd4",
+      "title": "Karl-Markus Gauß: Man muss die Freiheitlichen bei ihrem identitären Wort nehmen",
+      "overview": "Kickl und seine rechtsextremen Freunde: Diese versuchen, Schüler als Gefolgsleute zu rekrutieren. Warum wird allzu oft mehr zaghaft denn kämpferisch reagiert? Wir sollten nicht warten, bis aus Worten Taten werden",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T08:00:00+00:00",
+      "updated_at": "2026-11-15T08:00:00+00:00",
+      "article_ids": [
+        "7d618085b7048554259d"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-0d89a5eff4a5e0f170a8",
+      "title": "Macron warnt vor Kürzung der Ukraine-Hilfen",
+      "overview": "Die USA schlagen laut Selenskyj einen Natobeitritt gegen Gebietsabtritt vor",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T07:45:15+00:00",
+      "updated_at": "2026-11-15T07:45:15+00:00",
+      "article_ids": [
+        "91062196733403ace524"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-61d6b5a6fd6b64e08c1a",
+      "title": "Schiffskollision in New Orleans: Hafenbetreiber klagt",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T07:00:37+00:00",
+      "updated_at": "2026-11-15T07:27:41+00:00",
+      "article_ids": [
+        "9514cfdc382c8a99a97c",
+        "f5d2c627beebc00f81d3"
+      ],
+      "publisher_count": 2,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [
+        "hafenbetreiber",
+        "klagt",
+        "orleans",
+        "schiffskollision"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-2a4bf1eb3690f9068255",
+      "title": "Irans Revolutionsgarden: Drohnenangriff auf US-Radaranlage in Bahrain",
+      "overview": "Die Anlage auf dem Hubschrauber-Stützpunkt Al-Riffa sei mit sechs Drohnen attackiert worden",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T07:19:28+00:00",
+      "updated_at": "2026-11-15T07:19:28+00:00",
+      "article_ids": [
+        "da11b40523f71a97faf5"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-1c06ca645298271be939",
+      "title": "Guatemala: Trauerfeier für Literaturnobelpreisträger Asturias",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T07:14:08+00:00",
+      "updated_at": "2026-11-15T07:14:08+00:00",
+      "article_ids": [
+        "a0e91481e0016b6f0639"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-0b8ce9f8a58da7f0f5a8",
+      "title": "\"The COM\" steckte hinter 20 Kriminalfällen in Österreich",
+      "overview": "300 Fälle konnten rückanalysiert werden, 115 haben Bezug zu gewaltbereitem Netzwerk",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T06:18:09+00:00",
+      "updated_at": "2026-11-15T07:10:51+00:00",
+      "article_ids": [
+        "bbc1be738fd38d93c380",
+        "f13b2554606c934bc6a3"
+      ],
+      "publisher_count": 2,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [
+        "com",
+        "hinter",
+        "kriminalfällen"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-e2c14d4c2141410b3284",
+      "title": "US-Richterin blockiert Parkschließung für Trumps Golfplatz",
+      "overview": "Das Areal darf nicht für 15 Monate geschlossen werden, die Anordnung gilt bis 28. November",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T07:09:25+00:00",
+      "updated_at": "2026-11-15T07:09:25+00:00",
+      "article_ids": [
+        "40ee9ac82c4ba080f0ec"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-870cddf3116425ee95b2",
+      "title": "Liepaja 2027: Eine Kulturhauptstadt wie ein Gefängnisausbruch",
+      "overview": "Die lettische Küstenstadt war zu Sowjetzeiten Sperrgebiet. Dieser Background und ein subversives Liedgut bilden einen guten Grundstock für das kommende Kulturjahr",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T07:00:00+00:00",
+      "updated_at": "2026-11-15T07:00:00+00:00",
+      "article_ids": [
+        "5a2b216a30c031e94243"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-3687c200c1f891f90773",
+      "title": "Ein Papst auf Triumphzug: Leo zurück in Chiclayo",
+      "overview": "Die Heimkehr in seine alte Wirkungsstätte ist der emotionale Höhepunkt des zwölftägigen Südamerika-Besuchs des Kirchenoberhaupts",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T06:58:47+00:00",
+      "updated_at": "2026-11-15T06:58:47+00:00",
+      "article_ids": [
+        "675f37305eae4182b6c0"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-c6a147a0025db07d1f7d",
+      "title": "Iran meldet Angriff auf US-Radar in Bahrain",
+      "overview": "In der Straße von Hormus ist ein LNG-Tanker auf eine Seemine gelaufen",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T15:19:38+00:00",
+      "updated_at": "2026-11-15T06:54:07+00:00",
+      "article_ids": [
+        "1d2f32dbe0939f2a0874",
+        "8e37b6bf2b40a9634104"
+      ],
+      "publisher_count": 2,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [
+        "angriff",
+        "bahrain",
+        "iran",
+        "meldet"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-73e87e2e907656651aad",
+      "title": "COP31: Das alljährliche Konfliktthema Klimafinanzierung",
+      "overview": "Historische Mittelkürzungen stehen einem neuen Finanzierungsziel gegenüber",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T06:49:01+00:00",
+      "updated_at": "2026-11-15T06:49:01+00:00",
+      "article_ids": [
+        "70e6af4ed70c49d88a9b"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-4e7aa6668edfbf91b708",
+      "title": "US-Richterin stoppt Trumps Golfplatzprojekt in Washington",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T06:44:10+00:00",
+      "updated_at": "2026-11-15T06:44:10+00:00",
+      "article_ids": [
+        "de48ffe8888d51bd3eef"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-0d573b93ba52df5ac9af",
+      "title": "Riad: Militärkoalition fängt Huthi-Raketen ab",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T06:34:41+00:00",
+      "updated_at": "2026-11-15T06:34:41+00:00",
+      "article_ids": [
+        "79a1028d3ac1aa452ded"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-57e9ccf0673ff20ba8cb",
+      "title": "Israel meldet Tötung von Hamas-Kommandeur in Gaza",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T06:32:25+00:00",
+      "updated_at": "2026-11-15T06:32:25+00:00",
+      "article_ids": [
+        "6630d34f4bf9db2a42cf"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-ad8ee9f0c392b871c7bc",
+      "title": "Warum die Friedensbewegung erstarrte",
+      "overview": "Am Montag beginnen die „Graz Peace Dialogues“, eine internationale Konferenz, bei der die „Zukunft des Friedens in einer sich rasant verändernden Welt“ diskutiert werden soll. Die Gegenwart sieht recht düster aus. Im Gespräch mit ORF.at beantworten Friedensforschende, warum trotz zunehmender Militarisierung und Aufrüstung die Straßen leer bleiben.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T06:28:46+00:00",
+      "updated_at": "2026-11-15T06:28:46+00:00",
+      "article_ids": [
+        "c19a832e3650e6a78c61"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-002e6dbf8608084e6d21",
+      "title": "Pro & Kontra: Gemeinsam duschen",
+      "overview": "Kuscheln unterm Wasserstrahl",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T06:00:00+00:00",
+      "updated_at": "2026-11-15T06:00:00+00:00",
+      "article_ids": [
+        "93e528796ac43b893017"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-ac6ab6793d7195ec349f",
+      "title": "US Olympic hero Kayla Harrison submits Amanda Nunes to retain UFC title at MSG",
+      "overview": "Two-time Olympic judo champion submits MMA legend Nunes falls short in return from three-year retirement Gane edges Hokit on points to retain heavyweight crown Kayla Harrison retained her UFC women’s bantamweight championship with a fourth-round submission of Amanda Nunes on Saturday night at Madison Square Garden, spoiling the comeback bid of the woman widely regarded as the greatest female fighter in MMA history. Harrison (20-1) had plenty to prove in her first title defense against Nunes, who ended a three-year retirement for the long-awaited showdown. It was also Harrison’s first fight sin",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T05:31:10+00:00",
+      "updated_at": "2026-11-15T05:31:10+00:00",
+      "article_ids": [
+        "e6e3417e96fd0da89de0"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-fa325aaad6a02c30ac86",
+      "title": "Wie ein außergewöhnlich starker El Niño die globale Erwärmung antreibt",
+      "overview": "Der aktuelle El Niño könnte der stärkste seit 1000 Jahren sein. 2027 erwarten Forschende 1,8 Grad über dem vorindustriellen Niveau – und sehen Hinweise, dass der Klimawandel das Phänomen selbst verstärkt",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T05:00:00+00:00",
+      "updated_at": "2026-11-15T05:00:00+00:00",
+      "article_ids": [
+        "03f33ba9350e05a9b6e8"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-7234a8dec4461a72b4a0",
+      "title": "\"Fedora\", \"Planet der Affen 3\", \"The Hateful Eight\": TV-Tipps für Sonntag",
+      "overview": "Außerdem die \"Pressestunde\" und \"Das Gespräch mit Susanne Schnabl\"",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T05:00:00+00:00",
+      "updated_at": "2026-11-15T05:00:00+00:00",
+      "article_ids": [
+        "1431ce24ff64d79d8898"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-b91f6505ab7599751f9c",
+      "title": "Was bedeutet der Abgang von Konzernchef Huang für die Nvidia-Aktie?",
+      "overview": "Nach dem Kursrutsch ist Nvidia an der Börse billiger als vor einem Jahr, gleichzeitig sind Umsatz und Gewinn stark gestiegen. Allerdings steht der Chipkonzern nach Huangs Rücktritt vor einer ungewissen Zukunft",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T05:00:00+00:00",
+      "updated_at": "2026-11-15T05:00:00+00:00",
+      "article_ids": [
+        "3e74af5ddcb45d88b093"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-d4e03994b72e0197cad6",
+      "title": "Überflutungsgefahr im Postfach: Wozu braucht es das Meer an Tracking-Mails für Pakete?",
+      "overview": "Von der Bestellbestätigung bis zum Abholungscode: Im Onlinehandel haben Pakete unzählige E-Mail-Benachrichtigungen im Gepäck – die gleich wieder im Papierkorb landen",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T05:00:00+00:00",
+      "updated_at": "2026-11-15T05:00:00+00:00",
+      "article_ids": [
+        "463ab03dad6aa2c3c099"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-77124d24d3d1607bf5a4",
+      "title": "Magnus Carlsen zeigt sich beim \"Total Chess in Budapest\" total außer Form",
+      "overview": "Beim Pilot-Turnier für die Ermittlung des besten Schachspielers aller Bedenkzeitklassen legt die Nummer eins einen Fehlstart hin",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T05:00:00+00:00",
+      "updated_at": "2026-11-15T05:00:00+00:00",
+      "article_ids": [
+        "589f2bb42cffb8e008a9"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-7800a110bded17cc4bad",
+      "title": "Lucy, Betsey und Anarcha: Die unbekannten \"Mütter der Gynäkologie\"",
+      "overview": "Der US-amerikanische Arzt J. Marion Sims wird für die Behandlung von Geburtsverletzungen als \"Vater der Gynäkologie\" gewürdigt. Dabei experimentierte er ohne Betäubung an versklavten Frauen",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T05:00:00+00:00",
+      "updated_at": "2026-11-15T05:00:00+00:00",
+      "article_ids": [
+        "83e31d14487f75a8c75f"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-21eff120b4f6d276b927",
+      "title": "Opernweltstar seit einem Jahr in Tiflis in Haft: Sorge und Bemühungen um Paata Burchuladze",
+      "overview": "Als Bass ist er international bekannt, als Oppositionspolitiker wurde er zu sieben Jahren Gefängnis verurteilt. Nun beginnt in Georgien unter österreichischer Beobachtung die Berufungsverhandlung um den Sänger",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T05:00:00+00:00",
+      "updated_at": "2026-11-15T05:00:00+00:00",
+      "article_ids": [
+        "e0030b4ad26defaef249"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-e2cafa751568a30dc629",
+      "title": "Judge temporarily blocks Trump from closing Washington DC golf course for renovation",
+      "overview": "It is the latest development in a months-long challenge to the US president's plans for East Potomac Golf Links.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T03:21:04+00:00",
+      "updated_at": "2026-11-15T04:52:34+00:00",
+      "article_ids": [
+        "d1f7e2a06421c73d1c3c",
+        "209f21f4567ddfaa70d5"
+      ],
+      "publisher_count": 2,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK",
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [
+        "blocks",
+        "course",
+        "golf",
+        "judge",
+        "trump"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-769a3996279c42d5d639",
+      "title": "Pope Leo speaks of community 'suffering' on visit to remote Andes town",
+      "overview": "Santa Cruz de Succhabamba is part of the Diocese of Chiclayo, where the pope served as bishop from 2015 to 2023.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T02:49:45+00:00",
+      "updated_at": "2026-11-15T02:49:45+00:00",
+      "article_ids": [
+        "f9ab62ddd2bb5676360a"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
     {
       "id": "story-1611adcdc7b3e0694db1",
       "title": "NFL referee faces 112-mile dash on double-duty Sunday after FAA ground stop",
@@ -23735,14 +26218,14 @@
       "ai": null
     },
     {
-      "id": "story-ce39a9f2173eeda21af2",
-      "title": "Europa im Christkindlmarkt-Wettstreit",
-      "overview": "Am Wochenende ist der Startschuss für viele große Christkindlmärkte in Österreich gefallen. Doch nicht nur hier: Für mehrere Wochen verwandeln sich die Innenstädte vieler Städte in Europa in fast flächendeckende Marktgebiete. Um hervorzustechen werben Veranstalter mit Superlativen und offiziellen Titeln um immer noch wachsende Zielgruppen. Beschwerden häufen sich hingegen in Großbritannien – nicht jeder Markt scheint dort zu halten, was er verspricht.",
+      "id": "story-9112090ff9549dc795b4",
+      "title": "New Orleans port files $1m lawsuit over 'miracle on the Mississippi' tanker collision",
+      "overview": "The lawsuit filed by New Orleans officials also requests that the tanker involved in the collision with the cruise ship be seized and sold to pay for damages.",
       "title_kind": "source_headline",
-      "first_published": "2026-11-14T22:23:49+00:00",
-      "updated_at": "2026-11-14T22:23:49+00:00",
+      "first_published": "2026-11-14T22:27:06+00:00",
+      "updated_at": "2026-11-14T22:27:06+00:00",
       "article_ids": [
-        "24e0c783c889156f093f"
+        "647f8a274d3132bd35d5"
       ],
       "publisher_count": 1,
       "article_counts": {
@@ -23759,9 +26242,9 @@
       },
       "category": "World",
       "countries": [
-        "AT"
+        "UK"
       ],
-      "language": "de",
+      "language": "en",
       "common_terms": [],
       "limitations": [
         "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
@@ -23771,14 +26254,14 @@
       "ai": null
     },
     {
-      "id": "story-4e83ec0eee88ff4eff04",
-      "title": "Haus eines Journalisten in Panama in Brand",
-      "overview": "",
+      "id": "story-ce39a9f2173eeda21af2",
+      "title": "Europa im Christkindlmarkt-Wettstreit",
+      "overview": "Am Wochenende ist der Startschuss für viele große Christkindlmärkte in Österreich gefallen. Doch nicht nur hier: Für mehrere Wochen verwandeln sich die Innenstädte vieler Städte in Europa in fast flächendeckende Marktgebiete. Um hervorzustechen werben Veranstalter mit Superlativen und offiziellen Titeln um immer noch wachsende Zielgruppen. Beschwerden häufen sich hingegen in Großbritannien – nicht jeder Markt scheint dort zu halten, was er verspricht.",
       "title_kind": "source_headline",
-      "first_published": "2026-11-14T22:12:58+00:00",
-      "updated_at": "2026-11-14T22:12:58+00:00",
+      "first_published": "2026-11-14T22:23:49+00:00",
+      "updated_at": "2026-11-14T22:23:49+00:00",
       "article_ids": [
-        "4115912fac3bd2e17266"
+        "24e0c783c889156f093f"
       ],
       "publisher_count": 1,
       "article_counts": {
@@ -33149,42 +35632,6 @@
       "ai": null
     },
     {
-      "id": "story-c6a147a0025db07d1f7d",
-      "title": "Iran meldet Angriff auf US-Radar in Bahrain",
-      "overview": "In der Straße von Hormus ist ein LNG-Tanker auf eine Seemine gelaufen",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-13T15:19:38+00:00",
-      "updated_at": "2026-11-13T15:19:38+00:00",
-      "article_ids": [
-        "1d2f32dbe0939f2a0874"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
       "id": "story-86090305d593c29d6717",
       "title": "At least 24 killed after bus collides with truck in north-east India",
       "overview": "Several of the deceased are college students, according to local official Atul Bora, but they have not yet been publicly identified.",
@@ -35185,42 +37632,6 @@
         "unknown": 0
       },
       "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-42fccaaee470ea6446b5",
-      "title": "Feuerprobe für Song Contest in Asien",
-      "overview": "Ein halbes Jahr nachdem der Song Contest im Mai in Wien seine 70. Ausgabe gefeiert hat, gibt es für den Bewerb eine Premiere: Mit Eurovision Asia geht am Samstag in Bangkok erstmals ein Ablegerformat für asiatische Länder über die Bühne. Über zehn Jahre wurde an dem Konzept gefeilt – nun steht dem asiatischen Song Contest die Feuerprobe bevor.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-13T12:14:40+00:00",
-      "updated_at": "2026-11-13T12:14:40+00:00",
-      "article_ids": [
-        "d9c5650223fee02de1db"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
       "countries": [
         "AT"
       ],
@@ -69151,42 +71562,6 @@
       ],
       "exposures": [],
       "ai": null
-    },
-    {
-      "id": "story-bd7eb444e9bfe63f9127",
-      "title": "\"Ich esse doch wie immer\" – warum das in den Wechseljahren nicht mehr reicht. Plus Rezepte",
-      "overview": "Mit der Perimenopause verändert sich der Stoffwechsel. Weniger Östrogen führt bei vielen zu mehr Bauchfett. Doch das lässt sich ändern, sagt Ernährungsexpertin Susanne Liedtke",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-08T08:00:00+00:00",
-      "updated_at": "2026-11-08T08:00:00+00:00",
-      "article_ids": [
-        "ba76a208ceaa6c957c43"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
     }
   ],
   "instruments": [
@@ -69311,15 +71686,15 @@
   "markets": [],
   "status": {
     "state": "ok",
-    "attempted_at": "2026-11-15T01:58:33.364278+00:00",
-    "last_success_at": "2026-11-15T01:58:33.364278+00:00",
+    "attempted_at": "2026-11-15T09:35:10.876300+00:00",
+    "last_success_at": "2026-11-15T09:35:10.876300+00:00",
     "errors": [],
     "source_results": {
-      "bbc-world": "23 entries",
+      "bbc-world": "21 entries",
       "guardian-us": "33 entries",
-      "fox-politics": "25 entries",
+      "fox-politics": "not modified",
       "bbc-business": "40 entries",
-      "orf": "25 entries",
+      "orf": "29 entries",
       "standard": "151 entries"
     },
     "market_status": "Market price data not configured",

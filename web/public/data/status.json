@@ -1,14 +1,14 @@
 {
   "state": "ok",
-  "attempted_at": "2026-11-15T01:58:33.364278+00:00",
-  "last_success_at": "2026-11-15T01:58:33.364278+00:00",
+  "attempted_at": "2026-11-15T09:35:10.876300+00:00",
+  "last_success_at": "2026-11-15T09:35:10.876300+00:00",
   "errors": [],
   "source_results": {
-    "bbc-world": "23 entries",
+    "bbc-world": "21 entries",
     "guardian-us": "33 entries",
-    "fox-politics": "25 entries",
+    "fox-politics": "not modified",
     "bbc-business": "40 entries",
-    "orf": "25 entries",
+    "orf": "29 entries",
     "standard": "151 entries"
   },
   "market_status": "Market price data not configured",
