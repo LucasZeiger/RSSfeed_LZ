@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "mode": "live",
-  "generated_at": "2026-11-15T21:54:22.531480+00:00",
+  "generated_at": "2026-11-16T02:14:27.901088+00:00",
   "refresh_minutes": 60,
   "sources": [
     {
@@ -90,6 +90,319 @@
     }
   ],
   "articles": [
+    {
+      "id": "c62e199e0365bd952a0e",
+      "source_id": "bbc-world",
+      "title": "Australian MP who lost both legs in alleged car attack discharged from hospital",
+      "url": "https://www.bbc.co.uk/news/articles/cmpqr9j81888o?at_campaign=rss&at_medium=RSS",
+      "summary": "The MP was allegedly run down by a car outside her electorate office four weeks ago.",
+      "published_at": "2026-11-16T01:53:19+00:00",
+      "fetched_at": "2026-11-16T02:14:27.901088+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "cacd9ea4b1193b5f1b25",
+      "source_id": "guardian-us",
+      "title": "Toronto Tempo win WNBA draft lottery and No 1 pick with JuJu Watkins in play",
+      "url": "https://www.theguardian.com/sport/2026/nov/15/toronto-tempo-wnba-draft-lottery-juju-watkins",
+      "summary": "Expansion team beat 33% odds to claim top pick Houston Comets will select second in 2027 draft USC star Watkins could be available at No 1 The Toronto Tempo won the WNBA draft lottery on Sunday, securing the No 1 pick in the 2027 draft and potentially the chance to select Southern California star JuJu Watkins. The Tempo, who joined the league as an expansion team this past season, entered the lottery tied with the Houston Comets for the best chance of landing the top pick. Both teams had a 33% chance of winning. Continue reading...",
+      "published_at": "2026-11-16T01:15:10+00:00",
+      "fetched_at": "2026-11-16T02:14:27.901088+00:00",
+      "date_estimated": false,
+      "author": "Agencies",
+      "categories": [
+        "Toronto Tempo",
+        "WNBA",
+        "Sport",
+        "Basketball",
+        "US sports"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "a85035b1aa8c480eb3a3",
+      "source_id": "guardian-us",
+      "title": "Huge waves pummel California coast, forcing closure of popular piers",
+      "url": "https://www.theguardian.com/us-news/2026/nov/15/california-coast-waves-piers-closed",
+      "summary": "Large waves up to 50ft flooded southern California streets and prompted evacuation warning near coastal city The California coast was pummeled again on Sunday by huge waves that inundated beaches, flooded local streets and forced the closure of popular piers. The National Weather Service office for the San Francisco Bay Area warned that surf up to 35ft (11 meters) was possible, along with dangerous rip currents and sneaker waves. Continue reading...",
+      "published_at": "2026-11-16T01:00:42+00:00",
+      "fetched_at": "2026-11-16T02:14:27.901088+00:00",
+      "date_estimated": false,
+      "author": "Associated Press",
+      "categories": [
+        "California",
+        "West Coast",
+        "US news",
+        "Oceans",
+        "US weather",
+        "Environment",
+        "Flooding",
+        "Coastlines",
+        "Extreme weather",
+        "El Niño southern oscillation"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "e094574b86db3a66d4f7",
+      "source_id": "bbc-business",
+      "title": "Black Friday and tax return scams - don't fall for these",
+      "url": "https://www.bbc.co.uk/news/articles/cm4gnlz2p61ko?at_campaign=rss&at_medium=RSS",
+      "summary": "Tens of thousands of scams are reported to HMRC - so it has advice on how to spot a fake request and refund.",
+      "published_at": "2026-11-16T00:50:39+00:00",
+      "fetched_at": "2026-11-16T02:14:27.901088+00:00",
+      "date_estimated": false,
+      "author": "bbc-business",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "Business"
+    },
+    {
+      "id": "d353a5500173e242fa69",
+      "source_id": "bbc-world",
+      "title": "Russia's mega-rich are already imagining a future after Putin",
+      "url": "https://www.bbc.co.uk/news/articles/c60733mxm0x0o?at_campaign=rss&at_medium=RSS",
+      "summary": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power",
+      "published_at": "2026-11-16T00:13:14+00:00",
+      "fetched_at": "2026-11-16T02:14:27.901088+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "81e137abee56a159262c",
+      "source_id": "bbc-world",
+      "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+      "url": "https://www.bbc.co.uk/news/articles/c51k9nkwrndxo?at_campaign=rss&at_medium=RSS",
+      "summary": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
+      "published_at": "2026-11-15T23:52:10+00:00",
+      "fetched_at": "2026-11-16T02:14:27.901088+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "ca1e6375eb3b32e11723",
+      "source_id": "guardian-us",
+      "title": "US officials recover audio from ‘Mississippi miracle’ cruise ship and tanker crash",
+      "url": "https://www.theguardian.com/us-news/2026/nov/15/audio-new-orleans-mississippi-river-cruise-tanker-crash",
+      "summary": "Tank vessel suffered sudden steering failure two minutes before slamming into docked riverboat near New Orleans Federal safety investigators with the National Transportation Safety Board (NTSB) recovered audio and released a preliminary timeline on Sunday of a collision between a cruise ship and a tanker vessel in the Mississippi River on Friday. The data was retrieved after more than 30 people were injured when a tanker collided with a docked cruise ship – American Cruise Lines’ American Heritage riverboat – near the port of New Orleans on Friday at about 12.30pm. All passengers aboard the cr",
+      "published_at": "2026-11-15T23:20:59+00:00",
+      "fetched_at": "2026-11-16T02:14:27.901088+00:00",
+      "date_estimated": false,
+      "author": "Coral Murphy Marcos",
+      "categories": [
+        "New Orleans",
+        "US news",
+        "Water transport",
+        "Louisiana"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "b4e3d3d19582b9d497c3",
+      "source_id": "standard",
+      "title": "Standardrätsel E 11444",
+      "url": "https://www.derstandard.at/story/3000000348188/standardraetsel-e-11444?ref=rss",
+      "summary": "Täglich neu, exklusiv für Smart-Abonnent:innen: Das knifflige Quizkultur-Rätsel des STANDARD",
+      "published_at": "2026-11-15T23:01:00+00:00",
+      "fetched_at": "2026-11-16T02:14:27.901088+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "e79cd77aa039b42565e6",
+      "source_id": "bbc-world",
+      "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
+      "url": "https://www.bbc.co.uk/news/articles/c65y131w1534o?at_campaign=rss&at_medium=RSS",
+      "summary": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
+      "published_at": "2026-11-15T22:57:27+00:00",
+      "fetched_at": "2026-11-16T02:14:27.901088+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "ca613bccc22ec0003156",
+      "source_id": "orf",
+      "title": "Prinz Harry besuchte Veteranen in Lwiw",
+      "url": "https://orf.at/stories/3448287/",
+      "summary": "",
+      "published_at": "2026-11-15T22:46:51+00:00",
+      "fetched_at": "2026-11-16T02:14:27.901088+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "ea3b39f01185d0c8bfed",
+      "source_id": "fox-politics",
+      "title": "White House calls DC policies 'insanity' after 19-year-old gunman gets probation in shooting",
+      "url": "https://www.foxnews.com/politics/white-house-calls-dc-policies-insanity-after-19-year-old-gunman-gets-probation-shooting",
+      "summary": "EXCLUSIVE – A 19-year-old who authorities say fired more than 20 rounds into a Washington, D.C., neighborhood and wounded a boy playing basketball has been released on probation, prompting the White House to denounce the city’s sentencing policies as \"insanity.\" Prosecutors wanted Darius Drew behind bars for five years. Instead, a judge suspended a two-year prison sentence and ordered 18 months of supervised probation under the Youth Rehabilitation Act, a D.C. law U.S. Attorney Jeanine Pirro had previously urged lawmakers to overhaul. \"The case illustrates the insanity of Washington, D.C.’s so",
+      "published_at": "2026-11-15T22:31:11+00:00",
+      "fetched_at": "2026-11-16T02:14:27.901088+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "5d07644f-4669-51a0-8e24-5dffd520e954",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/crime",
+        "fox-news/us/blue-city-crime",
+        "fox-news/us/washington-dc",
+        "fox-news/politics/executive/white-house",
+        "fox-news/politics/justice-department",
+        "fox-news/us/immigration/enforcement"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "5b3a22f03d3fbf448cd1",
+      "source_id": "bbc-business",
+      "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+      "url": "https://www.bbc.co.uk/news/articles/c6p9dzmj514ko?at_campaign=rss&at_medium=RSS",
+      "summary": "The report being launched this week will suggest gradually reducing employment costs over five years.",
+      "published_at": "2026-11-15T22:30:03+00:00",
+      "fetched_at": "2026-11-16T02:14:27.901088+00:00",
+      "date_estimated": false,
+      "author": "bbc-business",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "Business"
+    },
+    {
+      "id": "110cfc3d079bf9dcf7bd",
+      "source_id": "bbc-world",
+      "title": "Police ban protests near 10 schools and five universities in Paris",
+      "url": "https://www.bbc.co.uk/news/articles/cqm2j0jvep4eo?at_campaign=rss&at_medium=RSS",
+      "summary": "The order will be in place from 16 to 20 November, Paris police chief Patrice Faure says.",
+      "published_at": "2026-11-15T22:28:54+00:00",
+      "fetched_at": "2026-11-16T02:14:27.901088+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "90d15f891abe3ec0d045",
+      "source_id": "standard",
+      "title": "Mirra Andrejewa holt Titel bei den WTA Finals",
+      "url": "https://www.derstandard.at/story/3000000349337/mirra-andrejewa-holt-titel-bei-den-wta-finals?ref=rss",
+      "summary": "Die 19-jährige Russin bezwang im Endspiel von Indian Wells die Ukrainerin Elina Switolina. Sie blieb im gesamten Turnier ohne Satzverlust",
+      "published_at": "2026-11-15T22:16:10+00:00",
+      "fetched_at": "2026-11-16T02:14:27.901088+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "cdbd37fd56a2b72fbb8a",
+      "source_id": "standard",
+      "title": "England fügt Spanien nach 43 ungeschlagenen Spielen Niederlage zu",
+      "url": "https://www.derstandard.at/story/3000000349336/england-fuegt-spanien-nach-43-ungeschlagenen-spielen-niederlage-zu?ref=rss",
+      "summary": "Kane und Co. retteten den Sieg in Madrid in Unterzahl ins Ziel. Italien ließ sich nach Führung in Brüssel Viertelfinalticket noch entreißen",
+      "published_at": "2026-11-15T22:10:17+00:00",
+      "fetched_at": "2026-11-16T02:14:27.901088+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "09a69d24e2b518b2b484",
+      "source_id": "bbc-business",
+      "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_campaign=rss&at_medium=RSS",
+      "summary": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
+      "published_at": "2026-11-15T22:00:24+00:00",
+      "fetched_at": "2026-11-16T02:14:27.901088+00:00",
+      "date_estimated": false,
+      "author": "bbc-business",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "Business"
+    },
+    {
+      "id": "a54744f44124e9484b0a",
+      "source_id": "orf",
+      "title": "Suche nach Regeln für „Killerroboter“",
+      "url": "https://orf.at/stories/3448266/",
+      "summary": "Die rasante Entwicklung autonomer Waffen mit künstlicher Intelligenz alarmiert zahlreiche Regierungen und Friedensaktivisten. Damit einher geht der Ruf nach einem Verbot von Waffen, die ohne menschliches Eingreifen töten. In Genf beraten ab Montag die 128 Vertragsstaaten des UNO-Waffenübereinkommens (CCW) über eine Regulierung der vielfach auch als „Killerroboter“ bezeichneten Waffensysteme.",
+      "published_at": "2026-11-15T21:57:48+00:00",
+      "fetched_at": "2026-11-16T02:14:27.901088+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "dfb17879f700ea031efd",
+      "source_id": "guardian-us",
+      "title": "NFL roundup: Vikings win on Cousins’ return; Hutchinson reportedly ends season celebrating sack",
+      "url": "https://www.theguardian.com/sport/2026/nov/15/nfl-sunday-football-scores",
+      "summary": "Detroit triumph in Munich for fifth win in a row Patrick Mahomes throws five TDS in Chiefs win Bills move to 8-1 after win over Jets Kirk Cousins threw two touchdown passes to start his second stint with Minnesota (7-2) and Levi Drake Rodriguez had two of the Vikings’ eight sacks in a victory over the Green Bay Packers (6-4). Cousins went 21 of 31 for 207 yards just five days after rejoining the Vikings, who acquired him from the Las Vegas Raiders at Tuesday’s trade deadline. The last time Cousins had played at Lambeau Field or suited up for the Vikings, he tore his achilles tendon in a 24-10 ",
+      "published_at": "2026-11-15T21:55:13+00:00",
+      "fetched_at": "2026-11-16T02:14:27.901088+00:00",
+      "date_estimated": false,
+      "author": "Agencies",
+      "categories": [
+        "NFL",
+        "Detroit Lions",
+        "New England Patriots",
+        "US sports",
+        "Sport"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
     {
       "id": "2a3428db9a2afe6c1011",
       "source_id": "guardian-us",
@@ -2335,6 +2648,21 @@
       "summary": "Insgesamt wurde fast eine Tonne Feuerwerkskörper im Lager eines Geschäftslokals entdeckt",
       "published_at": "2026-11-15T09:51:41+00:00",
       "fetched_at": "2026-11-15T17:15:10.838578+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "87f41efa7ca58f27e56e",
+      "source_id": "standard",
+      "title": "39. Europäischer Filmpreis: Einige Nominierungen für Austro-Filme",
+      "url": "https://www.derstandard.at/story/3000000349283/39-europaeischer-filmpreis-einige-nominierungen-fuer-austro-filme?ref=rss",
+      "summary": "Sandra Wollner mit zwei Chancen für \"Everytime\", \"Rose\"-Crew mit mehreren Nominierungen, darunter für Schauspielerin Sandra Hüller",
+      "published_at": "2026-11-15T09:45:34+00:00",
+      "fetched_at": "2026-11-16T02:14:27.901088+00:00",
       "date_estimated": false,
       "author": "standard",
       "categories": [],
@@ -25583,304 +25911,663 @@
       "language": "de",
       "country": "AT",
       "category": "Politics"
-    },
-    {
-      "id": "b02c9683c2e02c844ca3",
-      "source_id": "standard",
-      "title": "\"Sofort elf Monate Zivildienst\" sind für Generalleutnant Hameseder in \"ZiB 2\" \"das Mindeste\"",
-      "url": "https://www.derstandard.at/story/3000000348343/sofort-elf-monate-zivildienst-sind-fuer-generalleutnant-hameseder-in-zib-2-das-mindeste?ref=rss",
-      "summary": "ORF-Anchor Armin Wolf erscheint der aktuelle Zug auf den Zivildienst \"ein bisschen absurd\". Österreichs höchstrangiger Milizoffizier Erwin Hameseder will \"den Run sofort stoppen\"",
-      "published_at": "2026-11-10T06:07:56+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "1248a141c29b26551100",
-      "source_id": "standard",
-      "title": "Fermentierte feine Säure: Schwarze Limetten",
-      "url": "https://www.derstandard.at/story/3000000347050/fermentierte-feine-saeure-schwarze-limetten?ref=rss",
-      "summary": "Die auch Loomi genannten Früchte stammen ursprünglich aus dem Oman",
-      "published_at": "2026-11-10T06:00:00+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "44874e5cfc48aa3e8fec",
-      "source_id": "bbc-world",
-      "title": "Polish unity on show as thousands join silent march for Krakow shooting victims",
-      "url": "https://www.bbc.co.uk/news/articles/cqkg5gm4nr4no?at_campaign=rss&at_medium=RSS",
-      "summary": "Fiercely proud of its reputation for safety, Poland has been profoundly shaken by Saturday's attack, writes Sarah Rainsford.",
-      "published_at": "2026-11-10T05:38:53+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "bbc-world",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "World"
-    },
-    {
-      "id": "35fa054906caca43e364",
-      "source_id": "standard",
-      "title": "Das sind die gefährlichsten Reiseländer 2027",
-      "url": "https://www.derstandard.at/story/3000000348174/das-sind-die-gefaehrlichsten-reiselaender-2027?ref=rss",
-      "summary": "Die jährlich erstellte Risk Map bietet Orientierung, wie sicher ein Reiseland ist. Für das Jahr 2027 gibt es auch überraschende Neubewertungen",
-      "published_at": "2026-11-10T05:30:00+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "e5f73c6c7a56a50af605",
-      "source_id": "bbc-world",
-      "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
-      "url": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_campaign=rss&at_medium=RSS",
-      "summary": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
-      "published_at": "2026-11-10T05:22:39+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "bbc-world",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "World"
-    },
-    {
-      "id": "35b1b88387d6abbc8fa7",
-      "source_id": "standard",
-      "title": "Truth API und Kryptogeschäfte verhelfen Trump Media zu Quartalsgewinn von 400 Millionen US-Dollar",
-      "url": "https://www.derstandard.at/story/3000000348344/truth-api-und-kryptogesch228fte-verhelfen-trump-media-zu-quartalsgewinn?ref=rss",
-      "summary": "Ein Lizenzierungsgeschäft bietet Abonnenten schnellen Zugriff auf Beiträge des US-Präsidenten. Trotz der positiven Quartalszahlen hat die TMTG-Aktie in diesem Jahr fast 70 Prozent an Wert verloren",
-      "published_at": "2026-11-10T05:14:20+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "d8edfbc2f06870e5975b",
-      "source_id": "standard",
-      "title": "Schadet lange Bildschirmarbeit unseren Augen?",
-      "url": "https://www.derstandard.at/story/3000000344847/schadet-lange-bildschirmarbeit-unseren-augen?ref=rss",
-      "summary": "Eine Optometristin klärt auf und gibt Tipps für gesunde Augen in der Arbeit – für Leute mit und ohne Brille",
-      "published_at": "2026-11-10T05:00:00+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "dd2f2cc85fd877fd3b6e",
-      "source_id": "standard",
-      "title": "Die Angst vor dem Abriss: Warum eine 88-jährige Mieterin um ihre langjährige Wohnung in Wien bangt",
-      "url": "https://www.derstandard.at/story/3000000347713/die-angst-vor-dem-abriss-warum-eine-88-jaehrige-mieterin-um-ihre-langjaehrige-wohnung-in-wien-bangt?ref=rss",
-      "summary": "In einem einst gemeinnützigen Bau fühlen sich verbliebene Haushalte zum Ausziehen gedrängt. Der Eigentümer, die Wertinvest-Gruppe von Michael Tojner, bestätigt eine Generalsanierung",
-      "published_at": "2026-11-10T05:00:00+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "64d271b6d416c5a56b99",
-      "source_id": "standard",
-      "title": "Dreierverhandlungen in Abu Dhabi sollen am Mittwoch fortgesetzt werden",
-      "url": "https://www.derstandard.at/jetzt/livebericht/3000000348328/verhandlungen-in-abu-dhabi-zur-beendigung-des-ukraine-kriegs-beginnen?ref=rss",
-      "summary": "Unterhändler Russlands, der Ukraine und der USA kamen am Dienstag zusammen. Die Positionen scheinen nach Ende der ersten Runde noch weit auseinanderzuliegen",
-      "published_at": "2026-11-10T04:51:48+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "f47816a23355d95e4b54",
-      "source_id": "standard",
-      "title": "Macht Donald Trump effektiveren Klimaschutz als die Uno?",
-      "url": "https://www.derstandard.at/story/3000000348199/macht-donald-trump-effektiveren-klimaschutz-als-die-uno?ref=rss",
-      "summary": "Die fossilen Emissionen gehen 2026 nach Jahren erstmals wieder zurück – allerdings aus den falschen Gründen",
-      "published_at": "2026-11-10T04:00:00+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "32dedf4e16d3fbf6e144",
-      "source_id": "standard",
-      "title": "Trumps Krieg im Iran bremst 2026 fossile Emissionen – trotzdem gibt es keinen Grund zum Feiern",
-      "url": "https://www.derstandard.at/story/3000000347905/trumps-krieg-im-iran-bremst-2026-fossile-emissionen-trotzdem-gibt-es-keinen-grund-zum-feiern?ref=rss",
-      "summary": "Die Ölkrise, aber auch der Aufstieg der Erneuerbaren bilden sich im prognostizierten CO₂-Ausstoß dieses Jahres ab. Trotzdem wird ein neues Höchstniveau erwartet",
-      "published_at": "2026-11-10T04:00:00+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "4b2d13f2a4cd4ec3426c",
-      "source_id": "standard",
-      "title": "Demokraten gewannen Midterms auch durch Anti-KI-Stimmung – der Plan für danach fehlt",
-      "url": "https://www.derstandard.at/story/3000000348242/demokraten-gewannen-midterms-auch-durch-anti-ki-stimmung-der-plan-fuer-danach-fehlt?ref=rss",
-      "summary": "Nach den Wahlen hätten die US-Demokraten die Möglichkeit, Gesetze durchzubringen. Man ist sich aber nicht einmal in der Problemanalyse einig",
-      "published_at": "2026-11-10T04:00:00+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "d476a7cbf7990333c608",
-      "source_id": "bbc-business",
-      "title": "Californians reject wealth tax for billionaires",
-      "url": "https://www.bbc.co.uk/news/articles/cq398em3032wo?at_campaign=rss&at_medium=RSS",
-      "summary": "Proposition 40 targeted Californian billionaires with a 5% tax on their total wealth, including assets such as shares as well as income.",
-      "published_at": "2026-11-10T03:34:46+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "bbc-business",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "Business"
-    },
-    {
-      "id": "079d077a4d9b2f8ef9f7",
-      "source_id": "bbc-world",
-      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
-      "url": "https://www.bbc.co.uk/news/articles/cry838v4qzvyo?at_campaign=rss&at_medium=RSS",
-      "summary": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
-      "published_at": "2026-11-10T01:55:22+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "bbc-world",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "World"
-    },
-    {
-      "id": "a0b19e0f477ca036f0f6",
-      "source_id": "bbc-world",
-      "title": "'Cruise for life' ship seized in Singapore",
-      "url": "https://www.bbc.co.uk/news/articles/cqr7y7myer53o?at_campaign=rss&at_medium=RSS",
-      "summary": "The Odyssey was meant to take guests around the world for years, but the trip was cut short after its operator ran out of money.",
-      "published_at": "2026-11-10T01:49:06+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "bbc-world",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "World"
-    },
-    {
-      "id": "f3957bc9f46278e8e5d9",
-      "source_id": "guardian-us",
-      "title": "Trump backs embattled Hegseth and Jensen Huang and says FBI looking into spy allegations – video",
-      "url": "https://www.theguardian.com/us-news/video/2026/nov/09/trump-hegseth-jensen-huang",
-      "summary": "Donald Trump defended defense secretary Pete Hegseth, who is facing an impeachment resolution from Republican senator Thomas Massie, saying Hegseth 'won two wars'. The president, who said he had spoken to Nvidia CEO Jensen Huang, said he was 'amazed' by claims Huang conducted an affair with an alleged Chinese spy, and that the FBI was now looking into the issue Jensen Huang’s image has been shattered. Could he be pushed out at Nvidia? Republican Thomas Massie moves to force vote to impeach Pete Hegseth Continue reading...",
-      "published_at": "2026-11-10T01:40:32+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "",
-      "categories": [
-        "Donald Trump",
-        "Nvidia",
-        "Jensen Huang",
-        "Pete Hegseth",
-        "AI (artificial intelligence)",
-        "Technology sector",
-        "Computing",
-        "Iran",
-        "US news"
-      ],
-      "language": "en",
-      "country": "US",
-      "category": "Politics"
-    },
-    {
-      "id": "40c87e86f269d1dfc6ec",
-      "source_id": "bbc-business",
-      "title": "I took Vinted to court to get my money back",
-      "url": "https://www.bbc.co.uk/news/articles/cm369e3l15lwo?at_campaign=rss&at_medium=RSS",
-      "summary": "The BBC hears from Vinted sellers who describe difficulties accessing money held in their online wallets.",
-      "published_at": "2026-11-10T00:27:37+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "bbc-business",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "Business"
-    },
-    {
-      "id": "b80f8047a1c5680e03b1",
-      "source_id": "bbc-world",
-      "title": "'There is no justice' - Epstein survivor on how model agency sent her to abuser's home",
-      "url": "https://www.bbc.co.uk/news/articles/cm86z6w59gggo?at_campaign=rss&at_medium=RSS",
-      "summary": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.",
-      "published_at": "2026-11-10T00:14:03+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "bbc-world",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "World"
-    },
-    {
-      "id": "25348f0759a9f6eafec5",
-      "source_id": "bbc-world",
-      "title": "The superpower battle over energy – and what it means for your bills",
-      "url": "https://www.bbc.co.uk/news/articles/cw62y2z53pg1o?at_campaign=rss&at_medium=RSS",
-      "summary": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?",
-      "published_at": "2026-11-10T00:08:28+00:00",
-      "fetched_at": "2026-11-10T21:50:16.869229+00:00",
-      "date_estimated": false,
-      "author": "bbc-world",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "World"
     }
   ],
   "stories": [
+    {
+      "id": "story-5793f2517de893503b04",
+      "title": "Australian MP who lost both legs in alleged car attack discharged from hospital",
+      "overview": "The MP was allegedly run down by a car outside her electorate office four weeks ago.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-16T01:53:19+00:00",
+      "updated_at": "2026-11-16T01:53:19+00:00",
+      "article_ids": [
+        "c62e199e0365bd952a0e"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-f2c4d12ccc900deda5d4",
+      "title": "Toronto Tempo win WNBA draft lottery and No 1 pick with JuJu Watkins in play",
+      "overview": "Expansion team beat 33% odds to claim top pick Houston Comets will select second in 2027 draft USC star Watkins could be available at No 1 The Toronto Tempo won the WNBA draft lottery on Sunday, securing the No 1 pick in the 2027 draft and potentially the chance to select Southern California star JuJu Watkins. The Tempo, who joined the league as an expansion team this past season, entered the lottery tied with the Houston Comets for the best chance of landing the top pick. Both teams had a 33% chance of winning. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-16T01:15:10+00:00",
+      "updated_at": "2026-11-16T01:15:10+00:00",
+      "article_ids": [
+        "cacd9ea4b1193b5f1b25"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-c709c36c17741df53f9f",
+      "title": "Huge waves pummel California coast, forcing closure of popular piers",
+      "overview": "Large waves up to 50ft flooded southern California streets and prompted evacuation warning near coastal city The California coast was pummeled again on Sunday by huge waves that inundated beaches, flooded local streets and forced the closure of popular piers. The National Weather Service office for the San Francisco Bay Area warned that surf up to 35ft (11 meters) was possible, along with dangerous rip currents and sneaker waves. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-16T01:00:42+00:00",
+      "updated_at": "2026-11-16T01:00:42+00:00",
+      "article_ids": [
+        "a85035b1aa8c480eb3a3"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-6a2d96bebe112d1c6212",
+      "title": "Black Friday and tax return scams - don't fall for these",
+      "overview": "Tens of thousands of scams are reported to HMRC - so it has advice on how to spot a fake request and refund.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-16T00:50:39+00:00",
+      "updated_at": "2026-11-16T00:50:39+00:00",
+      "article_ids": [
+        "e094574b86db3a66d4f7"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Business",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-007e507ea56e0292db48",
+      "title": "Russia's mega-rich are already imagining a future after Putin",
+      "overview": "Some Russian tycoons are pining after a return to a 1990s system of oligarchy, when businessmen enjoyed power",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-16T00:13:14+00:00",
+      "updated_at": "2026-11-16T00:13:14+00:00",
+      "article_ids": [
+        "d353a5500173e242fa69"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-f5b925dba2302fc543a8",
+      "title": "Mexican drug lord Miguel Angel Felix Gallardo dies age 80",
+      "overview": "Known as the 'Boss of Bosses', he was the head of all-powerful Guadalajara Cartel in the 1980s before his arrest broke up his drug organisation.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T23:52:10+00:00",
+      "updated_at": "2026-11-15T23:52:10+00:00",
+      "article_ids": [
+        "81e137abee56a159262c"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-ea94ffc43dccbd2fdb1c",
+      "title": "US officials recover audio from ‘Mississippi miracle’ cruise ship and tanker crash",
+      "overview": "Tank vessel suffered sudden steering failure two minutes before slamming into docked riverboat near New Orleans Federal safety investigators with the National Transportation Safety Board (NTSB) recovered audio and released a preliminary timeline on Sunday of a collision between a cruise ship and a tanker vessel in the Mississippi River on Friday. The data was retrieved after more than 30 people were injured when a tanker collided with a docked cruise ship – American Cruise Lines’ American Heritage riverboat – near the port of New Orleans on Friday at about 12.30pm. All passengers aboard the cr",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T23:20:59+00:00",
+      "updated_at": "2026-11-15T23:20:59+00:00",
+      "article_ids": [
+        "ca1e6375eb3b32e11723"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-ace3ea39a403568aba22",
+      "title": "Standardrätsel E 11444",
+      "overview": "Täglich neu, exklusiv für Smart-Abonnent:innen: Das knifflige Quizkultur-Rätsel des STANDARD",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T23:01:00+00:00",
+      "updated_at": "2026-11-15T23:01:00+00:00",
+      "article_ids": [
+        "b4e3d3d19582b9d497c3"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-a729500f407f35845bcc",
+      "title": "Steering failure preceded New Orleans cruise ship collision, says NTSB",
+      "overview": "Preliminary findings by National Transportation Safety Board investigators suggest the tanker suffered a \"steering casualty\" before colliding with the cruise ship on Friday.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T22:57:27+00:00",
+      "updated_at": "2026-11-15T22:57:27+00:00",
+      "article_ids": [
+        "e79cd77aa039b42565e6"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-1be0c341de0f45c46921",
+      "title": "Prinz Harry besuchte Veteranen in Lwiw",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T22:46:51+00:00",
+      "updated_at": "2026-11-15T22:46:51+00:00",
+      "article_ids": [
+        "ca613bccc22ec0003156"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-712a5534771798f3ce55",
+      "title": "White House calls DC policies 'insanity' after 19-year-old gunman gets probation in shooting",
+      "overview": "EXCLUSIVE – A 19-year-old who authorities say fired more than 20 rounds into a Washington, D.C., neighborhood and wounded a boy playing basketball has been released on probation, prompting the White House to denounce the city’s sentencing policies as \"insanity.\" Prosecutors wanted Darius Drew behind bars for five years. Instead, a judge suspended a two-year prison sentence and ordered 18 months of supervised probation under the Youth Rehabilitation Act, a D.C. law U.S. Attorney Jeanine Pirro had previously urged lawmakers to overhaul. \"The case illustrates the insanity of Washington, D.C.’s so",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T22:31:11+00:00",
+      "updated_at": "2026-11-15T22:31:11+00:00",
+      "article_ids": [
+        "ea3b39f01185d0c8bfed"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-3c27a36dd370f6ebaf83",
+      "title": "Cut national insurance for under-25s to create jobs, Milburn report to say",
+      "overview": "The report being launched this week will suggest gradually reducing employment costs over five years.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T22:30:03+00:00",
+      "updated_at": "2026-11-15T22:30:03+00:00",
+      "article_ids": [
+        "5b3a22f03d3fbf448cd1"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Business",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-653e98c28bd337a8b1a5",
+      "title": "Police ban protests near 10 schools and five universities in Paris",
+      "overview": "The order will be in place from 16 to 20 November, Paris police chief Patrice Faure says.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T22:28:54+00:00",
+      "updated_at": "2026-11-15T22:28:54+00:00",
+      "article_ids": [
+        "110cfc3d079bf9dcf7bd"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-10a75f0b2b3e998c4bab",
+      "title": "Russin Andrejewa erste Finalistin bei WTA Finals",
+      "overview": "Die 19-Jährige ist ab Montag die Nummer zwei der Welt. Im Finale trifft sie entweder auf die Ukrainerin Switolina oder die Tschechin Nosková",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-14T22:47:30+00:00",
+      "updated_at": "2026-11-15T22:16:10+00:00",
+      "article_ids": [
+        "a6b1353b9e95cec7a7db",
+        "90d15f891abe3ec0d045"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 2,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [
+        "andrejewa",
+        "bei",
+        "finals",
+        "wta"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-fd9fa9067ce884b0428a",
+      "title": "England fügt Spanien nach 43 ungeschlagenen Spielen Niederlage zu",
+      "overview": "Kane und Co. retteten den Sieg in Madrid in Unterzahl ins Ziel. Italien ließ sich nach Führung in Brüssel Viertelfinalticket noch entreißen",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T22:10:17+00:00",
+      "updated_at": "2026-11-15T22:10:17+00:00",
+      "article_ids": [
+        "cdbd37fd56a2b72fbb8a"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-6ab1f9d51b5650d1edf2",
+      "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
+      "overview": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T22:00:24+00:00",
+      "updated_at": "2026-11-15T22:00:24+00:00",
+      "article_ids": [
+        "09a69d24e2b518b2b484"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Business",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-7ae95483437a878c07cd",
+      "title": "Suche nach Regeln für „Killerroboter“",
+      "overview": "Die rasante Entwicklung autonomer Waffen mit künstlicher Intelligenz alarmiert zahlreiche Regierungen und Friedensaktivisten. Damit einher geht der Ruf nach einem Verbot von Waffen, die ohne menschliches Eingreifen töten. In Genf beraten ab Montag die 128 Vertragsstaaten des UNO-Waffenübereinkommens (CCW) über eine Regulierung der vielfach auch als „Killerroboter“ bezeichneten Waffensysteme.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T21:57:48+00:00",
+      "updated_at": "2026-11-15T21:57:48+00:00",
+      "article_ids": [
+        "a54744f44124e9484b0a"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-23373e485d6d20fc4e08",
+      "title": "NFL roundup: Vikings win on Cousins’ return; Hutchinson reportedly ends season celebrating sack",
+      "overview": "Detroit triumph in Munich for fifth win in a row Patrick Mahomes throws five TDS in Chiefs win Bills move to 8-1 after win over Jets Kirk Cousins threw two touchdown passes to start his second stint with Minnesota (7-2) and Levi Drake Rodriguez had two of the Vikings’ eight sacks in a victory over the Green Bay Packers (6-4). Cousins went 21 of 31 for 207 yards just five days after rejoining the Vikings, who acquired him from the Las Vegas Raiders at Tuesday’s trade deadline. The last time Cousins had played at Lambeau Field or suited up for the Vikings, he tore his achilles tendon in a 24-10 ",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T21:55:13+00:00",
+      "updated_at": "2026-11-15T21:55:13+00:00",
+      "article_ids": [
+        "dfb17879f700ea031efd"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
     {
       "id": "story-520897e2e1831b346949",
       "title": "Andreeva to face Svitolina in WTA Finals showpiece as Sabalenka apologises",
@@ -30462,6 +31149,42 @@
       "ai": null
     },
     {
+      "id": "story-20828d7535baea2965d5",
+      "title": "39. Europäischer Filmpreis: Einige Nominierungen für Austro-Filme",
+      "overview": "Sandra Wollner mit zwei Chancen für \"Everytime\", \"Rose\"-Crew mit mehreren Nominierungen, darunter für Schauspielerin Sandra Hüller",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-15T09:45:34+00:00",
+      "updated_at": "2026-11-15T09:45:34+00:00",
+      "article_ids": [
+        "87f41efa7ca58f27e56e"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
       "id": "story-bed42a6592b5526b1c6b",
       "title": "Braathen feiert klaren Sieg im Levi-Slalom, ÖSV-Läufer purzeln aus dem Kurs",
       "overview": "Johannes Strolz ist als 22. und Letzter der einzige klassierte ÖSV-Läufer. Der Cheftrainer spricht von einem schmerzhaften Ergebnis",
@@ -32378,42 +33101,6 @@
       "updated_at": "2026-11-14T22:53:15+00:00",
       "article_ids": [
         "4d307e636692c39e603d"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-10a75f0b2b3e998c4bab",
-      "title": "Russin Andrejewa erste Finalistin bei WTA Finals",
-      "overview": "Die 19-Jährige ist ab Montag die Nummer zwei der Welt. Im Finale trifft sie entweder auf die Ukrainerin Switolina oder die Tschechin Nosková",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-14T22:47:30+00:00",
-      "updated_at": "2026-11-14T22:47:30+00:00",
-      "article_ids": [
-        "a6b1353b9e95cec7a7db"
       ],
       "publisher_count": 1,
       "article_counts": {
@@ -75835,690 +76522,6 @@
       ],
       "exposures": [],
       "ai": null
-    },
-    {
-      "id": "story-42bef1b16e0a4904377a",
-      "title": "\"Sofort elf Monate Zivildienst\" sind für Generalleutnant Hameseder in \"ZiB 2\" \"das Mindeste\"",
-      "overview": "ORF-Anchor Armin Wolf erscheint der aktuelle Zug auf den Zivildienst \"ein bisschen absurd\". Österreichs höchstrangiger Milizoffizier Erwin Hameseder will \"den Run sofort stoppen\"",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-10T06:07:56+00:00",
-      "updated_at": "2026-11-10T06:07:56+00:00",
-      "article_ids": [
-        "b02c9683c2e02c844ca3"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-92a872963439501b40bf",
-      "title": "Fermentierte feine Säure: Schwarze Limetten",
-      "overview": "Die auch Loomi genannten Früchte stammen ursprünglich aus dem Oman",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-10T06:00:00+00:00",
-      "updated_at": "2026-11-10T06:00:00+00:00",
-      "article_ids": [
-        "1248a141c29b26551100"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-c9ac63575d4b4c385d82",
-      "title": "Polish unity on show as thousands join silent march for Krakow shooting victims",
-      "overview": "Fiercely proud of its reputation for safety, Poland has been profoundly shaken by Saturday's attack, writes Sarah Rainsford.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-10T05:38:53+00:00",
-      "updated_at": "2026-11-10T05:38:53+00:00",
-      "article_ids": [
-        "44874e5cfc48aa3e8fec"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-2a0ecfa6dc417f817b54",
-      "title": "Das sind die gefährlichsten Reiseländer 2027",
-      "overview": "Die jährlich erstellte Risk Map bietet Orientierung, wie sicher ein Reiseland ist. Für das Jahr 2027 gibt es auch überraschende Neubewertungen",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-10T05:30:00+00:00",
-      "updated_at": "2026-11-10T05:30:00+00:00",
-      "article_ids": [
-        "35fa054906caca43e364"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-9e14c1bc733936a827be",
-      "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
-      "overview": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-10T05:22:39+00:00",
-      "updated_at": "2026-11-10T05:22:39+00:00",
-      "article_ids": [
-        "e5f73c6c7a56a50af605"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-8887ba2088a62820b5c2",
-      "title": "Truth API und Kryptogeschäfte verhelfen Trump Media zu Quartalsgewinn von 400 Millionen US-Dollar",
-      "overview": "Ein Lizenzierungsgeschäft bietet Abonnenten schnellen Zugriff auf Beiträge des US-Präsidenten. Trotz der positiven Quartalszahlen hat die TMTG-Aktie in diesem Jahr fast 70 Prozent an Wert verloren",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-10T05:14:20+00:00",
-      "updated_at": "2026-11-10T05:14:20+00:00",
-      "article_ids": [
-        "35b1b88387d6abbc8fa7"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-4b09207573e140f6b9cd",
-      "title": "Schadet lange Bildschirmarbeit unseren Augen?",
-      "overview": "Eine Optometristin klärt auf und gibt Tipps für gesunde Augen in der Arbeit – für Leute mit und ohne Brille",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-10T05:00:00+00:00",
-      "updated_at": "2026-11-10T05:00:00+00:00",
-      "article_ids": [
-        "d8edfbc2f06870e5975b"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-aef59e0ec34d4890bd73",
-      "title": "Die Angst vor dem Abriss: Warum eine 88-jährige Mieterin um ihre langjährige Wohnung in Wien bangt",
-      "overview": "In einem einst gemeinnützigen Bau fühlen sich verbliebene Haushalte zum Ausziehen gedrängt. Der Eigentümer, die Wertinvest-Gruppe von Michael Tojner, bestätigt eine Generalsanierung",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-10T05:00:00+00:00",
-      "updated_at": "2026-11-10T05:00:00+00:00",
-      "article_ids": [
-        "dd2f2cc85fd877fd3b6e"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-9aed176c9b308215dc2d",
-      "title": "Dreierverhandlungen in Abu Dhabi sollen am Mittwoch fortgesetzt werden",
-      "overview": "Unterhändler Russlands, der Ukraine und der USA kamen am Dienstag zusammen. Die Positionen scheinen nach Ende der ersten Runde noch weit auseinanderzuliegen",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-10T04:51:48+00:00",
-      "updated_at": "2026-11-10T04:51:48+00:00",
-      "article_ids": [
-        "64d271b6d416c5a56b99"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-5cdd02bf8ab085e049e4",
-      "title": "Trumps Krieg im Iran bremst 2026 fossile Emissionen – trotzdem gibt es keinen Grund zum Feiern",
-      "overview": "Die Ölkrise, aber auch der Aufstieg der Erneuerbaren bilden sich im prognostizierten CO₂-Ausstoß dieses Jahres ab. Trotzdem wird ein neues Höchstniveau erwartet",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-10T04:00:00+00:00",
-      "updated_at": "2026-11-10T04:00:00+00:00",
-      "article_ids": [
-        "32dedf4e16d3fbf6e144"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-e5aa3d8cd2a8e072809b",
-      "title": "Demokraten gewannen Midterms auch durch Anti-KI-Stimmung – der Plan für danach fehlt",
-      "overview": "Nach den Wahlen hätten die US-Demokraten die Möglichkeit, Gesetze durchzubringen. Man ist sich aber nicht einmal in der Problemanalyse einig",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-10T04:00:00+00:00",
-      "updated_at": "2026-11-10T04:00:00+00:00",
-      "article_ids": [
-        "4b2d13f2a4cd4ec3426c"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-97287717d854d6087b7a",
-      "title": "Macht Donald Trump effektiveren Klimaschutz als die Uno?",
-      "overview": "Die fossilen Emissionen gehen 2026 nach Jahren erstmals wieder zurück – allerdings aus den falschen Gründen",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-10T04:00:00+00:00",
-      "updated_at": "2026-11-10T04:00:00+00:00",
-      "article_ids": [
-        "f47816a23355d95e4b54"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-73e000028f2d2b51678c",
-      "title": "Californians reject wealth tax for billionaires",
-      "overview": "Proposition 40 targeted Californian billionaires with a 5% tax on their total wealth, including assets such as shares as well as income.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-10T03:34:46+00:00",
-      "updated_at": "2026-11-10T03:34:46+00:00",
-      "article_ids": [
-        "d476a7cbf7990333c608"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "Business",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-90e0473d0ccceff7be76",
-      "title": "Qantas to outsource 850 local jobs with most roles moving to India",
-      "overview": "The Australian airline said the move was aimed at modernising its IT systems and noted the impact of AI.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-10T01:55:22+00:00",
-      "updated_at": "2026-11-10T01:55:22+00:00",
-      "article_ids": [
-        "079d077a4d9b2f8ef9f7"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-c4a7c1c61b753605ec71",
-      "title": "'Cruise for life' ship seized in Singapore",
-      "overview": "The Odyssey was meant to take guests around the world for years, but the trip was cut short after its operator ran out of money.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-10T01:49:06+00:00",
-      "updated_at": "2026-11-10T01:49:06+00:00",
-      "article_ids": [
-        "a0b19e0f477ca036f0f6"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-4a39250ea130d0f9291d",
-      "title": "Trump backs embattled Hegseth and Jensen Huang and says FBI looking into spy allegations – video",
-      "overview": "Donald Trump defended defense secretary Pete Hegseth, who is facing an impeachment resolution from Republican senator Thomas Massie, saying Hegseth 'won two wars'. The president, who said he had spoken to Nvidia CEO Jensen Huang, said he was 'amazed' by claims Huang conducted an affair with an alleged Chinese spy, and that the FBI was now looking into the issue Jensen Huang’s image has been shattered. Could he be pushed out at Nvidia? Republican Thomas Massie moves to force vote to impeach Pete Hegseth Continue reading...",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-10T01:40:32+00:00",
-      "updated_at": "2026-11-10T01:40:32+00:00",
-      "article_ids": [
-        "f3957bc9f46278e8e5d9"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-3bc4ac63b0dddf9b2b7d",
-      "title": "I took Vinted to court to get my money back",
-      "overview": "The BBC hears from Vinted sellers who describe difficulties accessing money held in their online wallets.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-10T00:27:37+00:00",
-      "updated_at": "2026-11-10T00:27:37+00:00",
-      "article_ids": [
-        "40c87e86f269d1dfc6ec"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "Business",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-44de34975efcedb2d547",
-      "title": "'There is no justice' - Epstein survivor on how model agency sent her to abuser's home",
-      "overview": "A woman says an agency boss sent her to photoshoots at the sex offender's Florida beach home.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-10T00:14:03+00:00",
-      "updated_at": "2026-11-10T00:14:03+00:00",
-      "article_ids": [
-        "b80f8047a1c5680e03b1"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-45722388dbbe14d2fdbd",
-      "title": "The superpower battle over energy – and what it means for your bills",
-      "overview": "A tug-of-war between China and the US could have a big impact on energy costs, but who will win?",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-10T00:08:28+00:00",
-      "updated_at": "2026-11-10T00:08:28+00:00",
-      "article_ids": [
-        "25348f0759a9f6eafec5"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
     }
   ],
   "instruments": [
@@ -76643,15 +76646,15 @@
   "markets": [],
   "status": {
     "state": "ok",
-    "attempted_at": "2026-11-15T21:54:22.531480+00:00",
-    "last_success_at": "2026-11-15T21:54:22.531480+00:00",
+    "attempted_at": "2026-11-16T02:14:27.901088+00:00",
+    "last_success_at": "2026-11-16T02:14:27.901088+00:00",
     "errors": [],
     "source_results": {
       "bbc-world": "20 entries",
       "guardian-us": "33 entries",
       "fox-politics": "25 entries",
       "bbc-business": "40 entries",
-      "orf": "26 entries",
+      "orf": "28 entries",
       "standard": "150 entries"
     },
     "market_status": "Market price data not configured",
