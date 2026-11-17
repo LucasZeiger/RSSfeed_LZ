@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "mode": "live",
-  "generated_at": "2026-11-16T20:33:15.544571+00:00",
+  "generated_at": "2026-11-17T03:58:36.657379+00:00",
   "refresh_minutes": 60,
   "sources": [
     {
@@ -90,6 +90,662 @@
     }
   ],
   "articles": [
+    {
+      "id": "f74835860c26e659aaf9",
+      "source_id": "orf",
+      "title": "Japan wirft Russland Luftraum-Verletzung vor",
+      "url": "https://orf.at/stories/3448405/",
+      "summary": "",
+      "published_at": "2026-11-17T03:06:19+00:00",
+      "fetched_at": "2026-11-17T03:58:36.657379+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "1eab82a1bc175644620a",
+      "source_id": "guardian-us",
+      "title": "United Airlines says ‘widespread’ system outage resolved",
+      "url": "https://www.theguardian.com/us-news/2026/nov/16/united-airlines-system-outage",
+      "summary": "Airline acknowledges ‘technology issue that delayed flight departures’ in latest high-profile outage to affect Americans United ⁠Airlines said on ⁠Monday ⁠that it had resolved ⁠a widespread system ⁠outage, just three days after the Federal ⁠Aviation Administration issued a rare nationwide ground stop on all US flights. “We have resolved a technology issue that delayed flight departures. While some flights were delayed, there was no impact on flights in progress, or on United Express flights,” Chicago-based United said in a statement. “There is no indication that this was a cybersecurity-relate",
+      "published_at": "2026-11-17T02:57:06+00:00",
+      "fetched_at": "2026-11-17T03:58:36.657379+00:00",
+      "date_estimated": false,
+      "author": "Lucy Campbell",
+      "categories": [
+        "US news",
+        "United Airlines",
+        "World news",
+        "Business",
+        "Air transport"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "2e51bd3ae1bf8ff1a37a",
+      "source_id": "fox-politics",
+      "title": "Ro Khanna pitches $1,700 checks for Americans to offset Iran war costs: 'A chance to deliver'",
+      "url": "https://www.foxnews.com/politics/ro-khanna-pitches-1700-checks-americans-offset-iran-war-costs-chance-deliver",
+      "summary": "Rep. Ro Khanna, D-Calif., on Monday proposed giving every American family a $1,700 refund check to offset higher costs driven by the war in Iran. Khanna, a frequent critic of President Donald Trump's war in the Middle East, said the checks would be sent to every American family to reimburse them for the higher gas, food and electricity prices sparked by the conflict and resulting disruptions to oil transport routes. The congressman said Democrats \"have a chance to deliver\" following their sweeping midterm victories earlier this month, urging the House and Senate to approve the payments in Janu",
+      "published_at": "2026-11-17T02:55:22+00:00",
+      "fetched_at": "2026-11-17T03:58:36.657379+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "f41f97ad-ce8e-53f5-b145-e8a97cd1a315",
+        "fnc",
+        "Fox News",
+        "fox-news/politics/defense/wars/war-with-iran",
+        "fox-news/politics",
+        "fox-news/person/donald-trump",
+        "fox-news/democrats",
+        "fox-news/us/economy",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "029c8b4ac3186acef463",
+      "source_id": "fox-politics",
+      "title": "Biden library nears site decision as fundraising trails ambitions: report",
+      "url": "https://www.foxnews.com/politics/biden-library-nears-site-decision-fundraising-trails-ambitions-report",
+      "summary": "Former President Joe Biden’s presidential library foundation is reportedly closing in on a location in Delaware, even as its fundraising efforts continue to fall short of expectations. Despite receiving several multimillion-dollar gifts in 2026, the Joe and Jill Biden Presidential Library Foundation is working to overcome a difficult fundraising start, following a roughly $600,000 deficit in 2025, according to filings reported by CBS News. The foundation reportedly raised $1.5 million in 2025 but spent $2.1 million. An official told the outlet that the organization was not actively soliciting ",
+      "published_at": "2026-11-17T02:45:27+00:00",
+      "fetched_at": "2026-11-17T03:58:36.657379+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "a373fe69-3cd6-53a8-9b8a-3790f142e799",
+        "fnc",
+        "Fox News",
+        "fox-news/person/joe-biden",
+        "fox-news/politics/elections/fundraising",
+        "fox-news/person/donald-trump",
+        "fox-news/us/democratic-party",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "f3baf8bda9980a78bd1e",
+      "source_id": "guardian-us",
+      "title": "Dolores Huerta honored in ceremony at California state capitol",
+      "url": "https://www.theguardian.com/us-news/2026/nov/16/dolores-huerta-honored-california",
+      "summary": "Labor leader was remembered for her advocacy and co-founding union that would become United Farm Workers California officials paid tribute to Dolores Huerta, one of the nation’s most influential labor leaders, civil rights icons and feminist activists, at a memorial ceremony Monday at the state capitol. They remembered her as a relentless advocate for a more just and fair world. Huerta co-founded a union that became the United Farm Workers with César Chávez and made famous her rallying cry, “Sí, se puede!” – which translates to “Yes, it can be done!” Continue reading...",
+      "published_at": "2026-11-17T02:42:22+00:00",
+      "fetched_at": "2026-11-17T03:58:36.657379+00:00",
+      "date_estimated": false,
+      "author": "Associated Press",
+      "categories": [
+        "US news",
+        "California",
+        "US unions",
+        "West Coast"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "c75a838e84ea614caf53",
+      "source_id": "orf",
+      "title": "USA schränken KI-Chips-Export weiter ein",
+      "url": "https://orf.at/stories/3448403/",
+      "summary": "",
+      "published_at": "2026-11-17T01:42:01+00:00",
+      "fetched_at": "2026-11-17T03:58:36.657379+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Wirtschaft"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "860880a223bdfa680e13",
+      "source_id": "guardian-us",
+      "title": "Fiona the hippo under veterinary care after eating hat at Cincinnati zoo",
+      "url": "https://www.theguardian.com/us-news/2026/nov/16/fiona-hippo-eats-hat-cincinnati",
+      "summary": "Knit hat caught in ceiling fan and flung into enclosure eaten by Fiona, who is being closely monitored by zoo staff The Cincinnati zoo says Fiona, its beloved hippo who became a global celebrity after her premature birth nearly a decade ago, is undergoing veterinary care after swallowing a knit hat that got into her enclosure. Zoo veterinarians and staff are monitoring Fiona and working to help her pass the hat, the zoo said in a statement Monday. Continue reading...",
+      "published_at": "2026-11-17T01:18:28+00:00",
+      "fetched_at": "2026-11-17T03:58:36.657379+00:00",
+      "date_estimated": false,
+      "author": "Associated Press",
+      "categories": [
+        "Ohio",
+        "Animals",
+        "US news",
+        "World news"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "71fc6d55c6612812579e",
+      "source_id": "bbc-business",
+      "title": "Customers report service outages at major US banks",
+      "url": "https://www.bbc.co.uk/news/articles/cj752wvqneq6o?at_campaign=rss&at_medium=RSS",
+      "summary": "Chase Bank, the largest US bank, said a software bug might be causing the issue, but that it was not \"systemic'\" or \"cyber-related\".",
+      "published_at": "2026-11-17T00:18:01+00:00",
+      "fetched_at": "2026-11-17T03:58:36.657379+00:00",
+      "date_estimated": false,
+      "author": "bbc-business",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "Business"
+    },
+    {
+      "id": "a202710cd2f757b3b777",
+      "source_id": "fox-politics",
+      "title": "James Comer launches bid for Kentucky governor",
+      "url": "https://www.foxnews.com/politics/james-comer-launches-bid-kentucky-governor",
+      "summary": "House Oversight Committee Chairman James Comer, R-Ky., is launching a campaign for governor on Monday night. \"Serving this state is a calling for me,\" Comer said during a tele-townhall. \"Kentucky needs a leader whose policies will lead to growth and good-paying jobs. We need a leader whose priority will be to reduce taxes so Kentuckians can keep more of what they earn.\" Comer teased a \"major announcement\" for Monday night earlier in the day. A source familiar with his plans told Fox News Digital it would be his long-awaited campaign to lead the commonwealth of Kentucky. REDISTRICTING EFFORTS B",
+      "published_at": "2026-11-17T00:14:04+00:00",
+      "fetched_at": "2026-11-17T03:58:36.657379+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "2c83e294-d6c2-50e7-94ef-081a2e213519",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/politics/elections/gubernatorial",
+        "fox-news/politics/state-and-local/governors",
+        "fox-news/us/us-regions/southeast/kentucky",
+        "fox-news/politics/house-of-representatives",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "fff2e37aaeb0bd2bfef2",
+      "source_id": "bbc-business",
+      "title": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
+      "url": "https://www.bbc.co.uk/news/articles/cw3djdjk5d7ko?at_campaign=rss&at_medium=RSS",
+      "summary": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
+      "published_at": "2026-11-17T00:00:03+00:00",
+      "fetched_at": "2026-11-17T03:58:36.657379+00:00",
+      "date_estimated": false,
+      "author": "bbc-business",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "Business"
+    },
+    {
+      "id": "8bd2929c5d2c8e8bc2a8",
+      "source_id": "bbc-business",
+      "title": "We couldn't afford a house alone, so we bought one with strangers",
+      "url": "https://www.bbc.co.uk/news/articles/c5742lwdyzglo?at_campaign=rss&at_medium=RSS",
+      "summary": "People who can't afford to get on the housing ladder are buying homes with people they don't know.",
+      "published_at": "2026-11-17T00:00:02+00:00",
+      "fetched_at": "2026-11-17T03:58:36.657379+00:00",
+      "date_estimated": false,
+      "author": "bbc-business",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "Business"
+    },
+    {
+      "id": "f84f3dcfe3737b638238",
+      "source_id": "fox-politics",
+      "title": "Trump’s Asia trip takes Alaska detour as weather forces refueling stop change",
+      "url": "https://www.foxnews.com/politics/trumps-asia-trip-takes-alaska-detour-weather-forces-refueling-stop-change",
+      "summary": "President Donald Trump’s flight to Asia took a detour Monday as extreme weather forced Air Force One to change its Alaska refueling stop before continuing to the Philippines. Air Force One switched from Anchorage to Fairbanks to refuel under better weather conditions, a White House official confirmed to Fox News. The aircraft has since departed for Manila. The president landed in Alaska at 4:28 p.m. ET for what was expected to be a roughly 90-minute refueling stop, according to the traveling White House press pool. Reporters were not expected to see Trump during the stop, with their next antic",
+      "published_at": "2026-11-16T23:48:44+00:00",
+      "fetched_at": "2026-11-17T03:58:36.657379+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "e84cc9c6-a9ea-57f9-9bb1-4f49dbc083f6",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/person/donald-trump",
+        "fox-news/asia",
+        "fox-news/politics/house-of-representatives/foreign-affairs",
+        "fox-news/world",
+        "fox-news/politics/executive/white-house",
+        "fox-news/politics/elections/presidential"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "dc1c6e81d67d70fde0e6",
+      "source_id": "fox-politics",
+      "title": "Follow the Leader: Democrats face party battle as divisions deepen",
+      "url": "https://www.foxnews.com/politics/follow-leader-democrats-face-party-battle-divisions-deepen",
+      "summary": "You can’t play follow the leader until you decide who you want to follow. That’s the conundrum facing House and Senate Democrats. Not all House Democrats are on board with promoting House Minority Leader Hakeem Jeffries (D-N.Y.) to Speaker. And Sen. Chris Van Hollen (D-Md.) is challenging Senate Minority Leader Chuck Schumer (D-N.Y.) for Majority Leader. \"As of today, my position is no because that's what my constituents and my community is saying,\" said Rep.-elect Angela Gonzales-Torres (D-Calif.) when asked if she backed Jeffries, \"It's really about the process. We want a democratic process.",
+      "published_at": "2026-11-16T23:30:58+00:00",
+      "fetched_at": "2026-11-17T03:58:36.657379+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "70e05114-9efb-5c7e-aac2-a83ffc057469",
+        "fnc",
+        "Fox News",
+        "fox-news/politics/socialism",
+        "fox-news/democrats",
+        "fox-news/democrats",
+        "fox-news/person/chuck-schumer",
+        "fox-news/us/congress",
+        "fox-news/politics/elections/midterm-elections",
+        "fox-news/politics"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "95289fb63a8c7ad1589e",
+      "source_id": "guardian-us",
+      "title": "Band of baby sea turtles swims into ocean after historic California nesting",
+      "url": "https://www.theguardian.com/us-news/2026/nov/16/california-sea-turtle-eggs-hatched",
+      "summary": "Hatchlings emerge after discovery in September of first sea turtle nests ever to have been recorded on US west coast Two months after the discovery of the first sea turtle nests ever to have been recorded on the US west coast, the eggs have hatched – and California’s first group of 75 native-born olive ridley sea turtles have been released into the Pacific. The eggs incubated at the Aquarium of the Pacific in Long Beach after the historic discovery of two separate nests in September at southern California beaches, a shift likely driven by this year’s El Niño conditions. Continue reading...",
+      "published_at": "2026-11-16T23:19:11+00:00",
+      "fetched_at": "2026-11-17T03:58:36.657379+00:00",
+      "date_estimated": false,
+      "author": "Cecilia Nowell",
+      "categories": [
+        "California",
+        "US news",
+        "West Coast",
+        "World news",
+        "Animals",
+        "Wildlife",
+        "Environment"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "3f92402b7a1646615d96",
+      "source_id": "guardian-us",
+      "title": "Cause of death released for partner of Gypsy Rose Blanchard",
+      "url": "https://www.theguardian.com/us-news/2026/nov/16/cause-of-death-gypsy-rose-blanchard-partner",
+      "summary": "Police investigation continues even as Louisiana coroner’s office releases findings on death of Kenan ‘Ken’ Urker The cause of death of Gypsy Rose Blanchard’s partner, who died last month, has been released. On Monday, the Lafourche parish coroner’s office in Louisiana determined that Kenan “Ken” Urker, 34, died from accidental polysubstance drug toxicity on 1 October, USA Today reports. The coroner’s office also said the case is complete. Continue reading...",
+      "published_at": "2026-11-16T23:14:41+00:00",
+      "fetched_at": "2026-11-17T03:58:36.657379+00:00",
+      "date_estimated": false,
+      "author": "Maya Yang",
+      "categories": [
+        "Louisiana",
+        "US news"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "24b8a882ac0c0adac944",
+      "source_id": "bbc-business",
+      "title": "California sues OpenAI over Hugging Face attack",
+      "url": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_campaign=rss&at_medium=RSS",
+      "summary": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public",
+      "published_at": "2026-11-16T23:12:24+00:00",
+      "fetched_at": "2026-11-17T03:58:36.657379+00:00",
+      "date_estimated": false,
+      "author": "bbc-business",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "Business"
+    },
+    {
+      "id": "cf00ade738750a5e4c68",
+      "source_id": "guardian-us",
+      "title": "Pochettino: I’d tell Guardiola to ‘take it’ if he’s offered US coaching job",
+      "url": "https://www.theguardian.com/football/2026/nov/16/mauricio-pochettino-pep-guardiola-usmnt-manchester-united",
+      "summary": "As he prepares to depart for Manchester United, the outgoing US coach held court on a number of topics, including what he’d change about soccer in America Outgoing US head coach Mauricio Pochettino and former Manchester City head coach Pep Guardiola have a long, storied past. The two faced each other as players, when Guardiola was at Barcelona and Pochettino was making his name across town at Espanyol. They faced each other 22 times as managers in the Premier League and the two share a mutual respect – and intensity – when it comes to their approach to playing and coaching alike. So when Guard",
+      "published_at": "2026-11-16T23:01:52+00:00",
+      "fetched_at": "2026-11-17T03:58:36.657379+00:00",
+      "date_estimated": false,
+      "author": "Pablo Iglesias Maurer in Cincinnati and Jeff Rueter",
+      "categories": [
+        "USA",
+        "Football",
+        "US sports",
+        "Sport",
+        "Manchester United",
+        "Pep Guardiola"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "f4cb01f9a2347f36fc15",
+      "source_id": "guardian-us",
+      "title": "Big wave surfers line up to ride ‘raw power of the Pacific’ during Super El-Niño swells",
+      "url": "https://www.theguardian.com/us-news/2026/nov/16/big-wave-surfers-san-francisco-el-nino",
+      "summary": "Fans of the sport dubbed the event ‘Monster Day’ as pro surfers tackled the storm-driven waves at Mavericks Beach While this year’s Super El Niño storms are battering the California coast and destroying homes and infrastructure, surfers are finding a silver lining: waves so epic that pro athletes from around the world are making last-minute journeys to experience them. Big wave surfers converged on northern California this Saturday to ride massive, storm-driven swells at the famously dangerous Mavericks Beach, an event some surf fans called “Monster Day.” Continue reading...",
+      "published_at": "2026-11-16T23:01:28+00:00",
+      "fetched_at": "2026-11-17T03:58:36.657379+00:00",
+      "date_estimated": false,
+      "author": "Lois Beckett",
+      "categories": [
+        "California",
+        "El Niño southern oscillation",
+        "Surfing",
+        "Oceans",
+        "US news",
+        "West Coast"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "ff4373007ae046b1074f",
+      "source_id": "standard",
+      "title": "Standardrätsel K 11445",
+      "url": "https://www.derstandard.at/story/3000000348189/standardraetsel-k-11445?ref=rss",
+      "summary": "Täglich neu, exklusiv für Smart-Abonnent:innen: Das knifflige Quizkultur-Rätsel des STANDARD",
+      "published_at": "2026-11-16T23:01:00+00:00",
+      "fetched_at": "2026-11-17T03:58:36.657379+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "ebf4806e91ffb9efe3b0",
+      "source_id": "guardian-us",
+      "title": "California braces for more towering waves as powerful storms approach",
+      "url": "https://www.theguardian.com/us-news/2026/nov/16/california-coast-waves-advisory",
+      "summary": "NWS issues advisories for long stretches of the northern California coast, warning that waves can quickly overpower anyone nearby The massive, 50-ft swells along California’s coast this weekend foretold an intense week of towering waves to come. Officials from the National Weather Service (NWS) had issued advisories for long stretches of the California coast, warning people that erratic and unpredictable waves could quickly overpower anyone nearby. The highest waves – which reached 50ft to 60ft (15.24 to 18.29 meters) – cracked along the popular Mavericks surf spot in San Mateo county, south o",
+      "published_at": "2026-11-16T22:59:52+00:00",
+      "fetched_at": "2026-11-17T03:58:36.657379+00:00",
+      "date_estimated": false,
+      "author": "Maanvi Singh",
+      "categories": [
+        "California",
+        "El Niño southern oscillation",
+        "US weather",
+        "West Coast",
+        "San Francisco",
+        "US news",
+        "Extreme weather",
+        "Coastlines",
+        "Flooding"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "3cd2558da4e323efc478",
+      "source_id": "orf",
+      "title": "Nahe Straße von Hormus: Tanker mit Seemine kollidiert",
+      "url": "https://orf.at/stories/3448401/",
+      "summary": "",
+      "published_at": "2026-11-16T22:37:25+00:00",
+      "fetched_at": "2026-11-17T03:58:36.657379+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "2e2451f0f29ff7ed4f28",
+      "source_id": "bbc-business",
+      "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
+      "url": "https://www.bbc.co.uk/news/articles/c38xzy980924o?at_campaign=rss&at_medium=RSS",
+      "summary": "Alan Milburn's review will call for sweeping reforms to the education, work and welfare systems.",
+      "published_at": "2026-11-16T22:32:47+00:00",
+      "fetched_at": "2026-11-17T03:58:36.657379+00:00",
+      "date_estimated": false,
+      "author": "bbc-business",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "Business"
+    },
+    {
+      "id": "e2d23a874bb8ba4df143",
+      "source_id": "guardian-us",
+      "title": "Freeman Johnson, oldest survivor of Pearl Harbor attack, dies aged 106",
+      "url": "https://www.theguardian.com/us-news/2026/nov/16/oldest-survivor-pearl-harbor-dies",
+      "summary": "Johnson was working on the USS St Louis and was inside a steam drum when the attacks took place The oldest known survivor of the Pearl Harbor attack died Saturday aged 106 years old. Freeman Johnson, a fireman below the deck during the attack, died in his home in Massachusetts, according to the Boston Globe. Only 11 known Pearl Harbor survivors are still living, all of whom are centenarians. Continue reading...",
+      "published_at": "2026-11-16T22:10:51+00:00",
+      "fetched_at": "2026-11-17T03:58:36.657379+00:00",
+      "date_estimated": false,
+      "author": "Auzzy Byrdsell",
+      "categories": [
+        "US news",
+        "Second world war",
+        "Hawaii",
+        "Massachusetts"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "b70970bf828fece9f3eb",
+      "source_id": "orf",
+      "title": "Brexit-Abrechnung mit Vorgänger Johnson",
+      "url": "https://orf.at/stories/3448337/",
+      "summary": "Der britische Premierminister Andy Burnham hält das vom einstigen konservativen Regierungschef Boris Johnson ausgehandelte Brexit-Abkommen für gescheitert, wie der Labour-Politiker Montagabend in seiner Rede in der City of London beim jährlichen Lord Mayor’s Banquet in der Guildhall sagte. Am Freitag findet denn auch der langerwartete EU-Großbritannien-Gipfel statt.",
+      "published_at": "2026-11-16T22:10:15+00:00",
+      "fetched_at": "2026-11-17T03:58:36.657379+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "0a3000605091e35e46cc",
+      "source_id": "guardian-us",
+      "title": "Customers report difficulty accessing online services at major US banks",
+      "url": "https://www.theguardian.com/business/2026/nov/16/us-bank-outage-chase-wells-fargo",
+      "summary": "Bank of America, Chase, US Bank, Wells Fargo and Truist were listed by users who have been experiencing issues Customers reported service outages and difficulty accessing their online accounts at several major US banks and the money transfer service Zelle on Monday after a technical issue at JPMorgan Chase caused ripple effects throughout the financial system. Chase said the technical problems were not a systemic issue and were not the result of a cyber-attack, and that it was working to bring banking services back online. Continue reading...",
+      "published_at": "2026-11-16T22:01:40+00:00",
+      "fetched_at": "2026-11-17T03:58:36.657379+00:00",
+      "date_estimated": false,
+      "author": "Lucy Campbell and agencies",
+      "categories": [
+        "Banking",
+        "US news",
+        "Bank of America",
+        "Wells Fargo",
+        "JP Morgan",
+        "Business",
+        "US personal finance"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "d1c808aa4106f314d709",
+      "source_id": "standard",
+      "title": "Deutschland steht nach Gala gegen die Niederlande im Viertelfinale der Nations League",
+      "url": "https://www.derstandard.at/story/3000000349560/deutschland-steht-nach-gala-gegen-die-niederlande-im-viertelfinale-der-nations-league?ref=rss",
+      "summary": "Die DFB-Elf besiegte Oranje 5:0, die ebenfalls in die K.-o.-Phase einzieht. Wirtz traf in Berlin doppelt. Griechenland hat das Nachsehen",
+      "published_at": "2026-11-16T21:55:11+00:00",
+      "fetched_at": "2026-11-17T03:58:36.657379+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "f939d32f2f5126fcede1",
+      "source_id": "standard",
+      "title": "Eishockey: US-Frauen holen mit Finalsieg über Kanada WM-Gold",
+      "url": "https://www.derstandard.at/story/3000000349559/eishockey-us-frauen-holen-mit-finalsieg-252ber-kanada-wm-gold?ref=rss",
+      "summary": "Schwedinnen jubeln erstmals seit 2007 über WM-Bronze. Österreichs Torhüterin Luggin schaffte es ins All-Star-Team",
+      "published_at": "2026-11-16T21:42:01+00:00",
+      "fetched_at": "2026-11-17T03:58:36.657379+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "8497404ed00af94423eb",
+      "source_id": "bbc-world",
+      "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+      "url": "https://www.bbc.co.uk/news/articles/cmy97qperq9eo?at_campaign=rss&at_medium=RSS",
+      "summary": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
+      "published_at": "2026-11-16T21:40:07+00:00",
+      "fetched_at": "2026-11-17T03:58:36.657379+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "c2c62c8093a6e034ebf9",
+      "source_id": "standard",
+      "title": "Technische Probleme bei mehreren US-Banken gleichzeitig",
+      "url": "https://www.derstandard.at/story/3000000349558/technische-probleme-bei-mehreren-us-banken-gleichzeitig?ref=rss",
+      "summary": "Einmal mehr wird ein Cyberangriff verneint. Ursache soll ein Fehler bei JP Morgan Chase sein. Auch United Airlines meldet eine Systemstörung",
+      "published_at": "2026-11-16T21:24:17+00:00",
+      "fetched_at": "2026-11-17T03:58:36.657379+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "5d37adcd74e048a0dfa7",
+      "source_id": "standard",
+      "title": "Ein langwieriges Tauziehen um ihre neue Spitze kann sich die SPD nicht leisten",
+      "url": "https://www.derstandard.at/story/3000000349489/ein-langwieriges-tauziehen-um-ihre-neue-spitze-kann-sich-die-spd-nicht-leisten?ref=rss",
+      "summary": "Die Kandidatur von Hubertus Heil setzt Lars Klingbeil und Manuela Schwesig unter Druck. Es muss bald klar werden, ob auch sie bereitstehen",
+      "published_at": "2026-11-16T20:58:00+00:00",
+      "fetched_at": "2026-11-17T03:58:36.657379+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "764afc2a5dbe8670d0ca",
+      "source_id": "orf",
+      "title": "Handels-KV: Verhandler vor dritter Runde weit auseinander",
+      "url": "https://orf.at/stories/3448397/",
+      "summary": "",
+      "published_at": "2026-11-16T20:53:35+00:00",
+      "fetched_at": "2026-11-17T03:58:36.657379+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Wirtschaft"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "8c427ad6ba8391560885",
+      "source_id": "guardian-us",
+      "title": "USA thrash Canada to win women’s hockey worlds and complete historic golden double",
+      "url": "https://www.theguardian.com/sport/2026/nov/16/usa-canada-womens-ice-hockey-world-championship-final",
+      "summary": "USA beat Canada 6-2 to claim 12th world title Knight and Pannek score twice each in victory United States 6-2 Canada – as it happened The United States beat Canada 6-2 on Monday to win the women’s ice hockey world championship in Herning, Denmark, becoming the first US team to capture Olympic and world titles in the same calendar year. Hilary Knight and Kelly Pannek scored twice each as the Americans claimed their 12th world championship, adding to the Olympic gold medal they won in Milan in February. Lacey Eden also scored for the US, while Sarah Fillier had both goals for Canada, who were se",
+      "published_at": "2026-11-16T20:40:16+00:00",
+      "fetched_at": "2026-11-17T03:58:36.657379+00:00",
+      "date_estimated": false,
+      "author": "Guardian sport and agencies",
+      "categories": [
+        "Ice hockey",
+        "USA ice hockey team",
+        "Canada ice hockey team",
+        "PWHL",
+        "Sport",
+        "US sports"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "be63904a4d5b83b65ef6",
+      "source_id": "fox-politics",
+      "title": "Clarence Thomas calls foul on California ruling he says could turn citizens into government mouthpieces",
+      "url": "https://www.foxnews.com/politics/clarence-thomas-calls-foul-california-ruling-he-says-could-turn-citizens-government-mouthpieces",
+      "summary": "Justice Clarence Thomas warned Monday that the Supreme Court is leaving the door open for states to compel speech from private citizens by not taking up a challenge to a California law. On Monday, the Supreme Court declined a petition to hear a case from a California physician who argued that the state government was forcing her to make statements she disagreed with while teaching a mandatory course for doctors. Thomas was joined by Justice Samuel Alito in dissenting from the decision, arguing that allowing the law to stand could have implications reaching far beyond the medical field. The cas",
+      "published_at": "2026-11-16T20:37:19+00:00",
+      "fetched_at": "2026-11-17T03:58:36.657379+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "10a5d0ee-1cf1-52c4-8f13-b92692fb704e",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/us/personal-freedoms/first-amendment",
+        "fox-news/politics/executive/law",
+        "fox-news/us/us-regions/west/california",
+        "fox-news/politics/judiciary/individual-rights",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "d92f0c5bdca32ef7db4f",
+      "source_id": "standard",
+      "title": "USA rufen Bürger in Europa zu erhöhter Wachsamkeit während der Weihnachtszeit auf",
+      "url": "https://www.derstandard.at/story/3000000349556/usa-rufen-buerger-in-europa-zu-erhoehter-wachsamkeit-waehrend-der-weihnachtszeit-auf?ref=rss",
+      "summary": "Konkrete Hinweise auf einen geplanten Anschlag oder eine besondere Bedrohung werden nicht genannt",
+      "published_at": "2026-11-16T20:36:18+00:00",
+      "fetched_at": "2026-11-17T03:58:36.657379+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
     {
       "id": "ae349a656668d94b1e8b",
       "source_id": "guardian-us",
@@ -1798,6 +2454,27 @@
       "category": "Politics"
     },
     {
+      "id": "45deb5745a43514fc6d3",
+      "source_id": "guardian-us",
+      "title": "Democrat writes off Trump’s attempt to blame party for flight grounding as ‘absurd’",
+      "url": "https://www.theguardian.com/us-news/2026/nov/16/trump-flight-grounding-democrats-blame",
+      "summary": "Dan Koh, an incoming House representative and ex-Biden staffer, blasts Trump for blaming previous administration Donald Trump’s efforts to blame Friday’s four-hour nationwide flight stoppage – and the resulting travel chaos – on Democrats are “absurd”, an incoming Democratic member of Congress said on Sunday. The president remained largely silent and out of public view as air travel shut down on Friday, but on Sunday he emerged to issue a series of posts blaming the incident on the Biden administration. Continue reading...",
+      "published_at": "2026-11-16T14:24:21+00:00",
+      "fetched_at": "2026-11-17T03:58:36.657379+00:00",
+      "date_estimated": false,
+      "author": "Sam Levine",
+      "categories": [
+        "Trump administration",
+        "US politics",
+        "US news",
+        "Air transport",
+        "Donald Trump"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
       "id": "af542e91849a27819847",
       "source_id": "bbc-world",
       "title": "Estonia to close Russia border crossings after attempted drone factory arson attack",
@@ -1972,6 +2649,21 @@
       "summary": "An der Uni Wien beraten Jus-Studierende sozial benachteiligte Menschen. Das Projekt ermöglicht Jungjuristen Praxiserfahrung, gleichzeitig profitieren Betroffene von kostenloser Unterstützung",
       "published_at": "2026-11-16T14:00:00+00:00",
       "fetched_at": "2026-11-16T20:33:15.544571+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "8a18d3c59e704c6770a1",
+      "source_id": "standard",
+      "title": "Glenn Close, vielseitiger Hollywoodstar, erhält Oscar fürs Lebenswerk",
+      "url": "https://www.derstandard.at/story/3000000349486/glenn-close-vielseitiger-hollywoodstar-erhaelt-oscar-fuers-lebenswerk?ref=rss",
+      "summary": "Die US-amerikanische Schauspielerin (\"Eine verhängnisvolle Affäre\") wird nach acht Nominierungen bei den Academy Awards mit einer Trophäe fürs Lebenswerk geehrt",
+      "published_at": "2026-11-16T13:55:51+00:00",
+      "fetched_at": "2026-11-17T03:58:36.657379+00:00",
       "date_estimated": false,
       "author": "standard",
       "categories": [],
@@ -2736,6 +3428,21 @@
       "summary": "Aktuell werden bereits eine Rechenzentrum-Halle und ein Bürogebäude gebaut, nun will Google zwei weitere Hallen errichten. Insgesamt würden damit 22 Hektar des 49 Hektar großen Areals bebaut",
       "published_at": "2026-11-16T10:55:07+00:00",
       "fetched_at": "2026-11-16T20:33:15.544571+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "618ebd8284b0976b2aec",
+      "source_id": "standard",
+      "title": "Youtuber MrBeast lässt Teilnehmer zu \"Hunger Games\" antreten und erntet Kritik",
+      "url": "https://www.derstandard.at/story/3000000349432/youtuber-mrbeast-laesst-teilnehmer-zu-hunger-games-antreten-und-erntet-kritik?ref=rss",
+      "summary": "Das verkehre die Idee der Buch- und Filmreihe, lautet die Reaktion in den sozialen Netzwerken",
+      "published_at": "2026-11-16T10:49:10+00:00",
+      "fetched_at": "2026-11-17T03:58:36.657379+00:00",
       "date_estimated": false,
       "author": "standard",
       "categories": [],
@@ -25113,663 +25820,1204 @@
       "language": "de",
       "country": "AT",
       "category": "Politics"
-    },
-    {
-      "id": "8386a700d1abcf263260",
-      "source_id": "standard",
-      "title": "Die STANDARD Wortsuche vom 11. November",
-      "url": "https://www.derstandard.at/story/3000000347745/die-standard-wortsuche-vom-11-november?ref=rss",
-      "summary": "Montag bis Freitag: Begriffe aus einem aktuellen STANDARD Artikel verbergen sich horizontal, vertikal oder diagonal im Buchstabengitter",
-      "published_at": "2026-11-11T05:00:00+00:00",
-      "fetched_at": "2026-11-11T09:32:44.430548+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "ba3be5ad9866e02c2874",
-      "source_id": "standard",
-      "title": "Welche Vorfreude trägt euch momentan durch den Alltag?",
-      "url": "https://www.derstandard.at/story/3000000348486/welche-vorfreude-traegt-euch-momentan-durch-den-alltag?ref=rss",
-      "summary": "Mein Forum: Diskutieren Sie dieses Thema mit der STANDARD-Community",
-      "published_at": "2026-11-11T05:00:00+00:00",
-      "fetched_at": "2026-11-12T08:25:28.373555+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "ee5fa187cd91f3eed941",
-      "source_id": "standard",
-      "title": "Trump schrieb Brief an Biden: \"Ich weiß, dass Sie das amerikanische Volk lieben\"",
-      "url": "https://www.derstandard.at/story/3000000348621/us-zeitung-ver246ffentlicht-wohlwollenden-brief-trumps-an-biden?ref=rss",
-      "summary": "Der US-Präsident Donald Trump schrieb offenbar 2021 seinem Vorgänger einen ungewöhnlich wertschätzenden Brief. Darüber berichten US-Medien mit Verweis auf Bidens neues Buch",
-      "published_at": "2026-11-11T04:55:30+00:00",
-      "fetched_at": "2026-11-11T09:32:44.430548+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "c0016b84ec12f92370f4",
-      "source_id": "standard",
-      "title": "Fußfessel abgeschnitten: Meghans Vater nun doch in Haft",
-      "url": "https://www.derstandard.at/story/3000000348620/fu223fessel-abgeschnitten-meghans-vater-deshalb-nun-in-haft?ref=rss",
-      "summary": "Der Vater von Meghan Markle wurde in einer Seniorenresidenz in Kalifornien festgenommen. Gegen ihn wird wegen des Verdachts des Besitzes von Missbrauchsdarstellungen von Kindern ermittelt",
-      "published_at": "2026-11-11T04:49:39+00:00",
-      "fetched_at": "2026-11-11T09:32:44.430548+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "4d4b8b3df952d13f0a87",
-      "source_id": "standard",
-      "title": "Ukraine-Verhandlungen gehen weiter: Fokus auf Deeskalation im Energiebereich",
-      "url": "https://www.derstandard.at/jetzt/livebericht/3000000348603/ukraine-verhandlungen-gehen-weiter-f-deeskalation-im-energiebereich?ref=rss",
-      "summary": "Unterhändler Russlands, der Ukraine und der USA kamen bereits am Dienstag zusammen. Wir tickern auch zum zweiten Verhandlungstag, dem \"Haupttag\"",
-      "published_at": "2026-11-11T04:40:31+00:00",
-      "fetched_at": "2026-11-11T09:32:44.430548+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "c195da2956dc7455bd15",
-      "source_id": "standard",
-      "title": "Republikaner stoppen Amtsenthebungsverfahren gegen US-Verteidigungsminister Hegseth",
-      "url": "https://www.derstandard.at/story/3000000348619/us-repr228sentantenhaus-stoppt-amtsenthebungsverfahren-gegen-hegseth?ref=rss",
-      "summary": "Die Abgeordneten im Repräsentantenhaus stimmten dafür, die Vorwürfe an den Justizausschuss zu verweisen. Damit wird der Vorstoß de facto gestoppt",
-      "published_at": "2026-11-11T04:31:40+00:00",
-      "fetched_at": "2026-11-11T09:32:44.430548+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "c75ec0e289b1b8e52b24",
-      "source_id": "standard",
-      "title": "Jeder Vierte klärt persönliche Probleme lieber mit Künstlicher Intelligenz als mit Menschen",
-      "url": "https://www.derstandard.at/story/3000000347783/jeder-vierte-klaert-persoenliche-probleme-lieber-mit-kuenstlicher-intelligenz-als-mit-menschen?ref=rss",
-      "summary": "85 Prozent der Bevölkerung in Österreich nutzen Künstliche Intelligenz, zeigt eine neue Studie. Doch die KI-Anwendung wächst stärker als die KI-Kompetenz, warnt Handelsverbands-Chef Rainer Will. Die Fehlerquote bleibt hoch",
-      "published_at": "2026-11-11T04:00:00+00:00",
-      "fetched_at": "2026-11-11T09:32:44.430548+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "3cd7ee3923abd00c4410",
-      "source_id": "standard",
-      "title": "Deutschland beschließt verpflichtende Videoüberwachung für große Schlachthöfe",
-      "url": "https://www.derstandard.at/story/3000000348567/deutschland-beschliesst-verpflichtende-videoueberwachung-fuer-grosse-schlachthoefe?ref=rss",
-      "summary": "Immer wieder werden Tiere, noch bevor sie getötet werden, in Betrieben gequält",
-      "published_at": "2026-11-11T04:00:00+00:00",
-      "fetched_at": "2026-11-11T09:32:44.430548+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "a1d73c414224f76b94cf",
-      "source_id": "standard",
-      "title": "Worin das Geheimnis eines guten Gesprächs liegt",
-      "url": "https://www.derstandard.at/story/3000000348245/worin-das-geheimnis-eines-guten-gespraechs-liegt?ref=rss",
-      "summary": "Warum manche Unterhaltungen wie von selbst funktionieren und andere rasch versanden, erklären US-Forscherinnen mit einem ungewöhnlichen Konzept aus der Akustik",
-      "published_at": "2026-11-11T04:00:00+00:00",
-      "fetched_at": "2026-11-11T09:32:44.430548+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "c3b162bcfa69a384c86a",
-      "source_id": "guardian-us",
-      "title": "Three dead in Los Angeles after driver crashes into pedestrians, officials say",
-      "url": "https://www.theguardian.com/us-news/2026/nov/10/los-angeles-vehicle-crash",
-      "summary": "Three others critically injured and taken to hospitals as reports say car crashed into food stand in North Hollywood At least three people are dead and three critically injured, after a car struck pedestrians on a Los Angeles corner during Tuesday rush hour, authorities said. The fatal crash took place near a North Hollywood metro station. Continue reading...",
-      "published_at": "2026-11-11T03:52:05+00:00",
-      "fetched_at": "2026-11-11T09:32:44.430548+00:00",
-      "date_estimated": false,
-      "author": "Uwa Ede-Osifo",
-      "categories": [
-        "Los Angeles",
-        "California",
-        "US news",
-        "West Coast",
-        "World news"
-      ],
-      "language": "en",
-      "country": "US",
-      "category": "Politics"
-    },
-    {
-      "id": "59876b21c8509bc66f4f",
-      "source_id": "bbc-world",
-      "title": "Kennedys sue to block Trump's arch, arguing it would cast shadow on JFK's grave",
-      "url": "https://www.bbc.co.uk/news/articles/cw8dvpmzp2p4o?at_campaign=rss&at_medium=RSS",
-      "summary": "Nine members of the political dynasty say the 250ft structure would cast a shadow on gravesites.",
-      "published_at": "2026-11-11T03:44:06+00:00",
-      "fetched_at": "2026-11-11T09:32:44.430548+00:00",
-      "date_estimated": false,
-      "author": "bbc-world",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "World"
-    },
-    {
-      "id": "9c52ae8f635880ea703f",
-      "source_id": "fox-politics",
-      "title": "Mullin vows ‘zero change’ on immigration after Republicans suffer crushing midterm losses",
-      "url": "https://www.foxnews.com/politics/mullin-vows-zero-change-immigration-republicans-suffer-crushing-midterm-losses",
-      "summary": "Department of Homeland Security Secretary Markwayne Mullin delivered a blunt message on immigration policy Tuesday, promising \"zero change\" following midterm elections that dealt a crushing blow to the Republican Party. Mullin made the remarks during an appearance on Fox News' \"The Ingraham Angle,\" where host Laura Ingraham brought up President Donald Trump suggesting Republicans work with Democrats. \"Amnesty will never be on the table,\" Mullin said. WHITE HOUSE DOUBLES DOWN AFTER TRUMP ANGERS BASE BY FLOATING ILLEGAL ALIEN DEAL WITH DEMS He noted that the agency has been deporting roughly 3,6",
-      "published_at": "2026-11-11T02:52:52+00:00",
-      "fetched_at": "2026-11-11T09:32:44.430548+00:00",
-      "date_estimated": false,
-      "author": "fox-politics",
-      "categories": [
-        "47c54471-862a-5f9f-a6d6-672f107ee07d",
-        "fnc",
-        "Fox News",
-        "fox-news/us/immigration",
-        "fox-news/us/immigration/border-security",
-        "fox-news/person/markwayne-mullin",
-        "fox-news/politics/elections/midterm-elections",
-        "fox-news/us/immigration/illegal-immigrants",
-        "fox-news/politics",
-        "article"
-      ],
-      "language": "en",
-      "country": "US",
-      "category": "Politics"
-    },
-    {
-      "id": "30d38d027c8c1dd04308",
-      "source_id": "bbc-world",
-      "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
-      "url": "https://www.bbc.co.uk/news/articles/cmvg2xdwnwezo?at_campaign=rss&at_medium=RSS",
-      "summary": "The infamous 400 Mawozo gang was targeted by the El Salvador military which has deployed thousands of troops to combat Haiti's gang violence crisis.",
-      "published_at": "2026-11-11T02:47:59+00:00",
-      "fetched_at": "2026-11-11T09:32:44.430548+00:00",
-      "date_estimated": false,
-      "author": "bbc-world",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "World"
-    },
-    {
-      "id": "88c1d1935f989173c0e3",
-      "source_id": "guardian-us",
-      "title": "Two white students at University of Mississippi make monkey gestures in Ring video",
-      "url": "https://www.theguardian.com/us-news/2026/nov/10/university-of-mississippi-white-students-monkey-gestures",
-      "summary": "Women are reportedly upstairs neighbors of three Black students, including one who uploaded video to TikTok Two white students at the University of Mississippi were captured making offensive monkey gestures in a widely panned Ring video that has prompted a school investigation. On Saturday, freshman Jakiyra Metcalf uploaded the surveillance clip from her apartment door to TikTok, showing one woman thumping her chest and babbling like a monkey. Another woman jumped into the camera’s view and mimicked the primate noises. Continue reading...",
-      "published_at": "2026-11-11T02:26:10+00:00",
-      "fetched_at": "2026-11-11T09:32:44.430548+00:00",
-      "date_estimated": false,
-      "author": "Uwa Ede-Osifo",
-      "categories": [
-        "Mississippi",
-        "US universities",
-        "Race",
-        "US news"
-      ],
-      "language": "en",
-      "country": "US",
-      "category": "Politics"
-    },
-    {
-      "id": "60019689ed8fdf54fe2f",
-      "source_id": "guardian-us",
-      "title": "Nima Momeni sentenced to 16 years to life in murder of Cash App founder Bob Lee",
-      "url": "https://www.theguardian.com/us-news/2026/nov/10/bob-lee-cash-app-nima-momeni-sentenced",
-      "summary": "Tech consultant convicted of second-degree murder in 2023 stabbing death of Cash App founder Nima Momeni, the man convicted of murdering Cash App founder Bob Lee, has been sentenced to 16 years to life. Momeni, 42, has been in San Francisco’s county jail since late April of 2023, after he was arrested in connection with the stabbing death of Lee, who had created the mobile payment service and was serving as the chief product officer of the cryptocurrency MobileCoin at the time of his death. Continue reading...",
-      "published_at": "2026-11-11T01:53:38+00:00",
-      "fetched_at": "2026-11-11T09:32:44.430548+00:00",
-      "date_estimated": false,
-      "author": "Abené Clayton",
-      "categories": [
-        "San Francisco",
-        "US crime",
-        "Technology",
-        "US news",
-        "West Coast",
-        "California"
-      ],
-      "language": "en",
-      "country": "US",
-      "category": "Politics"
-    },
-    {
-      "id": "f1b3506ce3d4d107abc6",
-      "source_id": "guardian-us",
-      "title": "Federal judge allows Trump’s $10bn defamation lawsuit against BBC to proceed",
-      "url": "https://www.theguardian.com/us-news/2026/nov/10/trump-10bn-defamation-lawsuit-bbc-allowed",
-      "summary": "Trump-appointed judge Jeffrey T Kuntz partially denies British broadcaster’s motion to dismiss over edit Federal judge Jeffrey T Kuntz ruled on Tuesday that Donald Trump’s lawsuit against the BBC can proceed, denying in part the British broadcaster’s motion to dismiss the case. The president’s $10bn defamation lawsuit stems from the BBC’s splicing together of disparate comments he made before the 6 January US Capitol insurrection, as rendered in a Panorama documentary called Trump: A Second Chance. “Accepting the allegations in the complaint as true, the Court finds Trump plausibly pled damage",
-      "published_at": "2026-11-11T01:18:56+00:00",
-      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
-      "date_estimated": false,
-      "author": "Jeremy Barr",
-      "categories": [
-        "Donald Trump",
-        "BBC",
-        "UK news",
-        "US news",
-        "Europe",
-        "US politics",
-        "Media"
-      ],
-      "language": "en",
-      "country": "US",
-      "category": "Politics"
-    },
-    {
-      "id": "8eaf5d71bb2b3ff1d4a5",
-      "source_id": "bbc-world",
-      "title": "Judge allows Trump's $10bn defamation case against BBC to proceed",
-      "url": "https://www.bbc.co.uk/news/articles/cm93rpy6lx0do?at_campaign=rss&at_medium=RSS",
-      "summary": "But the court dismisses the other part of Trump's lawsuit that alleged the BBC had violated a Florida law.",
-      "published_at": "2026-11-11T01:18:09+00:00",
-      "fetched_at": "2026-11-11T09:32:44.430548+00:00",
-      "date_estimated": false,
-      "author": "bbc-world",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "World"
-    },
-    {
-      "id": "424b62e26905785e06b9",
-      "source_id": "bbc-world",
-      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-      "url": "https://www.bbc.co.uk/news/articles/cxly4y5jzl0qo?at_campaign=rss&at_medium=RSS",
-      "summary": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
-      "published_at": "2026-11-11T01:14:40+00:00",
-      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
-      "date_estimated": false,
-      "author": "bbc-world",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "World"
-    },
-    {
-      "id": "7e05e4f70bd6e4a0dc6e",
-      "source_id": "guardian-us",
-      "title": "Kennedys sue to block Trump’s gilded arch, saying it would ‘cast shadow’ over JFK grave site",
-      "url": "https://www.theguardian.com/us-news/2026/nov/10/kennedy-family-lawsuit-trump-arch-jfk",
-      "summary": "250ft arch risks ‘permanently diminishing’ memorials to ex-president and relatives at Arlington cemetery, lawsuit says Nine members of the Kennedy family political dynasty have sued the Trump administration, asking a federal judge to block the president’s plan to build a towering, gilded arch they say would cast a shadow over their relatives’ graves in Arlington national cemetery. The family’s complaint states that the 25oft triumphal arch, topped with a Lady Liberty-like winged figure, would “obstruct the clear sightline of the Kennedy Gravesites” and “fundamentally alter the experience of vi",
-      "published_at": "2026-11-11T01:09:55+00:00",
-      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
-      "date_estimated": false,
-      "author": "Cecilia Nowell",
-      "categories": [
-        "Donald Trump",
-        "Washington DC",
-        "US news",
-        "World news",
-        "John F Kennedy"
-      ],
-      "language": "en",
-      "country": "US",
-      "category": "Politics"
-    },
-    {
-      "id": "09f19ba547505b4b1b16",
-      "source_id": "fox-politics",
-      "title": "Anti-Israel agitators swarm Biden in Ireland and hurl object at motorcade",
-      "url": "https://www.foxnews.com/politics/anti-israel-agitators-swarm-biden-ireland-hurl-object-motorcade",
-      "summary": "Former President Joe Biden was heckled Tuesday by anti-Israel agitators who threw at least one object at his motorcade and screamed obscenities during his visit to Ireland alongside former first lady Jill Biden. Biden, 83, made a surprise appearance at Trinity College in Dublin, where his son, Hunter Biden, accepted the Gold Medal for Outstanding Contribution to Public Discourse, The Independent reported. A mob of agitators gathered outside the venue while the event took place. INSIDE THE PROTEST PLAYBOOK TO VILIFY ISRAEL ON 'GLOBAL DAY OF ACTION' As Biden exited the building, someone threw an",
-      "published_at": "2026-11-11T01:07:45+00:00",
-      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
-      "date_estimated": false,
-      "author": "fox-politics",
-      "categories": [
-        "433a1a24-b8d5-55c3-8297-aed1428c9c4a",
-        "fnc",
-        "Fox News",
-        "fox-news/person/joe-biden",
-        "fox-news/world/world-regions/ireland",
-        "fox-news/us",
-        "fox-news/world/world-regions/israel",
-        "fox-news/politics",
-        "article"
-      ],
-      "language": "en",
-      "country": "US",
-      "category": "Politics"
-    },
-    {
-      "id": "2b2926e36aa3e5b8f458",
-      "source_id": "bbc-world",
-      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-      "url": "https://www.bbc.co.uk/news/articles/c3rryrryk59zo?at_campaign=rss&at_medium=RSS",
-      "summary": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
-      "published_at": "2026-11-11T01:01:20+00:00",
-      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
-      "date_estimated": false,
-      "author": "bbc-world",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "World"
-    },
-    {
-      "id": "a0221887cf72f39f4e60",
-      "source_id": "bbc-world",
-      "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
-      "url": "https://www.bbc.co.uk/news/articles/c687z7g4xr97o?at_campaign=rss&at_medium=RSS",
-      "summary": "Sonia Gandhi's memoir revisits love, loss and political inheritance, offering a deeply personal defence of her family and its legacy.",
-      "published_at": "2026-11-11T00:26:02+00:00",
-      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
-      "date_estimated": false,
-      "author": "bbc-world",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "World"
-    },
-    {
-      "id": "d6a03632997e788df43b",
-      "source_id": "bbc-world",
-      "title": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
-      "url": "https://www.bbc.co.uk/news/articles/cqm26mmpp2p1o?at_campaign=rss&at_medium=RSS",
-      "summary": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
-      "published_at": "2026-11-11T00:19:42+00:00",
-      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
-      "date_estimated": false,
-      "author": "bbc-world",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "World"
-    },
-    {
-      "id": "60c499d38de551b567c9",
-      "source_id": "bbc-business",
-      "title": "Robot vessels take on the dangerous work of mine hunting",
-      "url": "https://www.bbc.co.uk/news/articles/cj5yn24llxd6o?at_campaign=rss&at_medium=RSS",
-      "summary": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
-      "published_at": "2026-11-11T00:19:13+00:00",
-      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
-      "date_estimated": false,
-      "author": "bbc-business",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "Business"
-    },
-    {
-      "id": "cb8430fa0c71d7c9c7ae",
-      "source_id": "bbc-world",
-      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
-      "url": "https://www.bbc.co.uk/news/articles/c8wy9y37z30vo?at_campaign=rss&at_medium=RSS",
-      "summary": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
-      "published_at": "2026-11-11T00:18:07+00:00",
-      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
-      "date_estimated": false,
-      "author": "bbc-world",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "World"
-    },
-    {
-      "id": "ceaec16c1f4b1468fe2f",
-      "source_id": "bbc-world",
-      "title": "Antidepressant escitalopram more effective at preventing relapse, analysis finds",
-      "url": "https://www.bbc.co.uk/news/articles/cv62yyng00jyo?at_campaign=rss&at_medium=RSS",
-      "summary": "Three pills came top and outperformed Prozac for preventing relapse in a large number of patients.",
-      "published_at": "2026-11-11T00:17:42+00:00",
-      "fetched_at": "2026-11-11T09:32:44.430548+00:00",
-      "date_estimated": false,
-      "author": "bbc-world",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "World"
-    },
-    {
-      "id": "6611cd77f1551b62607f",
-      "source_id": "bbc-business",
-      "title": "Stickers and building sets help drive toy sales ahead of Christmas rush",
-      "url": "https://www.bbc.co.uk/news/articles/cx5ynyg6j375o?at_campaign=rss&at_medium=RSS",
-      "summary": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
-      "published_at": "2026-11-11T00:16:44+00:00",
-      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
-      "date_estimated": false,
-      "author": "bbc-business",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "Business"
-    },
-    {
-      "id": "d0b44ccb9c909f533ca0",
-      "source_id": "bbc-business",
-      "title": "Poundland hopeful for last-minute rescue deal to stave off collapse",
-      "url": "https://www.bbc.co.uk/news/articles/c3702jjkez4ko?at_campaign=rss&at_medium=RSS",
-      "summary": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
-      "published_at": "2026-11-11T00:02:07+00:00",
-      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
-      "date_estimated": false,
-      "author": "bbc-business",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "Business"
-    },
-    {
-      "id": "b1ffdefb78ce2871156d",
-      "source_id": "orf",
-      "title": "USA: Amtsenthebungsverfahren gegen Hegseth gestoppt",
-      "url": "https://orf.at/stories/3447855/",
-      "summary": "",
-      "published_at": "2026-11-10T23:57:21+00:00",
-      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
-      "date_estimated": false,
-      "author": "orf",
-      "categories": [
-        "Ausland"
-      ],
-      "language": "de",
-      "country": "AT",
-      "category": "World"
-    },
-    {
-      "id": "e93ba7046c22a2cdb22d",
-      "source_id": "guardian-us",
-      "title": "House Republicans block effort to impeach Pentagon chief Pete Hegseth",
-      "url": "https://www.theguardian.com/us-news/2026/nov/10/pete-hegseth-impeachment-effort",
-      "summary": "Trump ally, accused of an array of illegal acts, had earlier condemned impeachment push as ‘a farce and a stunt’ House Republicans on Tuesday blocked an effort to impeach Pete Hegseth, rejecting allegations that the defense secretary had repeatedly violated the constitution through his handling of the Iran war and other conflicts globally. The vote came a week after Republicans lost control of the Senate and House of Representatives in their worst midterm election in more than a half century, and underscored how lawmakers remain wary of crossing Donald Trump, who has signaled his continued sup",
-      "published_at": "2026-11-10T23:56:11+00:00",
-      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
-      "date_estimated": false,
-      "author": "Chris Stein in Washington",
-      "categories": [
-        "Pete Hegseth",
-        "Republicans",
-        "US military",
-        "US news",
-        "US Congress",
-        "US politics",
-        "Trump administration",
-        "House of Representatives"
-      ],
-      "language": "en",
-      "country": "US",
-      "category": "Politics"
-    },
-    {
-      "id": "a7f837ed4bd302f515fe",
-      "source_id": "guardian-us",
-      "title": "Noskova beats Gauff to reach WTA Finals semi-finals as Pegula stays alive",
-      "url": "https://www.theguardian.com/sport/2026/nov/10/jessica-pegula-marta-kostyuk-wta-finals-tennis",
-      "summary": "Czech defeats Gauff 6-3, 6-3 to reach last four Pegula eliminates Kostyuk with straight-sets victory Gauff and Pegula remain in contention for final berth Linda Noskova secured her place in the semi-finals of the WTA Finals with a 6-3, 6-3 victory over Coco Gauff on Tuesday, while Jessica Pegula knocked Marta Kostyuk out of the season-ending tournament with a straight-sets win. The Czech, who beat Kostyuk in her opening match, has won both encounters without dropping a set and is assured of advancing to the knockout stage. Gauff and Pegula are both 1-1, with the final round-robin matches on Th",
-      "published_at": "2026-11-10T23:31:32+00:00",
-      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
-      "date_estimated": false,
-      "author": "Agencies",
-      "categories": [
-        "WTA Finals",
-        "Sport",
-        "Tennis",
-        "US sports",
-        "Coco Gauff"
-      ],
-      "language": "en",
-      "country": "US",
-      "category": "Politics"
-    },
-    {
-      "id": "cb034873d6274a2ce13c",
-      "source_id": "fox-politics",
-      "title": "House GOP leaders block Massie's Hegseth impeachment push",
-      "url": "https://www.foxnews.com/politics/house-gop-leaders-block-massie-hegseth-impeachment-push",
-      "summary": "Secretary of War Pete Hegseth is safe from an impeachment vote in the House of Representatives after GOP leaders successfully stopped a looming vote led by Rep. Thomas Massie, R-Ky. A vote to refer Massie's resolution to the House Judiciary Committee for consideration — which effectively killed it in its tracks — passed on Tuesday evening by a 211-204 margin, averting a potential impeachment vote on Wednesday. President Donald Trump celebrated the failed impeachment effort in a Truth Social post, calling Massie a \"major LOSER\" and praising Hegseth's record on military operations in Venezuela a",
-      "published_at": "2026-11-10T23:16:18+00:00",
-      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
-      "date_estimated": false,
-      "author": "fox-politics",
-      "categories": [
-        "59b2d669-68f8-5f88-8e74-606cf43d3098",
-        "fnc",
-        "Fox News",
-        "fox-news/politics",
-        "fox-news/person/pete-hegseth",
-        "fox-news/politics/defense/secretary-of-defense",
-        "fox-news/us/congress",
-        "fox-news/politics/house-of-representatives",
-        "fox-news/politics",
-        "article"
-      ],
-      "language": "en",
-      "country": "US",
-      "category": "Politics"
-    },
-    {
-      "id": "3a3b33eb26a5d51906c0",
-      "source_id": "guardian-us",
-      "title": "Who is Jim Jordan? Pugnacious Trump ideologue to lead diminished Republican ranks",
-      "url": "https://www.theguardian.com/us-news/2026/nov/10/who-is-jim-jordan-house-republicans",
-      "summary": "Controversial far-right congressman defied 2022 subpoena from Capitol attack panel and was accused of ignoring sexual abuse as college wrestling coach The election of Jim Jordan on Tuesday to lead House Republicans elevates a combative Donald Trump ideologue who defied a congressional subpoena over the 6 January attack, as the party tries as it tries to adjust to life out of power. Jordan will lead a diminished Republican conference, as its ranks shrink to one of the smallest in decades. But it is a triumph for the Ohio Republican who was pushed out of the contentious House speakership race th",
-      "published_at": "2026-11-10T23:12:12+00:00",
-      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
-      "date_estimated": false,
-      "author": "Joseph Gedeon in Washington",
-      "categories": [
-        "Republicans",
-        "US news",
-        "World news",
-        "Ohio",
-        "US Congress",
-        "US politics",
-        "House of Representatives",
-        "Donald Trump"
-      ],
-      "language": "en",
-      "country": "US",
-      "category": "Politics"
-    },
-    {
-      "id": "07e1178208fb5dc9c9d0",
-      "source_id": "standard",
-      "title": "Standardrätsel K 11440",
-      "url": "https://www.derstandard.at/story/3000000347079/standardraetsel-k-11440?ref=rss",
-      "summary": "Täglich neu, exklusiv für Smart-Abonnent:innen: Das knifflige Quizkultur-Rätsel des STANDARD",
-      "published_at": "2026-11-10T23:01:00+00:00",
-      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "96976b0a504540a41a62",
-      "source_id": "orf",
-      "title": "Kulturkampf um Krakauer Todesschützen",
-      "url": "https://orf.at/stories/3447766/",
-      "summary": "Nach der erschütternden Bluttat mit neun Todesopfern in Krakau ist im politisch tief gespaltenen Polen ein Kulturkampf über die möglichen Motive des Schützen entbrannt – der sich über soziale Netzwerke in ganz Europa fortsetzt. Die erste Einschätzung einer mutmaßlich rechtsextremen Ideologie des Täters war wohl vorschnell. Im Gegenzug wird nun ventiliert, der Schütze sei eher dem linken Lager zuzuordnen – doch die Indizien sind wacklig und teilweise KI-generiert.",
-      "published_at": "2026-11-10T22:58:47+00:00",
-      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
-      "date_estimated": false,
-      "author": "orf",
-      "categories": [
-        "Ausland"
-      ],
-      "language": "de",
-      "country": "AT",
-      "category": "World"
-    },
-    {
-      "id": "d8f2d890a21b99946371",
-      "source_id": "guardian-us",
-      "title": "Schumer confident on Senate leadership role despite dwindling votes – video",
-      "url": "https://www.theguardian.com/us-news/video/2026/nov/10/chuck-schumer-confident-on-senate-leadership-role-bernie-sanders-video",
-      "summary": "New York senator Chuck Schumer expressed confidence that he would become the majority leader after the Democratic party gained at least 54 seats in the Senate during the midterm elections. Schumer's remarks came after Vermont senator Bernie Sanders announced he would not support Schumer for the leadership position. Sanders joins a growing list of Democratic senators who have said they will not support Schumer Continue reading...",
-      "published_at": "2026-11-10T22:53:51+00:00",
-      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
-      "date_estimated": false,
-      "author": "Guardian Staff",
-      "categories": [
-        "US politics",
-        "US news",
-        "Democrats",
-        "Trump administration"
-      ],
-      "language": "en",
-      "country": "US",
-      "category": "Politics"
-    },
-    {
-      "id": "39c4595344156441f059",
-      "source_id": "orf",
-      "title": "14 Meter hohe Papst-Statue in Peru fertiggestellt",
-      "url": "https://orf.at/stories/3447853/",
-      "summary": "",
-      "published_at": "2026-11-10T22:49:18+00:00",
-      "fetched_at": "2026-11-11T01:58:36.579699+00:00",
-      "date_estimated": false,
-      "author": "orf",
-      "categories": [
-        "Religion"
-      ],
-      "language": "de",
-      "country": "AT",
-      "category": "World"
     }
   ],
   "stories": [
+    {
+      "id": "story-712ddba7236f26c5e6ee",
+      "title": "Japan wirft Russland Luftraum-Verletzung vor",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-17T03:06:19+00:00",
+      "updated_at": "2026-11-17T03:06:19+00:00",
+      "article_ids": [
+        "f74835860c26e659aaf9"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-9c532383c711c59b9e52",
+      "title": "United Airlines says ‘widespread’ system outage resolved",
+      "overview": "Airline acknowledges ‘technology issue that delayed flight departures’ in latest high-profile outage to affect Americans United ⁠Airlines said on ⁠Monday ⁠that it had resolved ⁠a widespread system ⁠outage, just three days after the Federal ⁠Aviation Administration issued a rare nationwide ground stop on all US flights. “We have resolved a technology issue that delayed flight departures. While some flights were delayed, there was no impact on flights in progress, or on United Express flights,” Chicago-based United said in a statement. “There is no indication that this was a cybersecurity-relate",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-17T02:57:06+00:00",
+      "updated_at": "2026-11-17T02:57:06+00:00",
+      "article_ids": [
+        "1eab82a1bc175644620a"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-64cce6e5d9079435eaa7",
+      "title": "Ro Khanna pitches $1,700 checks for Americans to offset Iran war costs: 'A chance to deliver'",
+      "overview": "Rep. Ro Khanna, D-Calif., on Monday proposed giving every American family a $1,700 refund check to offset higher costs driven by the war in Iran. Khanna, a frequent critic of President Donald Trump's war in the Middle East, said the checks would be sent to every American family to reimburse them for the higher gas, food and electricity prices sparked by the conflict and resulting disruptions to oil transport routes. The congressman said Democrats \"have a chance to deliver\" following their sweeping midterm victories earlier this month, urging the House and Senate to approve the payments in Janu",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-17T02:55:22+00:00",
+      "updated_at": "2026-11-17T02:55:22+00:00",
+      "article_ids": [
+        "2e51bd3ae1bf8ff1a37a"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-d3c4f1e6ebce2ec9b24a",
+      "title": "Biden library nears site decision as fundraising trails ambitions: report",
+      "overview": "Former President Joe Biden’s presidential library foundation is reportedly closing in on a location in Delaware, even as its fundraising efforts continue to fall short of expectations. Despite receiving several multimillion-dollar gifts in 2026, the Joe and Jill Biden Presidential Library Foundation is working to overcome a difficult fundraising start, following a roughly $600,000 deficit in 2025, according to filings reported by CBS News. The foundation reportedly raised $1.5 million in 2025 but spent $2.1 million. An official told the outlet that the organization was not actively soliciting ",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-17T02:45:27+00:00",
+      "updated_at": "2026-11-17T02:45:27+00:00",
+      "article_ids": [
+        "029c8b4ac3186acef463"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-d4b4ab88562d60b850d5",
+      "title": "Dolores Huerta honored in ceremony at California state capitol",
+      "overview": "Labor leader was remembered for her advocacy and co-founding union that would become United Farm Workers California officials paid tribute to Dolores Huerta, one of the nation’s most influential labor leaders, civil rights icons and feminist activists, at a memorial ceremony Monday at the state capitol. They remembered her as a relentless advocate for a more just and fair world. Huerta co-founded a union that became the United Farm Workers with César Chávez and made famous her rallying cry, “Sí, se puede!” – which translates to “Yes, it can be done!” Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-17T02:42:22+00:00",
+      "updated_at": "2026-11-17T02:42:22+00:00",
+      "article_ids": [
+        "f3baf8bda9980a78bd1e"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-ba7d55e4eb833539d4c8",
+      "title": "USA schränken KI-Chips-Export weiter ein",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-17T01:42:01+00:00",
+      "updated_at": "2026-11-17T01:42:01+00:00",
+      "article_ids": [
+        "c75a838e84ea614caf53"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-74d1103648e8ec451e52",
+      "title": "Fiona the hippo under veterinary care after eating hat at Cincinnati zoo",
+      "overview": "Knit hat caught in ceiling fan and flung into enclosure eaten by Fiona, who is being closely monitored by zoo staff The Cincinnati zoo says Fiona, its beloved hippo who became a global celebrity after her premature birth nearly a decade ago, is undergoing veterinary care after swallowing a knit hat that got into her enclosure. Zoo veterinarians and staff are monitoring Fiona and working to help her pass the hat, the zoo said in a statement Monday. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-17T01:18:28+00:00",
+      "updated_at": "2026-11-17T01:18:28+00:00",
+      "article_ids": [
+        "860880a223bdfa680e13"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-e438ffd57a3097b52885",
+      "title": "Customers report difficulty accessing online services at major US banks",
+      "overview": "Bank of America, Chase, US Bank, Wells Fargo and Truist were listed by users who have been experiencing issues Customers reported service outages and difficulty accessing their online accounts at several major US banks and the money transfer service Zelle on Monday after a technical issue at JPMorgan Chase caused ripple effects throughout the financial system. Chase said the technical problems were not a systemic issue and were not the result of a cyber-attack, and that it was working to bring banking services back online. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-16T22:01:40+00:00",
+      "updated_at": "2026-11-17T00:18:01+00:00",
+      "article_ids": [
+        "0a3000605091e35e46cc",
+        "71fc6d55c6612812579e"
+      ],
+      "publisher_count": 2,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Politics",
+      "countries": [
+        "UK",
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [
+        "banks",
+        "customers",
+        "major",
+        "report"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-4c7f6f02d0cbc189645f",
+      "title": "James Comer launches bid for Kentucky governor",
+      "overview": "House Oversight Committee Chairman James Comer, R-Ky., is launching a campaign for governor on Monday night. \"Serving this state is a calling for me,\" Comer said during a tele-townhall. \"Kentucky needs a leader whose policies will lead to growth and good-paying jobs. We need a leader whose priority will be to reduce taxes so Kentuckians can keep more of what they earn.\" Comer teased a \"major announcement\" for Monday night earlier in the day. A source familiar with his plans told Fox News Digital it would be his long-awaited campaign to lead the commonwealth of Kentucky. REDISTRICTING EFFORTS B",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-17T00:14:04+00:00",
+      "updated_at": "2026-11-17T00:14:04+00:00",
+      "article_ids": [
+        "a202710cd2f757b3b777"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-f3963466a0042069bee1",
+      "title": "Aged 16-24 and looking for work? Use our look-up to find out which areas have the most jobs",
+      "overview": "How many jobs are there where you live and in which sectors are you most likely to find an opening?",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-17T00:00:03+00:00",
+      "updated_at": "2026-11-17T00:00:03+00:00",
+      "article_ids": [
+        "fff2e37aaeb0bd2bfef2"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Business",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-a63fe49804d3dcbe5d98",
+      "title": "We couldn't afford a house alone, so we bought one with strangers",
+      "overview": "People who can't afford to get on the housing ladder are buying homes with people they don't know.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-17T00:00:02+00:00",
+      "updated_at": "2026-11-17T00:00:02+00:00",
+      "article_ids": [
+        "8bd2929c5d2c8e8bc2a8"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Business",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-2d6b4a30fc1949033034",
+      "title": "Trump’s Asia trip takes Alaska detour as weather forces refueling stop change",
+      "overview": "President Donald Trump’s flight to Asia took a detour Monday as extreme weather forced Air Force One to change its Alaska refueling stop before continuing to the Philippines. Air Force One switched from Anchorage to Fairbanks to refuel under better weather conditions, a White House official confirmed to Fox News. The aircraft has since departed for Manila. The president landed in Alaska at 4:28 p.m. ET for what was expected to be a roughly 90-minute refueling stop, according to the traveling White House press pool. Reporters were not expected to see Trump during the stop, with their next antic",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-16T23:48:44+00:00",
+      "updated_at": "2026-11-16T23:48:44+00:00",
+      "article_ids": [
+        "f84f3dcfe3737b638238"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-1cff3c02d9e2e9ed0012",
+      "title": "Follow the Leader: Democrats face party battle as divisions deepen",
+      "overview": "You can’t play follow the leader until you decide who you want to follow. That’s the conundrum facing House and Senate Democrats. Not all House Democrats are on board with promoting House Minority Leader Hakeem Jeffries (D-N.Y.) to Speaker. And Sen. Chris Van Hollen (D-Md.) is challenging Senate Minority Leader Chuck Schumer (D-N.Y.) for Majority Leader. \"As of today, my position is no because that's what my constituents and my community is saying,\" said Rep.-elect Angela Gonzales-Torres (D-Calif.) when asked if she backed Jeffries, \"It's really about the process. We want a democratic process.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-16T23:30:58+00:00",
+      "updated_at": "2026-11-16T23:30:58+00:00",
+      "article_ids": [
+        "dc1c6e81d67d70fde0e6"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-6b7df127c5fb7ef6a8ec",
+      "title": "Band of baby sea turtles swims into ocean after historic California nesting",
+      "overview": "Hatchlings emerge after discovery in September of first sea turtle nests ever to have been recorded on US west coast Two months after the discovery of the first sea turtle nests ever to have been recorded on the US west coast, the eggs have hatched – and California’s first group of 75 native-born olive ridley sea turtles have been released into the Pacific. The eggs incubated at the Aquarium of the Pacific in Long Beach after the historic discovery of two separate nests in September at southern California beaches, a shift likely driven by this year’s El Niño conditions. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-16T23:19:11+00:00",
+      "updated_at": "2026-11-16T23:19:11+00:00",
+      "article_ids": [
+        "95289fb63a8c7ad1589e"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-7c0dc95765ff490f314b",
+      "title": "Cause of death released for partner of Gypsy Rose Blanchard",
+      "overview": "Police investigation continues even as Louisiana coroner’s office releases findings on death of Kenan ‘Ken’ Urker The cause of death of Gypsy Rose Blanchard’s partner, who died last month, has been released. On Monday, the Lafourche parish coroner’s office in Louisiana determined that Kenan “Ken” Urker, 34, died from accidental polysubstance drug toxicity on 1 October, USA Today reports. The coroner’s office also said the case is complete. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-16T23:14:41+00:00",
+      "updated_at": "2026-11-16T23:14:41+00:00",
+      "article_ids": [
+        "3f92402b7a1646615d96"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-382e313cbc43dcb260d9",
+      "title": "California sues OpenAI over Hugging Face attack",
+      "overview": "Attorney General Rob Bonta alleges OpenAI misled and endangered the public",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-16T23:12:24+00:00",
+      "updated_at": "2026-11-16T23:12:24+00:00",
+      "article_ids": [
+        "24b8a882ac0c0adac944"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Business",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-970ee194156fe652b4b8",
+      "title": "Pochettino: I’d tell Guardiola to ‘take it’ if he’s offered US coaching job",
+      "overview": "As he prepares to depart for Manchester United, the outgoing US coach held court on a number of topics, including what he’d change about soccer in America Outgoing US head coach Mauricio Pochettino and former Manchester City head coach Pep Guardiola have a long, storied past. The two faced each other as players, when Guardiola was at Barcelona and Pochettino was making his name across town at Espanyol. They faced each other 22 times as managers in the Premier League and the two share a mutual respect – and intensity – when it comes to their approach to playing and coaching alike. So when Guard",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-16T23:01:52+00:00",
+      "updated_at": "2026-11-16T23:01:52+00:00",
+      "article_ids": [
+        "cf00ade738750a5e4c68"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-c8771a50b742994864c5",
+      "title": "Big wave surfers line up to ride ‘raw power of the Pacific’ during Super El-Niño swells",
+      "overview": "Fans of the sport dubbed the event ‘Monster Day’ as pro surfers tackled the storm-driven waves at Mavericks Beach While this year’s Super El Niño storms are battering the California coast and destroying homes and infrastructure, surfers are finding a silver lining: waves so epic that pro athletes from around the world are making last-minute journeys to experience them. Big wave surfers converged on northern California this Saturday to ride massive, storm-driven swells at the famously dangerous Mavericks Beach, an event some surf fans called “Monster Day.” Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-16T23:01:28+00:00",
+      "updated_at": "2026-11-16T23:01:28+00:00",
+      "article_ids": [
+        "f4cb01f9a2347f36fc15"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-25825df79ac15738a7a5",
+      "title": "Standardrätsel K 11445",
+      "overview": "Täglich neu, exklusiv für Smart-Abonnent:innen: Das knifflige Quizkultur-Rätsel des STANDARD",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-16T23:01:00+00:00",
+      "updated_at": "2026-11-16T23:01:00+00:00",
+      "article_ids": [
+        "ff4373007ae046b1074f"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-cf8c81616fce6a7cb74d",
+      "title": "California braces for more towering waves as powerful storms approach",
+      "overview": "NWS issues advisories for long stretches of the northern California coast, warning that waves can quickly overpower anyone nearby The massive, 50-ft swells along California’s coast this weekend foretold an intense week of towering waves to come. Officials from the National Weather Service (NWS) had issued advisories for long stretches of the California coast, warning people that erratic and unpredictable waves could quickly overpower anyone nearby. The highest waves – which reached 50ft to 60ft (15.24 to 18.29 meters) – cracked along the popular Mavericks surf spot in San Mateo county, south o",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-16T22:59:52+00:00",
+      "updated_at": "2026-11-16T22:59:52+00:00",
+      "article_ids": [
+        "ebf4806e91ffb9efe3b0"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-ba9c1946fa0a4997671c",
+      "title": "Nahe Straße von Hormus: Tanker mit Seemine kollidiert",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-16T22:37:25+00:00",
+      "updated_at": "2026-11-16T22:37:25+00:00",
+      "article_ids": [
+        "3cd2558da4e323efc478"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-c1b020396c04c8c89682",
+      "title": "'Complete system reset' needed to get 440,000 young people into work, says major review",
+      "overview": "Alan Milburn's review will call for sweeping reforms to the education, work and welfare systems.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-16T22:32:47+00:00",
+      "updated_at": "2026-11-16T22:32:47+00:00",
+      "article_ids": [
+        "2e2451f0f29ff7ed4f28"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Business",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-fdf396d8b4d0ad2c5ae4",
+      "title": "Freeman Johnson, oldest survivor of Pearl Harbor attack, dies aged 106",
+      "overview": "Johnson was working on the USS St Louis and was inside a steam drum when the attacks took place The oldest known survivor of the Pearl Harbor attack died Saturday aged 106 years old. Freeman Johnson, a fireman below the deck during the attack, died in his home in Massachusetts, according to the Boston Globe. Only 11 known Pearl Harbor survivors are still living, all of whom are centenarians. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-16T22:10:51+00:00",
+      "updated_at": "2026-11-16T22:10:51+00:00",
+      "article_ids": [
+        "e2d23a874bb8ba4df143"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-cb15c761abaa4cbfb77e",
+      "title": "Brexit-Abrechnung mit Vorgänger Johnson",
+      "overview": "Der britische Premierminister Andy Burnham hält das vom einstigen konservativen Regierungschef Boris Johnson ausgehandelte Brexit-Abkommen für gescheitert, wie der Labour-Politiker Montagabend in seiner Rede in der City of London beim jährlichen Lord Mayor’s Banquet in der Guildhall sagte. Am Freitag findet denn auch der langerwartete EU-Großbritannien-Gipfel statt.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-16T22:10:15+00:00",
+      "updated_at": "2026-11-16T22:10:15+00:00",
+      "article_ids": [
+        "b70970bf828fece9f3eb"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-17fe74a88419caaed501",
+      "title": "Deutschland steht nach Gala gegen die Niederlande im Viertelfinale der Nations League",
+      "overview": "Die DFB-Elf besiegte Oranje 5:0, die ebenfalls in die K.-o.-Phase einzieht. Wirtz traf in Berlin doppelt. Griechenland hat das Nachsehen",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-16T21:55:11+00:00",
+      "updated_at": "2026-11-16T21:55:11+00:00",
+      "article_ids": [
+        "d1c808aa4106f314d709"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-c3a90d93b3e27bfcbfb9",
+      "title": "Eishockey: US-Frauen holen mit Finalsieg über Kanada WM-Gold",
+      "overview": "Schwedinnen jubeln erstmals seit 2007 über WM-Bronze. Österreichs Torhüterin Luggin schaffte es ins All-Star-Team",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-16T21:42:01+00:00",
+      "updated_at": "2026-11-16T21:42:01+00:00",
+      "article_ids": [
+        "f939d32f2f5126fcede1"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-47442fd4bd425e09727a",
+      "title": "Houthi rebel advance in Yemen may further destabilise global economy",
+      "overview": "The Iran-backed Houthis are gaining ground and their advance could have dangerous consequences, writes the BBC's security correspondent.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-16T21:40:07+00:00",
+      "updated_at": "2026-11-16T21:40:07+00:00",
+      "article_ids": [
+        "8497404ed00af94423eb"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-284f538c385fc0f20e99",
+      "title": "Technische Probleme bei mehreren US-Banken gleichzeitig",
+      "overview": "Einmal mehr wird ein Cyberangriff verneint. Ursache soll ein Fehler bei JP Morgan Chase sein. Auch United Airlines meldet eine Systemstörung",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-16T21:24:17+00:00",
+      "updated_at": "2026-11-16T21:24:17+00:00",
+      "article_ids": [
+        "c2c62c8093a6e034ebf9"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-851c789a3f09a82a559c",
+      "title": "Ein langwieriges Tauziehen um ihre neue Spitze kann sich die SPD nicht leisten",
+      "overview": "Die Kandidatur von Hubertus Heil setzt Lars Klingbeil und Manuela Schwesig unter Druck. Es muss bald klar werden, ob auch sie bereitstehen",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-16T20:58:00+00:00",
+      "updated_at": "2026-11-16T20:58:00+00:00",
+      "article_ids": [
+        "5d37adcd74e048a0dfa7"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-a50db68d65826ec4aeb0",
+      "title": "Handels-KV: Verhandler vor dritter Runde weit auseinander",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-16T20:53:35+00:00",
+      "updated_at": "2026-11-16T20:53:35+00:00",
+      "article_ids": [
+        "764afc2a5dbe8670d0ca"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-6757c973a9ac75ecef59",
+      "title": "USA thrash Canada to win women’s hockey worlds and complete historic golden double",
+      "overview": "USA beat Canada 6-2 to claim 12th world title Knight and Pannek score twice each in victory United States 6-2 Canada – as it happened The United States beat Canada 6-2 on Monday to win the women’s ice hockey world championship in Herning, Denmark, becoming the first US team to capture Olympic and world titles in the same calendar year. Hilary Knight and Kelly Pannek scored twice each as the Americans claimed their 12th world championship, adding to the Olympic gold medal they won in Milan in February. Lacey Eden also scored for the US, while Sarah Fillier had both goals for Canada, who were se",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-16T20:40:16+00:00",
+      "updated_at": "2026-11-16T20:40:16+00:00",
+      "article_ids": [
+        "8c427ad6ba8391560885"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-5723a5a2cfac8f3e3d92",
+      "title": "Clarence Thomas calls foul on California ruling he says could turn citizens into government mouthpieces",
+      "overview": "Justice Clarence Thomas warned Monday that the Supreme Court is leaving the door open for states to compel speech from private citizens by not taking up a challenge to a California law. On Monday, the Supreme Court declined a petition to hear a case from a California physician who argued that the state government was forcing her to make statements she disagreed with while teaching a mandatory course for doctors. Thomas was joined by Justice Samuel Alito in dissenting from the decision, arguing that allowing the law to stand could have implications reaching far beyond the medical field. The cas",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-16T20:37:19+00:00",
+      "updated_at": "2026-11-16T20:37:19+00:00",
+      "article_ids": [
+        "be63904a4d5b83b65ef6"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-66221c5cdc74dafbc3e7",
+      "title": "USA rufen Bürger in Europa zu erhöhter Wachsamkeit während der Weihnachtszeit auf",
+      "overview": "Konkrete Hinweise auf einen geplanten Anschlag oder eine besondere Bedrohung werden nicht genannt",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-16T20:36:18+00:00",
+      "updated_at": "2026-11-16T20:36:18+00:00",
+      "article_ids": [
+        "d92f0c5bdca32ef7db4f"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
     {
       "id": "story-6861eef47dd6e7d5ff3b",
       "title": "United States v Canada: women’s ice hockey world championship 2026 final – live",
@@ -29041,6 +30289,42 @@
       "ai": null
     },
     {
+      "id": "story-bbd54a2ff8aee9518000",
+      "title": "Democrat writes off Trump’s attempt to blame party for flight grounding as ‘absurd’",
+      "overview": "Dan Koh, an incoming House representative and ex-Biden staffer, blasts Trump for blaming previous administration Donald Trump’s efforts to blame Friday’s four-hour nationwide flight stoppage – and the resulting travel chaos – on Democrats are “absurd”, an incoming Democratic member of Congress said on Sunday. The president remained largely silent and out of public view as air travel shut down on Friday, but on Sunday he emerged to issue a series of posts blaming the incident on the Biden administration. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-16T14:24:21+00:00",
+      "updated_at": "2026-11-16T14:24:21+00:00",
+      "article_ids": [
+        "45deb5745a43514fc6d3"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
       "id": "story-26d74814460c20857471",
       "title": "Estonia to close Russia border crossings after attempted drone factory arson attack",
       "overview": "The Estonian government says Russia was behind the attempted sabotage, which the Kremlin denies.",
@@ -29445,6 +30729,42 @@
       "updated_at": "2026-11-16T14:00:00+00:00",
       "article_ids": [
         "33db54f8852f4c80704a"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-232c14c85ebf89ec5aa5",
+      "title": "Glenn Close, vielseitiger Hollywoodstar, erhält Oscar fürs Lebenswerk",
+      "overview": "Die US-amerikanische Schauspielerin (\"Eine verhängnisvolle Affäre\") wird nach acht Nominierungen bei den Academy Awards mit einer Trophäe fürs Lebenswerk geehrt",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-16T13:55:51+00:00",
+      "updated_at": "2026-11-16T13:55:51+00:00",
+      "article_ids": [
+        "8a18d3c59e704c6770a1"
       ],
       "publisher_count": 1,
       "article_counts": {
@@ -31035,6 +32355,42 @@
       "updated_at": "2026-11-16T10:55:07+00:00",
       "article_ids": [
         "3fd1dc54683107dda19c"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-51bb73f8f07455bc5419",
+      "title": "Youtuber MrBeast lässt Teilnehmer zu \"Hunger Games\" antreten und erntet Kritik",
+      "overview": "Das verkehre die Idee der Buch- und Filmreihe, lautet die Reaktion in den sozialen Netzwerken",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-16T10:49:10+00:00",
+      "updated_at": "2026-11-16T10:49:10+00:00",
+      "article_ids": [
+        "618ebd8284b0976b2aec"
       ],
       "publisher_count": 1,
       "article_counts": {
@@ -53440,6 +54796,49 @@
       "ai": null
     },
     {
+      "id": "story-cd269d5dacce42ab1064",
+      "title": "Die STANDARD Wortsuche vom 12. November",
+      "overview": "Montag bis Freitag: Begriffe aus einem aktuellen STANDARD Artikel verbergen sich horizontal, vertikal oder diagonal im Buchstabengitter",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-12T05:00:00+00:00",
+      "updated_at": "2026-11-13T11:00:00+00:00",
+      "article_ids": [
+        "e75bfba62b11b7cfc02a",
+        "f8aad8e01a537c96c60a",
+        "99230a66e3c333b60a53"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 3,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [
+        "november",
+        "standard",
+        "vom",
+        "wortsuche"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
       "id": "story-3cef31421942f8362269",
       "title": "Designer Stefan Diez: \"Die Badewanne ist ein Luxusobjekt\"",
       "overview": "Der Deutsche entwirft neben Stühlen und Leuchten auch Badewannen. Ein Gespräch über Prestigemöbel, Tageslicht im Badezimmer und die Wanne seiner Kindheit",
@@ -53520,42 +54919,6 @@
       "updated_at": "2026-11-13T11:00:00+00:00",
       "article_ids": [
         "5861b85bbcf15f614035"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-ce41f145ac2def0fcb11",
-      "title": "Das STANDARD Schieberätsel vom 13. November",
-      "overview": "Montag bis Freitag: Bringen Sie die Zahlen mit möglichst wenigen Zügen in die richtige Reihenfolge.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-13T11:00:00+00:00",
-      "updated_at": "2026-11-13T11:00:00+00:00",
-      "article_ids": [
-        "99230a66e3c333b60a53"
       ],
       "publisher_count": 1,
       "article_counts": {
@@ -56057,49 +57420,6 @@
       ],
       "language": "de",
       "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-cd269d5dacce42ab1064",
-      "title": "Die STANDARD Wortsuche vom 11. November",
-      "overview": "Montag bis Freitag: Begriffe aus einem aktuellen STANDARD Artikel verbergen sich horizontal, vertikal oder diagonal im Buchstabengitter",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-11T05:00:00+00:00",
-      "updated_at": "2026-11-13T05:00:00+00:00",
-      "article_ids": [
-        "8386a700d1abcf263260",
-        "e75bfba62b11b7cfc02a",
-        "f8aad8e01a537c96c60a"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 3,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [
-        "november",
-        "standard",
-        "vom",
-        "wortsuche"
-      ],
       "limitations": [
         "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
         "Insufficient coverage for comparison."
@@ -72725,13 +74045,12 @@
     },
     {
       "id": "story-160d740e667c8941340e",
-      "title": "Real Madrid's Vinícius Jr sends surprise message to boy who lost his legs in Sudan's war",
-      "overview": "Double amputee Zaher told the BBC last year about his favourite footballer and a dream of being able to walk again.",
+      "title": "Watch: Vinícius Jr's surprise message to boy who received prosthetic legs after Sudan drone strike",
+      "overview": "Real Madrid player Vinícius Jr sent a surprise message to 13-year-old fan Zaher who lost both his legs after being hit by a drone in Khartoum, in 2024.",
       "title_kind": "source_headline",
-      "first_published": "2026-11-11T00:19:42+00:00",
+      "first_published": "2026-11-11T09:28:36+00:00",
       "updated_at": "2026-11-11T09:28:36+00:00",
       "article_ids": [
-        "d6a03632997e788df43b",
         "19bf6b4663ba5101febd"
       ],
       "publisher_count": 1,
@@ -72739,7 +74058,7 @@
         "left": 0,
         "centre": 0,
         "right": 0,
-        "unknown": 2
+        "unknown": 1
       },
       "publisher_counts": {
         "left": 0,
@@ -72752,15 +74071,7 @@
         "UK"
       ],
       "language": "en",
-      "common_terms": [
-        "boy",
-        "legs",
-        "message",
-        "sudan",
-        "surprise",
-        "vinícius",
-        "who"
-      ],
+      "common_terms": [],
       "limitations": [
         "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
         "Insufficient coverage for comparison."
@@ -74002,38 +75313,33 @@
     },
     {
       "id": "story-7deb686bb9fcbc89fe86",
-      "title": "Ukraine-Verhandlungen gehen weiter: Fokus auf Deeskalation im Energiebereich",
-      "overview": "Unterhändler Russlands, der Ukraine und der USA kamen bereits am Dienstag zusammen. Wir tickern auch zum zweiten Verhandlungstag, dem \"Haupttag\"",
+      "title": "Verhandlungen über Wehrdienstreform gehen weiter",
+      "overview": "",
       "title_kind": "source_headline",
-      "first_published": "2026-11-11T04:40:31+00:00",
+      "first_published": "2026-11-11T07:04:45+00:00",
       "updated_at": "2026-11-11T07:04:45+00:00",
       "article_ids": [
-        "4d4b8b3df952d13f0a87",
         "3fce505bd8f4cab59777"
       ],
-      "publisher_count": 2,
+      "publisher_count": 1,
       "article_counts": {
-        "left": 1,
+        "left": 0,
         "centre": 0,
         "right": 0,
         "unknown": 1
       },
       "publisher_counts": {
-        "left": 1,
+        "left": 0,
         "centre": 0,
         "right": 0,
         "unknown": 1
       },
-      "category": "Politics",
+      "category": "World",
       "countries": [
         "AT"
       ],
       "language": "de",
-      "common_terms": [
-        "gehen",
-        "verhandlungen",
-        "weiter"
-      ],
+      "common_terms": [],
       "limitations": [
         "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
         "Insufficient coverage for comparison."
@@ -74482,40 +75788,33 @@
     },
     {
       "id": "story-c809953fd1584a18545c",
-      "title": "Fußfessel abgeschnitten: Meghans Vater nun doch in Haft",
-      "overview": "Der Vater von Meghan Markle wurde in einer Seniorenresidenz in Kalifornien festgenommen. Gegen ihn wird wegen des Verdachts des Besitzes von Missbrauchsdarstellungen von Kindern ermittelt",
+      "title": "Fußfessel abgeschnitten: Meghans Vater in Haft",
+      "overview": "",
       "title_kind": "source_headline",
-      "first_published": "2026-11-11T04:49:39+00:00",
+      "first_published": "2026-11-11T05:53:31+00:00",
       "updated_at": "2026-11-11T05:53:31+00:00",
       "article_ids": [
-        "c0016b84ec12f92370f4",
         "6986be43406d7b74af31"
       ],
-      "publisher_count": 2,
+      "publisher_count": 1,
       "article_counts": {
-        "left": 1,
+        "left": 0,
         "centre": 0,
         "right": 0,
         "unknown": 1
       },
       "publisher_counts": {
-        "left": 1,
+        "left": 0,
         "centre": 0,
         "right": 0,
         "unknown": 1
       },
-      "category": "Politics",
+      "category": "World",
       "countries": [
         "AT"
       ],
       "language": "de",
-      "common_terms": [
-        "abgeschnitten",
-        "fußfessel",
-        "haft",
-        "meghans",
-        "vater"
-      ],
+      "common_terms": [],
       "limitations": [
         "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
         "Insufficient coverage for comparison."
@@ -75000,42 +76299,6 @@
       "ai": null
     },
     {
-      "id": "story-f951789373592ecebc76",
-      "title": "Welche Vorfreude trägt euch momentan durch den Alltag?",
-      "overview": "Mein Forum: Diskutieren Sie dieses Thema mit der STANDARD-Community",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-11T05:00:00+00:00",
-      "updated_at": "2026-11-11T05:00:00+00:00",
-      "article_ids": [
-        "ba3be5ad9866e02c2874"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
       "id": "story-bae9983328c040bdaed4",
       "title": "CIA-Sauereien auf der Osterinsel: \"Wild Horse Nine\" kontert US-Interventionismus",
       "overview": "Die Tragikomödie von Martin McDonagh schildert das Scheitern zweier CIA-Agenten vor dem Hintergrund der rücksichtslosen, amerikanischen Interventionspolitik",
@@ -75059,1079 +76322,6 @@
         "unknown": 0
       },
       "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-86b344dfa7ccc8fafdcd",
-      "title": "Trump schrieb Brief an Biden: \"Ich weiß, dass Sie das amerikanische Volk lieben\"",
-      "overview": "Der US-Präsident Donald Trump schrieb offenbar 2021 seinem Vorgänger einen ungewöhnlich wertschätzenden Brief. Darüber berichten US-Medien mit Verweis auf Bidens neues Buch",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-11T04:55:30+00:00",
-      "updated_at": "2026-11-11T04:55:30+00:00",
-      "article_ids": [
-        "ee5fa187cd91f3eed941"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-00590f2479e3b4fc06f0",
-      "title": "USA: Amtsenthebungsverfahren gegen Hegseth gestoppt",
-      "overview": "",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-10T23:57:21+00:00",
-      "updated_at": "2026-11-11T04:31:40+00:00",
-      "article_ids": [
-        "b1ffdefb78ce2871156d",
-        "c195da2956dc7455bd15"
-      ],
-      "publisher_count": 2,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [
-        "amtsenthebungsverfahren",
-        "gegen",
-        "hegseth"
-      ],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-4c37c041dec14d815a97",
-      "title": "Deutschland beschließt verpflichtende Videoüberwachung für große Schlachthöfe",
-      "overview": "Immer wieder werden Tiere, noch bevor sie getötet werden, in Betrieben gequält",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-11T04:00:00+00:00",
-      "updated_at": "2026-11-11T04:00:00+00:00",
-      "article_ids": [
-        "3cd7ee3923abd00c4410"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-6fa87b3abd1544513008",
-      "title": "Worin das Geheimnis eines guten Gesprächs liegt",
-      "overview": "Warum manche Unterhaltungen wie von selbst funktionieren und andere rasch versanden, erklären US-Forscherinnen mit einem ungewöhnlichen Konzept aus der Akustik",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-11T04:00:00+00:00",
-      "updated_at": "2026-11-11T04:00:00+00:00",
-      "article_ids": [
-        "a1d73c414224f76b94cf"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-a1fe34f6c856904f11c3",
-      "title": "Jeder Vierte klärt persönliche Probleme lieber mit Künstlicher Intelligenz als mit Menschen",
-      "overview": "85 Prozent der Bevölkerung in Österreich nutzen Künstliche Intelligenz, zeigt eine neue Studie. Doch die KI-Anwendung wächst stärker als die KI-Kompetenz, warnt Handelsverbands-Chef Rainer Will. Die Fehlerquote bleibt hoch",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-11T04:00:00+00:00",
-      "updated_at": "2026-11-11T04:00:00+00:00",
-      "article_ids": [
-        "c75ec0e289b1b8e52b24"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-38946d910fcc58684daa",
-      "title": "Three dead in Los Angeles after driver crashes into pedestrians, officials say",
-      "overview": "Three others critically injured and taken to hospitals as reports say car crashed into food stand in North Hollywood At least three people are dead and three critically injured, after a car struck pedestrians on a Los Angeles corner during Tuesday rush hour, authorities said. The fatal crash took place near a North Hollywood metro station. Continue reading...",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-11T03:52:05+00:00",
-      "updated_at": "2026-11-11T03:52:05+00:00",
-      "article_ids": [
-        "c3b162bcfa69a384c86a"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-8d269152dd22248c8f94",
-      "title": "Kennedys sue to block Trump’s gilded arch, saying it would ‘cast shadow’ over JFK grave site",
-      "overview": "250ft arch risks ‘permanently diminishing’ memorials to ex-president and relatives at Arlington cemetery, lawsuit says Nine members of the Kennedy family political dynasty have sued the Trump administration, asking a federal judge to block the president’s plan to build a towering, gilded arch they say would cast a shadow over their relatives’ graves in Arlington national cemetery. The family’s complaint states that the 25oft triumphal arch, topped with a Lady Liberty-like winged figure, would “obstruct the clear sightline of the Kennedy Gravesites” and “fundamentally alter the experience of vi",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-11T01:09:55+00:00",
-      "updated_at": "2026-11-11T03:44:06+00:00",
-      "article_ids": [
-        "7e05e4f70bd6e4a0dc6e",
-        "59876b21c8509bc66f4f"
-      ],
-      "publisher_count": 2,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "Politics",
-      "countries": [
-        "UK",
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [
-        "arch",
-        "block",
-        "cast",
-        "grave",
-        "jfk",
-        "kennedys",
-        "shadow",
-        "sue",
-        "trump",
-        "would"
-      ],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-61831ce73de44c78334a",
-      "title": "Mullin vows ‘zero change’ on immigration after Republicans suffer crushing midterm losses",
-      "overview": "Department of Homeland Security Secretary Markwayne Mullin delivered a blunt message on immigration policy Tuesday, promising \"zero change\" following midterm elections that dealt a crushing blow to the Republican Party. Mullin made the remarks during an appearance on Fox News' \"The Ingraham Angle,\" where host Laura Ingraham brought up President Donald Trump suggesting Republicans work with Democrats. \"Amnesty will never be on the table,\" Mullin said. WHITE HOUSE DOUBLES DOWN AFTER TRUMP ANGERS BASE BY FLOATING ILLEGAL ALIEN DEAL WITH DEMS He noted that the agency has been deporting roughly 3,6",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-11T02:52:52+00:00",
-      "updated_at": "2026-11-11T02:52:52+00:00",
-      "article_ids": [
-        "9c52ae8f635880ea703f"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 1,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 1,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-9c8840dc0cf8b165d801",
-      "title": "Headquarters of Haitian gang destroyed, El Salvador's president says",
-      "overview": "The infamous 400 Mawozo gang was targeted by the El Salvador military which has deployed thousands of troops to combat Haiti's gang violence crisis.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-11T02:47:59+00:00",
-      "updated_at": "2026-11-11T02:47:59+00:00",
-      "article_ids": [
-        "30d38d027c8c1dd04308"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-7e116352a647fd555c6d",
-      "title": "Two white students at University of Mississippi make monkey gestures in Ring video",
-      "overview": "Women are reportedly upstairs neighbors of three Black students, including one who uploaded video to TikTok Two white students at the University of Mississippi were captured making offensive monkey gestures in a widely panned Ring video that has prompted a school investigation. On Saturday, freshman Jakiyra Metcalf uploaded the surveillance clip from her apartment door to TikTok, showing one woman thumping her chest and babbling like a monkey. Another woman jumped into the camera’s view and mimicked the primate noises. Continue reading...",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-11T02:26:10+00:00",
-      "updated_at": "2026-11-11T02:26:10+00:00",
-      "article_ids": [
-        "88c1d1935f989173c0e3"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-a1071d5b718f2ffc4bbc",
-      "title": "Nima Momeni sentenced to 16 years to life in murder of Cash App founder Bob Lee",
-      "overview": "Tech consultant convicted of second-degree murder in 2023 stabbing death of Cash App founder Nima Momeni, the man convicted of murdering Cash App founder Bob Lee, has been sentenced to 16 years to life. Momeni, 42, has been in San Francisco’s county jail since late April of 2023, after he was arrested in connection with the stabbing death of Lee, who had created the mobile payment service and was serving as the chief product officer of the cryptocurrency MobileCoin at the time of his death. Continue reading...",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-11T01:53:38+00:00",
-      "updated_at": "2026-11-11T01:53:38+00:00",
-      "article_ids": [
-        "60019689ed8fdf54fe2f"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-0ce6c17a846779de7c17",
-      "title": "Judge allows Trump's $10bn defamation case against BBC to proceed",
-      "overview": "But the court dismisses the other part of Trump's lawsuit that alleged the BBC had violated a Florida law.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-11T01:18:09+00:00",
-      "updated_at": "2026-11-11T01:18:56+00:00",
-      "article_ids": [
-        "8eaf5d71bb2b3ff1d4a5",
-        "f1b3506ce3d4d107abc6"
-      ],
-      "publisher_count": 2,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "UK",
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [
-        "10bn",
-        "against",
-        "allows",
-        "bbc",
-        "defamation",
-        "judge",
-        "proceed",
-        "trump"
-      ],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-38eef93488883a2e4b96",
-      "title": "US House blocks bid to impeach Defence Secretary Pete Hegseth, for now",
-      "overview": "Trump welcomes the outcome, praising Hegseth as a \"Great American Patriot\", but Democrats can try again next year.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-11T01:14:40+00:00",
-      "updated_at": "2026-11-11T01:14:40+00:00",
-      "article_ids": [
-        "424b62e26905785e06b9"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-7b8520a34414181ed0ed",
-      "title": "Anti-Israel agitators swarm Biden in Ireland and hurl object at motorcade",
-      "overview": "Former President Joe Biden was heckled Tuesday by anti-Israel agitators who threw at least one object at his motorcade and screamed obscenities during his visit to Ireland alongside former first lady Jill Biden. Biden, 83, made a surprise appearance at Trinity College in Dublin, where his son, Hunter Biden, accepted the Gold Medal for Outstanding Contribution to Public Discourse, The Independent reported. A mob of agitators gathered outside the venue while the event took place. INSIDE THE PROTEST PLAYBOOK TO VILIFY ISRAEL ON 'GLOBAL DAY OF ACTION' As Biden exited the building, someone threw an",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-11T01:07:45+00:00",
-      "updated_at": "2026-11-11T01:07:45+00:00",
-      "article_ids": [
-        "09f19ba547505b4b1b16"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 1,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 1,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-f868dfded19ebfc7fe3a",
-      "title": "Three Iran-backed suspects plotted attacks including RAF Fairford incident, US says",
-      "overview": "The US Department of Justice says the men were involved in a string of plots, including a major incident near the UK airbase that is used by US armed forces.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-11T01:01:20+00:00",
-      "updated_at": "2026-11-11T01:01:20+00:00",
-      "article_ids": [
-        "2b2926e36aa3e5b8f458"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-9fb49a5f043b7a2362f1",
-      "title": "'They will kill you too': Sonia Gandhi's turbulent journey in Indian politics",
-      "overview": "Sonia Gandhi's memoir revisits love, loss and political inheritance, offering a deeply personal defence of her family and its legacy.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-11T00:26:02+00:00",
-      "updated_at": "2026-11-11T00:26:02+00:00",
-      "article_ids": [
-        "a0221887cf72f39f4e60"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-6b280c595ce9b9df978b",
-      "title": "Robot vessels take on the dangerous work of mine hunting",
-      "overview": "The conflict in the Gulf is an opportunity for the US to test its autonomous mine-hunting systems.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-11T00:19:13+00:00",
-      "updated_at": "2026-11-11T00:19:13+00:00",
-      "article_ids": [
-        "60c499d38de551b567c9"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "Business",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-530ff97bd99b13529d06",
-      "title": "'It can kill us': Kenyans fear impact of El Niño with floods predicted",
-      "overview": "Forecasters warn that this year's El Niño could be one of the strongest on record, with heavy rain and flooding in Kenya.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-11T00:18:07+00:00",
-      "updated_at": "2026-11-11T00:18:07+00:00",
-      "article_ids": [
-        "cb8430fa0c71d7c9c7ae"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-62831428a96b5b1e9518",
-      "title": "Antidepressant escitalopram more effective at preventing relapse, analysis finds",
-      "overview": "Three pills came top and outperformed Prozac for preventing relapse in a large number of patients.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-11T00:17:42+00:00",
-      "updated_at": "2026-11-11T00:17:42+00:00",
-      "article_ids": [
-        "ceaec16c1f4b1468fe2f"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-6ce7b7f7e10b781b9d9d",
-      "title": "Stickers and building sets help drive toy sales ahead of Christmas rush",
-      "overview": "A bumper year so far for toy sales comes as debate intensifies over screen time and tech connectivity.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-11T00:16:44+00:00",
-      "updated_at": "2026-11-11T00:16:44+00:00",
-      "article_ids": [
-        "6611cd77f1551b62607f"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "Business",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-c37a88c51e6c1f0c1d24",
-      "title": "Poundland hopeful for last-minute rescue deal to stave off collapse",
-      "overview": "The BBC understands the discount chain, which has been edging towards administration, will be given more time to find a buyer.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-11T00:02:07+00:00",
-      "updated_at": "2026-11-11T00:02:07+00:00",
-      "article_ids": [
-        "d0b44ccb9c909f533ca0"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "Business",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-21b62534df6b7e8a006c",
-      "title": "House Republicans block effort to impeach Pentagon chief Pete Hegseth",
-      "overview": "Trump ally, accused of an array of illegal acts, had earlier condemned impeachment push as ‘a farce and a stunt’ House Republicans on Tuesday blocked an effort to impeach Pete Hegseth, rejecting allegations that the defense secretary had repeatedly violated the constitution through his handling of the Iran war and other conflicts globally. The vote came a week after Republicans lost control of the Senate and House of Representatives in their worst midterm election in more than a half century, and underscored how lawmakers remain wary of crossing Donald Trump, who has signaled his continued sup",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-10T23:56:11+00:00",
-      "updated_at": "2026-11-10T23:56:11+00:00",
-      "article_ids": [
-        "e93ba7046c22a2cdb22d"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-c79fcf4f956a59dea52b",
-      "title": "Noskova beats Gauff to reach WTA Finals semi-finals as Pegula stays alive",
-      "overview": "Czech defeats Gauff 6-3, 6-3 to reach last four Pegula eliminates Kostyuk with straight-sets victory Gauff and Pegula remain in contention for final berth Linda Noskova secured her place in the semi-finals of the WTA Finals with a 6-3, 6-3 victory over Coco Gauff on Tuesday, while Jessica Pegula knocked Marta Kostyuk out of the season-ending tournament with a straight-sets win. The Czech, who beat Kostyuk in her opening match, has won both encounters without dropping a set and is assured of advancing to the knockout stage. Gauff and Pegula are both 1-1, with the final round-robin matches on Th",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-10T23:31:32+00:00",
-      "updated_at": "2026-11-10T23:31:32+00:00",
-      "article_ids": [
-        "a7f837ed4bd302f515fe"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-c580d0617f9d4bf6bf49",
-      "title": "House GOP leaders block Massie's Hegseth impeachment push",
-      "overview": "Secretary of War Pete Hegseth is safe from an impeachment vote in the House of Representatives after GOP leaders successfully stopped a looming vote led by Rep. Thomas Massie, R-Ky. A vote to refer Massie's resolution to the House Judiciary Committee for consideration — which effectively killed it in its tracks — passed on Tuesday evening by a 211-204 margin, averting a potential impeachment vote on Wednesday. President Donald Trump celebrated the failed impeachment effort in a Truth Social post, calling Massie a \"major LOSER\" and praising Hegseth's record on military operations in Venezuela a",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-10T23:16:18+00:00",
-      "updated_at": "2026-11-10T23:16:18+00:00",
-      "article_ids": [
-        "cb034873d6274a2ce13c"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 1,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 1,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-50e622c18a451ded3bc6",
-      "title": "Who is Jim Jordan? Pugnacious Trump ideologue to lead diminished Republican ranks",
-      "overview": "Controversial far-right congressman defied 2022 subpoena from Capitol attack panel and was accused of ignoring sexual abuse as college wrestling coach The election of Jim Jordan on Tuesday to lead House Republicans elevates a combative Donald Trump ideologue who defied a congressional subpoena over the 6 January attack, as the party tries as it tries to adjust to life out of power. Jordan will lead a diminished Republican conference, as its ranks shrink to one of the smallest in decades. But it is a triumph for the Ohio Republican who was pushed out of the contentious House speakership race th",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-10T23:12:12+00:00",
-      "updated_at": "2026-11-10T23:12:12+00:00",
-      "article_ids": [
-        "3a3b33eb26a5d51906c0"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-66695da7e4afd4803757",
-      "title": "Standardrätsel K 11440",
-      "overview": "Täglich neu, exklusiv für Smart-Abonnent:innen: Das knifflige Quizkultur-Rätsel des STANDARD",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-10T23:01:00+00:00",
-      "updated_at": "2026-11-10T23:01:00+00:00",
-      "article_ids": [
-        "07e1178208fb5dc9c9d0"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-8f591db1f9da8a6dc517",
-      "title": "Kulturkampf um Krakauer Todesschützen",
-      "overview": "Nach der erschütternden Bluttat mit neun Todesopfern in Krakau ist im politisch tief gespaltenen Polen ein Kulturkampf über die möglichen Motive des Schützen entbrannt – der sich über soziale Netzwerke in ganz Europa fortsetzt. Die erste Einschätzung einer mutmaßlich rechtsextremen Ideologie des Täters war wohl vorschnell. Im Gegenzug wird nun ventiliert, der Schütze sei eher dem linken Lager zuzuordnen – doch die Indizien sind wacklig und teilweise KI-generiert.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-10T22:58:47+00:00",
-      "updated_at": "2026-11-10T22:58:47+00:00",
-      "article_ids": [
-        "96976b0a504540a41a62"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-1fcdf490585a5a5f0ecd",
-      "title": "Schumer confident on Senate leadership role despite dwindling votes – video",
-      "overview": "New York senator Chuck Schumer expressed confidence that he would become the majority leader after the Democratic party gained at least 54 seats in the Senate during the midterm elections. Schumer's remarks came after Vermont senator Bernie Sanders announced he would not support Schumer for the leadership position. Sanders joins a growing list of Democratic senators who have said they will not support Schumer Continue reading...",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-10T22:53:51+00:00",
-      "updated_at": "2026-11-10T22:53:51+00:00",
-      "article_ids": [
-        "d8f2d890a21b99946371"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-a08ad21694631a123dc8",
-      "title": "14 Meter hohe Papst-Statue in Peru fertiggestellt",
-      "overview": "",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-10T22:49:18+00:00",
-      "updated_at": "2026-11-10T22:49:18+00:00",
-      "article_ids": [
-        "39c4595344156441f059"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
       "countries": [
         "AT"
       ],
@@ -76267,8 +76457,8 @@
   "markets": [],
   "status": {
     "state": "ok",
-    "attempted_at": "2026-11-16T20:33:15.544571+00:00",
-    "last_success_at": "2026-11-16T20:33:15.544571+00:00",
+    "attempted_at": "2026-11-17T03:58:36.657379+00:00",
+    "last_success_at": "2026-11-17T03:58:36.657379+00:00",
     "errors": [],
     "source_results": {
       "bbc-world": "21 entries",
@@ -76276,7 +76466,7 @@
       "fox-politics": "25 entries",
       "bbc-business": "39 entries",
       "orf": "25 entries",
-      "standard": "151 entries"
+      "standard": "150 entries"
     },
     "market_status": "Market price data not configured",
     "ai_status": "AI enrichment not configured"
