@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "mode": "live",
-  "generated_at": "2026-11-17T22:28:25.657523+00:00",
+  "generated_at": "2026-11-18T04:30:26.448479+00:00",
   "refresh_minutes": 60,
   "sources": [
     {
@@ -90,6 +90,548 @@
     }
   ],
   "articles": [
+    {
+      "id": "7db9d742858287043b17",
+      "source_id": "bbc-business",
+      "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+      "url": "https://www.bbc.co.uk/news/articles/cm5y1eejk292o?at_campaign=rss&at_medium=RSS",
+      "summary": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
+      "published_at": "2026-11-18T04:00:54+00:00",
+      "fetched_at": "2026-11-18T04:30:26.448479+00:00",
+      "date_estimated": false,
+      "author": "bbc-business",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "Business"
+    },
+    {
+      "id": "7dddde8a241cc0a67372",
+      "source_id": "standard",
+      "title": "Die US Air Force sucht historische Speicherkarten für die F-22",
+      "url": "https://www.derstandard.at/story/3000000349626/die-us-air-force-sucht-historische-speicherkarten-fuer-die-f-22?ref=rss",
+      "summary": "PC-Karten und CF-Module waren zuletzt um das Jahr 2000 modern. Das ist ein Problem für die Luftstreitkräfte der USA",
+      "published_at": "2026-11-18T04:00:00+00:00",
+      "fetched_at": "2026-11-18T04:30:26.448479+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "d60f6ed31733067ae1c5",
+      "source_id": "standard",
+      "title": "Voyager 1 ist einen ganzen Lichttag von der Erde entfernt",
+      "url": "https://www.derstandard.at/story/3000000349709/voyager-1-ist-einen-ganzen-lichttag-von-der-erde-entfernt?ref=rss",
+      "summary": "Nach 49 Jahren Flug hat die Nasa-Sonde 25,9 Milliarden Kilometer Abstand erreicht. Kein anderes menschengemachtes Objekt ist je so weit ins All vorgedrungen",
+      "published_at": "2026-11-18T04:00:00+00:00",
+      "fetched_at": "2026-11-18T04:30:26.448479+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "ce1f7bfc81520c3c22a1",
+      "source_id": "standard",
+      "title": "Aufgeräumte Wohnung? 17 Gewohnheiten von ordentlichen Menschen helfen",
+      "url": "https://www.derstandard.at/story/3000000349641/aufgeraeumte-wohnung-17-gewohnheiten-von-ordentlichen-menschen-helfen?ref=rss",
+      "summary": "Ordnung ist kein großer Aufwand, betonen jene, bei denen dieser Zustand üblicherweise herrscht. Vielmehr ist es die Summe vieler kleiner Gewohnheiten. Das sind die besten Tipps",
+      "published_at": "2026-11-18T04:00:00+00:00",
+      "fetched_at": "2026-11-18T04:30:26.448479+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "685bc9b0c3b7606de4e4",
+      "source_id": "fox-politics",
+      "title": "Alaska Dem Peltola defeats Sullivan, flipping 9th GOP Senate seat after 'decoy Dan' uproar",
+      "url": "https://www.foxnews.com/politics/alaska-dem-peltola-defeats-sullivan-flipping-gop-senate-seat-decoy-dan-uproar",
+      "summary": "Democrats flipped a ninth GOP-held Senate seat in the 2026 midterm elections, with former Democratic Rep. Mary Peltola defeating two-term Republican Sen. Dan S. Sullivan in a state that President Donald Trump carried in 2024. Peltola's victory gives Democrats a 56-44 majority in the U.S. Senate. The contest emerged as one of the nation's most closely watched Senate races, with Republicans defending a seat in a state President Donald Trump carried by roughly 13 percentage points in 2024, and Democrats eyeing a rare opportunity to make inroads in traditionally Republican territory. The controver",
+      "published_at": "2026-11-18T03:27:24+00:00",
+      "fetched_at": "2026-11-18T04:30:26.448479+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "78f66907-5b24-5095-8145-06f051ec33da",
+        "fnc",
+        "Fox News",
+        "fox-news/politics/elections/midterm-elections",
+        "fox-news/politics",
+        "fox-news/us/us-regions/west/alaska",
+        "fox-news/person/donald-trump",
+        "fox-news/politics/elections",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "fdb7dc7af3b8e43e3700",
+      "source_id": "guardian-us",
+      "title": "Mary Peltola beats Republican Dan Sullivan in Alaska to give Democrats 56 Senate seats",
+      "url": "https://www.theguardian.com/us-news/2026/nov/17/mary-peltola-alaska-senate-race",
+      "summary": "Republican incumbent beaten in race dominated by controversy over second candidate named Dan Sullivan Democrat Mary Peltola will be Alaska’s next senator after beating the Republican incumbent Dan Sullivan, with the result called two weeks on from midterm elections which saw Donald Trump’s party lose ground across the country. Peltola, a former US House lawmaker, is the first Democrat the state has elected to the Senate since 2008. Her victory comes just two years after Alaska voters unseated her while supporting Trump by a double-digit margin. Continue reading...",
+      "published_at": "2026-11-18T03:25:14+00:00",
+      "fetched_at": "2026-11-18T04:30:26.448479+00:00",
+      "date_estimated": false,
+      "author": "Chris Stein",
+      "categories": [
+        "US midterm elections 2026",
+        "Alaska",
+        "US news",
+        "World news",
+        "Republicans",
+        "Democrats",
+        "US politics",
+        "US Senate",
+        "US Congress",
+        "Donald Trump"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "cf2400a226547cf17a50",
+      "source_id": "bbc-business",
+      "title": "Waymo pulls driverless taxis from all US freeways",
+      "url": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_campaign=rss&at_medium=RSS",
+      "summary": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+      "published_at": "2026-11-18T03:07:22+00:00",
+      "fetched_at": "2026-11-18T04:30:26.448479+00:00",
+      "date_estimated": false,
+      "author": "bbc-business",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "Business"
+    },
+    {
+      "id": "507789b1f71343af2993",
+      "source_id": "fox-politics",
+      "title": "Mamdani's luxury second home tax hits $500M milestone despite thousands of exemptions",
+      "url": "https://www.foxnews.com/politics/mamdanis-luxury-second-home-tax-hits-500m-milestone-despite-thousands-exemptions",
+      "summary": "New York City has billed wealthy second-home owners more than $500 million under Mayor Zohran Mamdani's controversial pied-à-terre tax, even as the number of homeowners receiving bills fell far below initial estimates. \"We've billed more than $500 million to owners of second homes worth more than $5 million,\" Mamdani wrote Tuesday on X. \"That's half a billion dollars to invest in a City that works for all New Yorkers,\" he continued. According to information provided by city officials, the New York City Department of Finance mailed approximately 7,500 tax bills — a sizable drop from the roughly",
+      "published_at": "2026-11-18T03:06:17+00:00",
+      "fetched_at": "2026-11-18T04:30:26.448479+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "f9d7213c-fe79-5324-9c45-923b65ef20aa",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/person/zohran-mamdani",
+        "fox-news/us/new-york-city",
+        "fox-news/politics/finance/taxes",
+        "fox-news/us/personal-freedoms/property",
+        "fox-news/lifestyle/real-estate",
+        "fox-news/us/us-regions/northeast/new-york"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "5dd47a4cdf4ed82011b9",
+      "source_id": "guardian-us",
+      "title": "Tag team: dual waterspouts appear in San Francisco Bay amid stormy weather",
+      "url": "https://www.theguardian.com/us-news/2026/nov/17/san-francisco-bay-area-waterspouts",
+      "summary": "Phenomenon is not a common occurrence in the Bay area and inclement weather is expected to continue for few days A pair of waterspouts were recorded recently in the San Francisco Bay area, much to the delight and shock of several observers, as storms pummelled the region. Two waterspouts – vortexes of air and water mist, essentially tornadoes – cut a sheer streak into the sky, as they spiraled above the bay, according to social media footage capturing the weather phenomenon. Continue reading...",
+      "published_at": "2026-11-18T02:33:21+00:00",
+      "fetched_at": "2026-11-18T04:30:26.448479+00:00",
+      "date_estimated": false,
+      "author": "Uwa Ede-Osifo",
+      "categories": [
+        "California",
+        "San Francisco",
+        "US news",
+        "West Coast",
+        "San Francisco",
+        "Winter",
+        "Environment"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "48680e5f29666a279afc",
+      "source_id": "orf",
+      "title": "EU-Einigung: Europas Stromnetze sollen schneller wachsen",
+      "url": "https://orf.at/stories/3448518/",
+      "summary": "",
+      "published_at": "2026-11-18T02:22:37+00:00",
+      "fetched_at": "2026-11-18T04:30:26.448479+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Wirtschaft"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "cb483eb130a10b47e72c",
+      "source_id": "guardian-us",
+      "title": "A 2-0 win over Haiti ends Pochettino’s USMNT tenure with confident hope",
+      "url": "https://www.theguardian.com/football/2026/nov/17/usmnt-haiti-nations-league-mauricio-pochettino",
+      "summary": "Christian Pulisic and Julian Hall score in first half US advance to Nations League finals 8-0 on aggregate Mauricio Pochettino departs to take over Man United The US men’s national team is through to the semi-final of the Concacaf Nations League, following Saturday’s 6-0 romp with a workmanlike 2-0 win over Haiti in the Cincinnati-hosted second leg. Christian Pulisic opened the scoring with an acrobatic overhead goal, while 18-year-old Julian Hall scored his fifth goal in six caps since debuting in September. Towering 19-year-old center back Neil Pierre was cap-tied to the US with an appearanc",
+      "published_at": "2026-11-18T02:19:36+00:00",
+      "fetched_at": "2026-11-18T04:30:26.448479+00:00",
+      "date_estimated": false,
+      "author": "Jeff Rueter",
+      "categories": [
+        "USA",
+        "Mauricio Pochettino",
+        "US sports",
+        "Football",
+        "Sport",
+        "Haiti football team"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "282fe653af66f8e8a09b",
+      "source_id": "orf",
+      "title": "Mordplan gegen Trump – über 27 Jahre Haft für Pakistaner",
+      "url": "https://orf.at/stories/3448517/",
+      "summary": "",
+      "published_at": "2026-11-18T02:18:19+00:00",
+      "fetched_at": "2026-11-18T04:30:26.448479+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "69652406474881827514",
+      "source_id": "standard",
+      "title": "Es herbstelt",
+      "url": "https://www.derstandard.at/story/3000000346095/es-herbstelt?ref=rss",
+      "summary": "Jetzt wird‘s Zeit, es sich gemütlich zu machen –mit winterlich angehauchten Accessoires zum Beispiel",
+      "published_at": "2026-11-18T02:00:00+00:00",
+      "fetched_at": "2026-11-18T04:30:26.448479+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "945460e233292eb84411",
+      "source_id": "guardian-us",
+      "title": "White House withdraws nomination of Heidi Overton to lead FDA",
+      "url": "https://www.theguardian.com/us-news/2026/nov/17/white-house-withdraws-heidi-overton-fda",
+      "summary": "Move to drop Trump ally and prominent abortion opponent comes a day before key Senate health committee vote The White House has dropped its nomination of Heidi Overton to lead the Food and Drug Administration, a White House official told the Guardian. Donald Trump nominated Overton – a physician and prominent abortion opponent – in August. Overton has spent most of her professional career working directly for Trump or conservative groups aligned with his agenda. Her nomination in August was seen as a move to bring a stabilizing Trump loyalist to the agency after a tumultous year under Trump’s ",
+      "published_at": "2026-11-18T01:26:15+00:00",
+      "fetched_at": "2026-11-18T04:30:26.448479+00:00",
+      "date_estimated": false,
+      "author": "Cecilia Nowell",
+      "categories": [
+        "US politics",
+        "Trump administration",
+        "US news",
+        "US healthcare",
+        "World news"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "dd2c37be275a86d17b90",
+      "source_id": "fox-politics",
+      "title": "White House pulls Trump’s FDA pick Heidi Overton on eve of Senate panel vote",
+      "url": "https://www.foxnews.com/politics/white-house-pulls-trumps-fda-pick-heidi-overton-eve-senate-panel-vote",
+      "summary": "The White House pulled Heidi Overton’s nomination to lead the Food and Drug Administration, a White House official confirmed to Fox News, one day before a Senate committee vote. President Donald Trump hailed Overton as a \"ROCKSTAR\" in August when he picked the physician and White House advisor to succeed Marty Makary, who resigned in May. At her September confirmation hearing, Overton clashed with Sen. Bernie Sanders, I-Vt., as he pressed her to endorse universal healthcare as a human right. TRUMP TO NOMINATE DR HEIDI OVERTON AS NEXT FDA COMMISSIONER Senate health committee Chairman Bill Cassi",
+      "published_at": "2026-11-18T01:04:59+00:00",
+      "fetched_at": "2026-11-18T04:30:26.448479+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "6f2346be-e3c0-511c-a7d9-050c2c6924e2",
+        "fnc",
+        "Fox News",
+        "fox-news/politics/executive/white-house",
+        "fox-news/politics",
+        "fox-news/politics/senate/leadership",
+        "fox-news/us/education/administration",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "1cde1c3989402a201f90",
+      "source_id": "fox-politics",
+      "title": "Trump administration permanently pulls funding from LA homeless agency over mounting fraud allegations",
+      "url": "https://www.foxnews.com/politics/trump-admin-permanently-pulls-funding-from-la-homeless-agency-over-mounting-fraud-allegations",
+      "summary": "The Trump administration on Monday announced a landmark settlement to permanently cut the scandal-plagued Los Angeles Homeless Services Authority (LAHSA) off from federal funding, citing overwhelming evidence of fraud and years of mismanagement that wasted taxpayer dollars. The U.S. Department of Housing and Urban Development (HUD) said the agreement requires LAHSA to relinquish about $150 million in federal funding and permanently sever its ties to HUD's homelessness funding programs by the end of 2027. \"Organizations that are complicit in this fraud and waste will not get one penny more of f",
+      "published_at": "2026-11-18T00:55:30+00:00",
+      "fetched_at": "2026-11-18T04:30:26.448479+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "936afc07-85b5-5fe7-813b-8b8413579031",
+        "fnc",
+        "Fox News",
+        "fox-news/topic/homeless-crisis",
+        "fox-news/politics",
+        "fox-news/us/los-angeles",
+        "fox-news/us/us-regions/west/california",
+        "fox-news/corruption",
+        "fox-news/us/economy/housing",
+        "fox-news/politics"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "02f16420e49fd9a82d4b",
+      "source_id": "guardian-us",
+      "title": "Pakistani man sentenced to 27 years in US prison over Trump murder plot",
+      "url": "https://www.theguardian.com/us-news/2026/nov/17/pakistani-man-jailed-trump-murder-plot",
+      "summary": "Asif Merchant, allegedly linked to Iran, found by court to have sought retribution over Qassem Suleimani death A Pakistani man was sentenced to more than 27 years in prison on Tuesday for plotting to assassinate Donald Trump in retaliation for the US killing of Revolutionary Guards commander Qassem Suleimani, the Department of Justice said. Asif Merchant, who had alleged ties to Iran, sought to hire a hitman to assassinate a politician or a government official in the United States, a Brooklyn court found. Continue reading...",
+      "published_at": "2026-11-18T00:21:33+00:00",
+      "fetched_at": "2026-11-18T04:30:26.448479+00:00",
+      "date_estimated": false,
+      "author": "Reuters",
+      "categories": [
+        "US news",
+        "World news",
+        "Brooklyn",
+        "New York",
+        "Iran",
+        "Trump administration",
+        "US politics",
+        "Middle East and north Africa"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "62d4f8b8b1364b6495dd",
+      "source_id": "guardian-us",
+      "title": "Man armed with axe accused of destroying US military plane at Shannon airport in Ireland",
+      "url": "https://www.theguardian.com/us-news/2026/nov/18/man-accused-of-destroying-us-military-plane-at-shannon-airport-in-ireland",
+      "summary": "Daithi O’Corrain charged with destruction of US government property, after allegedly smashing gauges and cutting hydraulic lines An axe-wielding man breached a security perimeter and destroyed an American military plane while it was parked at an Irish airport, US prosecutors said. Daithi O’Corrain, 48, is accused of cutting hydraulic lines, smashing cockpit gauges and pouring ball bearings into fuel tanks. Continue reading...",
+      "published_at": "2026-11-18T00:06:15+00:00",
+      "fetched_at": "2026-11-18T04:30:26.448479+00:00",
+      "date_estimated": false,
+      "author": "Nadeem Badshah",
+      "categories": [
+        "US news",
+        "Ireland",
+        "World news",
+        "US military",
+        "Protest"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "76651120d2bce0ccefef",
+      "source_id": "bbc-business",
+      "title": "Europe plans to catch the next computer chip wave",
+      "url": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_campaign=rss&at_medium=RSS",
+      "summary": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+      "published_at": "2026-11-18T00:00:24+00:00",
+      "fetched_at": "2026-11-18T04:30:26.448479+00:00",
+      "date_estimated": false,
+      "author": "bbc-business",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "Business"
+    },
+    {
+      "id": "c754fe554e3006eb8894",
+      "source_id": "guardian-us",
+      "title": "First responders describe rescue efforts after New Orleans boat crash: ‘We have to save each other’",
+      "url": "https://www.theguardian.com/us-news/2026/nov/17/new-orleans-boat-crash-rescue",
+      "summary": "More than 100 people were pulled from the Mississippi River in mission being hailed as ‘Mississippi miracle’ Mariners and first responders who took part in the so-called “Mississippi miracle” rescue mission, which saw about 100 people pulled from the water after a tanker collided with a cruise ship, have said they are thankful “everything came out all right”. The collision on Friday between the Atlantic Asphalt tanker and the American Heritage riverboat saw more than 30 people injured. Continue reading...",
+      "published_at": "2026-11-17T23:28:22+00:00",
+      "fetched_at": "2026-11-18T04:30:26.448479+00:00",
+      "date_estimated": false,
+      "author": "Maya Yang",
+      "categories": [
+        "New Orleans",
+        "US news",
+        "Cruises"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "b0f7dab1f876f1a80455",
+      "source_id": "fox-politics",
+      "title": "White House blasts 'Trumpcare for All' pitch from far-left El-Sayed who called president 'unserious fool'",
+      "url": "https://www.foxnews.com/politics/white-house-blasts-trumpcare-all-pitch-far-left-el-sayed-called-president-unserious-fool",
+      "summary": "The White House blasted far-left Michigan Democrat Sen.-elect Abdul El-Sayed's pitch to President Donald Trump to embrace \"Trumpcare for All,\" warning that the Medicare for All proposal would threaten Americans' existing health coverage. \"The Radical Democrats’ socialist proposal for a government takeover of healthcare should really be called ‘Medicare for None’ as it destroys access to the life-saving care Americans rely on daily,\" White House spokeswoman Allison Schuster told Fox News Digital. The sharp response came after El-Sayed, who recently called Trump an \"unserious fool,\" posted a 16-",
+      "published_at": "2026-11-17T23:10:20+00:00",
+      "fetched_at": "2026-11-18T04:30:26.448479+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "53252691-0258-5758-8fc5-90804b044406",
+        "fnc",
+        "Fox News",
+        "fox-news/politics/abdul-el-sayed",
+        "fox-news/health-care",
+        "fox-news/politics/executive/white-house",
+        "fox-news/person/donald-trump",
+        "fox-news/us/democratic-party",
+        "fox-news/politics",
+        "fox-news/politics"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "a0216c6ea54c79d53fcb",
+      "source_id": "bbc-world",
+      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+      "url": "https://www.bbc.co.uk/news/articles/c5vg23g92rj4o?at_campaign=rss&at_medium=RSS",
+      "summary": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
+      "published_at": "2026-11-17T23:02:12+00:00",
+      "fetched_at": "2026-11-18T04:30:26.448479+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "c27ec37b496549363f73",
+      "source_id": "standard",
+      "title": "Standardrätsel E 11446",
+      "url": "https://www.derstandard.at/story/3000000348190/standardraetsel-e-11446?ref=rss",
+      "summary": "Täglich neu, exklusiv für Smart-Abonnent:innen: Das knifflige Quizkultur-Rätsel des STANDARD",
+      "published_at": "2026-11-17T23:01:00+00:00",
+      "fetched_at": "2026-11-18T04:30:26.448479+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "2442a0e9538d2adaf721",
+      "source_id": "orf",
+      "title": "Wenn Lesen gefährlich wird",
+      "url": "https://orf.at/stories/3447994/",
+      "summary": "Kulturelle und künstlerische Initiativen arbeiten in repressiven politischen Umfeldern oft unter schwierigsten Bedingungen. Die zweitägige Konferenz „In Touch“ im Wiener MuseumsQuartier brachte mehrere solcher Projekte zusammen – zu Gast waren die Gründerin eines geheimen Lesezirkels in Afghanistan, der den Taliban trotzt, sowie der russische Starregisseur Kirill Serebrennikow.",
+      "published_at": "2026-11-17T22:51:24+00:00",
+      "fetched_at": "2026-11-18T04:30:26.448479+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Kultur"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "ee282013aa06fdf3a5d5",
+      "source_id": "bbc-world",
+      "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
+      "url": "https://www.bbc.co.uk/news/articles/ckg5ry8m49ggo?at_campaign=rss&at_medium=RSS",
+      "summary": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
+      "published_at": "2026-11-17T22:44:15+00:00",
+      "fetched_at": "2026-11-18T04:30:26.448479+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "00c3d3ed638e07cd88b6",
+      "source_id": "guardian-us",
+      "title": "Former world boxing champion Jorge Linares faces deportation after ICE arrest",
+      "url": "https://www.theguardian.com/sport/2026/nov/17/jorge-linares-boxing-champion-ice-detention-texas",
+      "summary": "Venezuelan boxer, 41, held at El Paso facility Lawyers say three-weight champion is in US legally ICE alleges Linares overstayed authorized visit Former world boxing champion Jorge Linares has been detained by US immigration authorities in Texas, despite his lawyers insisting the retired Venezuelan fighter is legally in the country. Linares is being held at the El Paso Processing Center, according to federal detention records reviewed by the San Antonio Express-News. US Immigration and Customs Enforcement (ICE) said he was arrested at El Paso International Airport on Sunday after overstaying t",
+      "published_at": "2026-11-17T22:43:15+00:00",
+      "fetched_at": "2026-11-18T04:30:26.448479+00:00",
+      "date_estimated": false,
+      "author": "Bryan Armen Graham",
+      "categories": [
+        "Boxing",
+        "ICE (US Immigration and Customs Enforcement)",
+        "Venezuela",
+        "US sports",
+        "Sport",
+        "US news",
+        "Texas"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "94cbbefa8060977e75b7",
+      "source_id": "guardian-us",
+      "title": "Large plume of gas seen at California landfill after explosion – video",
+      "url": "https://www.theguardian.com/us-news/video/2026/nov/17/california-landfill-explosion",
+      "summary": "A gas explosion occurred at the Chiquita Canyon landfill in Castaic, California, shooting waste and gas into the air. According to the Los Angeles county fire department, six people were taken to hospital with minor injuries, and air quality monitor showed the gas release did not pose a hazard to the community Continue reading...",
+      "published_at": "2026-11-17T22:34:39+00:00",
+      "fetched_at": "2026-11-18T04:30:26.448479+00:00",
+      "date_estimated": false,
+      "author": "",
+      "categories": [
+        "California",
+        "US news"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "63939c32d8d58e32daef",
+      "source_id": "standard",
+      "title": "Zverev nach Sieg über Shelton im Halbfinale der ATP Finals",
+      "url": "https://www.derstandard.at/story/3000000349751/zverev-nach-sieg-ueber-shelton-im-halbfinale-der-atp-finals?ref=rss",
+      "summary": "Der Weltranglistenerste bezwang den US-Amerikaner 6:2,7:6(4). Fils besiegte Jodar",
+      "published_at": "2026-11-17T22:32:42+00:00",
+      "fetched_at": "2026-11-18T04:30:26.448479+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
     {
       "id": "5a4880985565541fe67c",
       "source_id": "bbc-business",
@@ -854,6 +1396,21 @@
       "language": "de",
       "country": "AT",
       "category": "World"
+    },
+    {
+      "id": "f80729ae2abbe5819175",
+      "source_id": "bbc-business",
+      "title": "Government backs welfare shake-up to prevent 'lost generation'",
+      "url": "https://www.bbc.co.uk/news/articles/ck79210y125xo?at_campaign=rss&at_medium=RSS",
+      "summary": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
+      "published_at": "2026-11-17T18:43:05+00:00",
+      "fetched_at": "2026-11-18T04:30:26.448479+00:00",
+      "date_estimated": false,
+      "author": "bbc-business",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "Business"
     },
     {
       "id": "9ebbadfc72b6fabdc0c4",
@@ -3806,6 +4363,21 @@
       "category": "Politics"
     },
     {
+      "id": "78a387d2aef686b8ca53",
+      "source_id": "standard",
+      "title": "US-Präsident Trump zu Deutscher Bank: \"Illegal, was sie gemacht haben\"",
+      "url": "https://www.derstandard.at/story/3000000349598/aktien-de-deutschen-bank-unter-druck-gruene-wollen-bankchef-im-eu-parlament-befragen?ref=rss",
+      "summary": "Recherchen zu \"Inside Deutsche Bank\" zeigen unter anderem, dass die Bank versehentlich Trumps Steuerdaten verschickt hat. Das Institut sagt zu den Berichten, es handle sich um Altlasten",
+      "published_at": "2026-11-17T09:28:06+00:00",
+      "fetched_at": "2026-11-18T04:30:26.448479+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
       "id": "269c7929b05879cb7d69",
       "source_id": "standard",
       "title": "\"Superman\" Alcaraz schwebt über der Konkurrenz: \"Lust auf mehr\"",
@@ -4220,6 +4792,21 @@
       "category": "World"
     },
     {
+      "id": "9dbf7a66e874b8f75994",
+      "source_id": "standard",
+      "title": "\"Monopol\" kürt Holzinger zur einflussreichsten Künstlerin des Jahres",
+      "url": "https://www.derstandard.at/story/3000000349577/magazin-w228hlte-holzinger-zur-einflussreichsten-k252nstlerin-des-jahres?ref=rss",
+      "summary": "Die österreichische Performancekünstlerin führt das jährliche Ranking des Magazins an. \"Seaworld Venice\" wurde zum meistbeachteten Beitrag auf der Venedig-Biennale",
+      "published_at": "2026-11-17T07:19:03+00:00",
+      "fetched_at": "2026-11-18T04:30:26.448479+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
       "id": "9d6cc64447876465ab33",
       "source_id": "standard",
       "title": "RTL kappt seine Ziele für 2026: Mauer Werbemarkt bremst TV-Geschäft",
@@ -4302,6 +4889,21 @@
       "summary": "Im beinahe bedeutungslosen letzten Nations-League-Spiel sollen jene zum Einsatz kommen, die sonst in der zweiten oder dritten Reihe stehen. Man darf sich also auf mehrere Youngster freuen",
       "published_at": "2026-11-17T07:00:00+00:00",
       "fetched_at": "2026-11-17T13:35:21.175614+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "4de9198222f06781f20c",
+      "source_id": "standard",
+      "title": "Wo gibt es die besten Rezepte für österreichische Weihnachtskekse?",
+      "url": "https://www.derstandard.at/story/3000000349540/wo-gibt-es-die-besten-rezepte-fuer-oesterreichische-weihnachtskekse?ref=rss",
+      "summary": "Mein Forum: Diskutieren Sie dieses Thema mit der STANDARD-Community",
+      "published_at": "2026-11-17T07:00:00+00:00",
+      "fetched_at": "2026-11-18T04:30:26.448479+00:00",
       "date_estimated": false,
       "author": "standard",
       "categories": [],
@@ -4512,6 +5114,36 @@
       "summary": "Was das Leak enthält, woher die Daten stammen und was die Whistleblower sagen: die wichtigsten Antworten im Überblick",
       "published_at": "2026-11-17T06:00:00+00:00",
       "fetched_at": "2026-11-17T22:28:25.657523+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "8c75541bafc25e4db940",
+      "source_id": "standard",
+      "title": "Geheime Dokumente zeigen: Deutsche Bank bewegte rund 580 Millionen Dollar für Epstein",
+      "url": "https://www.derstandard.at/story/3000000348866/geheime-dokumente-zeigen-deutsche-bank-bewegte-rund-580-millionen-dollar-fuer-epstein?ref=rss",
+      "summary": "Interne Unterlagen offenbaren, in welchem Ausmaß die Bank für den Sexualstraftäter tätig war – und wie ihre Kontrollmechanismen versagten",
+      "published_at": "2026-11-17T06:00:00+00:00",
+      "fetched_at": "2026-11-18T04:30:26.448479+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "2bb1ba5f1bd9b86d18ef",
+      "source_id": "standard",
+      "title": "Projekt Erbfolge: Die erlassenen Steuern des Springer-Chefs Mathias Döpfner",
+      "url": "https://www.derstandard.at/story/3000000348877/projekt-erbfolge-die-erlassenen-steuern-des-springer-chefs-mathias-doepfner?ref=rss",
+      "summary": "Geleakte Dokumente belegen, wie Verlegerin Friede Springer Axel-Springer-Boss Mathias Döpfner ein Milliarden-Aktienpaket übertrug – auf das er offenbar kaum Steuern bezahlen musste",
+      "published_at": "2026-11-17T06:00:00+00:00",
+      "fetched_at": "2026-11-18T04:30:26.448479+00:00",
       "date_estimated": false,
       "author": "standard",
       "categories": [],
@@ -8351,6 +8983,21 @@
       "summary": "Kanzler Merz provoziere und eskaliere, warf die FPÖ-Politikerin Norbert Röttgen im ORF vor. Als Sendungstitel hätte dieses Mal \"Das Streit-Gespräch\" besser gepasst",
       "published_at": "2026-11-16T10:00:00+00:00",
       "fetched_at": "2026-11-16T20:33:15.544571+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "5471795d4765e65f4d81",
+      "source_id": "standard",
+      "title": "Wie viel Lernarbeit bleibt bei euch als Eltern hängen?",
+      "url": "https://www.derstandard.at/story/3000000349386/wie-viel-lernarbeit-bleibt-bei-euch-als-eltern-haengen?ref=rss",
+      "summary": "Mein Forum: Diskutieren Sie dieses Thema mit der STANDARD-Community",
+      "published_at": "2026-11-16T10:00:00+00:00",
+      "fetched_at": "2026-11-18T04:30:26.448479+00:00",
       "date_estimated": false,
       "author": "standard",
       "categories": [],
@@ -18415,6 +19062,21 @@
       "category": "Business"
     },
     {
+      "id": "d02c6235778c430f2dde",
+      "source_id": "standard",
+      "title": "Krankenstand für GTA 6?",
+      "url": "https://www.derstandard.at/story/3000000349178/krankenstand-fuer-gta-6?ref=rss",
+      "summary": "Mein Forum: Diskutieren Sie dieses Thema mit der STANDARD-Community",
+      "published_at": "2026-11-13T14:05:58+00:00",
+      "fetched_at": "2026-11-18T04:30:26.448479+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
       "id": "aa2cc5fe5a43387b2c0f",
       "source_id": "standard",
       "title": "Vorwürfe gegen Pianist Fazil Say wegen Führungsstils",
@@ -25195,605 +25857,987 @@
       "language": "de",
       "country": "AT",
       "category": "Politics"
-    },
-    {
-      "id": "c138d9d4c6c11947ebf2",
-      "source_id": "bbc-business",
-      "title": "Are branded cold and flu tablets really worth the extra money?",
-      "url": "https://www.bbc.co.uk/news/videos/cw4gnxm0y43po?at_campaign=rss&at_medium=RSS",
-      "summary": "Are branded cold and flu tablets REALLY worth the extra money?",
-      "published_at": "2026-11-12T06:17:06+00:00",
-      "fetched_at": "2026-11-12T08:25:28.373555+00:00",
-      "date_estimated": false,
-      "author": "bbc-business",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "Business"
-    },
-    {
-      "id": "3bdba375b409210fba66",
-      "source_id": "bbc-business",
-      "title": "Gas bills to rise as Middle East turmoil persists",
-      "url": "https://www.bbc.co.uk/news/articles/ckregdvr2y3go?at_campaign=rss&at_medium=RSS",
-      "summary": "Gas bills will increase by about 5% from 1 December, Island Energy announces.",
-      "published_at": "2026-11-12T06:15:36+00:00",
-      "fetched_at": "2026-11-12T08:25:28.373555+00:00",
-      "date_estimated": false,
-      "author": "bbc-business",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "Business"
-    },
-    {
-      "id": "c001676a1ed31cbfb311",
-      "source_id": "bbc-world",
-      "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
-      "url": "https://www.bbc.co.uk/news/articles/ckzd9p7e4eqeo?at_campaign=rss&at_medium=RSS",
-      "summary": "The strike hit the surgery department of Nasser Hospital, injuring at least 20 people and causing extensive damage, a spokesperson says.",
-      "published_at": "2026-11-12T06:12:05+00:00",
-      "fetched_at": "2026-11-12T08:25:28.373555+00:00",
-      "date_estimated": false,
-      "author": "bbc-world",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "World"
-    },
-    {
-      "id": "1be6118710d00b9136ce",
-      "source_id": "standard",
-      "title": "Kultregisseur Nicolas Winding Refn: \"Ich war 25 Minuten lang tot\"",
-      "url": "https://www.derstandard.at/story/3000000347674/kultregisseur-nicolas-winding-refn-ich-war-25-minuten-lang-tot?ref=rss",
-      "summary": "Nach zehn Jahren Pause kehrt der \"Drive\"-Regisseur mit dem Neon-Albtraum „Her Private Hell“ zurück. Ein Nahtoderlebnis brachte die kreative Flamme wieder zum Lodern",
-      "published_at": "2026-11-12T06:00:00+00:00",
-      "fetched_at": "2026-11-12T08:25:28.373555+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "bbded9e3343de6c2a7e0",
-      "source_id": "standard",
-      "title": "Nach den Wahlen wird nun in Serbien bei Polizei und Medien aufgeräumt",
-      "url": "https://www.derstandard.at/story/3000000348752/nach-den-wahlen-wird-nun-in-serbien-bei-polizei-und-medien-aufgeraeumt?ref=rss",
-      "summary": "In zahlreichen Institutionen werden nach der Entmachtung des Vučić-Apparats Verfahren wegen Amtsmissbrauchs eingeleitet, etliche Festnahmen schon in den ersten Tagen nach der Wahl",
-      "published_at": "2026-11-12T06:00:00+00:00",
-      "fetched_at": "2026-11-12T08:25:28.373555+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "a1cedd2b7ea8ee5bc563",
-      "source_id": "orf",
-      "title": "Australien: Im Outback vermisster 17-Jähriger gerettet",
-      "url": "https://orf.at/stories/3447956/",
-      "summary": "",
-      "published_at": "2026-11-12T05:53:56+00:00",
-      "fetched_at": "2026-11-12T08:25:28.373555+00:00",
-      "date_estimated": false,
-      "author": "orf",
-      "categories": [
-        "Chronik"
-      ],
-      "language": "de",
-      "country": "AT",
-      "category": "World"
-    },
-    {
-      "id": "d26715ed376a52b62ba0",
-      "source_id": "standard",
-      "title": "Lenzing prüft Kaufangebote für Standort im Südburgenland",
-      "url": "https://www.derstandard.at/story/3000000348832/lenzing-pr252ft-kaufangebote-f252r-standort-im-s252dburgenland?ref=rss",
-      "summary": "Der oberösterreichische Faserhersteller schließt seinen Standort in Heiligenkreuz. Dafür habe man bereits \"mehrere unverbindliche Kaufangebote\" bekommen",
-      "published_at": "2026-11-12T05:44:57+00:00",
-      "fetched_at": "2026-11-12T08:25:28.373555+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "fa43256d0652e01b9df6",
-      "source_id": "orf",
-      "title": "US-Vermittler Witkoff und Kushner treffen Putin",
-      "url": "https://orf.at/stories/3447955/",
-      "summary": "",
-      "published_at": "2026-11-12T05:39:26+00:00",
-      "fetched_at": "2026-11-12T08:25:28.373555+00:00",
-      "date_estimated": false,
-      "author": "orf",
-      "categories": [
-        "Ausland"
-      ],
-      "language": "de",
-      "country": "AT",
-      "category": "World"
-    },
-    {
-      "id": "f461e90dbe489e47c84c",
-      "source_id": "orf",
-      "title": "Saudi-Arabien: Zwei Raketen nahe Mekka abgefangen",
-      "url": "https://orf.at/stories/3447954/",
-      "summary": "",
-      "published_at": "2026-11-12T05:32:15+00:00",
-      "fetched_at": "2026-11-12T08:25:28.373555+00:00",
-      "date_estimated": false,
-      "author": "orf",
-      "categories": [
-        "Ausland"
-      ],
-      "language": "de",
-      "country": "AT",
-      "category": "World"
-    },
-    {
-      "id": "d0bbf9c244b5683d7ea8",
-      "source_id": "orf",
-      "title": "Bericht: Mehrere Tote bei Angriff auf Spital in Gaza",
-      "url": "https://orf.at/stories/3447953/",
-      "summary": "",
-      "published_at": "2026-11-12T05:29:08+00:00",
-      "fetched_at": "2026-11-12T08:25:28.373555+00:00",
-      "date_estimated": false,
-      "author": "orf",
-      "categories": [
-        "Ausland"
-      ],
-      "language": "de",
-      "country": "AT",
-      "category": "World"
-    },
-    {
-      "id": "c2829c856775e340185f",
-      "source_id": "orf",
-      "title": "Mindestens zwei Tote bei Hauseinsturz in New York",
-      "url": "https://orf.at/stories/3447952/",
-      "summary": "",
-      "published_at": "2026-11-12T05:25:11+00:00",
-      "fetched_at": "2026-11-12T08:25:28.373555+00:00",
-      "date_estimated": false,
-      "author": "orf",
-      "categories": [
-        "Chronik"
-      ],
-      "language": "de",
-      "country": "AT",
-      "category": "World"
-    },
-    {
-      "id": "b59fdd0df0eb492225c1",
-      "source_id": "standard",
-      "title": "Mehrere Tote gemeldet: Israel griff Krankenhaus in Gaza an",
-      "url": "https://www.derstandard.at/story/3000000348830/nahost-mehrere-tote-bei-angriff-auf-krankenhaus-in-gaza?ref=rss",
-      "summary": "Mindestens sechs Menschen sollen beim Angriff auf das Nasser-Krankenhaus verstorben sein. Israel will einen hochrangigen Hamas-Vertreter attackiert haben",
-      "published_at": "2026-11-12T05:19:35+00:00",
-      "fetched_at": "2026-11-12T08:25:28.373555+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "d2de42898a91adef0436",
-      "source_id": "bbc-world",
-      "title": "New York building collapse kills at least two, officials say",
-      "url": "https://www.bbc.co.uk/news/articles/c8zx964glvwxo?at_campaign=rss&at_medium=RSS",
-      "summary": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
-      "published_at": "2026-11-12T05:12:56+00:00",
-      "fetched_at": "2026-11-12T08:25:28.373555+00:00",
-      "date_estimated": false,
-      "author": "bbc-world",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "World"
-    },
-    {
-      "id": "20c6e563da333a4d6b10",
-      "source_id": "standard",
-      "title": "Mögliches Treffen mit Putin: US-Verhandler Kushner und Witkoff in Moskau",
-      "url": "https://www.derstandard.at/jetzt/livebericht/3000000348812/u?ref=rss",
-      "summary": "Nach den trilateralen Gesprächen zwischen der Ukraine, Russland und den USA gibt es weitere Angriffe. Die USA verhandeln weiter mit Russland",
-      "published_at": "2026-11-12T05:12:20+00:00",
-      "fetched_at": "2026-11-12T08:25:28.373555+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "3207afd2b1877e0efcb8",
-      "source_id": "standard",
-      "title": "Ölkonzern Exxon Mobil geht rechtlich gegen CO2-Regeln der EU vor",
-      "url": "https://www.derstandard.at/story/3000000348829/oelkonzern-exxon-mobil-geht-rechtlich-gegen-co2-regeln-der-eu-vor?ref=rss",
-      "summary": "Hintergrund ist das Netto-Null-Industrie-Gesetz mit dem große Öl- und Gasunternehmen bis 2030 zum Aufbau von Speicherkapazitäten für Kohlendioxid beitragen sollen",
-      "published_at": "2026-11-12T05:08:52+00:00",
-      "fetched_at": "2026-11-12T08:25:28.373555+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "cd3dc8b86c89d2cf7d49",
-      "source_id": "orf",
-      "title": "Streit über weitere Ukraine-Hilfen",
-      "url": "https://orf.at/stories/3447886/",
-      "summary": "Gleich zwei europäische Gipfeltreffen in Dublin beschäftigen sich diese Woche mit dem weiteren Beistand für die Ukraine. Die Staats- und Regierungschefs der EU kommen am Donnerstag zunächst auf dem Gipfel der Europäischen Politischen Gemeinschaft (EPG) zusammen. Hier nehmen neben den 27 EU-Ländern noch rund 20 weitere Staaten teil. Am Freitag steht dann der informelle EU-Gipfel in der irischen Hauptstadt an. Kurz vor den Gipfeltreffen entbrannte erneut ein heftiger Streit über die künftige Unterstützung für die Ukraine.",
-      "published_at": "2026-11-12T05:08:10+00:00",
-      "fetched_at": "2026-11-12T08:25:28.373555+00:00",
-      "date_estimated": false,
-      "author": "orf",
-      "categories": [
-        "Ausland"
-      ],
-      "language": "de",
-      "country": "AT",
-      "category": "World"
-    },
-    {
-      "id": "9117c55be23300cd2bc5",
-      "source_id": "standard",
-      "title": "Laut am Friedhof gelacht: Soldat weist Gruppe um US-Verteidigungsminister Hegseth zurecht",
-      "url": "https://www.derstandard.at/story/3000000348828/lautes-lachen-am-denkmal-soldat-r252gt-gruppe-um-hegseth?ref=rss",
-      "summary": "Auf einem Video ist lautstark zu hören, wie der Soldat auf dem Nationalfriedhof Arlington eine Besuchergruppe um Pete Hegseth zur Ordnung aufruft. Nach einem gemeinsamen Foto war lautes Lachen zu hören",
-      "published_at": "2026-11-12T05:01:41+00:00",
-      "fetched_at": "2026-11-12T08:25:28.373555+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "9a5910d23968f3c81ef4",
-      "source_id": "standard",
-      "title": "Kann man zu hohe Ansprüche bei der Partnersuche haben?",
-      "url": "https://www.derstandard.at/story/3000000348680/kann-man-zu-hohe-ansprueche-bei-der-partnersuche-haben?ref=rss",
-      "summary": "Du bist zu anspruchsvoll! Das hören Singles immer wieder. Doch ist das wirklich ein Problem? Eine Psychologin erklärt, wie sich manche Menschen selbst im Weg stehen",
-      "published_at": "2026-11-12T05:00:00+00:00",
-      "fetched_at": "2026-11-12T08:25:28.373555+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "3101bb3bb7afbfb716a3",
-      "source_id": "standard",
-      "title": "\"Jossi\", \"Eco Spezial\", \"Up in the Air\": TV-Tipps für Donnerstag",
-      "url": "https://www.derstandard.at/story/3000000347359/jossi-eco-spezial-up-in-the-air-tv-tipps-fuer-donnerstag?ref=rss",
-      "summary": "Außerdem \"Stöckl\", eine Dokumentation über einen Autopionier und eine Reportage über die verlassenen Kinder des Westbalkans",
-      "published_at": "2026-11-12T05:00:00+00:00",
-      "fetched_at": "2026-11-12T08:25:28.373555+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "e75bfba62b11b7cfc02a",
-      "source_id": "standard",
-      "title": "Die STANDARD Wortsuche vom 12. November",
-      "url": "https://www.derstandard.at/story/3000000347746/die-standard-wortsuche-vom-12-november?ref=rss",
-      "summary": "Montag bis Freitag: Begriffe aus einem aktuellen STANDARD Artikel verbergen sich horizontal, vertikal oder diagonal im Buchstabengitter",
-      "published_at": "2026-11-12T05:00:00+00:00",
-      "fetched_at": "2026-11-12T08:25:28.373555+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "630064ce3b1eea3ecc5c",
-      "source_id": "standard",
-      "title": "Mindestens zwei Tote bei Hauseinsturz in New York",
-      "url": "https://www.derstandard.at/story/3000000348826/mindestens-zwei-tote-bei-hauseinsturz-in-new-york?ref=rss",
-      "summary": "Ein mehrstöckiges Wohnhaus im Stadtteil Brooklyn stürzte ein. Neben den Toten gibt es 17 weitere Verletzte",
-      "published_at": "2026-11-12T04:54:16+00:00",
-      "fetched_at": "2026-11-12T08:25:28.373555+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "48ac4c006756bf4e0669",
-      "source_id": "standard",
-      "title": "Nvidia-Verwaltungsrat berät derzeit über Ablöse von CEO Huang",
-      "url": "https://www.derstandard.at/story/3000000348825/berichte-ueber-weitere-affaere-nvidia-chef-huang-droht-noch-am-mittwoch-rauswurf?ref=rss",
-      "summary": "Die Affäre mit einer mutmaßlichen chinesischen Spionin könnte Huang seinen Job kosten. Er soll auch mit einer im unterstehenden Mitarbeiterin ein Verhältnis gehabt haben",
-      "published_at": "2026-11-12T04:44:24+00:00",
-      "fetched_at": "2026-11-12T08:25:28.373555+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "664b876a7402bc897d0e",
-      "source_id": "standard",
-      "title": "Oberösterreichs FPÖ-Vizechef bekam Sozialwohnung bei Linz – um 85.000 Euro unter dem Marktwert",
-      "url": "https://www.derstandard.at/story/3000000348283/oberoesterreichs-fpoe-vizechef-bekam-sozialwohnung-bei-linz-um-85000-euro-unter-dem-marktwert?ref=rss",
-      "summary": "FPÖ-Infrastrukturlandesrat Günther Steinkellner, Landesparteivize hinter Manfred Haimbuchner, kaufte 2024 eine Sozialwohnung von einer gemeinnützigen Genossenschaft – weit unter dem festgesetzten Marktwert",
-      "published_at": "2026-11-12T04:30:00+00:00",
-      "fetched_at": "2026-11-12T08:25:28.373555+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "943e5a37b13c4ea1a5a9",
-      "source_id": "bbc-world",
-      "title": "Famed ship SS United States deliberately sunk off Florida coast to become a reef",
-      "url": "https://www.bbc.co.uk/news/articles/c3x298n87rn2o?at_campaign=rss&at_medium=RSS",
-      "summary": "Activists wanted the historic liner to be turned into a museum, but it will instead become the world's largest artificial ocean reef.",
-      "published_at": "2026-11-12T04:03:13+00:00",
-      "fetched_at": "2026-11-12T08:25:28.373555+00:00",
-      "date_estimated": false,
-      "author": "bbc-world",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "World"
-    },
-    {
-      "id": "9b64b995b294801d7b01",
-      "source_id": "standard",
-      "title": "Forscher finden am \"Ende der Welt\" mögliches Lager legendärer Schiffbrüchiger",
-      "url": "https://www.derstandard.at/story/3000000348565/forscher-finden-am-ende-der-welt-moegliches-lager-legendaerer-schiffbruechiger?ref=rss",
-      "summary": "Auf einer Insel östlich der Südspitze Südamerikas haben Archäologen Spuren einer Schiffskatastrophe des 19. Jahrhunderts und eines Überlebenskampfs entdeckt",
-      "published_at": "2026-11-12T04:00:00+00:00",
-      "fetched_at": "2026-11-12T08:25:28.373555+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "38c637d360dbe6bc2dd1",
-      "source_id": "standard",
-      "title": "Die Landeschefs und Ryanair hebeln die Flugabgabe aus – ein Fehler mit Folgen",
-      "url": "https://www.derstandard.at/story/3000000348741/die-landeschefs-und-ryanair-hebeln-die-flugabgabe-aus-ein-fehler-mit-folgen?ref=rss",
-      "summary": "Die Landeschefs haben bei ihrem Kampf gegen die Flugabgabe weniger die Interessen der Fluggäste im Blick als ihre Dividenden",
-      "published_at": "2026-11-12T04:00:00+00:00",
-      "fetched_at": "2026-11-12T08:25:28.373555+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "0108d62b89b27b6af509",
-      "source_id": "standard",
-      "title": "Europäer haben viele Köche, aber kein Gesicht bei Ukraine-Gesprächen",
-      "url": "https://www.derstandard.at/story/3000000348691/europaeer-haben-viele-koeche-aber-kein-gesicht-bei-ukraine-gespraechen?ref=rss",
-      "summary": "Eine Serie von Treffen der Regierungschefs soll klären: Wer mit Trump und Putin redet, wie die EU-Finanzierung bis 2035 aussehen soll und wer EZB-Chef wird",
-      "published_at": "2026-11-12T04:00:00+00:00",
-      "fetched_at": "2026-11-12T08:25:28.373555+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "b73835675186c366ecdc",
-      "source_id": "standard",
-      "title": "„NewsUp“ bringt Jugendliche und Medien wie den STANDARD zusammen",
-      "url": "https://www.derstandard.at/story/3000000348789/newsup-bringt-jugendliche-und-medien-wie-den-standard-zusammen?ref=rss",
-      "summary": "Bei dem Medienkompetenz-Projekt entwickeln Schulklassen journalistische Formate. Die besten Ideen setzen DER STANDARD, APA, ORF und Wiener Zeitung um",
-      "published_at": "2026-11-12T04:00:00+00:00",
-      "fetched_at": "2026-11-12T08:25:28.373555+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "7a911009394dde0ad5f9",
-      "source_id": "standard",
-      "title": "Mehr als verdoppelt: \"GTA 6\" treibt Preise und Nachfrage nach Konsolen in neue Höhen",
-      "url": "https://www.derstandard.at/story/3000000348726/mehr-als-verdoppelt-gta6-treibt-preise-und-nachfrage-von-konsolen-in-neue-hoehen?ref=rss",
-      "summary": "1500 Euro für eine Playstation 5 Pro? Eine aktuelle Geizhals-Analyse zeigt, wie der \"GTA\"-Hype die Nachfrage über die vergangenen zwei Jahre laufend befeuert hat",
-      "published_at": "2026-11-12T04:00:00+00:00",
-      "fetched_at": "2026-11-12T08:25:28.373555+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "5651d07868d4b8ffbe8d",
-      "source_id": "guardian-us",
-      "title": "Historic US ocean liner sinks near Florida to become world’s largest artificial reef",
-      "url": "https://www.theguardian.com/us-news/2026/nov/11/ss-united-states-sinks-florida-reef",
-      "summary": "SS United States, which set transatlantic speed record during maiden voyage in 1952, is sunk off coast of Destin The historic SS United States has reached the end of its journey at sea, sinking Wednesday off the coast of Destin, Florida, where it will begin a new life underwater as an artificial reef. The nearly 1,000ft American-made vessel, once the fastest ocean liner in the world, was launched in 1952 and made history by setting a transatlantic speed record during its maiden voyage. The ship carried thousands of passengers across the Atlantic over 17 years of operation before being retired ",
-      "published_at": "2026-11-12T03:07:16+00:00",
-      "fetched_at": "2026-11-12T08:25:28.373555+00:00",
-      "date_estimated": false,
-      "author": "Maya Yang",
-      "categories": [
-        "Florida",
-        "Oceans",
-        "Environment",
-        "US news"
-      ],
-      "language": "en",
-      "country": "US",
-      "category": "Politics"
-    },
-    {
-      "id": "8427d1d623af6824f408",
-      "source_id": "guardian-us",
-      "title": "Coyote officials thought they had killed after child attack seen alive in LA neighborhood",
-      "url": "https://www.theguardian.com/us-news/2026/nov/11/coyote-los-angeles",
-      "summary": "Animal that menaced residents was shot in October but then reappeared – and was shot for a second time and killed A coyote that California wildlife officials believed they had euthanized after it bit a toddler and menaced residential pets in a trendy Los Angeles neighborhood was seen alive recently, neighborhood residents said. Wiley, the name some Atwater Village residents gave to the coyote, had vexed the area with its increasingly aggressive and brazen behavior. The wild animal, which scampered through people’s backyards, was reportedly being fed by an unidentified man. Wiley’s presence dre",
-      "published_at": "2026-11-12T03:00:34+00:00",
-      "fetched_at": "2026-11-12T08:25:28.373555+00:00",
-      "date_estimated": false,
-      "author": "Uwa Ede-Osifo in Los Angeles",
-      "categories": [
-        "Los Angeles",
-        "US news",
-        "World news",
-        "California",
-        "Wildlife",
-        "Animals"
-      ],
-      "language": "en",
-      "country": "US",
-      "category": "Politics"
-    },
-    {
-      "id": "0af6ae88c1b873a86ba6",
-      "source_id": "bbc-world",
-      "title": "Australian teen missing in bush for six days rescued alive",
-      "url": "https://www.bbc.co.uk/news/articles/ckvg25zmppglo?at_campaign=rss&at_medium=RSS",
-      "summary": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
-      "published_at": "2026-11-12T02:40:18+00:00",
-      "fetched_at": "2026-11-12T08:25:28.373555+00:00",
-      "date_estimated": false,
-      "author": "bbc-world",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "World"
-    },
-    {
-      "id": "66dd7c8fc2426e9dea02",
-      "source_id": "fox-politics",
-      "title": "Twice-deported United cockpit suspect granted asylum after transgender persecution claim: DHS",
-      "url": "https://www.foxnews.com/politics/twice-deported-united-cockpit-suspect-granted-asylum-transgender-persecution-claim-dhs",
-      "summary": "A twice-deported Honduran national accused of trying to storm the cockpit of a United Airlines flight after allegedly claiming to have a bomb was granted asylum after telling immigration authorities he feared being killed in his home country because he was transgender, the Department of Homeland Security DHS confirmed to Fox News. Rony Alexander Gomez-Alberto, 34, was granted asylum by an immigration judge after his third attempted illegal entry into the United States in 2019, according to DHS, which accused him of exploiting weaknesses in the asylum system. In an excerpt of his asylum applica",
-      "published_at": "2026-11-12T02:03:56+00:00",
-      "fetched_at": "2026-11-12T08:25:28.373555+00:00",
-      "date_estimated": false,
-      "author": "fox-politics",
-      "categories": [
-        "e968b16a-a701-5085-a416-d508a193931e",
-        "fnc",
-        "Fox News",
-        "fox-news/us/immigration/migrant-crime",
-        "fox-news/us/immigration/illegal-immigrants",
-        "fox-news/us/immigration/deportation",
-        "fox-news/politics/executive/homeland-security",
-        "fox-news/us/immigration",
-        "fox-news/us",
-        "fox-news/politics"
-      ],
-      "language": "en",
-      "country": "US",
-      "category": "Politics"
-    },
-    {
-      "id": "152fb09f5ccf9535ad35",
-      "source_id": "fox-politics",
-      "title": "Jeffries leaves door open to investigating major Trump ally as Democrats prepare to take power",
-      "url": "https://www.foxnews.com/politics/jeffries-leaves-door-open-investigating-major-trump-ally-democrats-prepare-take-power",
-      "summary": "House Minority Leader Hakeem Jeffries left the door open to a congressional investigation into Elon Musk as threats to probe both the Department of Government Efficiency (DOGE) and other Trump allies continue to heat up under a new Democratic House majority. \"We're going to follow the facts,\" Jeffries said about the potential investigation. \"We're going to apply the law. We're gonna be guided by the Constitution.\" Musk has emerged as a potential target of Democratic oversight, with some lawmakers calling for scrutiny of his time as head of the DOGE. The calls for an investigation come as Democ",
-      "published_at": "2026-11-12T01:00:00+00:00",
-      "fetched_at": "2026-11-12T08:25:28.373555+00:00",
-      "date_estimated": false,
-      "author": "fox-politics",
-      "categories": [
-        "1ff33161-af56-55bf-be8b-992bacb7dbae",
-        "fnc",
-        "Fox News",
-        "fox-news/politics",
-        "fox-news/person/elon-musk",
-        "fox-news/us/congress",
-        "fox-news/politics/senate/leadership",
-        "fox-news/politics/doge",
-        "fox-news/politics/elections/house-of-representatives",
-        "fox-news/politics/house-of-representatives"
-      ],
-      "language": "en",
-      "country": "US",
-      "category": "Politics"
-    },
-    {
-      "id": "6fd1b245f81b05dde0aa",
-      "source_id": "fox-politics",
-      "title": "Hakeem Jeffries faces progressive holdouts but no rival as House speaker race takes shape",
-      "url": "https://www.foxnews.com/politics/hakeem-jeffries-faces-progressive-holdouts-no-rival-house-speaker-race-takes-shape",
-      "summary": "Familiar faces populate the 110-plus new members of Congress. A few \"freshmen\" are returning to the House. Even if they’ve been gone for a while. There’s Rep.-elect Hilda Solis, D-Calif., who last served in Congress in 2009. She departed to become President Obama’s labor secretary. Rep.-elect Jerry Carl, R-Ala., just left Capitol Hill early last year after losing a primary to Rep. Barry Moore, R-Ala., — who is now moving to the Senate. And then there’s Rep.-elect Melissa Bean, D-Ill. She first won a seat in the House in 2004 and lost in 2010. Now, Bean is back. Her advice to the rookies? REPOR",
-      "published_at": "2026-11-12T00:43:35+00:00",
-      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
-      "date_estimated": false,
-      "author": "fox-politics",
-      "categories": [
-        "e9a2ce54-aefb-523b-866f-50c462a7792b",
-        "fnc",
-        "Fox News",
-        "fox-news/politics",
-        "fox-news/politics/meet-the-new-congress",
-        "fox-news/us/congress",
-        "fox-news/politics/elections/house-of-representatives",
-        "fox-news/politics",
-        "article"
-      ],
-      "language": "en",
-      "country": "US",
-      "category": "Politics"
-    },
-    {
-      "id": "15416376059bdf7d334f",
-      "source_id": "bbc-world",
-      "title": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
-      "url": "https://www.bbc.co.uk/news/articles/ck5ynyw527wdo?at_campaign=rss&at_medium=RSS",
-      "summary": "For Nigerians to feel meaningful improvements, reforms will need to go beyond the promises outlined, analysts say.",
-      "published_at": "2026-11-12T00:36:11+00:00",
-      "fetched_at": "2026-11-12T00:49:49.845679+00:00",
-      "date_estimated": false,
-      "author": "bbc-world",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "World"
     }
   ],
   "stories": [
+    {
+      "id": "story-a3fd611e2a8c4b842b52",
+      "title": "Jeff Bezos says he was 'heavily involved' in casting Robert Pattinson as new 007",
+      "overview": "The Amazon CEO said he was originally \"biased against\" Pattinson \"because he's already so famous\".",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-18T04:00:54+00:00",
+      "updated_at": "2026-11-18T04:00:54+00:00",
+      "article_ids": [
+        "7db9d742858287043b17"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Business",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-64762d5849a43c0cab60",
+      "title": "Die US Air Force sucht historische Speicherkarten für die F-22",
+      "overview": "PC-Karten und CF-Module waren zuletzt um das Jahr 2000 modern. Das ist ein Problem für die Luftstreitkräfte der USA",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-18T04:00:00+00:00",
+      "updated_at": "2026-11-18T04:00:00+00:00",
+      "article_ids": [
+        "7dddde8a241cc0a67372"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-d2cf70bfc2ecab2a9f0b",
+      "title": "Aufgeräumte Wohnung? 17 Gewohnheiten von ordentlichen Menschen helfen",
+      "overview": "Ordnung ist kein großer Aufwand, betonen jene, bei denen dieser Zustand üblicherweise herrscht. Vielmehr ist es die Summe vieler kleiner Gewohnheiten. Das sind die besten Tipps",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-18T04:00:00+00:00",
+      "updated_at": "2026-11-18T04:00:00+00:00",
+      "article_ids": [
+        "ce1f7bfc81520c3c22a1"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-74c29b9eb29acc2430cd",
+      "title": "Voyager 1 ist einen ganzen Lichttag von der Erde entfernt",
+      "overview": "Nach 49 Jahren Flug hat die Nasa-Sonde 25,9 Milliarden Kilometer Abstand erreicht. Kein anderes menschengemachtes Objekt ist je so weit ins All vorgedrungen",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-18T04:00:00+00:00",
+      "updated_at": "2026-11-18T04:00:00+00:00",
+      "article_ids": [
+        "d60f6ed31733067ae1c5"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-deff99b3524f6b7163eb",
+      "title": "Alaska Dem Peltola defeats Sullivan, flipping 9th GOP Senate seat after 'decoy Dan' uproar",
+      "overview": "Democrats flipped a ninth GOP-held Senate seat in the 2026 midterm elections, with former Democratic Rep. Mary Peltola defeating two-term Republican Sen. Dan S. Sullivan in a state that President Donald Trump carried in 2024. Peltola's victory gives Democrats a 56-44 majority in the U.S. Senate. The contest emerged as one of the nation's most closely watched Senate races, with Republicans defending a seat in a state President Donald Trump carried by roughly 13 percentage points in 2024, and Democrats eyeing a rare opportunity to make inroads in traditionally Republican territory. The controver",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-18T03:27:24+00:00",
+      "updated_at": "2026-11-18T03:27:24+00:00",
+      "article_ids": [
+        "685bc9b0c3b7606de4e4"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-2e848db530558f7900e6",
+      "title": "Mary Peltola beats Republican Dan Sullivan in Alaska to give Democrats 56 Senate seats",
+      "overview": "Republican incumbent beaten in race dominated by controversy over second candidate named Dan Sullivan Democrat Mary Peltola will be Alaska’s next senator after beating the Republican incumbent Dan Sullivan, with the result called two weeks on from midterm elections which saw Donald Trump’s party lose ground across the country. Peltola, a former US House lawmaker, is the first Democrat the state has elected to the Senate since 2008. Her victory comes just two years after Alaska voters unseated her while supporting Trump by a double-digit margin. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-18T03:25:14+00:00",
+      "updated_at": "2026-11-18T03:25:14+00:00",
+      "article_ids": [
+        "fdb7dc7af3b8e43e3700"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-656b38d73ee0d649e356",
+      "title": "Waymo pulls driverless taxis from all US freeways",
+      "overview": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-18T03:07:22+00:00",
+      "updated_at": "2026-11-18T03:07:22+00:00",
+      "article_ids": [
+        "cf2400a226547cf17a50"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Business",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-5bb39b307a498bb56cad",
+      "title": "Mamdani's luxury second home tax hits $500M milestone despite thousands of exemptions",
+      "overview": "New York City has billed wealthy second-home owners more than $500 million under Mayor Zohran Mamdani's controversial pied-à-terre tax, even as the number of homeowners receiving bills fell far below initial estimates. \"We've billed more than $500 million to owners of second homes worth more than $5 million,\" Mamdani wrote Tuesday on X. \"That's half a billion dollars to invest in a City that works for all New Yorkers,\" he continued. According to information provided by city officials, the New York City Department of Finance mailed approximately 7,500 tax bills — a sizable drop from the roughly",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-18T03:06:17+00:00",
+      "updated_at": "2026-11-18T03:06:17+00:00",
+      "article_ids": [
+        "507789b1f71343af2993"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-30fc6f2f4a29e4329a16",
+      "title": "Tag team: dual waterspouts appear in San Francisco Bay amid stormy weather",
+      "overview": "Phenomenon is not a common occurrence in the Bay area and inclement weather is expected to continue for few days A pair of waterspouts were recorded recently in the San Francisco Bay area, much to the delight and shock of several observers, as storms pummelled the region. Two waterspouts – vortexes of air and water mist, essentially tornadoes – cut a sheer streak into the sky, as they spiraled above the bay, according to social media footage capturing the weather phenomenon. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-18T02:33:21+00:00",
+      "updated_at": "2026-11-18T02:33:21+00:00",
+      "article_ids": [
+        "5dd47a4cdf4ed82011b9"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-54a569921dc73b65911d",
+      "title": "EU-Einigung: Europas Stromnetze sollen schneller wachsen",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-18T02:22:37+00:00",
+      "updated_at": "2026-11-18T02:22:37+00:00",
+      "article_ids": [
+        "48680e5f29666a279afc"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-bbee0c2fd81533a46a0e",
+      "title": "A 2-0 win over Haiti ends Pochettino’s USMNT tenure with confident hope",
+      "overview": "Christian Pulisic and Julian Hall score in first half US advance to Nations League finals 8-0 on aggregate Mauricio Pochettino departs to take over Man United The US men’s national team is through to the semi-final of the Concacaf Nations League, following Saturday’s 6-0 romp with a workmanlike 2-0 win over Haiti in the Cincinnati-hosted second leg. Christian Pulisic opened the scoring with an acrobatic overhead goal, while 18-year-old Julian Hall scored his fifth goal in six caps since debuting in September. Towering 19-year-old center back Neil Pierre was cap-tied to the US with an appearanc",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-18T02:19:36+00:00",
+      "updated_at": "2026-11-18T02:19:36+00:00",
+      "article_ids": [
+        "cb483eb130a10b47e72c"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-9aed4cdf18076d67a5b7",
+      "title": "Mordplan gegen Trump – über 27 Jahre Haft für Pakistaner",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-18T02:18:19+00:00",
+      "updated_at": "2026-11-18T02:18:19+00:00",
+      "article_ids": [
+        "282fe653af66f8e8a09b"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-4c39a5f0097a13e037ea",
+      "title": "Es herbstelt",
+      "overview": "Jetzt wird‘s Zeit, es sich gemütlich zu machen –mit winterlich angehauchten Accessoires zum Beispiel",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-18T02:00:00+00:00",
+      "updated_at": "2026-11-18T02:00:00+00:00",
+      "article_ids": [
+        "69652406474881827514"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-74c113e964e1e973b884",
+      "title": "White House pulls Trump’s FDA pick Heidi Overton on eve of Senate panel vote",
+      "overview": "The White House pulled Heidi Overton’s nomination to lead the Food and Drug Administration, a White House official confirmed to Fox News, one day before a Senate committee vote. President Donald Trump hailed Overton as a \"ROCKSTAR\" in August when he picked the physician and White House advisor to succeed Marty Makary, who resigned in May. At her September confirmation hearing, Overton clashed with Sen. Bernie Sanders, I-Vt., as he pressed her to endorse universal healthcare as a human right. TRUMP TO NOMINATE DR HEIDI OVERTON AS NEXT FDA COMMISSIONER Senate health committee Chairman Bill Cassi",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-18T01:04:59+00:00",
+      "updated_at": "2026-11-18T01:26:15+00:00",
+      "article_ids": [
+        "dd2c37be275a86d17b90",
+        "945460e233292eb84411"
+      ],
+      "publisher_count": 2,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [
+        "fda",
+        "heidi",
+        "house",
+        "overton",
+        "white"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-218c66f2375854f1d5ee",
+      "title": "Trump administration permanently pulls funding from LA homeless agency over mounting fraud allegations",
+      "overview": "The Trump administration on Monday announced a landmark settlement to permanently cut the scandal-plagued Los Angeles Homeless Services Authority (LAHSA) off from federal funding, citing overwhelming evidence of fraud and years of mismanagement that wasted taxpayer dollars. The U.S. Department of Housing and Urban Development (HUD) said the agreement requires LAHSA to relinquish about $150 million in federal funding and permanently sever its ties to HUD's homelessness funding programs by the end of 2027. \"Organizations that are complicit in this fraud and waste will not get one penny more of f",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-18T00:55:30+00:00",
+      "updated_at": "2026-11-18T00:55:30+00:00",
+      "article_ids": [
+        "1cde1c3989402a201f90"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-a6ccd52c21230dfb9b65",
+      "title": "Pakistani man sentenced to 27 years in US prison over Trump murder plot",
+      "overview": "Asif Merchant, allegedly linked to Iran, found by court to have sought retribution over Qassem Suleimani death A Pakistani man was sentenced to more than 27 years in prison on Tuesday for plotting to assassinate Donald Trump in retaliation for the US killing of Revolutionary Guards commander Qassem Suleimani, the Department of Justice said. Asif Merchant, who had alleged ties to Iran, sought to hire a hitman to assassinate a politician or a government official in the United States, a Brooklyn court found. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-18T00:21:33+00:00",
+      "updated_at": "2026-11-18T00:21:33+00:00",
+      "article_ids": [
+        "02f16420e49fd9a82d4b"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-435e4af7fce3832596d0",
+      "title": "Man armed with axe accused of destroying US military plane at Shannon airport in Ireland",
+      "overview": "Daithi O’Corrain charged with destruction of US government property, after allegedly smashing gauges and cutting hydraulic lines An axe-wielding man breached a security perimeter and destroyed an American military plane while it was parked at an Irish airport, US prosecutors said. Daithi O’Corrain, 48, is accused of cutting hydraulic lines, smashing cockpit gauges and pouring ball bearings into fuel tanks. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-18T00:06:15+00:00",
+      "updated_at": "2026-11-18T00:06:15+00:00",
+      "article_ids": [
+        "62d4f8b8b1364b6495dd"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-7627f45318e11e773217",
+      "title": "Europe plans to catch the next computer chip wave",
+      "overview": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-18T00:00:24+00:00",
+      "updated_at": "2026-11-18T00:00:24+00:00",
+      "article_ids": [
+        "76651120d2bce0ccefef"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Business",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-d83fdb2bde330738af12",
+      "title": "First responders describe rescue efforts after New Orleans boat crash: ‘We have to save each other’",
+      "overview": "More than 100 people were pulled from the Mississippi River in mission being hailed as ‘Mississippi miracle’ Mariners and first responders who took part in the so-called “Mississippi miracle” rescue mission, which saw about 100 people pulled from the water after a tanker collided with a cruise ship, have said they are thankful “everything came out all right”. The collision on Friday between the Atlantic Asphalt tanker and the American Heritage riverboat saw more than 30 people injured. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-17T23:28:22+00:00",
+      "updated_at": "2026-11-17T23:28:22+00:00",
+      "article_ids": [
+        "c754fe554e3006eb8894"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-313d164e03cee1ce1519",
+      "title": "White House blasts 'Trumpcare for All' pitch from far-left El-Sayed who called president 'unserious fool'",
+      "overview": "The White House blasted far-left Michigan Democrat Sen.-elect Abdul El-Sayed's pitch to President Donald Trump to embrace \"Trumpcare for All,\" warning that the Medicare for All proposal would threaten Americans' existing health coverage. \"The Radical Democrats’ socialist proposal for a government takeover of healthcare should really be called ‘Medicare for None’ as it destroys access to the life-saving care Americans rely on daily,\" White House spokeswoman Allison Schuster told Fox News Digital. The sharp response came after El-Sayed, who recently called Trump an \"unserious fool,\" posted a 16-",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-17T23:10:20+00:00",
+      "updated_at": "2026-11-17T23:10:20+00:00",
+      "article_ids": [
+        "b0f7dab1f876f1a80455"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-f3120dc4f66405b848cd",
+      "title": "As Trump and Xi meet, China's AI dreams face an unexpected hurdle: the Nvidia spy scandal",
+      "overview": "China worries the scandal could ramp up pressure on the US to further restrict the sale of advanced chips.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-17T23:02:12+00:00",
+      "updated_at": "2026-11-17T23:02:12+00:00",
+      "article_ids": [
+        "a0216c6ea54c79d53fcb"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-ee52a14acd7c78237c1c",
+      "title": "Standardrätsel E 11446",
+      "overview": "Täglich neu, exklusiv für Smart-Abonnent:innen: Das knifflige Quizkultur-Rätsel des STANDARD",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-17T23:01:00+00:00",
+      "updated_at": "2026-11-17T23:01:00+00:00",
+      "article_ids": [
+        "c27ec37b496549363f73"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-c50d4cd98caf3f0eca02",
+      "title": "Wenn Lesen gefährlich wird",
+      "overview": "Kulturelle und künstlerische Initiativen arbeiten in repressiven politischen Umfeldern oft unter schwierigsten Bedingungen. Die zweitägige Konferenz „In Touch“ im Wiener MuseumsQuartier brachte mehrere solcher Projekte zusammen – zu Gast waren die Gründerin eines geheimen Lesezirkels in Afghanistan, der den Taliban trotzt, sowie der russische Starregisseur Kirill Serebrennikow.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-17T22:51:24+00:00",
+      "updated_at": "2026-11-17T22:51:24+00:00",
+      "article_ids": [
+        "2442a0e9538d2adaf721"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-8b044ed04cc337e82542",
+      "title": "Philippines police ask prosecutors to charge Thomas Markle over child sex abuse material",
+      "overview": "Markle is being held in custody in the US after one charge and has previously denied all of the allegations.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-17T22:44:15+00:00",
+      "updated_at": "2026-11-17T22:44:15+00:00",
+      "article_ids": [
+        "ee282013aa06fdf3a5d5"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-cd85f5c710af32c72266",
+      "title": "Former world boxing champion Jorge Linares faces deportation after ICE arrest",
+      "overview": "Venezuelan boxer, 41, held at El Paso facility Lawyers say three-weight champion is in US legally ICE alleges Linares overstayed authorized visit Former world boxing champion Jorge Linares has been detained by US immigration authorities in Texas, despite his lawyers insisting the retired Venezuelan fighter is legally in the country. Linares is being held at the El Paso Processing Center, according to federal detention records reviewed by the San Antonio Express-News. US Immigration and Customs Enforcement (ICE) said he was arrested at El Paso International Airport on Sunday after overstaying t",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-17T22:43:15+00:00",
+      "updated_at": "2026-11-17T22:43:15+00:00",
+      "article_ids": [
+        "00c3d3ed638e07cd88b6"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-5ae4f6a4900be49e10cb",
+      "title": "Large plume of gas seen at California landfill after explosion – video",
+      "overview": "A gas explosion occurred at the Chiquita Canyon landfill in Castaic, California, shooting waste and gas into the air. According to the Los Angeles county fire department, six people were taken to hospital with minor injuries, and air quality monitor showed the gas release did not pose a hazard to the community Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-17T22:34:39+00:00",
+      "updated_at": "2026-11-17T22:34:39+00:00",
+      "article_ids": [
+        "94cbbefa8060977e75b7"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-dcf5d6b70c1521c132f1",
+      "title": "Zverev nach Sieg über Shelton im Halbfinale der ATP Finals",
+      "overview": "Der Weltranglistenerste bezwang den US-Amerikaner 6:2,7:6(4). Fils besiegte Jodar",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-17T22:32:42+00:00",
+      "updated_at": "2026-11-17T22:32:42+00:00",
+      "article_ids": [
+        "63939c32d8d58e32daef"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
     {
       "id": "story-698e74d18cd8a72a51aa",
       "title": "New Nvidia boss says momentum goes on as firm reports bumper results after Huang quits",
@@ -27152,6 +28196,42 @@
       "category": "Politics",
       "countries": [
         "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-28c1bc268ca91cfc3b11",
+      "title": "Government backs welfare shake-up to prevent 'lost generation'",
+      "overview": "Ex-minister Alan Milburn has set out plans to divert spending from benefits towards job support.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-17T18:43:05+00:00",
+      "updated_at": "2026-11-17T18:43:05+00:00",
+      "article_ids": [
+        "f80729ae2abbe5819175"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Business",
+      "countries": [
+        "UK"
       ],
       "language": "en",
       "common_terms": [],
@@ -33225,6 +34305,42 @@
       "ai": null
     },
     {
+      "id": "story-33d21f42d4ea14376f63",
+      "title": "US-Präsident Trump zu Deutscher Bank: \"Illegal, was sie gemacht haben\"",
+      "overview": "Recherchen zu \"Inside Deutsche Bank\" zeigen unter anderem, dass die Bank versehentlich Trumps Steuerdaten verschickt hat. Das Institut sagt zu den Berichten, es handle sich um Altlasten",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-17T09:28:06+00:00",
+      "updated_at": "2026-11-17T09:28:06+00:00",
+      "article_ids": [
+        "78a387d2aef686b8ca53"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
       "id": "story-bde0e3294bbfdbfa8375",
       "title": "\"Superman\" Alcaraz schwebt über der Konkurrenz: \"Lust auf mehr\"",
       "overview": "Carlos Alcaraz begeistert zum Start der ATP Finals. Der Spanier scheint auf dem Weg zum Titel kaum zu bremsen",
@@ -34059,6 +35175,42 @@
       "ai": null
     },
     {
+      "id": "story-b9c7cb9c1d51947200c0",
+      "title": "\"Monopol\" kürt Holzinger zur einflussreichsten Künstlerin des Jahres",
+      "overview": "Die österreichische Performancekünstlerin führt das jährliche Ranking des Magazins an. \"Seaworld Venice\" wurde zum meistbeachteten Beitrag auf der Venedig-Biennale",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-17T07:19:03+00:00",
+      "updated_at": "2026-11-17T07:19:03+00:00",
+      "article_ids": [
+        "9dbf7a66e874b8f75994"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
       "id": "story-08f7ac0d04f6c4b897ed",
       "title": "RTL kappt seine Ziele für 2026: Mauer Werbemarkt bremst TV-Geschäft",
       "overview": "Streaming-Umsatz zieht kräftig an",
@@ -34211,6 +35363,42 @@
       "updated_at": "2026-11-17T07:00:00+00:00",
       "article_ids": [
         "2186e91e85f663175f74"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-3b0ee8749e3999ba2621",
+      "title": "Wo gibt es die besten Rezepte für österreichische Weihnachtskekse?",
+      "overview": "Mein Forum: Diskutieren Sie dieses Thema mit der STANDARD-Community",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-17T07:00:00+00:00",
+      "updated_at": "2026-11-17T07:00:00+00:00",
+      "article_ids": [
+        "4de9198222f06781f20c"
       ],
       "publisher_count": 1,
       "article_counts": {
@@ -34491,6 +35679,42 @@
       "ai": null
     },
     {
+      "id": "story-8fb2e83d68db9e26efdf",
+      "title": "Projekt Erbfolge: Die erlassenen Steuern des Springer-Chefs Mathias Döpfner",
+      "overview": "Geleakte Dokumente belegen, wie Verlegerin Friede Springer Axel-Springer-Boss Mathias Döpfner ein Milliarden-Aktienpaket übertrug – auf das er offenbar kaum Steuern bezahlen musste",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-17T06:00:00+00:00",
+      "updated_at": "2026-11-17T06:00:00+00:00",
+      "article_ids": [
+        "2bb1ba5f1bd9b86d18ef"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
       "id": "story-f239d1299b8f09af80e2",
       "title": "\"Inside Deutsche Bank\": Die Recherche erklärt",
       "overview": "Was das Leak enthält, woher die Daten stammen und was die Whistleblower sagen: die wichtigsten Antworten im Überblick",
@@ -34643,6 +35867,42 @@
       "updated_at": "2026-11-17T06:00:00+00:00",
       "article_ids": [
         "7e43df3f91d64d3b5f95"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-0be6068a419f68f81c2d",
+      "title": "Geheime Dokumente zeigen: Deutsche Bank bewegte rund 580 Millionen Dollar für Epstein",
+      "overview": "Interne Unterlagen offenbaren, in welchem Ausmaß die Bank für den Sexualstraftäter tätig war – und wie ihre Kontrollmechanismen versagten",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-17T06:00:00+00:00",
+      "updated_at": "2026-11-17T06:00:00+00:00",
+      "article_ids": [
+        "8c75541bafc25e4db940"
       ],
       "publisher_count": 1,
       "article_counts": {
@@ -42175,6 +43435,42 @@
       "updated_at": "2026-11-16T10:00:00+00:00",
       "article_ids": [
         "0d57105b5741463dadc5"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-3c54959020d11d07ca37",
+      "title": "Wie viel Lernarbeit bleibt bei euch als Eltern hängen?",
+      "overview": "Mein Forum: Diskutieren Sie dieses Thema mit der STANDARD-Community",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-16T10:00:00+00:00",
+      "updated_at": "2026-11-16T10:00:00+00:00",
+      "article_ids": [
+        "5471795d4765e65f4d81"
       ],
       "publisher_count": 1,
       "article_counts": {
@@ -61635,13 +62931,12 @@
     },
     {
       "id": "story-480de14b7ed5a43d1aab",
-      "title": "Famed ship SS United States deliberately sunk off Florida coast to become a reef",
-      "overview": "Activists wanted the historic liner to be turned into a museum, but it will instead become the world's largest artificial ocean reef.",
+      "title": "Watch: Divers explore US ship sunk off Florida coast to create new reef",
+      "overview": "The ship was intentionally sunk off the coast of Florida in order to create the world's largest artificial ocean reef.",
       "title_kind": "source_headline",
-      "first_published": "2026-11-12T04:03:13+00:00",
+      "first_published": "2026-11-13T15:09:40+00:00",
       "updated_at": "2026-11-13T15:09:40+00:00",
       "article_ids": [
-        "943e5a37b13c4ea1a5a9",
         "add51d22f25e4611e5b4"
       ],
       "publisher_count": 1,
@@ -61649,7 +62944,7 @@
         "left": 0,
         "centre": 0,
         "right": 0,
-        "unknown": 2
+        "unknown": 1
       },
       "publisher_counts": {
         "left": 0,
@@ -61662,14 +62957,7 @@
         "UK"
       ],
       "language": "en",
-      "common_terms": [
-        "coast",
-        "florida",
-        "off",
-        "reef",
-        "ship",
-        "sunk"
-      ],
+      "common_terms": [],
       "limitations": [
         "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
         "Insufficient coverage for comparison."
@@ -62187,19 +63475,18 @@
       "ai": null
     },
     {
-      "id": "story-d9ecef2e0e2f617c5660",
-      "title": "Europäer haben viele Köche, aber kein Gesicht bei Ukraine-Gesprächen",
-      "overview": "Eine Serie von Treffen der Regierungschefs soll klären: Wer mit Trump und Putin redet, wie die EU-Finanzierung bis 2035 aussehen soll und wer EZB-Chef wird",
+      "id": "story-c6f61778436686dc5f28",
+      "title": "Gruppe von fünf Staaten vertritt Europa bei Ukraine-Gesprächen",
+      "overview": "Entscheidung beim Gipfel in Dublin. Der Ratspräsident soll in zwei Wochen Vorschläge zu Strategie und EU-Budget machen",
       "title_kind": "source_headline",
-      "first_published": "2026-11-12T04:00:00+00:00",
+      "first_published": "2026-11-13T14:30:36+00:00",
       "updated_at": "2026-11-13T14:30:36+00:00",
       "article_ids": [
-        "0108d62b89b27b6af509",
-        "9d0d0858704b586758ad"
+        "295e102626fd86147d10"
       ],
       "publisher_count": 1,
       "article_counts": {
-        "left": 2,
+        "left": 1,
         "centre": 0,
         "right": 0,
         "unknown": 0
@@ -62215,13 +63502,7 @@
         "AT"
       ],
       "language": "de",
-      "common_terms": [
-        "aber",
-        "bei",
-        "europäer",
-        "gesprächen",
-        "ukraine"
-      ],
+      "common_terms": [],
       "limitations": [
         "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
         "Insufficient coverage for comparison."
@@ -62230,14 +63511,14 @@
       "ai": null
     },
     {
-      "id": "story-c6f61778436686dc5f28",
-      "title": "Gruppe von fünf Staaten vertritt Europa bei Ukraine-Gesprächen",
-      "overview": "Entscheidung beim Gipfel in Dublin. Der Ratspräsident soll in zwei Wochen Vorschläge zu Strategie und EU-Budget machen",
+      "id": "story-d9ecef2e0e2f617c5660",
+      "title": "Europäer bei Ukraine-Gesprächen dabei, aber uneinig, wer sie vertritt",
+      "overview": "Keine Entscheidung beim Gipfel in Dublin: Ratspräsident und Favorit Costa soll in zwei Wochen Vorschläge zu Strategie und Finanzierung aus dem EU-Budget machen",
       "title_kind": "source_headline",
       "first_published": "2026-11-13T14:30:36+00:00",
       "updated_at": "2026-11-13T14:30:36+00:00",
       "article_ids": [
-        "295e102626fd86147d10"
+        "9d0d0858704b586758ad"
       ],
       "publisher_count": 1,
       "article_counts": {
@@ -62437,6 +63718,42 @@
         "UK"
       ],
       "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-4c51da1f96c5700b9934",
+      "title": "Krankenstand für GTA 6?",
+      "overview": "Mein Forum: Diskutieren Sie dieses Thema mit der STANDARD-Community",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-13T14:05:58+00:00",
+      "updated_at": "2026-11-13T14:05:58+00:00",
+      "article_ids": [
+        "d02c6235778c430f2dde"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
       "common_terms": [],
       "limitations": [
         "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
@@ -64308,19 +65625,18 @@
     },
     {
       "id": "story-cd269d5dacce42ab1064",
-      "title": "Die STANDARD Wortsuche vom 12. November",
+      "title": "Die STANDARD Wortsuche vom 13. November",
       "overview": "Montag bis Freitag: Begriffe aus einem aktuellen STANDARD Artikel verbergen sich horizontal, vertikal oder diagonal im Buchstabengitter",
       "title_kind": "source_headline",
-      "first_published": "2026-11-12T05:00:00+00:00",
+      "first_published": "2026-11-13T05:00:00+00:00",
       "updated_at": "2026-11-13T11:00:00+00:00",
       "article_ids": [
-        "e75bfba62b11b7cfc02a",
         "f8aad8e01a537c96c60a",
         "99230a66e3c333b60a53"
       ],
       "publisher_count": 1,
       "article_counts": {
-        "left": 3,
+        "left": 2,
         "centre": 0,
         "right": 0,
         "unknown": 0
@@ -64339,8 +65655,7 @@
       "common_terms": [
         "november",
         "standard",
-        "vom",
-        "wortsuche"
+        "vom"
       ],
       "limitations": [
         "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
@@ -70715,18 +72030,17 @@
     },
     {
       "id": "story-958337edf69c114f6620",
-      "title": "Historic US ocean liner sinks near Florida to become world’s largest artificial reef",
-      "overview": "SS United States, which set transatlantic speed record during maiden voyage in 1952, is sunk off coast of Destin The historic SS United States has reached the end of its journey at sea, sinking Wednesday off the coast of Destin, Florida, where it will begin a new life underwater as an artificial reef. The nearly 1,000ft American-made vessel, once the fastest ocean liner in the world, was launched in 1952 and made history by setting a transatlantic speed record during its maiden voyage. The ship carried thousands of passengers across the Atlantic over 17 years of operation before being retired ",
+      "title": "Historic ocean liner sunk off the coast of Florida to become artificial reef – video",
+      "overview": "The historic SS United States ocean liner has marked the end of its journey at sea, as it was sunk off the coast of Florida to become the 'world's largest artificial reef', according to Okaloosa county. Once the fastest ocean liner in the world, the ship took around five hours to sink. It will rest on the seafloor at a depth of approximately 180ft, with the ship’s upper decks sitting about 55ft below the surface Historic US ocean liner sinks near Florida to become world’s largest artificial reef Continue reading...",
       "title_kind": "source_headline",
-      "first_published": "2026-11-12T03:07:16+00:00",
+      "first_published": "2026-11-12T15:45:09+00:00",
       "updated_at": "2026-11-12T15:45:09+00:00",
       "article_ids": [
-        "5651d07868d4b8ffbe8d",
         "6596ec7bf13616965844"
       ],
       "publisher_count": 1,
       "article_counts": {
-        "left": 2,
+        "left": 1,
         "centre": 0,
         "right": 0,
         "unknown": 0
@@ -70742,15 +72056,7 @@
         "US"
       ],
       "language": "en",
-      "common_terms": [
-        "artificial",
-        "become",
-        "florida",
-        "historic",
-        "liner",
-        "ocean",
-        "reef"
-      ],
+      "common_terms": [],
       "limitations": [
         "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
         "Insufficient coverage for comparison."
@@ -75566,1100 +76872,6 @@
       ],
       "exposures": [],
       "ai": null
-    },
-    {
-      "id": "story-022a54c6c95177cb5a77",
-      "title": "Are branded cold and flu tablets really worth the extra money?",
-      "overview": "Are branded cold and flu tablets REALLY worth the extra money?",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-12T06:17:06+00:00",
-      "updated_at": "2026-11-12T06:17:06+00:00",
-      "article_ids": [
-        "c138d9d4c6c11947ebf2"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "Business",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-9254e60163ca72392d43",
-      "title": "Gas bills to rise as Middle East turmoil persists",
-      "overview": "Gas bills will increase by about 5% from 1 December, Island Energy announces.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-12T06:15:36+00:00",
-      "updated_at": "2026-11-12T06:15:36+00:00",
-      "article_ids": [
-        "3bdba375b409210fba66"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "Business",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-e141568d6663fb92b991",
-      "title": "Israeli strike on hospital kills at least five Palestinians, Gaza civil defence agency says",
-      "overview": "The strike hit the surgery department of Nasser Hospital, injuring at least 20 people and causing extensive damage, a spokesperson says.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-12T06:12:05+00:00",
-      "updated_at": "2026-11-12T06:12:05+00:00",
-      "article_ids": [
-        "c001676a1ed31cbfb311"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-5265f1913d9c166da180",
-      "title": "Kultregisseur Nicolas Winding Refn: \"Ich war 25 Minuten lang tot\"",
-      "overview": "Nach zehn Jahren Pause kehrt der \"Drive\"-Regisseur mit dem Neon-Albtraum „Her Private Hell“ zurück. Ein Nahtoderlebnis brachte die kreative Flamme wieder zum Lodern",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-12T06:00:00+00:00",
-      "updated_at": "2026-11-12T06:00:00+00:00",
-      "article_ids": [
-        "1be6118710d00b9136ce"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-121e353a2d7c8f71bc1c",
-      "title": "Nach den Wahlen wird nun in Serbien bei Polizei und Medien aufgeräumt",
-      "overview": "In zahlreichen Institutionen werden nach der Entmachtung des Vučić-Apparats Verfahren wegen Amtsmissbrauchs eingeleitet, etliche Festnahmen schon in den ersten Tagen nach der Wahl",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-12T06:00:00+00:00",
-      "updated_at": "2026-11-12T06:00:00+00:00",
-      "article_ids": [
-        "bbded9e3343de6c2a7e0"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-189ebc317ae3951ba3ac",
-      "title": "Australien: Im Outback vermisster 17-Jähriger gerettet",
-      "overview": "",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-12T05:53:56+00:00",
-      "updated_at": "2026-11-12T05:53:56+00:00",
-      "article_ids": [
-        "a1cedd2b7ea8ee5bc563"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-961f91ea7396eade1734",
-      "title": "Lenzing prüft Kaufangebote für Standort im Südburgenland",
-      "overview": "Der oberösterreichische Faserhersteller schließt seinen Standort in Heiligenkreuz. Dafür habe man bereits \"mehrere unverbindliche Kaufangebote\" bekommen",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-12T05:44:57+00:00",
-      "updated_at": "2026-11-12T05:44:57+00:00",
-      "article_ids": [
-        "d26715ed376a52b62ba0"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-5d0bf38e5a3a61335e99",
-      "title": "Mögliches Treffen mit Putin: US-Verhandler Kushner und Witkoff in Moskau",
-      "overview": "Nach den trilateralen Gesprächen zwischen der Ukraine, Russland und den USA gibt es weitere Angriffe. Die USA verhandeln weiter mit Russland",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-12T05:12:20+00:00",
-      "updated_at": "2026-11-12T05:39:26+00:00",
-      "article_ids": [
-        "20c6e563da333a4d6b10",
-        "fa43256d0652e01b9df6"
-      ],
-      "publisher_count": 2,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [
-        "kushner",
-        "putin",
-        "treffen",
-        "witkoff"
-      ],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-9ea0be6790a06724375c",
-      "title": "Saudi-Arabien: Zwei Raketen nahe Mekka abgefangen",
-      "overview": "",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-12T05:32:15+00:00",
-      "updated_at": "2026-11-12T05:32:15+00:00",
-      "article_ids": [
-        "f461e90dbe489e47c84c"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-71f0c8d062bcd3ddea6d",
-      "title": "Bericht: Mehrere Tote bei Angriff auf Spital in Gaza",
-      "overview": "",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-12T05:29:08+00:00",
-      "updated_at": "2026-11-12T05:29:08+00:00",
-      "article_ids": [
-        "d0bbf9c244b5683d7ea8"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-1f3a67fd31acbb410c73",
-      "title": "Mindestens zwei Tote bei Hauseinsturz in New York",
-      "overview": "Ein mehrstöckiges Wohnhaus im Stadtteil Brooklyn stürzte ein. Neben den Toten gibt es 17 weitere Verletzte",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-12T04:54:16+00:00",
-      "updated_at": "2026-11-12T05:25:11+00:00",
-      "article_ids": [
-        "630064ce3b1eea3ecc5c",
-        "c2829c856775e340185f"
-      ],
-      "publisher_count": 2,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [
-        "bei",
-        "hauseinsturz",
-        "mindestens",
-        "tote",
-        "york",
-        "zwei"
-      ],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-66e280d673b41f547fff",
-      "title": "Mehrere Tote gemeldet: Israel griff Krankenhaus in Gaza an",
-      "overview": "Mindestens sechs Menschen sollen beim Angriff auf das Nasser-Krankenhaus verstorben sein. Israel will einen hochrangigen Hamas-Vertreter attackiert haben",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-12T05:19:35+00:00",
-      "updated_at": "2026-11-12T05:19:35+00:00",
-      "article_ids": [
-        "b59fdd0df0eb492225c1"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-78ce8edc4fd5037d8547",
-      "title": "New York building collapse kills at least two, officials say",
-      "overview": "A dangerous search for survivors continues after a three-storey building collapsed in Brooklyn on Wednesday afternoon.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-12T05:12:56+00:00",
-      "updated_at": "2026-11-12T05:12:56+00:00",
-      "article_ids": [
-        "d2de42898a91adef0436"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-5f27daefaef7f2b72331",
-      "title": "Ölkonzern Exxon Mobil geht rechtlich gegen CO2-Regeln der EU vor",
-      "overview": "Hintergrund ist das Netto-Null-Industrie-Gesetz mit dem große Öl- und Gasunternehmen bis 2030 zum Aufbau von Speicherkapazitäten für Kohlendioxid beitragen sollen",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-12T05:08:52+00:00",
-      "updated_at": "2026-11-12T05:08:52+00:00",
-      "article_ids": [
-        "3207afd2b1877e0efcb8"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-8876a3cf11caadf4f9fe",
-      "title": "Streit über weitere Ukraine-Hilfen",
-      "overview": "Gleich zwei europäische Gipfeltreffen in Dublin beschäftigen sich diese Woche mit dem weiteren Beistand für die Ukraine. Die Staats- und Regierungschefs der EU kommen am Donnerstag zunächst auf dem Gipfel der Europäischen Politischen Gemeinschaft (EPG) zusammen. Hier nehmen neben den 27 EU-Ländern noch rund 20 weitere Staaten teil. Am Freitag steht dann der informelle EU-Gipfel in der irischen Hauptstadt an. Kurz vor den Gipfeltreffen entbrannte erneut ein heftiger Streit über die künftige Unterstützung für die Ukraine.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-12T05:08:10+00:00",
-      "updated_at": "2026-11-12T05:08:10+00:00",
-      "article_ids": [
-        "cd3dc8b86c89d2cf7d49"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-1b06372d4d80b81f655b",
-      "title": "Laut am Friedhof gelacht: Soldat weist Gruppe um US-Verteidigungsminister Hegseth zurecht",
-      "overview": "Auf einem Video ist lautstark zu hören, wie der Soldat auf dem Nationalfriedhof Arlington eine Besuchergruppe um Pete Hegseth zur Ordnung aufruft. Nach einem gemeinsamen Foto war lautes Lachen zu hören",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-12T05:01:41+00:00",
-      "updated_at": "2026-11-12T05:01:41+00:00",
-      "article_ids": [
-        "9117c55be23300cd2bc5"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-5ea90f0fa16fb95b03a5",
-      "title": "\"Jossi\", \"Eco Spezial\", \"Up in the Air\": TV-Tipps für Donnerstag",
-      "overview": "Außerdem \"Stöckl\", eine Dokumentation über einen Autopionier und eine Reportage über die verlassenen Kinder des Westbalkans",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-12T05:00:00+00:00",
-      "updated_at": "2026-11-12T05:00:00+00:00",
-      "article_ids": [
-        "3101bb3bb7afbfb716a3"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-7097e1abbdb4ad7b8b1c",
-      "title": "Kann man zu hohe Ansprüche bei der Partnersuche haben?",
-      "overview": "Du bist zu anspruchsvoll! Das hören Singles immer wieder. Doch ist das wirklich ein Problem? Eine Psychologin erklärt, wie sich manche Menschen selbst im Weg stehen",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-12T05:00:00+00:00",
-      "updated_at": "2026-11-12T05:00:00+00:00",
-      "article_ids": [
-        "9a5910d23968f3c81ef4"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-160c14b07fda28ad4c70",
-      "title": "Nvidia-Verwaltungsrat berät derzeit über Ablöse von CEO Huang",
-      "overview": "Die Affäre mit einer mutmaßlichen chinesischen Spionin könnte Huang seinen Job kosten. Er soll auch mit einer im unterstehenden Mitarbeiterin ein Verhältnis gehabt haben",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-12T04:44:24+00:00",
-      "updated_at": "2026-11-12T04:44:24+00:00",
-      "article_ids": [
-        "48ac4c006756bf4e0669"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-dcf30eb4b7c4fe7c9442",
-      "title": "Oberösterreichs FPÖ-Vizechef bekam Sozialwohnung bei Linz – um 85.000 Euro unter dem Marktwert",
-      "overview": "FPÖ-Infrastrukturlandesrat Günther Steinkellner, Landesparteivize hinter Manfred Haimbuchner, kaufte 2024 eine Sozialwohnung von einer gemeinnützigen Genossenschaft – weit unter dem festgesetzten Marktwert",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-12T04:30:00+00:00",
-      "updated_at": "2026-11-12T04:30:00+00:00",
-      "article_ids": [
-        "664b876a7402bc897d0e"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-7aa8fb51c8fe8d066349",
-      "title": "Die Landeschefs und Ryanair hebeln die Flugabgabe aus – ein Fehler mit Folgen",
-      "overview": "Die Landeschefs haben bei ihrem Kampf gegen die Flugabgabe weniger die Interessen der Fluggäste im Blick als ihre Dividenden",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-12T04:00:00+00:00",
-      "updated_at": "2026-11-12T04:00:00+00:00",
-      "article_ids": [
-        "38c637d360dbe6bc2dd1"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-ebbc311c6fcd3adc9680",
-      "title": "Mehr als verdoppelt: \"GTA 6\" treibt Preise und Nachfrage nach Konsolen in neue Höhen",
-      "overview": "1500 Euro für eine Playstation 5 Pro? Eine aktuelle Geizhals-Analyse zeigt, wie der \"GTA\"-Hype die Nachfrage über die vergangenen zwei Jahre laufend befeuert hat",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-12T04:00:00+00:00",
-      "updated_at": "2026-11-12T04:00:00+00:00",
-      "article_ids": [
-        "7a911009394dde0ad5f9"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-4741718e13cdda5e8170",
-      "title": "Forscher finden am \"Ende der Welt\" mögliches Lager legendärer Schiffbrüchiger",
-      "overview": "Auf einer Insel östlich der Südspitze Südamerikas haben Archäologen Spuren einer Schiffskatastrophe des 19. Jahrhunderts und eines Überlebenskampfs entdeckt",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-12T04:00:00+00:00",
-      "updated_at": "2026-11-12T04:00:00+00:00",
-      "article_ids": [
-        "9b64b995b294801d7b01"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-310ed416dee1a9d466a2",
-      "title": "„NewsUp“ bringt Jugendliche und Medien wie den STANDARD zusammen",
-      "overview": "Bei dem Medienkompetenz-Projekt entwickeln Schulklassen journalistische Formate. Die besten Ideen setzen DER STANDARD, APA, ORF und Wiener Zeitung um",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-12T04:00:00+00:00",
-      "updated_at": "2026-11-12T04:00:00+00:00",
-      "article_ids": [
-        "b73835675186c366ecdc"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-a2fea78e8e775e6064c3",
-      "title": "Coyote officials thought they had killed after child attack seen alive in LA neighborhood",
-      "overview": "Animal that menaced residents was shot in October but then reappeared – and was shot for a second time and killed A coyote that California wildlife officials believed they had euthanized after it bit a toddler and menaced residential pets in a trendy Los Angeles neighborhood was seen alive recently, neighborhood residents said. Wiley, the name some Atwater Village residents gave to the coyote, had vexed the area with its increasingly aggressive and brazen behavior. The wild animal, which scampered through people’s backyards, was reportedly being fed by an unidentified man. Wiley’s presence dre",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-12T03:00:34+00:00",
-      "updated_at": "2026-11-12T03:00:34+00:00",
-      "article_ids": [
-        "8427d1d623af6824f408"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-aeebe22735ef077dc4a5",
-      "title": "Australian teen missing in bush for six days rescued alive",
-      "overview": "The 17-year-old's mum has joked that he is \"grounded for life\" and \"never leaving the house again\".",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-12T02:40:18+00:00",
-      "updated_at": "2026-11-12T02:40:18+00:00",
-      "article_ids": [
-        "0af6ae88c1b873a86ba6"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-e9b15d8098feec1cfaec",
-      "title": "Twice-deported United cockpit suspect granted asylum after transgender persecution claim: DHS",
-      "overview": "A twice-deported Honduran national accused of trying to storm the cockpit of a United Airlines flight after allegedly claiming to have a bomb was granted asylum after telling immigration authorities he feared being killed in his home country because he was transgender, the Department of Homeland Security DHS confirmed to Fox News. Rony Alexander Gomez-Alberto, 34, was granted asylum by an immigration judge after his third attempted illegal entry into the United States in 2019, according to DHS, which accused him of exploiting weaknesses in the asylum system. In an excerpt of his asylum applica",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-12T02:03:56+00:00",
-      "updated_at": "2026-11-12T02:03:56+00:00",
-      "article_ids": [
-        "66dd7c8fc2426e9dea02"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 1,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 1,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-2d26fb666649aba54d5f",
-      "title": "Jeffries leaves door open to investigating major Trump ally as Democrats prepare to take power",
-      "overview": "House Minority Leader Hakeem Jeffries left the door open to a congressional investigation into Elon Musk as threats to probe both the Department of Government Efficiency (DOGE) and other Trump allies continue to heat up under a new Democratic House majority. \"We're going to follow the facts,\" Jeffries said about the potential investigation. \"We're going to apply the law. We're gonna be guided by the Constitution.\" Musk has emerged as a potential target of Democratic oversight, with some lawmakers calling for scrutiny of his time as head of the DOGE. The calls for an investigation come as Democ",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-12T01:00:00+00:00",
-      "updated_at": "2026-11-12T01:00:00+00:00",
-      "article_ids": [
-        "152fb09f5ccf9535ad35"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 1,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 1,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-bf6ad6bb1abb81aa6197",
-      "title": "Hakeem Jeffries faces progressive holdouts but no rival as House speaker race takes shape",
-      "overview": "Familiar faces populate the 110-plus new members of Congress. A few \"freshmen\" are returning to the House. Even if they’ve been gone for a while. There’s Rep.-elect Hilda Solis, D-Calif., who last served in Congress in 2009. She departed to become President Obama’s labor secretary. Rep.-elect Jerry Carl, R-Ala., just left Capitol Hill early last year after losing a primary to Rep. Barry Moore, R-Ala., — who is now moving to the Senate. And then there’s Rep.-elect Melissa Bean, D-Ill. She first won a seat in the House in 2004 and lost in 2010. Now, Bean is back. Her advice to the rookies? REPOR",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-12T00:43:35+00:00",
-      "updated_at": "2026-11-12T00:43:35+00:00",
-      "article_ids": [
-        "6fd1b245f81b05dde0aa"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 1,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 1,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-e9a073c7c84ed8ea7d0d",
-      "title": "Nigeria's president launches re-election manifesto but can he regain voters' trust?",
-      "overview": "For Nigerians to feel meaningful improvements, reforms will need to go beyond the promises outlined, analysts say.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-12T00:36:11+00:00",
-      "updated_at": "2026-11-12T00:36:11+00:00",
-      "article_ids": [
-        "15416376059bdf7d334f"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
     }
   ],
   "instruments": [
@@ -76784,16 +76996,16 @@
   "markets": [],
   "status": {
     "state": "ok",
-    "attempted_at": "2026-11-17T22:28:25.657523+00:00",
-    "last_success_at": "2026-11-17T22:28:25.657523+00:00",
+    "attempted_at": "2026-11-18T04:30:26.448479+00:00",
+    "last_success_at": "2026-11-18T04:30:26.448479+00:00",
     "errors": [],
     "source_results": {
-      "bbc-world": "27 entries",
+      "bbc-world": "28 entries",
       "guardian-us": "33 entries",
       "fox-politics": "25 entries",
-      "bbc-business": "38 entries",
-      "orf": "26 entries",
-      "standard": "148 entries"
+      "bbc-business": "37 entries",
+      "orf": "28 entries",
+      "standard": "149 entries"
     },
     "market_status": "Market price data not configured",
     "ai_status": "AI enrichment not configured"
