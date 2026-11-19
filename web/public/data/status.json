@@ -1,13 +1,13 @@
 {
   "state": "ok",
-  "attempted_at": "2026-11-18T22:05:41.013857+00:00",
-  "last_success_at": "2026-11-18T22:05:41.013857+00:00",
+  "attempted_at": "2026-11-19T03:38:53.096991+00:00",
+  "last_success_at": "2026-11-19T03:38:53.096991+00:00",
   "errors": [],
   "source_results": {
-    "bbc-world": "34 entries",
+    "bbc-world": "33 entries",
     "guardian-us": "33 entries",
     "fox-politics": "25 entries",
-    "bbc-business": "28 entries",
+    "bbc-business": "31 entries",
     "orf": "26 entries",
     "standard": "148 entries"
   },
