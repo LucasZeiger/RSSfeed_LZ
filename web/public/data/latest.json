@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "mode": "live",
-  "generated_at": "2026-11-19T22:15:34.896397+00:00",
+  "generated_at": "2026-11-20T03:33:12.607823+00:00",
   "refresh_minutes": 60,
   "sources": [
     {
@@ -90,6 +90,516 @@
     }
   ],
   "articles": [
+    {
+      "id": "84a3b81728044e31f367",
+      "source_id": "fox-politics",
+      "title": "Senate Republicans break through Washington gridlock with massive American energy, data center overhaul",
+      "url": "https://www.foxnews.com/politics/senate-republicans-break-through-washington-gridlock-massive-american-energy-data-center-overhaul",
+      "summary": "Senate Republicans scored a major win after advancing a massive bill that would overhaul America’s permitting system in a bid to turbocharge infrastructure and energy development in the country. The Senate advanced the Bipartisan American Affordability and Jobs Act of 2026 (BAAJA) on a major bipartisan vote Thursday night. The legislation went through fits and starts over the last few months, until a bipartisan coalition, with buy-in from the White House, formed to tinker with the final product. At the 30,000-foot level, the sweeping package would accelerate environmental review of projects, l",
+      "published_at": "2026-11-20T03:19:33+00:00",
+      "fetched_at": "2026-11-20T03:33:12.607823+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "08df52ce-1175-5df7-802b-7f3c79edd6f1",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/politics/senate",
+        "fox-news/energy",
+        "fox-news/world/united-nations/reform",
+        "fox-news/domestic-policy",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "74f343f0ac34b7f288d5",
+      "source_id": "bbc-business",
+      "title": "GTA 6 breaks records as sales top $2bn - industry estimate",
+      "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_campaign=rss&at_medium=RSS",
+      "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
+      "published_at": "2026-11-20T02:54:40+00:00",
+      "fetched_at": "2026-11-20T03:33:12.607823+00:00",
+      "date_estimated": false,
+      "author": "bbc-business",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "Business"
+    },
+    {
+      "id": "06c420eff75e44396875",
+      "source_id": "guardian-us",
+      "title": "Texas botches execution of Reinaldo Dennes as staffers struggle to find vein",
+      "url": "https://www.theguardian.com/us-news/2026/nov/19/record-executions-florida-texas",
+      "summary": "Dennes, 70, was convicted of killing a Houston jeweler, and groaned for an hour after pentobarbital was administered Thursday’s execution in Texas of Reinaldo Dennes took over an hour as prison staffers struggled to find a suitable vein for the two intravenous needles carrying a lethal dose of pentobarbital, a sedative. And once it began, Dennes moaned repeatedly about pain, groaned several times and asked God to take him away from the pain. Continue reading...",
+      "published_at": "2026-11-20T02:50:29+00:00",
+      "fetched_at": "2026-11-20T03:33:12.607823+00:00",
+      "date_estimated": false,
+      "author": "Associated Press",
+      "categories": [
+        "Florida",
+        "US news",
+        "Texas",
+        "Capital punishment",
+        "US justice system",
+        "US crime",
+        "US prisons"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "b410cd411ad1c9bdd8bd",
+      "source_id": "guardian-us",
+      "title": "Trump DoJ moves to drop legal challenge to Mary Peltola’s Alaska Senate win",
+      "url": "https://www.theguardian.com/us-news/2026/nov/19/trump-mary-peltola-alaska-senate",
+      "summary": "President had sought to block results if Democrat won race that featured two candidates named Dan Sullivan In a legal filing on Thursday, the Trump administration asked a federal appeals court to dismiss the lawsuit it filed before the midterm elections seeking to block the certification of the US Senate race in Alaska should Democrat Mary Peltola win. The legal challenge centered around the presence on the ballot of a second candidate with the same name as the incumbent, Republican senator Dan Sullivan. The Alaska supreme court already ruled that the second Sullivan’s candidacy was legal and ",
+      "published_at": "2026-11-20T02:43:33+00:00",
+      "fetched_at": "2026-11-20T03:33:12.607823+00:00",
+      "date_estimated": false,
+      "author": "Robert Mackey",
+      "categories": [
+        "US midterm elections 2026",
+        "Alaska",
+        "US news",
+        "World news",
+        "Democrats",
+        "US Senate",
+        "US Congress"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "94a0b2323abb61dccc50",
+      "source_id": "guardian-us",
+      "title": "US army postpones plan to detonate bomb-making chemical amid outcry",
+      "url": "https://www.theguardian.com/us-news/2026/nov/19/iowa-lead-bomb-dust",
+      "summary": "The controlled detonation can lead to a plume containing lead particles, worrying residents and state officials The US army has delayed its plan to detonate a stash of bomb-making chemicals in south-eastern Iowa as questions swirl about the public health risks. The army was set to blow up about 5 tons of lead azide in Middletown, Iowa, at noon on Friday, a move it described as the safest way to dispose of the highly sensitive compound. Continue reading...",
+      "published_at": "2026-11-20T02:30:10+00:00",
+      "fetched_at": "2026-11-20T03:33:12.607823+00:00",
+      "date_estimated": false,
+      "author": "Uwa Ede-Osifo and agency",
+      "categories": [
+        "Iowa",
+        "Air pollution",
+        "Children's health",
+        "US military",
+        "US Environmental Protection Agency",
+        "Pollution",
+        "Environment",
+        "US news"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "86b3b15c50c4fb94563a",
+      "source_id": "fox-politics",
+      "title": "Trump’s National Cyber Director Sean Cairncross fired amid widespread tech outages",
+      "url": "https://www.foxnews.com/politics/trumps-national-cyber-director-sean-cairncross-fired",
+      "summary": "National Cyber Director Sean Cairncross is out after President Donald Trump backed his firing over concerns he lacked the cybersecurity credentials for the job, Fox News has confirmed. Kirsten A. Davies, the Pentagon’s chief information officer, will step into the position in an acting capacity. Davies, who was Senate-confirmed, will join Director of National Intelligence Jay Clayton, White House technology advisor Michael Kratsios and Secretary of State Marco Rubio on the administration's national security and cyber leadership team. An administration official separately told Fox News that Cai",
+      "published_at": "2026-11-20T02:00:36+00:00",
+      "fetched_at": "2026-11-20T03:33:12.607823+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "746ea8a7-3a67-5adf-89ca-047baa43077d",
+        "fnc",
+        "Fox News",
+        "fox-news/politics/executive/national-security",
+        "fox-news/politics",
+        "fox-news/health/orthopedics/technology",
+        "fox-news/person/donald-trump",
+        "fox-news/politics/executive/white-house",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "0da33b35c08eee78e64c",
+      "source_id": "fox-politics",
+      "title": "EXCLUSIVE: Retired police sergeant issues warning over Mamdani's NYPD shake-up ahead of Thanksgiving parade",
+      "url": "https://www.foxnews.com/politics/exclusive-retired-police-sergeant-issues-warning-over-mamdanis-nypd-shake-up-ahead-thanksgiving-parade",
+      "summary": "EXCLUSIVE: A retired police sergeant with nearly three decades of law enforcement experience warned that she would not bring her own family to New York City amid Mayor Zohran Mamdani's plans to dismantle a specialized NYPD unit responsible for counterterrorism support and crowd control. \"I wouldn't take my family there right now,\" retired Sgt. Betsy Brantner Smith, a spokesperson for the National Police Association, told Fox News Digital in an exclusive interview. Smith's warning follows Mamdani's announcement that the NYPD's Strategic Response Group (SRG), a roughly 500-officer specialized un",
+      "published_at": "2026-11-20T01:57:47+00:00",
+      "fetched_at": "2026-11-20T03:33:12.607823+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "dd3ae511-2968-509c-907d-f7f290596913",
+        "fnc",
+        "Fox News",
+        "fox-news/us/new-york-city",
+        "fox-news/person/zohran-mamdani",
+        "fox-news/us/crime/police-and-law-enforcement",
+        "fox-news/us/blue-city-crime",
+        "fox-news/us/terror/counter-terrorism",
+        "fox-news/us/us-protests",
+        "fox-news/politics"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "7a4c56c199a55067e917",
+      "source_id": "guardian-us",
+      "title": "White House cyber director ousted after US hit by wave of tech outages",
+      "url": "https://www.theguardian.com/us-news/2026/nov/19/white-house-cyber-director-ousted",
+      "summary": "Sean Cairncross exits after outages that sparked fierce criticism, with DoD official Kirsten Davies to take over White House national ⁠cyber director Sean ⁠Cairncross ​was ousted from his job, a person close to the White House told Reuters on Thursday, ⁠days after tech outages hit US air travel, banking and national security systems. Cairncross oversaw cybersecurity policy and ⁠strategy across the federal government. Department of Defense chief information officer ​Kirsten Davies will ‌assume the position ‌temporarily, according to the source. Continue reading...",
+      "published_at": "2026-11-20T01:25:05+00:00",
+      "fetched_at": "2026-11-20T03:33:12.607823+00:00",
+      "date_estimated": false,
+      "author": "Guardian staff and agency",
+      "categories": [
+        "US news",
+        "US politics",
+        "World news"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "877a6dce8fac12419676",
+      "source_id": "bbc-world",
+      "title": "More climate money for Africa? Europe says use what's already pledged",
+      "url": "https://www.bbc.co.uk/news/articles/c6074k5jjrzko?at_campaign=rss&at_medium=RSS",
+      "summary": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
+      "published_at": "2026-11-20T00:54:50+00:00",
+      "fetched_at": "2026-11-20T03:33:12.607823+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "4ecfd1dfe5d7bfac4779",
+      "source_id": "guardian-us",
+      "title": "Religious messages US agriculture secretary emailed to staff deemed unconstitutional",
+      "url": "https://www.theguardian.com/us-news/2026/nov/19/religious-messages-agriculture-secretary-unconstitutional",
+      "summary": "A federal judge ruled that messages sent by Brooke Rollins to USDA workers suggest Christianity is a shared faith and violate the first amendment Religious messages that US agriculture secretary Brooke Rollins emailed to the agency’s 100,000 employees were unconstitutional, and she must be careful to avoid proselytizing when communicating with workers, a federal judge ruled Thursday. Rollins sent the messages, which included Christian messages and images, from her official email account on holidays such as Independence Day, Thanksgiving, Christmas and Easter. She did not send messages commemor",
+      "published_at": "2026-11-20T00:31:24+00:00",
+      "fetched_at": "2026-11-20T03:33:12.607823+00:00",
+      "date_estimated": false,
+      "author": "Associated Press",
+      "categories": [
+        "US news",
+        "Freedom of religion",
+        "Christianity",
+        "Religion",
+        "US constitution and civil liberties"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "165d32dea04bfb101c7c",
+      "source_id": "bbc-world",
+      "title": "Why Canada is embracing AI data centres while the US pushes back",
+      "url": "https://www.bbc.co.uk/news/articles/cmx2q223z1jlo?at_campaign=rss&at_medium=RSS",
+      "summary": "Shark Tank's Kevin O'Leary is among the big investors looking to Canada as a data centre development destination, while his US project faces local opposition.",
+      "published_at": "2026-11-20T00:13:24+00:00",
+      "fetched_at": "2026-11-20T03:33:12.607823+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "7e039492850e9f53ca15",
+      "source_id": "bbc-world",
+      "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+      "url": "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo?at_campaign=rss&at_medium=RSS",
+      "summary": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
+      "published_at": "2026-11-20T00:13:21+00:00",
+      "fetched_at": "2026-11-20T03:33:12.607823+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "0e03ac6e122718f532ee",
+      "source_id": "bbc-business",
+      "title": "Airbnb's divisive new house rules come into force",
+      "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo?at_campaign=rss&at_medium=RSS",
+      "summary": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
+      "published_at": "2026-11-20T00:12:28+00:00",
+      "fetched_at": "2026-11-20T03:33:12.607823+00:00",
+      "date_estimated": false,
+      "author": "bbc-business",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "Business"
+    },
+    {
+      "id": "847b82e017c45e7f5b21",
+      "source_id": "bbc-business",
+      "title": "Fish and eggs al desko? The dos and don'ts of the lunch break",
+      "url": "https://www.bbc.co.uk/news/articles/cwp8g4092zglo?at_campaign=rss&at_medium=RSS",
+      "summary": "What is acceptable to eat at your desk, without annoying your colleagues?",
+      "published_at": "2026-11-20T00:08:37+00:00",
+      "fetched_at": "2026-11-20T03:33:12.607823+00:00",
+      "date_estimated": false,
+      "author": "bbc-business",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "Business"
+    },
+    {
+      "id": "644dabbc9fb39b34c72c",
+      "source_id": "bbc-business",
+      "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+      "url": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_campaign=rss&at_medium=RSS",
+      "summary": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
+      "published_at": "2026-11-20T00:02:07+00:00",
+      "fetched_at": "2026-11-20T03:33:12.607823+00:00",
+      "date_estimated": false,
+      "author": "bbc-business",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "Business"
+    },
+    {
+      "id": "4bf8c6ef95b7239829d1",
+      "source_id": "bbc-world",
+      "title": "How did Anthropic's stock market debut unfold?",
+      "url": "https://www.bbc.co.uk/news/videos/cwg7l01vg081o?at_campaign=rss&at_medium=RSS",
+      "summary": "The BBC's Samira Hussain breaks down the AI company's first day as a publicly traded company, as shares closed up 17%.",
+      "published_at": "2026-11-19T23:52:25+00:00",
+      "fetched_at": "2026-11-20T03:33:12.607823+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "9581a04a101990ff295f",
+      "source_id": "bbc-world",
+      "title": "Trump posthumously pardons US baseball legend Pete Rose",
+      "url": "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo?at_campaign=rss&at_medium=RSS",
+      "summary": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
+      "published_at": "2026-11-19T23:51:50+00:00",
+      "fetched_at": "2026-11-20T03:33:12.607823+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "88ea99ec54ab1f3be70b",
+      "source_id": "fox-politics",
+      "title": "House China panel calls for cutting defense contracts over aerospace ties to Beijing's military",
+      "url": "https://www.foxnews.com/politics/house-china-panel-calls-cutting-defense-contracts-over-aerospace-ties-beijings-military",
+      "summary": "A new congressional report is urging the U.S. to restrict investments in China’s aerospace sector and withhold taxpayer funding from companies that build military capabilities for U.S. adversaries, warning that Western commercial partnerships transferred technology and expertise to Chinese firms with military ties. The 65-page report, titled \"China's Wingmen: How Western Government Policy Enabled China's Rise in the Skies,\" follows a year-long investigation by the House Select Committee on the Chinese Communist Party, led by Chairman John Moolenaar, R-Mich., and Ranking Member Ro Khanna, D-Cal",
+      "published_at": "2026-11-19T23:44:37+00:00",
+      "fetched_at": "2026-11-20T03:33:12.607823+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "6a7aa600-523a-5205-8201-0f09064251f5",
+        "fnc",
+        "Fox News",
+        "fox-news/world/world-regions/china",
+        "fox-news/politics",
+        "fox-news/politics/executive/national-security",
+        "fox-news/politics/foreign-policy",
+        "fox-news/politics/defense",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "801e1abc00320721c42b",
+      "source_id": "bbc-world",
+      "title": "Cumin-laced fizzy sodas are giving cola giants a tough fight in India",
+      "url": "https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo?at_campaign=rss&at_medium=RSS",
+      "summary": "Cumin-laced sodas are capturing a bigger market share in India as demand for homegrown flavours goes up.",
+      "published_at": "2026-11-19T23:29:00+00:00",
+      "fetched_at": "2026-11-20T03:33:12.607823+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "747bf9d873cbf2f8ca33",
+      "source_id": "fox-politics",
+      "title": "Hakeem Jeffries wins overwhelming Speaker-designate vote as progressives' revolt falls flat",
+      "url": "https://www.foxnews.com/politics/hakeem-jeffries-wins-overwhelming-speaker-designate-vote-progressives-revolt-falls-flat",
+      "summary": "Democrats are fretting that the \"Bloc\" of progressives will lug House Democrats to the left. But, there is strength in numbers. Yours truly wanted to understand just how much sway progressives might have over the House Democratic Caucus. Look no further than Wednesday morning’s vote for speaker. No one challenged House Minority Leader Hakeem Jeffries (D-N.Y.) to become speaker-designate in the internal caucus vote. It’s about the math. Jeffries marshaled 251 of the 262 secret ballots cast. The recorded vote revealed that despite all of their noise and clamor, extreme progressives really don’t ",
+      "published_at": "2026-11-19T23:14:40+00:00",
+      "fetched_at": "2026-11-20T03:33:12.607823+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "90e453d7-6118-5633-979b-c65da726da8d",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/us/congress",
+        "fox-news/politics/elections/house-of-representatives",
+        "fox-news/politics/the-squad",
+        "fox-news/democrats",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "e331df4bbad46ad6a219",
+      "source_id": "bbc-world",
+      "title": "California targets Nvidia in China AI chip probe",
+      "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no?at_campaign=rss&at_medium=RSS",
+      "summary": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
+      "published_at": "2026-11-19T23:04:30+00:00",
+      "fetched_at": "2026-11-20T03:33:12.607823+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "a0871a1644dbaa52b07e",
+      "source_id": "standard",
+      "title": "Standardrätsel K 11448",
+      "url": "https://www.derstandard.at/story/3000000348192/standardraetsel-k-11448?ref=rss",
+      "summary": "Täglich neu, exklusiv für Smart-Abonnent:innen: Das knifflige Quizkultur-Rätsel des STANDARD",
+      "published_at": "2026-11-19T23:01:00+00:00",
+      "fetched_at": "2026-11-20T03:33:12.607823+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "bc82b597a7d744aa9662",
+      "source_id": "fox-politics",
+      "title": "ASRA Q. NOMANI: Inside the coordinated activist blitz that crashed Anthropic’s historic Nasdaq debut",
+      "url": "https://www.foxnews.com/politics/asra-q-nomani-inside-coordinated-activist-blitz-crashed-anthropic-historic-nasdaq-debut",
+      "summary": "As Anthropic executives gathered inside the Nasdaq MarketSite in Times Square on Thursday morning to ring the opening bell for a historic $81 billion initial public offering, a tightly orchestrated coalition of far-left, socialist, environmental, anti-Israel and Democratic grassroots groups executed a staged street action outside, complete with linked-arm sit-ins, pre-printed banners and rapid-fire social media drops timed to hijack the news cycle. \"This IPO has got to go! Hey, hey, ho, ho,\" the staged protesters chanted to a small cadre of photographers as the audience. \"Shame! Shame!\" a prot",
+      "published_at": "2026-11-19T22:57:07+00:00",
+      "fetched_at": "2026-11-20T03:33:12.607823+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "3c7cf7dc-ade6-5f4c-91c9-24900d64e49f",
+        "fnc",
+        "Fox News",
+        "fox-news/news-events/fox-news-investigates",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "20f8cd00443c68453193",
+      "source_id": "bbc-world",
+      "title": "From premature baby to social media star - Famed hippo Fiona dies",
+      "url": "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo?at_campaign=rss&at_medium=RSS",
+      "summary": "The beloved hippopotamus died days after swallowing a knitted hat that accidentally got into her enclosure at the Cincinnati Zoo.",
+      "published_at": "2026-11-19T22:54:03+00:00",
+      "fetched_at": "2026-11-20T03:33:12.607823+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "844657a50fe0d1d34470",
+      "source_id": "bbc-world",
+      "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
+      "url": "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo?at_campaign=rss&at_medium=RSS",
+      "summary": "Markle, who has denied possessing images of child sex abuse was deemed competent after an evaluation by a court-appointed psychiatrist.",
+      "published_at": "2026-11-19T22:48:22+00:00",
+      "fetched_at": "2026-11-20T03:33:12.607823+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "edd2c989e87f8f3dea70",
+      "source_id": "standard",
+      "title": "Lufthansa will 1.000 Stellen an wichtigen Flughäfen Frankfurt und München streichen",
+      "url": "https://www.derstandard.at/story/3000000350160/lufthansa-will-1000-stellen-an-wichtigen-flughaefen-frankfurt-und-muenchen-streichen?ref=rss",
+      "summary": "Die deutsche Kernmarke will weniger Flüge auf Kurz- und Mittelstrecke anbieten. Es ist unklar in welcher Form und in welchem Zeitraum der Stellenabbau passieren soll",
+      "published_at": "2026-11-19T22:21:11+00:00",
+      "fetched_at": "2026-11-20T03:33:12.607823+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "e0a3cd378ac02471a860",
+      "source_id": "guardian-us",
+      "title": "Donald Trump issues posthumous pardon to MLB ‘superstar and legend’ Pete Rose",
+      "url": "https://www.theguardian.com/sport/2026/nov/19/donald-trump-issues-posthumous-pardon-to-mlb-superstar-and-legend-pete-rose",
+      "summary": "Rose pleaded guilty to tax evasion in 1990 Player also banned from baseball over bets Donald Trump says he has posthumously pardoned Pete Rose more than two years after the baseball star’s death and a year after he was reinstated by Major League Baseball Commissioner Rob Manfred. “I have just given a Complete and Total Pardon to the Late, Great Pete Rose, a true Baseball SUPERSTAR + LEGEND,” Trump posted on social media. Continue reading...",
+      "published_at": "2026-11-19T22:09:12+00:00",
+      "fetched_at": "2026-11-20T03:33:12.607823+00:00",
+      "date_estimated": false,
+      "author": "Associated Press",
+      "categories": [
+        "MLB",
+        "Cincinnati Reds",
+        "Baseball",
+        "US sports",
+        "Sport",
+        "Donald Trump",
+        "US politics"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
     {
       "id": "f45f6f70a81464306107",
       "source_id": "bbc-world",
@@ -3653,6 +4163,21 @@
       "summary": "Ein höheres Antrittsalter, gekoppelt an die Lebenserwartung, und bessere Beschäftigungschancen für Ältere sind kein Gegensatz. Sie sind zwei Seiten derselben Reform",
       "published_at": "2026-11-19T10:00:00+00:00",
       "fetched_at": "2026-11-19T13:26:09.696980+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "54ba336cb6f3eba66479",
+      "source_id": "standard",
+      "title": "Welche Sachbücher über China könnt ihr empfehlen?",
+      "url": "https://www.derstandard.at/story/3000000349908/welche-sachbuecher-ueber-china-koennt-ihr-empfehlen?ref=rss",
+      "summary": "Mein Forum: Diskutieren Sie dieses Thema mit der STANDARD-Community",
+      "published_at": "2026-11-19T10:00:00+00:00",
+      "fetched_at": "2026-11-20T03:33:12.607823+00:00",
       "date_estimated": false,
       "author": "standard",
       "categories": [],
@@ -8434,6 +8959,21 @@
       "summary": "Standortdaten, Suchverläufe und Likes verraten weit mehr, als vielen bewusst ist. Wie aus scheinbar harmlosen Informationen Profile entstehen und warum das gefährlich ist",
       "published_at": "2026-11-18T11:00:00+00:00",
       "fetched_at": "2026-11-18T22:05:41.013857+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "07b17813e5a1f68796fe",
+      "source_id": "standard",
+      "title": "Investiert ihr Geld bei Crowdfunding Plattformen?",
+      "url": "https://www.derstandard.at/story/3000000349720/investiert-ihr-geld-bei-crowdfunding-plattformen?ref=rss",
+      "summary": "Mein Forum: Diskutieren Sie dieses Thema mit der STANDARD-Community",
+      "published_at": "2026-11-18T11:00:00+00:00",
+      "fetched_at": "2026-11-20T03:33:12.607823+00:00",
       "date_estimated": false,
       "author": "standard",
       "categories": [],
@@ -25337,512 +25877,987 @@
       "language": "de",
       "country": "AT",
       "category": "Politics"
-    },
-    {
-      "id": "8519823d640623356f28",
-      "source_id": "standard",
-      "title": "Was über den längsten Flug-Shutdown in den USA seit 9/11 bisher bekannt ist",
-      "url": "https://www.derstandard.at/story/3000000349223/was-ueber-den-laengsten-flug-shutdown-in-den-usa-seit-911-bisher-bekannt-ist?ref=rss",
-      "summary": "Die Trump-Regierung macht veraltete Technik für den stundenlangen Ausfall verantwortlich, dessen Folgen wohl noch tagelang spürbar sein werden. Ein politischer Streit ist bereits zuvor entbrannt",
-      "published_at": "2026-11-14T11:30:06+00:00",
-      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "ab083b41fd50bc065fcc",
-      "source_id": "standard",
-      "title": "Nations League im Liveticker: Österreich vs. Irland, ab 20.45 Uhr",
-      "url": "https://www.derstandard.at/jetzt/livebericht/3000000349231/nations-league-im-liveticker-oesterreich-vs-irland-ab-2045-uhr?ref=rss",
-      "summary": "Das ÖFB-Team bestreitet in Linz sein letztes Heimspiel der laufenden Nations League. Bei einem Sieg winkt der Aufstieg in Liga A. Wir berichten live",
-      "published_at": "2026-11-14T11:23:25+00:00",
-      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "05a6c0afe703a8307fbd",
-      "source_id": "standard",
-      "title": "Grüne: Pühringer und Kraus als Wiener Spitzenduo bestätigt",
-      "url": "https://www.derstandard.at/story/3000000349230/gruene-puehringer-und-kraus-als-wiener-spitzenduo-bestaetigt?ref=rss",
-      "summary": "Das Duo Judith Pühringer und Peter Kraus wurde mit 87,7 Prozent der Stimmberechtigten wiedergewählt",
-      "published_at": "2026-11-14T11:20:30+00:00",
-      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "1c571492938dec330420",
-      "source_id": "standard",
-      "title": "Anzeige gegen Innsbrucker Bürgermeister nach Mitarbeiterfest",
-      "url": "https://www.derstandard.at/story/3000000349229/anzeige-gegen-innsbrucker-b252rgermeister-nach-mitarbeiterfest?ref=rss",
-      "summary": "Staatsanwaltschaft prüft Anfangsverdacht wegen Amtsmissbrauchs. Der Bürgermeister soll laut der Anzeige Mitarbeitende beim Einsatz wegen Lärmbeschwerden gehindert haben",
-      "published_at": "2026-11-14T11:18:16+00:00",
-      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "7751b45bcb19a96e80aa",
-      "source_id": "standard",
-      "title": "Der Falafel-König vom Brunnenmarkt",
-      "url": "https://www.derstandard.at/story/3000000348609/ashraf-falafel-koenig-vom-brunnenmarkt?ref=rss",
-      "summary": "Am Brunnenmarkt verkaufen zwei Brüder aus dem Irak vegetarische Küche aus Syrien. Das schmeckt allen, sogar dem Bürgermeister",
-      "published_at": "2026-11-14T11:01:32+00:00",
-      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "597555a1cf68e6b73010",
-      "source_id": "standard",
-      "title": "Kind in Tirol wog nur elf Kilogramm, Eltern im Jänner vor Gericht",
-      "url": "https://www.derstandard.at/story/3000000349228/kind-in-tirol-wog-nur-elf-kilogramm-eltern-im-jaenner-vor-gericht?ref=rss",
-      "summary": "Die Staatsanwaltschaft erhebt Anklage gegen die Eltern eines hautkranken, stark unterernährten siebenjährigen Mädchens",
-      "published_at": "2026-11-14T11:01:32+00:00",
-      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "8a9c39436e84f95204a5",
-      "source_id": "standard",
-      "title": "Ein kluges Pferd zeigt Grenzen künstlicher Intelligenz auf",
-      "url": "https://www.derstandard.at/story/3000000347536/ein-kluges-pferd-zeigt-grenzen-kuenstlicher-intelligenz-auf?ref=rss",
-      "summary": "Vor mehr als 120 Jahren verblüffte ein Pferd mit vermeintlichen Rechenkünsten die Welt. Der Fall des klugen Hans offenbart ein grundlegendes Problem der KI – mit Folgen für die Wissenschaft",
-      "published_at": "2026-11-14T11:01:00+00:00",
-      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "d5504ad22eb919650058",
-      "source_id": "guardian-us",
-      "title": "‘We must deliver’: jubilant Democrats gather in Denver to chart way forward",
-      "url": "https://www.theguardian.com/us-news/2026/nov/14/democrats-denver-whats-next-conference",
-      "summary": "At party’s ‘What’s Next’ conference, consensus is they need to act quickly, but over affordability or accountability is the question What’s next for Democrats? It’s the question thousands of Democrats, including lawmakers, strategists, pollsters, creators, organizers, staffers and 2028 presidential hopefuls are trying to answer at a three-day gathering in Denver, after a sweeping victory in the 2026 midterm elections. Continue reading...",
-      "published_at": "2026-11-14T11:00:44+00:00",
-      "fetched_at": "2026-11-14T21:34:39.903319+00:00",
-      "date_estimated": false,
-      "author": "Ariana Baio in Denver",
-      "categories": [
-        "Democrats",
-        "US midterm elections 2026",
-        "US politics",
-        "Denver",
-        "US news",
-        "Colorado"
-      ],
-      "language": "en",
-      "country": "US",
-      "category": "Politics"
-    },
-    {
-      "id": "6bf4ca6fc352e44937c3",
-      "source_id": "guardian-us",
-      "title": "Ecuadorian fishermen who survived US boat strikes sue Trump administration",
-      "url": "https://www.theguardian.com/us-news/2026/nov/14/ecuadorian-fishermen-lawsuit-trump-boat-strike",
-      "summary": "US military has killed nearly 250 people in attack on ‘narco-terrorism’, and on 17 March, sank the 16 plaintiffs’ boat, leaving two with serious burns More than a dozen Ecuadorian fishermen are suing the US government after they survived a military drone attack in the Pacific ocean earlier this year that sank their boat and left two of them with serious burns from the explosions. The 17 March attack on the La Negra Francesca Duarte II was part of the Trump administration’s Operation Southern Spear campaign, announced in November 2025 ostensibly to counter “narco-terrorists” it said operated in",
-      "published_at": "2026-11-14T11:00:42+00:00",
-      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
-      "date_estimated": false,
-      "author": "Richard Luscombe",
-      "categories": [
-        "Trump administration",
-        "US military",
-        "US news",
-        "US politics",
-        "Law (US)",
-        "Law",
-        "Ecuador",
-        "Caribbean",
-        "Drones (military)"
-      ],
-      "language": "en",
-      "country": "US",
-      "category": "Politics"
-    },
-    {
-      "id": "f8b836c87d6110573735",
-      "source_id": "fox-politics",
-      "title": "Inside the House GOP strategy to capitalize on Democrats' warring factions in the new Congress",
-      "url": "https://www.foxnews.com/politics/inside-house-gop-strategy-capitalize-democrats-warring-factions-new-congress",
-      "summary": "EXCLUSIVE: House Republicans are heading into the next Congress ready to brawl. Rep. Tom Emmer, R-Minn., who is set to go from the No. 3 most powerful House Republican to No. 2 next year, told Fox News Digital that the GOP will hold the new Democrat majority \"accountable\" for their far-left faction's ideas over the next two years, even if they cannot control what bills get a vote. Emmer, who has served as House majority whip for the past four years, was elected Tuesday to serve as minority whip alongside incoming House Minority Leader Jim Jordan, R-Ohio. The Speaker of the House position turns",
-      "published_at": "2026-11-14T11:00:13+00:00",
-      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
-      "date_estimated": false,
-      "author": "fox-politics",
-      "categories": [
-        "dc112db5-c940-5ee9-b616-0531d3b8a2b0",
-        "fnc",
-        "Fox News",
-        "fox-news/politics",
-        "fox-news/politics/house-of-representatives",
-        "fox-news/us/congress",
-        "fox-news/politics/elections/house-of-representatives",
-        "fox-news/politics",
-        "article"
-      ],
-      "language": "en",
-      "country": "US",
-      "category": "Politics"
-    },
-    {
-      "id": "dc088edf38bdf605043c",
-      "source_id": "standard",
-      "title": "Warum Entspannung nicht auf Knopfdruck funktioniert – und wie man den Körper dabei unterstützen kann",
-      "url": "https://www.derstandard.at/story/3000000348973/warum-entspannung-nicht-auf-knopfdruck-funktioniert-und-wie-man-den-koerper-dabei-unterstuetzen-kann?ref=rss",
-      "summary": "Der Arbeitstag ist vorbei, der Stress aber nicht: Wer ständig aktiv ist, verlernt mitunter, zur Ruhe zu kommen. Einfache Übungen können das Nervensystem bei der Regulation unterstützen",
-      "published_at": "2026-11-14T11:00:08+00:00",
-      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "8816d3ccb2eae699a1d9",
-      "source_id": "fox-politics",
-      "title": "Trump keeps signaling an end to Iran war, but expert warns a crucial piece of his strategy is missing",
-      "url": "https://www.foxnews.com/politics/trump-keeps-signaling-end-iran-war-expert-warns-crucial-piece-his-strategy-missing",
-      "summary": "President Donald Trump declared Thursday that the United States no longer needs a deal with Iran, abruptly shifting his diplomatic message just three days after expressing optimism about negotiations and directing Vice President JD Vance to focus on domestic issues instead. \"We don’t need a deal with Iran. Those days have long since passed,\" Trump wrote on Truth Social. \"We’ve got their money, Hundreds of Billions of Dollars, and we’ve got their Strait!\" Trump's latest declaration came just one day after he proclaimed victory over Iran during a Veterans Day ceremony at Arlington National Cemet",
-      "published_at": "2026-11-14T11:00:05+00:00",
-      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
-      "date_estimated": false,
-      "author": "fox-politics",
-      "categories": [
-        "6b328d11-d776-52db-8967-d89f18b4293b",
-        "fnc",
-        "Fox News",
-        "fox-news/politics/defense/wars/war-with-iran",
-        "fox-news/person/donald-trump",
-        "fox-news/world/conflicts/iran",
-        "fox-news/politics/house-of-representatives/foreign-affairs",
-        "fox-news/politics/executive/national-security",
-        "fox-news/politics/defense",
-        "fox-news/politics"
-      ],
-      "language": "en",
-      "country": "US",
-      "category": "Politics"
-    },
-    {
-      "id": "36251f9ac921317517b4",
-      "source_id": "standard",
-      "title": "Crispy Miso-Aubergine",
-      "url": "https://www.derstandard.at/story/3000000348892/crispy-miso-aubergine?ref=rss",
-      "summary": "Im Rezept aus dem Buch \"Maka Magic\" wird frittierte Melanzani mit einer umamigen Miso-Marinade bestrichen",
-      "published_at": "2026-11-14T11:00:00+00:00",
-      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "40f382813d3f04e5de78",
-      "source_id": "bbc-business",
-      "title": "Consumer Fight Back",
-      "url": "https://www.bbc.co.uk/sounds/play/m003498k?at_campaign=rss&at_medium=RSS",
-      "summary": "Black Friday promises huge savings, but are the deals really as good as they seem?",
-      "published_at": "2026-11-14T11:00:00+00:00",
-      "fetched_at": "2026-11-16T20:33:15.544571+00:00",
-      "date_estimated": false,
-      "author": "bbc-business",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "Business"
-    },
-    {
-      "id": "a5de0132c59e8ddf929f",
-      "source_id": "standard",
-      "title": "Verletzter nach Polizei-Schuss in Niederösterreich: Untersuchungshaft beantragt",
-      "url": "https://www.derstandard.at/story/3000000349227/verletzter-nach-polizei-schuss-in-n214-untersuchungshaft-beantragt?ref=rss",
-      "summary": "Der 38-Jährige ist aus dem künstlichen Tiefschlaf erwacht. Die Staatsanwaltschaft ermittelt wegen versuchter Körperverletzung und Widerstands gegen die Staatsgewalt",
-      "published_at": "2026-11-14T10:54:26+00:00",
-      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "d20954244430d4c80e1d",
-      "source_id": "orf",
-      "title": "D: Große Anteilnahme bei Trauerfeier für Aiwanger",
-      "url": "https://orf.at/stories/3448169/",
-      "summary": "",
-      "published_at": "2026-11-14T10:52:31+00:00",
-      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
-      "date_estimated": false,
-      "author": "orf",
-      "categories": [
-        "Ausland"
-      ],
-      "language": "de",
-      "country": "AT",
-      "category": "World"
-    },
-    {
-      "id": "d1753442ff840c4e6119",
-      "source_id": "standard",
-      "title": "OSCE \"general\" sets sights on top UN job, despite clash with chairmanship and criticism of his leadership",
-      "url": "https://www.derstandard.at/story/3000000348977/osce-general-sets-sights-on-top-un-job-despite-clash-with-chairmanship-and-criticism-of-his-leadership?ref=rss",
-      "summary": "Turkey’s Feridun Sinirlioğlu wants to become Secretary-General of the UN. But an investigation by DER STANDARD points to a difficult leadership style and possible attempts to reinterpret his formally defined responsibilities and powers",
-      "published_at": "2026-11-14T10:50:31+00:00",
-      "fetched_at": "2026-11-14T21:34:39.903319+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "f039de1984b34b9ee6e6",
-      "source_id": "standard",
-      "title": "Eklat mit Vorsitzland, Kritik am Führungsstil: Trotzdem will OSZE-\"General\" Uno-Chef werden",
-      "url": "https://www.derstandard.at/story/3000000348438/eklat-mit-vorsitzland-kritik-am-fuehrungsstil-trotzdem-will-osze-general-uno-chef-werden?ref=rss",
-      "summary": "Der Türke Feridun Sinirlioğlu will Uno-Chef werden. STANDARD-Recherchen legen aber einen schwierigen Führungsstil nahe sowie mögliche Versuche, seine festgelegten Kompetenzen und Befugnisse umzuinterpretieren",
-      "published_at": "2026-11-14T10:50:27+00:00",
-      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "a57f1f626f82e79bb0cd",
-      "source_id": "orf",
-      "title": "USA brachten NATO-Beitritt aufs Tapet",
-      "url": "https://orf.at/stories/3448164/",
-      "summary": "Die USA haben nach den Worten des ukrainischen Präsidenten Wolodymyr Selenskyj der Ukraine die NATO-Mitgliedschaft im Gegenzug für einen Gebietsverzicht in Aussicht gestellt. Selenskjy bekräftigte seine Haltung, dass Kiew nicht bereit sei, sich aus seinem Hoheitsgebiet zurückzuziehen – stellte gleichzeitig aber auch ein Referendum zu der Frage in den Raum.",
-      "published_at": "2026-11-14T10:47:55+00:00",
-      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
-      "date_estimated": false,
-      "author": "orf",
-      "categories": [
-        "Ausland"
-      ],
-      "language": "de",
-      "country": "AT",
-      "category": "World"
-    },
-    {
-      "id": "179318a19c3100c421e1",
-      "source_id": "bbc-world",
-      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
-      "url": "https://www.bbc.co.uk/news/articles/ckjwj03w4w0qo?at_campaign=rss&at_medium=RSS",
-      "summary": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
-      "published_at": "2026-11-14T10:42:20+00:00",
-      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
-      "date_estimated": false,
-      "author": "bbc-world",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "World"
-    },
-    {
-      "id": "e304208594d5a366d30c",
-      "source_id": "orf",
-      "title": "Krankenkassendefizit 2026 geringer als erwartet",
-      "url": "https://orf.at/stories/3448167/",
-      "summary": "",
-      "published_at": "2026-11-14T10:38:41+00:00",
-      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
-      "date_estimated": false,
-      "author": "orf",
-      "categories": [
-        "Inland"
-      ],
-      "language": "de",
-      "country": "AT",
-      "category": "World"
-    },
-    {
-      "id": "25e4fb67fa836816fa22",
-      "source_id": "fox-politics",
-      "title": "Socialist LA mayor's bold homelessness promise ahead of 2028 Olympics hit with reality check: 'Not optimistic'",
-      "url": "https://www.foxnews.com/politics/socialist-la-mayor-bold-homelessness-promise-ahead-2028-olympics-hit-reality-check-not-optimistic",
-      "summary": "Incoming Los Angeles Mayor Nithya Raman has promised to cut the number of people sleeping in tents and homeless encampments by at least 50% before the 2028 Summer Olympics, but one local activist believes her vision may not be realistic. The blue city’s growing homeless population became a major focus of Raman’s mayoral campaign. A member of the Democratic Socialists of America (DSA), she plans to expand shelter and housing options while stretching \"every dollar as far as possible.\" John Alle, a business owner and co-founder of the Santa Monica Coalition, told Fox News Digital Raman won’t be a",
-      "published_at": "2026-11-14T10:30:51+00:00",
-      "fetched_at": "2026-11-14T17:12:49.132174+00:00",
-      "date_estimated": false,
-      "author": "fox-politics",
-      "categories": [
-        "b07ecf60-dd71-5108-940c-192a4239bc48",
-        "fnc",
-        "Fox News",
-        "fox-news/politics",
-        "fox-news/topic/homeless-crisis",
-        "fox-news/us/los-angeles",
-        "fox-news/politics/socialism",
-        "fox-news/us/blue-city-crime",
-        "fox-news/politics",
-        "article"
-      ],
-      "language": "en",
-      "country": "US",
-      "category": "Politics"
-    },
-    {
-      "id": "ff6ad0a37b52b4435958",
-      "source_id": "standard",
-      "title": "Klare Regeln für KI? Was Nobelpreisträger Geoffrey Hinton damit genau meint",
-      "url": "https://www.derstandard.at/story/3000000348095/klare-regeln-fuer-ki-was-nobelpreistraeger-geoffrey-hinton-damit-genau-meint?ref=rss",
-      "summary": "Der \"Vater der KI\" warnt davor, dass KI sich gegen ihre Schöpfer richten könnte. Dem STANDARD erklärt er, welche Maßnahmen dagegen helfen könnten",
-      "published_at": "2026-11-14T10:01:18+00:00",
-      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "017fa9e2fd6cdb1ee8c7",
-      "source_id": "fox-politics",
-      "title": "Democrats seize on midterm wins to push massive minimum wage hikes, but economists see trouble ahead",
-      "url": "https://www.foxnews.com/politics/democrats-seize-midterm-wins-push-massive-minimum-wage-hikes-economists-see-trouble-ahead",
-      "summary": "Democrats are pushing major minimum-wage increases after their midterm victories, but economists warn the proposals could come with unintended consequences for small businesses and inexperienced workers. Pennsylvania Gov. Josh Shapiro is pledging to more than double his state's $7.25 minimum wage, while Illinois Gov. JB Pritzker is calling for a federal increase as Democrats make affordability a central part of their governing agenda. The renewed push comes as Seattle, which has one of the nation's highest minimum wages, faces concerns about rising business costs and employment opportunities —",
-      "published_at": "2026-11-14T10:00:15+00:00",
-      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
-      "date_estimated": false,
-      "author": "fox-politics",
-      "categories": [
-        "56385976-b1b8-5ea5-af91-ae83ab1795dc",
-        "fnc",
-        "Fox News",
-        "fox-news/politics",
-        "fox-news/person/jb-pritzker",
-        "fox-news/politics/judiciary/state-and-local",
-        "fox-news/democrats",
-        "fox-news/us/economy",
-        "fox-news/politics",
-        "article"
-      ],
-      "language": "en",
-      "country": "US",
-      "category": "Politics"
-    },
-    {
-      "id": "aae877c2d4c6075d7c0d",
-      "source_id": "standard",
-      "title": "Wehrschütz: \"Leid darf nicht dazu führen, dass man seine Objektivität verliert\"",
-      "url": "https://www.derstandard.at/story/3000000348888/wehrschuetz-leid-darf-nicht-dazu-fuehren-dass-man-seine-objektivitaet-verliert?ref=rss",
-      "summary": "Nach gut 25 Jahren und 20 Kilo mehr (wie er selbst betont) hört Christian Wehrschütz als ORF-Korrespondent auf. Er spricht über den Umgang mit Leid, Ukraine-Kritik und Hofburg-Gerüchte",
-      "published_at": "2026-11-14T10:00:14+00:00",
-      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "31864632a96ae2c15f4c",
-      "source_id": "standard",
-      "title": "Ziemowit Szczerek legt ein vielstimmiges Porträt der Stadt Lemberg vor",
-      "url": "https://www.derstandard.at/story/3000000348529/ziemowit-szczerek-legt-ein-vielstimmiges-portraet-der-stadt-lemberg-vor?ref=rss",
-      "summary": "Schmerzpunkte, Mythen und das Schleudertrauma Galizien. Lwiw ist eine schillernde, vielschichtige Stadt. Der polnische Schriftsteller Ziemowit Szczerek nähert sich ihr in einem Buch an",
-      "published_at": "2026-11-14T10:00:00+00:00",
-      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "138274fed608850b5cc4",
-      "source_id": "orf",
-      "title": "Selenskyj: USA schlugen NATO-Beitritt bei Gebietsverzicht vor",
-      "url": "https://orf.at/stories/3448165/",
-      "summary": "",
-      "published_at": "2026-11-14T09:53:30+00:00",
-      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
-      "date_estimated": false,
-      "author": "orf",
-      "categories": [
-        "Ausland"
-      ],
-      "language": "de",
-      "country": "AT",
-      "category": "World"
-    },
-    {
-      "id": "52142c12bd086b2fa10b",
-      "source_id": "standard",
-      "title": "Verfassungsschutz erweitert Extremismusprävention für junge Erwachsene",
-      "url": "https://www.derstandard.at/story/3000000349225/verfassungsschutz-erweitert-extremismuspraevention-fuer-junge-erwachsene?ref=rss",
-      "summary": "Das Programm setzt künftig auch bei 17- bis 25-Jährigen an. Schwerpunkte soll es in Berufsschulen geben",
-      "published_at": "2026-11-14T09:53:05+00:00",
-      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "af731be306d507df101a",
-      "source_id": "standard",
-      "title": "Emma Aicher führt im Slalom von Levi",
-      "url": "https://www.derstandard.at/story/3000000349224/emma-aicher-fuehrt-im-slalom-von-levi?ref=rss",
-      "summary": "Die Deutsche hält ihre Konkurrenz in Schach. Nur Lara Colturi und Zrinka Ljutic halten den Rückstand unter einer Sekunde",
-      "published_at": "2026-11-14T09:32:35+00:00",
-      "fetched_at": "2026-11-14T10:37:43.833257+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
     }
   ],
   "stories": [
+    {
+      "id": "story-4d2da0550480bf787d87",
+      "title": "Senate Republicans break through Washington gridlock with massive American energy, data center overhaul",
+      "overview": "Senate Republicans scored a major win after advancing a massive bill that would overhaul America’s permitting system in a bid to turbocharge infrastructure and energy development in the country. The Senate advanced the Bipartisan American Affordability and Jobs Act of 2026 (BAAJA) on a major bipartisan vote Thursday night. The legislation went through fits and starts over the last few months, until a bipartisan coalition, with buy-in from the White House, formed to tinker with the final product. At the 30,000-foot level, the sweeping package would accelerate environmental review of projects, l",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T03:19:33+00:00",
+      "updated_at": "2026-11-20T03:19:33+00:00",
+      "article_ids": [
+        "84a3b81728044e31f367"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-c4ae4f5ce86eb18b2416",
+      "title": "GTA 6 breaks records as sales top $2bn - industry estimate",
+      "overview": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T02:54:40+00:00",
+      "updated_at": "2026-11-20T02:54:40+00:00",
+      "article_ids": [
+        "74f343f0ac34b7f288d5"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Business",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-15e4facaf9f9ecebb09e",
+      "title": "Texas botches execution of Reinaldo Dennes as staffers struggle to find vein",
+      "overview": "Dennes, 70, was convicted of killing a Houston jeweler, and groaned for an hour after pentobarbital was administered Thursday’s execution in Texas of Reinaldo Dennes took over an hour as prison staffers struggled to find a suitable vein for the two intravenous needles carrying a lethal dose of pentobarbital, a sedative. And once it began, Dennes moaned repeatedly about pain, groaned several times and asked God to take him away from the pain. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T02:50:29+00:00",
+      "updated_at": "2026-11-20T02:50:29+00:00",
+      "article_ids": [
+        "06c420eff75e44396875"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-c6334871b27f06c9ac31",
+      "title": "Trump DoJ moves to drop legal challenge to Mary Peltola’s Alaska Senate win",
+      "overview": "President had sought to block results if Democrat won race that featured two candidates named Dan Sullivan In a legal filing on Thursday, the Trump administration asked a federal appeals court to dismiss the lawsuit it filed before the midterm elections seeking to block the certification of the US Senate race in Alaska should Democrat Mary Peltola win. The legal challenge centered around the presence on the ballot of a second candidate with the same name as the incumbent, Republican senator Dan Sullivan. The Alaska supreme court already ruled that the second Sullivan’s candidacy was legal and ",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T02:43:33+00:00",
+      "updated_at": "2026-11-20T02:43:33+00:00",
+      "article_ids": [
+        "b410cd411ad1c9bdd8bd"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-a6bf57a180f43d494a49",
+      "title": "US army postpones plan to detonate bomb-making chemical amid outcry",
+      "overview": "The controlled detonation can lead to a plume containing lead particles, worrying residents and state officials The US army has delayed its plan to detonate a stash of bomb-making chemicals in south-eastern Iowa as questions swirl about the public health risks. The army was set to blow up about 5 tons of lead azide in Middletown, Iowa, at noon on Friday, a move it described as the safest way to dispose of the highly sensitive compound. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T02:30:10+00:00",
+      "updated_at": "2026-11-20T02:30:10+00:00",
+      "article_ids": [
+        "94a0b2323abb61dccc50"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-b9d34e0706f73b6a3193",
+      "title": "Trump’s National Cyber Director Sean Cairncross fired amid widespread tech outages",
+      "overview": "National Cyber Director Sean Cairncross is out after President Donald Trump backed his firing over concerns he lacked the cybersecurity credentials for the job, Fox News has confirmed. Kirsten A. Davies, the Pentagon’s chief information officer, will step into the position in an acting capacity. Davies, who was Senate-confirmed, will join Director of National Intelligence Jay Clayton, White House technology advisor Michael Kratsios and Secretary of State Marco Rubio on the administration's national security and cyber leadership team. An administration official separately told Fox News that Cai",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T02:00:36+00:00",
+      "updated_at": "2026-11-20T02:00:36+00:00",
+      "article_ids": [
+        "86b3b15c50c4fb94563a"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-843f97564f6bdb164a11",
+      "title": "EXCLUSIVE: Retired police sergeant issues warning over Mamdani's NYPD shake-up ahead of Thanksgiving parade",
+      "overview": "EXCLUSIVE: A retired police sergeant with nearly three decades of law enforcement experience warned that she would not bring her own family to New York City amid Mayor Zohran Mamdani's plans to dismantle a specialized NYPD unit responsible for counterterrorism support and crowd control. \"I wouldn't take my family there right now,\" retired Sgt. Betsy Brantner Smith, a spokesperson for the National Police Association, told Fox News Digital in an exclusive interview. Smith's warning follows Mamdani's announcement that the NYPD's Strategic Response Group (SRG), a roughly 500-officer specialized un",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T01:57:47+00:00",
+      "updated_at": "2026-11-20T01:57:47+00:00",
+      "article_ids": [
+        "0da33b35c08eee78e64c"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-2a6bc49e9b99ec228574",
+      "title": "White House cyber director ousted after US hit by wave of tech outages",
+      "overview": "Sean Cairncross exits after outages that sparked fierce criticism, with DoD official Kirsten Davies to take over White House national ⁠cyber director Sean ⁠Cairncross ​was ousted from his job, a person close to the White House told Reuters on Thursday, ⁠days after tech outages hit US air travel, banking and national security systems. Cairncross oversaw cybersecurity policy and ⁠strategy across the federal government. Department of Defense chief information officer ​Kirsten Davies will ‌assume the position ‌temporarily, according to the source. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T01:25:05+00:00",
+      "updated_at": "2026-11-20T01:25:05+00:00",
+      "article_ids": [
+        "7a4c56c199a55067e917"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-6be007edca50ef661272",
+      "title": "More climate money for Africa? Europe says use what's already pledged",
+      "overview": "African countries at the UN climate summit in Turkey are demanding more funding from developed nations to help them cope with climate change.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T00:54:50+00:00",
+      "updated_at": "2026-11-20T00:54:50+00:00",
+      "article_ids": [
+        "877a6dce8fac12419676"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-105ff4489068b2a6949e",
+      "title": "Religious messages US agriculture secretary emailed to staff deemed unconstitutional",
+      "overview": "A federal judge ruled that messages sent by Brooke Rollins to USDA workers suggest Christianity is a shared faith and violate the first amendment Religious messages that US agriculture secretary Brooke Rollins emailed to the agency’s 100,000 employees were unconstitutional, and she must be careful to avoid proselytizing when communicating with workers, a federal judge ruled Thursday. Rollins sent the messages, which included Christian messages and images, from her official email account on holidays such as Independence Day, Thanksgiving, Christmas and Easter. She did not send messages commemor",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T00:31:24+00:00",
+      "updated_at": "2026-11-20T00:31:24+00:00",
+      "article_ids": [
+        "4ecfd1dfe5d7bfac4779"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-bcc475d3a848aaa80249",
+      "title": "Why Canada is embracing AI data centres while the US pushes back",
+      "overview": "Shark Tank's Kevin O'Leary is among the big investors looking to Canada as a data centre development destination, while his US project faces local opposition.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T00:13:24+00:00",
+      "updated_at": "2026-11-20T00:13:24+00:00",
+      "article_ids": [
+        "165d32dea04bfb101c7c"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-17e065757db363254280",
+      "title": "'I tell my son it's just fireworks': People inside besieged Yemeni city speak to BBC",
+      "overview": "Orla Guerin speaks to seven people trapped in Taiz by the Houthis who reveal what life is like under siege.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T00:13:21+00:00",
+      "updated_at": "2026-11-20T00:13:21+00:00",
+      "article_ids": [
+        "7e039492850e9f53ca15"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-19c785435498a1814baa",
+      "title": "Airbnb's divisive new house rules come into force",
+      "overview": "New rules on what Airbnb hosts can reasonably ask guests to do could mean fewer chores but higher costs for customers.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T00:12:28+00:00",
+      "updated_at": "2026-11-20T00:12:28+00:00",
+      "article_ids": [
+        "0e03ac6e122718f532ee"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Business",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-b46993397223908ddf32",
+      "title": "Fish and eggs al desko? The dos and don'ts of the lunch break",
+      "overview": "What is acceptable to eat at your desk, without annoying your colleagues?",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T00:08:37+00:00",
+      "updated_at": "2026-11-20T00:08:37+00:00",
+      "article_ids": [
+        "847b82e017c45e7f5b21"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Business",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-29816eb874b63b76756b",
+      "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
+      "overview": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T00:02:07+00:00",
+      "updated_at": "2026-11-20T00:02:07+00:00",
+      "article_ids": [
+        "644dabbc9fb39b34c72c"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Business",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-f07574fdca3c7266a793",
+      "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
+      "overview": "The firm started just five years ago and is now one of the biggest names in artificial intelligence.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-19T02:20:15+00:00",
+      "updated_at": "2026-11-19T23:52:25+00:00",
+      "article_ids": [
+        "916c82b799cde7b5ad2a",
+        "4bf8c6ef95b7239829d1"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 2
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [
+        "anthropic",
+        "debut",
+        "market",
+        "stock"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-bef3c5ae1e72a55e6329",
+      "title": "Trump posthumously pardons US baseball legend Pete Rose",
+      "overview": "Rose, who died in 2024, was given a lifetime ban from the sport for betting on games but was reinstated last year.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-19T23:51:50+00:00",
+      "updated_at": "2026-11-19T23:51:50+00:00",
+      "article_ids": [
+        "9581a04a101990ff295f"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-047fd4766c7f2b9e212a",
+      "title": "House China panel calls for cutting defense contracts over aerospace ties to Beijing's military",
+      "overview": "A new congressional report is urging the U.S. to restrict investments in China’s aerospace sector and withhold taxpayer funding from companies that build military capabilities for U.S. adversaries, warning that Western commercial partnerships transferred technology and expertise to Chinese firms with military ties. The 65-page report, titled \"China's Wingmen: How Western Government Policy Enabled China's Rise in the Skies,\" follows a year-long investigation by the House Select Committee on the Chinese Communist Party, led by Chairman John Moolenaar, R-Mich., and Ranking Member Ro Khanna, D-Cal",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-19T23:44:37+00:00",
+      "updated_at": "2026-11-19T23:44:37+00:00",
+      "article_ids": [
+        "88ea99ec54ab1f3be70b"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-04e0181c5d578ba56921",
+      "title": "Cumin-laced fizzy sodas are giving cola giants a tough fight in India",
+      "overview": "Cumin-laced sodas are capturing a bigger market share in India as demand for homegrown flavours goes up.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-19T23:29:00+00:00",
+      "updated_at": "2026-11-19T23:29:00+00:00",
+      "article_ids": [
+        "801e1abc00320721c42b"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-eaacbad2dc5445b46fdb",
+      "title": "Hakeem Jeffries wins overwhelming Speaker-designate vote as progressives' revolt falls flat",
+      "overview": "Democrats are fretting that the \"Bloc\" of progressives will lug House Democrats to the left. But, there is strength in numbers. Yours truly wanted to understand just how much sway progressives might have over the House Democratic Caucus. Look no further than Wednesday morning’s vote for speaker. No one challenged House Minority Leader Hakeem Jeffries (D-N.Y.) to become speaker-designate in the internal caucus vote. It’s about the math. Jeffries marshaled 251 of the 262 secret ballots cast. The recorded vote revealed that despite all of their noise and clamor, extreme progressives really don’t ",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-19T23:14:40+00:00",
+      "updated_at": "2026-11-19T23:14:40+00:00",
+      "article_ids": [
+        "747bf9d873cbf2f8ca33"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-57cbbae193c675243475",
+      "title": "California targets Nvidia in China AI chip probe",
+      "overview": "The probe by California, where the AI chipmaker has its global headquarters, follows former CEO Jensen Huang's departure.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-19T23:04:30+00:00",
+      "updated_at": "2026-11-19T23:04:30+00:00",
+      "article_ids": [
+        "e331df4bbad46ad6a219"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-0790f92f7c59255a5f5b",
+      "title": "Standardrätsel K 11448",
+      "overview": "Täglich neu, exklusiv für Smart-Abonnent:innen: Das knifflige Quizkultur-Rätsel des STANDARD",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-19T23:01:00+00:00",
+      "updated_at": "2026-11-19T23:01:00+00:00",
+      "article_ids": [
+        "a0871a1644dbaa52b07e"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-5a7fd5c13443dc68e46f",
+      "title": "ASRA Q. NOMANI: Inside the coordinated activist blitz that crashed Anthropic’s historic Nasdaq debut",
+      "overview": "As Anthropic executives gathered inside the Nasdaq MarketSite in Times Square on Thursday morning to ring the opening bell for a historic $81 billion initial public offering, a tightly orchestrated coalition of far-left, socialist, environmental, anti-Israel and Democratic grassroots groups executed a staged street action outside, complete with linked-arm sit-ins, pre-printed banners and rapid-fire social media drops timed to hijack the news cycle. \"This IPO has got to go! Hey, hey, ho, ho,\" the staged protesters chanted to a small cadre of photographers as the audience. \"Shame! Shame!\" a prot",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-19T22:57:07+00:00",
+      "updated_at": "2026-11-19T22:57:07+00:00",
+      "article_ids": [
+        "bc82b597a7d744aa9662"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-0ee097c891a7e4e331c9",
+      "title": "From premature baby to social media star - Famed hippo Fiona dies",
+      "overview": "The beloved hippopotamus died days after swallowing a knitted hat that accidentally got into her enclosure at the Cincinnati Zoo.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-19T22:54:03+00:00",
+      "updated_at": "2026-11-19T22:54:03+00:00",
+      "article_ids": [
+        "20f8cd00443c68453193"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-98b8dc1fb719dbfffd73",
+      "title": "Judge finds Thomas Markle mentally fit to stand trial on child abuse charges",
+      "overview": "Markle, who has denied possessing images of child sex abuse was deemed competent after an evaluation by a court-appointed psychiatrist.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-19T22:48:22+00:00",
+      "updated_at": "2026-11-19T22:48:22+00:00",
+      "article_ids": [
+        "844657a50fe0d1d34470"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-6dcca062a58e4e79bbff",
+      "title": "Lufthansa will 1.000 Stellen an wichtigen Flughäfen Frankfurt und München streichen",
+      "overview": "Die deutsche Kernmarke will weniger Flüge auf Kurz- und Mittelstrecke anbieten. Es ist unklar in welcher Form und in welchem Zeitraum der Stellenabbau passieren soll",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-19T22:21:11+00:00",
+      "updated_at": "2026-11-19T22:21:11+00:00",
+      "article_ids": [
+        "edd2c989e87f8f3dea70"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-e614777723367d4f54ba",
+      "title": "Donald Trump issues posthumous pardon to MLB ‘superstar and legend’ Pete Rose",
+      "overview": "Rose pleaded guilty to tax evasion in 1990 Player also banned from baseball over bets Donald Trump says he has posthumously pardoned Pete Rose more than two years after the baseball star’s death and a year after he was reinstated by Major League Baseball Commissioner Rob Manfred. “I have just given a Complete and Total Pardon to the Late, Great Pete Rose, a true Baseball SUPERSTAR + LEGEND,” Trump posted on social media. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-19T22:09:12+00:00",
+      "updated_at": "2026-11-19T22:09:12+00:00",
+      "article_ids": [
+        "e0a3cd378ac02471a860"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
     {
       "id": "story-00380551dc715aaa5905",
       "title": "Fiona the hippo dies after ingesting knitted hat at Cincinnati zoo",
@@ -32740,6 +33755,42 @@
       "ai": null
     },
     {
+      "id": "story-774d50c8a87f439bc134",
+      "title": "Welche Sachbücher über China könnt ihr empfehlen?",
+      "overview": "Mein Forum: Diskutieren Sie dieses Thema mit der STANDARD-Community",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-19T10:00:00+00:00",
+      "updated_at": "2026-11-19T10:00:00+00:00",
+      "article_ids": [
+        "54ba336cb6f3eba66479"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
       "id": "story-91466ef229dc663536d5",
       "title": "Teure Pensionen: Länger arbeiten – aber wie?",
       "overview": "Ein höheres Antrittsalter, gekoppelt an die Lebenserwartung, und bessere Beschäftigungschancen für Ältere sind kein Gegensatz. Sie sind zwei Seiten derselben Reform",
@@ -35209,42 +36260,6 @@
       "updated_at": "2026-11-19T02:59:06+00:00",
       "article_ids": [
         "9e92de3c8cf3fd3dde40"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-f07574fdca3c7266a793",
-      "title": "AI giant Anthropic valued at up to $1.5tn ahead of stock market debut",
-      "overview": "The firm started just five years ago and is now one of the biggest names in artificial intelligence.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-19T02:20:15+00:00",
-      "updated_at": "2026-11-19T02:20:15+00:00",
-      "article_ids": [
-        "916c82b799cde7b5ad2a"
       ],
       "publisher_count": 1,
       "article_counts": {
@@ -41926,6 +42941,42 @@
         "US"
       ],
       "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-02a421db675d979ed85d",
+      "title": "Investiert ihr Geld bei Crowdfunding Plattformen?",
+      "overview": "Mein Forum: Diskutieren Sie dieses Thema mit der STANDARD-Community",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-18T11:00:00+00:00",
+      "updated_at": "2026-11-18T11:00:00+00:00",
+      "article_ids": [
+        "07b17813e5a1f68796fe"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
       "common_terms": [],
       "limitations": [
         "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
@@ -75236,39 +76287,33 @@
     },
     {
       "id": "story-eaa9cc3e6397e07185be",
-      "title": "D: Große Anteilnahme bei Trauerfeier für Aiwanger",
-      "overview": "",
+      "title": "Große Anteilnahme an Trauerfeier für bayerischen Politiker Hubert Aiwanger",
+      "overview": "Der 55-jährige Vize-Ministerpräsident von Bayern war am Mittwoch vergangener Woche tot in seinem Hotelzimmer in Berlin entdeckt worden",
       "title_kind": "source_headline",
-      "first_published": "2026-11-14T10:52:31+00:00",
+      "first_published": "2026-11-14T12:42:04+00:00",
       "updated_at": "2026-11-14T12:42:04+00:00",
       "article_ids": [
-        "d20954244430d4c80e1d",
         "0aa78107d35054f8a8c6"
       ],
-      "publisher_count": 2,
+      "publisher_count": 1,
       "article_counts": {
         "left": 1,
         "centre": 0,
         "right": 0,
-        "unknown": 1
+        "unknown": 0
       },
       "publisher_counts": {
         "left": 1,
         "centre": 0,
         "right": 0,
-        "unknown": 1
+        "unknown": 0
       },
-      "category": "World",
+      "category": "Politics",
       "countries": [
         "AT"
       ],
       "language": "de",
-      "common_terms": [
-        "aiwanger",
-        "anteilnahme",
-        "große",
-        "trauerfeier"
-      ],
+      "common_terms": [],
       "limitations": [
         "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
         "Insufficient coverage for comparison."
@@ -75546,1029 +76591,6 @@
       ],
       "exposures": [],
       "ai": null
-    },
-    {
-      "id": "story-43c51060a357fe205d23",
-      "title": "Was über den längsten Flug-Shutdown in den USA seit 9/11 bisher bekannt ist",
-      "overview": "Die Trump-Regierung macht veraltete Technik für den stundenlangen Ausfall verantwortlich, dessen Folgen wohl noch tagelang spürbar sein werden. Ein politischer Streit ist bereits zuvor entbrannt",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-14T11:30:06+00:00",
-      "updated_at": "2026-11-14T11:30:06+00:00",
-      "article_ids": [
-        "8519823d640623356f28"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-609d847b5434cac47238",
-      "title": "Nations League im Liveticker: Österreich vs. Irland, ab 20.45 Uhr",
-      "overview": "Das ÖFB-Team bestreitet in Linz sein letztes Heimspiel der laufenden Nations League. Bei einem Sieg winkt der Aufstieg in Liga A. Wir berichten live",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-14T11:23:25+00:00",
-      "updated_at": "2026-11-14T11:23:25+00:00",
-      "article_ids": [
-        "ab083b41fd50bc065fcc"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-9602e10fdb11dbe63e62",
-      "title": "Grüne: Pühringer und Kraus als Wiener Spitzenduo bestätigt",
-      "overview": "Das Duo Judith Pühringer und Peter Kraus wurde mit 87,7 Prozent der Stimmberechtigten wiedergewählt",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-14T11:20:30+00:00",
-      "updated_at": "2026-11-14T11:20:30+00:00",
-      "article_ids": [
-        "05a6c0afe703a8307fbd"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-b309ed0c742cf75a4c66",
-      "title": "Anzeige gegen Innsbrucker Bürgermeister nach Mitarbeiterfest",
-      "overview": "Staatsanwaltschaft prüft Anfangsverdacht wegen Amtsmissbrauchs. Der Bürgermeister soll laut der Anzeige Mitarbeitende beim Einsatz wegen Lärmbeschwerden gehindert haben",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-14T11:18:16+00:00",
-      "updated_at": "2026-11-14T11:18:16+00:00",
-      "article_ids": [
-        "1c571492938dec330420"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-af00e4cd8093a4af971c",
-      "title": "Kind in Tirol wog nur elf Kilogramm, Eltern im Jänner vor Gericht",
-      "overview": "Die Staatsanwaltschaft erhebt Anklage gegen die Eltern eines hautkranken, stark unterernährten siebenjährigen Mädchens",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-14T11:01:32+00:00",
-      "updated_at": "2026-11-14T11:01:32+00:00",
-      "article_ids": [
-        "597555a1cf68e6b73010"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-9f7cdbc967b187639068",
-      "title": "Der Falafel-König vom Brunnenmarkt",
-      "overview": "Am Brunnenmarkt verkaufen zwei Brüder aus dem Irak vegetarische Küche aus Syrien. Das schmeckt allen, sogar dem Bürgermeister",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-14T11:01:32+00:00",
-      "updated_at": "2026-11-14T11:01:32+00:00",
-      "article_ids": [
-        "7751b45bcb19a96e80aa"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-41841785ed7eade8cff6",
-      "title": "Ein kluges Pferd zeigt Grenzen künstlicher Intelligenz auf",
-      "overview": "Vor mehr als 120 Jahren verblüffte ein Pferd mit vermeintlichen Rechenkünsten die Welt. Der Fall des klugen Hans offenbart ein grundlegendes Problem der KI – mit Folgen für die Wissenschaft",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-14T11:01:00+00:00",
-      "updated_at": "2026-11-14T11:01:00+00:00",
-      "article_ids": [
-        "8a9c39436e84f95204a5"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-c1c51c8bbfba8e4291a0",
-      "title": "‘We must deliver’: jubilant Democrats gather in Denver to chart way forward",
-      "overview": "At party’s ‘What’s Next’ conference, consensus is they need to act quickly, but over affordability or accountability is the question What’s next for Democrats? It’s the question thousands of Democrats, including lawmakers, strategists, pollsters, creators, organizers, staffers and 2028 presidential hopefuls are trying to answer at a three-day gathering in Denver, after a sweeping victory in the 2026 midterm elections. Continue reading...",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-14T11:00:44+00:00",
-      "updated_at": "2026-11-14T11:00:44+00:00",
-      "article_ids": [
-        "d5504ad22eb919650058"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-951c50aa819065ad899c",
-      "title": "Ecuadorian fishermen who survived US boat strikes sue Trump administration",
-      "overview": "US military has killed nearly 250 people in attack on ‘narco-terrorism’, and on 17 March, sank the 16 plaintiffs’ boat, leaving two with serious burns More than a dozen Ecuadorian fishermen are suing the US government after they survived a military drone attack in the Pacific ocean earlier this year that sank their boat and left two of them with serious burns from the explosions. The 17 March attack on the La Negra Francesca Duarte II was part of the Trump administration’s Operation Southern Spear campaign, announced in November 2025 ostensibly to counter “narco-terrorists” it said operated in",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-14T11:00:42+00:00",
-      "updated_at": "2026-11-14T11:00:42+00:00",
-      "article_ids": [
-        "6bf4ca6fc352e44937c3"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-828535bbb937542d46c2",
-      "title": "Inside the House GOP strategy to capitalize on Democrats' warring factions in the new Congress",
-      "overview": "EXCLUSIVE: House Republicans are heading into the next Congress ready to brawl. Rep. Tom Emmer, R-Minn., who is set to go from the No. 3 most powerful House Republican to No. 2 next year, told Fox News Digital that the GOP will hold the new Democrat majority \"accountable\" for their far-left faction's ideas over the next two years, even if they cannot control what bills get a vote. Emmer, who has served as House majority whip for the past four years, was elected Tuesday to serve as minority whip alongside incoming House Minority Leader Jim Jordan, R-Ohio. The Speaker of the House position turns",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-14T11:00:13+00:00",
-      "updated_at": "2026-11-14T11:00:13+00:00",
-      "article_ids": [
-        "f8b836c87d6110573735"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 1,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 1,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-8b4c565905271eaeaf28",
-      "title": "Warum Entspannung nicht auf Knopfdruck funktioniert – und wie man den Körper dabei unterstützen kann",
-      "overview": "Der Arbeitstag ist vorbei, der Stress aber nicht: Wer ständig aktiv ist, verlernt mitunter, zur Ruhe zu kommen. Einfache Übungen können das Nervensystem bei der Regulation unterstützen",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-14T11:00:08+00:00",
-      "updated_at": "2026-11-14T11:00:08+00:00",
-      "article_ids": [
-        "dc088edf38bdf605043c"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [
-        {
-          "category": "Regulation and spending",
-          "sector": "Regulated sectors",
-          "symbols": [],
-          "mechanism": "Policy changes can alter compliance costs, public demand and market access.",
-          "positive": "Public investment or clearer rules may benefit some suppliers.",
-          "negative": "New constraints may increase costs or restrict activity.",
-          "horizon": "Weeks to months; timing uncertain",
-          "uncertainty": "Magnitude, policy details, timing and existing market expectations are uncertain. Scenarios may not materialise.",
-          "article_ids": [
-            "dc088edf38bdf605043c"
-          ],
-          "matches": {}
-        }
-      ],
-      "ai": null
-    },
-    {
-      "id": "story-8835a4cf83f689fa9b20",
-      "title": "Trump keeps signaling an end to Iran war, but expert warns a crucial piece of his strategy is missing",
-      "overview": "President Donald Trump declared Thursday that the United States no longer needs a deal with Iran, abruptly shifting his diplomatic message just three days after expressing optimism about negotiations and directing Vice President JD Vance to focus on domestic issues instead. \"We don’t need a deal with Iran. Those days have long since passed,\" Trump wrote on Truth Social. \"We’ve got their money, Hundreds of Billions of Dollars, and we’ve got their Strait!\" Trump's latest declaration came just one day after he proclaimed victory over Iran during a Veterans Day ceremony at Arlington National Cemet",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-14T11:00:05+00:00",
-      "updated_at": "2026-11-14T11:00:05+00:00",
-      "article_ids": [
-        "8816d3ccb2eae699a1d9"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 1,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 1,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-1d5fb7b05fc84b5c275a",
-      "title": "Crispy Miso-Aubergine",
-      "overview": "Im Rezept aus dem Buch \"Maka Magic\" wird frittierte Melanzani mit einer umamigen Miso-Marinade bestrichen",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-14T11:00:00+00:00",
-      "updated_at": "2026-11-14T11:00:00+00:00",
-      "article_ids": [
-        "36251f9ac921317517b4"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-4180c11dc821c4247e57",
-      "title": "Consumer Fight Back",
-      "overview": "Black Friday promises huge savings, but are the deals really as good as they seem?",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-14T11:00:00+00:00",
-      "updated_at": "2026-11-14T11:00:00+00:00",
-      "article_ids": [
-        "40f382813d3f04e5de78"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "Business",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-4fa029013e61e4f2bd8f",
-      "title": "Verletzter nach Polizei-Schuss in Niederösterreich: Untersuchungshaft beantragt",
-      "overview": "Der 38-Jährige ist aus dem künstlichen Tiefschlaf erwacht. Die Staatsanwaltschaft ermittelt wegen versuchter Körperverletzung und Widerstands gegen die Staatsgewalt",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-14T10:54:26+00:00",
-      "updated_at": "2026-11-14T10:54:26+00:00",
-      "article_ids": [
-        "a5de0132c59e8ddf929f"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-f95de0ab2ff32aa0d2e4",
-      "title": "OSCE \"general\" sets sights on top UN job, despite clash with chairmanship and criticism of his leadership",
-      "overview": "Turkey’s Feridun Sinirlioğlu wants to become Secretary-General of the UN. But an investigation by DER STANDARD points to a difficult leadership style and possible attempts to reinterpret his formally defined responsibilities and powers",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-14T10:50:31+00:00",
-      "updated_at": "2026-11-14T10:50:31+00:00",
-      "article_ids": [
-        "d1753442ff840c4e6119"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-10b681936f5862ff1ec2",
-      "title": "Eklat mit Vorsitzland, Kritik am Führungsstil: Trotzdem will OSZE-\"General\" Uno-Chef werden",
-      "overview": "Der Türke Feridun Sinirlioğlu will Uno-Chef werden. STANDARD-Recherchen legen aber einen schwierigen Führungsstil nahe sowie mögliche Versuche, seine festgelegten Kompetenzen und Befugnisse umzuinterpretieren",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-14T10:50:27+00:00",
-      "updated_at": "2026-11-14T10:50:27+00:00",
-      "article_ids": [
-        "f039de1984b34b9ee6e6"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-4b2b93eaf341a2797b30",
-      "title": "USA brachten NATO-Beitritt aufs Tapet",
-      "overview": "Die USA haben nach den Worten des ukrainischen Präsidenten Wolodymyr Selenskyj der Ukraine die NATO-Mitgliedschaft im Gegenzug für einen Gebietsverzicht in Aussicht gestellt. Selenskjy bekräftigte seine Haltung, dass Kiew nicht bereit sei, sich aus seinem Hoheitsgebiet zurückzuziehen – stellte gleichzeitig aber auch ein Referendum zu der Frage in den Raum.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-14T10:47:55+00:00",
-      "updated_at": "2026-11-14T10:47:55+00:00",
-      "article_ids": [
-        "a57f1f626f82e79bb0cd"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-5c88af98c973b6098486",
-      "title": "Hungarian authorities uncover $20m during probe of Orbán-era minister",
-      "overview": "Prime Minister Péter Magyar promised a sweeping anti-corruption drive after ousting Orbán in April.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-14T10:42:20+00:00",
-      "updated_at": "2026-11-14T10:42:20+00:00",
-      "article_ids": [
-        "179318a19c3100c421e1"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-26bcc9c28b6dc4ab2c3f",
-      "title": "Krankenkassendefizit 2026 geringer als erwartet",
-      "overview": "",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-14T10:38:41+00:00",
-      "updated_at": "2026-11-14T10:38:41+00:00",
-      "article_ids": [
-        "e304208594d5a366d30c"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-628b6af00c57fe6253e5",
-      "title": "Socialist LA mayor's bold homelessness promise ahead of 2028 Olympics hit with reality check: 'Not optimistic'",
-      "overview": "Incoming Los Angeles Mayor Nithya Raman has promised to cut the number of people sleeping in tents and homeless encampments by at least 50% before the 2028 Summer Olympics, but one local activist believes her vision may not be realistic. The blue city’s growing homeless population became a major focus of Raman’s mayoral campaign. A member of the Democratic Socialists of America (DSA), she plans to expand shelter and housing options while stretching \"every dollar as far as possible.\" John Alle, a business owner and co-founder of the Santa Monica Coalition, told Fox News Digital Raman won’t be a",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-14T10:30:51+00:00",
-      "updated_at": "2026-11-14T10:30:51+00:00",
-      "article_ids": [
-        "25e4fb67fa836816fa22"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 1,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 1,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-37e9cbf75e3838f5f9d9",
-      "title": "Klare Regeln für KI? Was Nobelpreisträger Geoffrey Hinton damit genau meint",
-      "overview": "Der \"Vater der KI\" warnt davor, dass KI sich gegen ihre Schöpfer richten könnte. Dem STANDARD erklärt er, welche Maßnahmen dagegen helfen könnten",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-14T10:01:18+00:00",
-      "updated_at": "2026-11-14T10:01:18+00:00",
-      "article_ids": [
-        "ff6ad0a37b52b4435958"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-b44c06922da5bc8ac045",
-      "title": "Democrats seize on midterm wins to push massive minimum wage hikes, but economists see trouble ahead",
-      "overview": "Democrats are pushing major minimum-wage increases after their midterm victories, but economists warn the proposals could come with unintended consequences for small businesses and inexperienced workers. Pennsylvania Gov. Josh Shapiro is pledging to more than double his state's $7.25 minimum wage, while Illinois Gov. JB Pritzker is calling for a federal increase as Democrats make affordability a central part of their governing agenda. The renewed push comes as Seattle, which has one of the nation's highest minimum wages, faces concerns about rising business costs and employment opportunities —",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-14T10:00:15+00:00",
-      "updated_at": "2026-11-14T10:00:15+00:00",
-      "article_ids": [
-        "017fa9e2fd6cdb1ee8c7"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 1,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 1,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-fd27f64c619216e518cb",
-      "title": "Wehrschütz: \"Leid darf nicht dazu führen, dass man seine Objektivität verliert\"",
-      "overview": "Nach gut 25 Jahren und 20 Kilo mehr (wie er selbst betont) hört Christian Wehrschütz als ORF-Korrespondent auf. Er spricht über den Umgang mit Leid, Ukraine-Kritik und Hofburg-Gerüchte",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-14T10:00:14+00:00",
-      "updated_at": "2026-11-14T10:00:14+00:00",
-      "article_ids": [
-        "aae877c2d4c6075d7c0d"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-05735e13426e51c88df3",
-      "title": "Ziemowit Szczerek legt ein vielstimmiges Porträt der Stadt Lemberg vor",
-      "overview": "Schmerzpunkte, Mythen und das Schleudertrauma Galizien. Lwiw ist eine schillernde, vielschichtige Stadt. Der polnische Schriftsteller Ziemowit Szczerek nähert sich ihr in einem Buch an",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-14T10:00:00+00:00",
-      "updated_at": "2026-11-14T10:00:00+00:00",
-      "article_ids": [
-        "31864632a96ae2c15f4c"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-bb52407f847554b44bba",
-      "title": "Selenskyj: USA schlugen NATO-Beitritt bei Gebietsverzicht vor",
-      "overview": "",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-14T09:53:30+00:00",
-      "updated_at": "2026-11-14T09:53:30+00:00",
-      "article_ids": [
-        "138274fed608850b5cc4"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-d2f7ede34349a751e3e2",
-      "title": "Verfassungsschutz erweitert Extremismusprävention für junge Erwachsene",
-      "overview": "Das Programm setzt künftig auch bei 17- bis 25-Jährigen an. Schwerpunkte soll es in Berufsschulen geben",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-14T09:53:05+00:00",
-      "updated_at": "2026-11-14T09:53:05+00:00",
-      "article_ids": [
-        "52142c12bd086b2fa10b"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-2149d705418e05bd71f8",
-      "title": "Emma Aicher führt im Slalom von Levi",
-      "overview": "Die Deutsche hält ihre Konkurrenz in Schach. Nur Lara Colturi und Zrinka Ljutic halten den Rückstand unter einer Sekunde",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-14T09:32:35+00:00",
-      "updated_at": "2026-11-14T09:32:35+00:00",
-      "article_ids": [
-        "af731be306d507df101a"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
     }
   ],
   "instruments": [
@@ -76693,16 +76715,16 @@
   "markets": [],
   "status": {
     "state": "ok",
-    "attempted_at": "2026-11-19T22:15:34.896397+00:00",
-    "last_success_at": "2026-11-19T22:15:34.896397+00:00",
+    "attempted_at": "2026-11-20T03:33:12.607823+00:00",
+    "last_success_at": "2026-11-20T03:33:12.607823+00:00",
     "errors": [],
     "source_results": {
       "bbc-world": "36 entries",
       "guardian-us": "33 entries",
       "fox-politics": "25 entries",
-      "bbc-business": "33 entries",
+      "bbc-business": "38 entries",
       "orf": "22 entries",
-      "standard": "153 entries"
+      "standard": "154 entries"
     },
     "market_status": "Market price data not configured",
     "ai_status": "AI enrichment not configured"
