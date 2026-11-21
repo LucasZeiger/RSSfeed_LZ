@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "mode": "live",
-  "generated_at": "2026-11-20T21:14:59.309545+00:00",
+  "generated_at": "2026-11-21T02:31:11.276709+00:00",
   "refresh_minutes": 60,
   "sources": [
     {
@@ -90,6 +90,714 @@
     }
   ],
   "articles": [
+    {
+      "id": "f03a9b063a62862aa5a2",
+      "source_id": "standard",
+      "title": "Gute Kruste und Krume: Weizen-Sauerteigbrot",
+      "url": "https://www.derstandard.at/story/3000000348169/gute-kruste-und-krume-weizen-sauerteigbrot?ref=rss",
+      "summary": "Unweit des Wiener Donaukanals gibt es in der Tho Bäckerei richtig gutes Brot",
+      "published_at": "2026-11-21T02:00:00+00:00",
+      "fetched_at": "2026-11-21T02:31:11.276709+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "e9b7d97728f3f2521465",
+      "source_id": "guardian-us",
+      "title": "Man accused of sparking deadly Los Angeles wildfire found guilty",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/los-angeles-palisades-wildfire-trial-verdict",
+      "summary": "Verdict in case against former Uber driver Jonathan Rinderknecht comes after first trial ended with hung jury The 30-year-old accused of sparking the deadly Palisades fire in Los Angeles was found guilty of two federal arson charges in a Friday verdict that came months after his first trial concluded with a hung jury. For two weeks, a fresh batch of jurors listened to prosecutors mount their case against Jonathan Rinderknecht. Continue reading...",
+      "published_at": "2026-11-21T01:43:15+00:00",
+      "fetched_at": "2026-11-21T02:31:11.276709+00:00",
+      "date_estimated": false,
+      "author": "Uwa Ede-Osifo",
+      "categories": [
+        "Los Angeles",
+        "California",
+        "West Coast",
+        "US news",
+        "World news",
+        "Wildfires"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "fdff1adeec68f6262e31",
+      "source_id": "bbc-world",
+      "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
+      "url": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o?at_campaign=rss&at_medium=RSS",
+      "summary": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars.",
+      "published_at": "2026-11-21T01:02:39+00:00",
+      "fetched_at": "2026-11-21T02:31:11.276709+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "c61d952c9b0565985447",
+      "source_id": "bbc-world",
+      "title": "ANC fights to keep control of South Africa's key cities after election setback",
+      "url": "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo?at_campaign=rss&at_medium=RSS",
+      "summary": "The ANC appears reluctant to replicate its national power-sharing deal with the pro-business DA at the local level.",
+      "published_at": "2026-11-21T00:34:51+00:00",
+      "fetched_at": "2026-11-21T02:31:11.276709+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "f2b965acf30650c095b1",
+      "source_id": "guardian-us",
+      "title": "Trump turns White House press conference into a 2028 succession audition",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-republican-succession-battle-vance-rubio",
+      "summary": "The president appeared to put Vance and Rubio through their paces as potential successors, though Stephen Miller unexpectedly stole the spotlight “Which of you shall we say doth love us most?” The ageing King Lear’s question to his daughters, expecting them to compete for his favour and carve up his kingdom, hovered in the White House press briefing room on Friday. Continue reading...",
+      "published_at": "2026-11-21T00:16:26+00:00",
+      "fetched_at": "2026-11-21T02:31:11.276709+00:00",
+      "date_estimated": false,
+      "author": "David Smith in Washington",
+      "categories": [
+        "Trump administration",
+        "Donald Trump",
+        "US politics",
+        "William Shakespeare",
+        "US news",
+        "JD Vance",
+        "Marco Rubio",
+        "Republicans",
+        "The far right"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "9c71478fc65726f5a633",
+      "source_id": "guardian-us",
+      "title": "‘A source of inspiration’: California celebrates the late civil rights icon Dolores Huerta",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/dolores-huerta-celebration-of-life-california",
+      "summary": "A public vigil and celebration of life honor the civil rights activist and co-founder of United Farm Workers union Hundreds of people came out to honor and celebrate the life and legacy of the California civil rights activist Dolores Huerta at a celebration-of-life event Friday in Bakersfield. Huerta’s daughter Lori de Leon thanked attendees for their support during her mother’s passing, highlighting the widespread tributes and communities gathering in her honor. Continue reading...",
+      "published_at": "2026-11-21T00:03:47+00:00",
+      "fetched_at": "2026-11-21T02:31:11.276709+00:00",
+      "date_estimated": false,
+      "author": "Maria G Ortiz-Briones",
+      "categories": [
+        "California",
+        "US unions",
+        "US news",
+        "West Coast"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "6c7702c58a9bec379895",
+      "source_id": "bbc-world",
+      "title": "Mamdani announces plan to close New York's Rikers Island jail by 2032",
+      "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo?at_campaign=rss&at_medium=RSS",
+      "summary": "Plans to shutter the troubled facility date back to 2019, when the city council first voted to close it but delays arose over where to place inmates.",
+      "published_at": "2026-11-21T00:01:39+00:00",
+      "fetched_at": "2026-11-21T02:31:11.276709+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "8b80dd0165a62b20142a",
+      "source_id": "guardian-us",
+      "title": "Republican senator blocks Trump cyber nominee over January 6 denial",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/tillis-republican-senator-trump-cyber-nominee",
+      "summary": "Thom Tillis move comes after Michael LoSapio, nominated for Cisa role, told hearing ‘I don’t believe it was an attack’ Senator Thom Tillis, the outgoing North Carolina Republican who is due to be replaced by a Democrat, has reportedly blocked a confirmation vote on Donald Trump’s nominee to lead a key US cybersecurity agency, Michael LoSapio, after he denied during a hearing that the Capitol was attacked on January 6 2021. Tillis, who declined to run for re-election and after repeated clashes with Trump’s, confirmed to HuffPost on Friday that he has placed a hold on LoSapio’s nomination to ser",
+      "published_at": "2026-11-20T23:48:38+00:00",
+      "fetched_at": "2026-11-21T02:31:11.276709+00:00",
+      "date_estimated": false,
+      "author": "Robert Mackey",
+      "categories": [
+        "Republicans",
+        "US politics",
+        "US Congress",
+        "Trump administration",
+        "US Senate",
+        "US news"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "6701fc72f13b1f87186e",
+      "source_id": "guardian-us",
+      "title": "Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer",
+      "url": "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation",
+      "summary": "German company faced 65,000 claims from people who said they developed cancer after using weedkiller A Missouri judge on Friday approved Bayer’s $7.25bn settlement of lawsuits ⁠alleging that its weedkiller ​Roundup causes cancer, potentially resolving litigation that has weighed on the German company for close to a decade. Judge Timothy Boyer of a state court in St Louis ⁠found the settlement “fair, reasonable and adequate”. Continue reading...",
+      "published_at": "2026-11-20T23:42:43+00:00",
+      "fetched_at": "2026-11-21T02:31:11.276709+00:00",
+      "date_estimated": false,
+      "author": "Reuters",
+      "categories": [
+        "Bayer",
+        "Monsanto",
+        "Herbicides",
+        "Pesticides",
+        "Cancer",
+        "Chemical industry",
+        "Business",
+        "US supreme court",
+        "US justice system",
+        "Germany"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "cecc1d493350e86f72aa",
+      "source_id": "fox-politics",
+      "title": "Texas Gov-elect Gina Hinojosa vows to rescind Abbott's H-1B visa restrictions despite admitting program abuse",
+      "url": "https://www.foxnews.com/politics/texas-gov-elect-gina-hinojosa-vows-rescind-abbotts-h1b-visa-restrictions-despite-admitting-program-abuse",
+      "summary": "Texas Gov.-elect Gina Hinojosa (D) said she plans to rescind Gov. Greg Abbott’s hiring freeze on H-1B visa workers at state agencies and public universities on her first day in office, even as she acknowledged that the federal visa program has been abused. In a recent interview with the Texas Tribune, Hinojosa, a Democrat, dismissed Abbott’s January directive restricting new H-1B visa petitions as a distraction. \"Yeah, that does not make sense to me. I will tell you, I’m not doing culture wars. That’s not what I was elected to do,\" Hinojosa said. Abbott issued the order in January to bar state",
+      "published_at": "2026-11-20T23:37:39+00:00",
+      "fetched_at": "2026-11-21T02:31:11.276709+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "57032ac4-64f5-533c-8e18-bd4e025ac997",
+        "fnc",
+        "Fox News",
+        "fox-news/us/us-regions/southwest/texas",
+        "fox-news/politics",
+        "fox-news/person/greg-abbott",
+        "fox-news/us/immigration",
+        "fox-news/politics/judiciary/state-and-local",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "d167dd3881bbd4737613",
+      "source_id": "bbc-world",
+      "title": "A new Nepal, an old neighbour - Balendra Shah's India test",
+      "url": "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo?at_campaign=rss&at_medium=RSS",
+      "summary": "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart.",
+      "published_at": "2026-11-20T23:28:17+00:00",
+      "fetched_at": "2026-11-21T02:31:11.276709+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "92bd6435e811e6e4ecba",
+      "source_id": "bbc-world",
+      "title": "Dead pets were meant to be cremated - then their bodies appeared on a livestream",
+      "url": "https://www.bbc.co.uk/news/articles/cmn502ek17yvo?at_campaign=rss&at_medium=RSS",
+      "summary": "Grieving Filipinos confront a distressing reality: their dogs and cats may not have received the send-off they paid for.",
+      "published_at": "2026-11-20T23:20:33+00:00",
+      "fetched_at": "2026-11-21T02:31:11.276709+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "891e8ed7a6ea811ddfd0",
+      "source_id": "fox-politics",
+      "title": "Fiona the hippo honored by US Senate in unanimous resolution praising Cincinnati Zoo staff",
+      "url": "https://www.foxnews.com/politics/fiona-hippo-honored-us-senate-unanimous-resolution-praising-cincinnati-zoo-staff",
+      "summary": "Fiona the hippo received a formal tribute from the U. S. Senate on Friday, one day after the beloved Cincinnati Zoo resident died following a medical emergency. Sen. Bernie Moreno, R-Ohio, introduced the resolution honoring Fiona's life and legacy while expressing the chamber's gratitude to the zoo's staff for their care and dedication. The measure passed by unanimous consent. Speaking from the Senate floor next to a photo of the hippopotamus, Moreno described Fiona's death as a \"devastating loss\" and a tragic accident. BELOVED HIPPO FIONA DIES AT CINCINNATI ZOO AFTER SWALLOWING VISITOR'S HAT ",
+      "published_at": "2026-11-20T23:16:06+00:00",
+      "fetched_at": "2026-11-21T02:31:11.276709+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "2b15ac8e-8e1f-5a4b-8c5e-4d157f81fd06",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/science/wild-nature/mammals",
+        "fox-news/us/us-regions/midwest/ohio",
+        "fox-news/politics/senate",
+        "fox-news/science/wild-nature",
+        "fox-news/politics",
+        "article"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "2559fa10bdd2ca63d464",
+      "source_id": "bbc-world",
+      "title": "US declassifies more UFO footage filmed in the Middle East",
+      "url": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko?at_campaign=rss&at_medium=RSS",
+      "summary": "The Pentagon has released an eighth tranche of UFO records, which includes three video clips recorded in 2020, 2023 and 2026.",
+      "published_at": "2026-11-20T23:15:20+00:00",
+      "fetched_at": "2026-11-21T02:31:11.276709+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "da14cc392596d6a36a50",
+      "source_id": "standard",
+      "title": "Wahlwienerin Kotásková verliert WM-Titelkampf gegen Olympiasiegerin Price",
+      "url": "https://www.derstandard.at/story/3000000350333/wahlwienerin-kotaskova-verliert-wm-titelkampf-gegen-olympiasiegerin-price?ref=rss",
+      "summary": "Die in Wien lebende Tschechin Michaela Kotásková kassierte in Cardiff gegen die walisische Lokalmatadorin Lauren Price eine klare Niederlage im Weltergewicht",
+      "published_at": "2026-11-20T23:12:51+00:00",
+      "fetched_at": "2026-11-21T02:31:11.276709+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "6efc8d4d930d60fd78a6",
+      "source_id": "orf",
+      "title": "Glyphosat-Streit: US-Richter billigt Bayer-Milliardenvergleich",
+      "url": "https://orf.at/stories/3448831/",
+      "summary": "",
+      "published_at": "2026-11-20T23:12:07+00:00",
+      "fetched_at": "2026-11-21T02:31:11.276709+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Gesundheit"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "3d08251616727e19e357",
+      "source_id": "bbc-world",
+      "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o?at_campaign=rss&at_medium=RSS",
+      "summary": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+      "published_at": "2026-11-20T23:08:57+00:00",
+      "fetched_at": "2026-11-21T02:31:11.276709+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "9b4f3454306b4808b87e",
+      "source_id": "orf",
+      "title": "Ukrainische Nadelstiche zeigen Wirkung",
+      "url": "https://orf.at/stories/3448770/",
+      "summary": "Es war der vom russischen Präsidenten Wladimir Putin angekündigte Gegenschlag nach dem ukrainischen Angriff auf die Brücke zur Krim: In Kiew sind bei neuen russischen Angriffen mehrere Brücken getroffen und beschädigt worden. Das zeigt aber auch, welcher Schlag der Ukraine mit der De-facto-Zerstörung der Kertsch-Brücke gelungen ist. Und auch die Nadelstiche gegen russische Raffinerien haben zunehmend größere Folgen.",
+      "published_at": "2026-11-20T23:03:01+00:00",
+      "fetched_at": "2026-11-21T02:31:11.276709+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "c99b32ce7f736c00871b",
+      "source_id": "guardian-us",
+      "title": "US police departments warn GTA VI users to ‘keep it in the game’",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/grand-theft-auto-vi-us-police-psa",
+      "summary": "Although there is no definitive link between violent video games and behavior, departments take to social media While critics have been raving after the recent and long-awaited arrival of Grand Theft Auto VI, the latest entry in the famously violent video game series has also prompted real-world warnings from authorities. Police departments across the US met the game’s release on Thursday with reminders that the car thefts, reckless driving, violence and other criminal mayhem depicted in the blockbuster title should not be re-enacted on the country’s streets. Continue reading...",
+      "published_at": "2026-11-20T23:02:30+00:00",
+      "fetched_at": "2026-11-21T02:31:11.276709+00:00",
+      "date_estimated": false,
+      "author": "Marina Dunbar",
+      "categories": [
+        "US policing",
+        "Grand Theft Auto VI",
+        "US crime",
+        "Games",
+        "US news",
+        "Social media",
+        "Culture"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "acfd92cba43895713411",
+      "source_id": "standard",
+      "title": "Standardrätsel F 11449",
+      "url": "https://www.derstandard.at/story/3000000348195/standardraetsel-f-11449?ref=rss",
+      "summary": "Täglich neu, exklusiv für Smart-Abonnent:innen: Das knifflige Phoenixen-Rätsel des STANDARD",
+      "published_at": "2026-11-20T23:01:00+00:00",
+      "fetched_at": "2026-11-21T02:31:11.276709+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "b57d248cd858b081b349",
+      "source_id": "orf",
+      "title": "Proteste in mehreren europäischen Ländern",
+      "url": "https://orf.at/stories/3448829/",
+      "summary": "",
+      "published_at": "2026-11-20T22:57:23+00:00",
+      "fetched_at": "2026-11-21T02:31:11.276709+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "2a262275d0418ad7319a",
+      "source_id": "bbc-world",
+      "title": "French police officers sentenced for beating of music producer Michel Zecler",
+      "url": "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo?at_campaign=rss&at_medium=RSS",
+      "summary": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
+      "published_at": "2026-11-20T22:37:09+00:00",
+      "fetched_at": "2026-11-21T02:31:11.276709+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "e50bfe694eea2cba0f49",
+      "source_id": "standard",
+      "title": "Schwere Unwetter im Süden Brasiliens",
+      "url": "https://www.derstandard.at/story/3000000350334/schwere-unwetter-im-sueden-brasiliens?ref=rss",
+      "summary": "In Tupanciretã wurden die Dächer von rund 5.000 Wohnhäusern abgedeckt",
+      "published_at": "2026-11-20T22:33:41+00:00",
+      "fetched_at": "2026-11-21T02:31:11.276709+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "ae59e7f068804a603275",
+      "source_id": "orf",
+      "title": "Österreichischer Film gewinnt bei Filmfestival in Kairo",
+      "url": "https://orf.at/stories/3448827/",
+      "summary": "",
+      "published_at": "2026-11-20T22:27:06+00:00",
+      "fetched_at": "2026-11-21T02:31:11.276709+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Kultur"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "4a074579eaae186a82cd",
+      "source_id": "orf",
+      "title": "Behörden: Tote nach Angriff auf Krywyj Rih",
+      "url": "https://orf.at/stories/3448826/",
+      "summary": "",
+      "published_at": "2026-11-20T22:23:53+00:00",
+      "fetched_at": "2026-11-21T02:31:11.276709+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "0d4e06d262ead6428051",
+      "source_id": "guardian-us",
+      "title": "Grand Theft Auto VI appears to mock NFL sexual misconduct scandals in radio parody",
+      "url": "https://www.theguardian.com/sport/2026/nov/20/gta-6-deshaun-watson-justin-tucker-nfl-sexual-misconduct-parody",
+      "summary": "Comedian Stavros Halkias voices fictional shock jock Segment echoes Watson, Tucker misconduct allegations Rockstar’s latest skewers American sports culture The long-awaited Grand Theft Auto VI appears to have taken aim at the NFL’s sexual misconduct scandals – and the culture of excuses surrounding them – with a satirical segment on the video game’s fictional conservative talk radio station bearing striking similarities to allegations against Cleveland Browns quarterback Deshaun Watson and Kansas City Chiefs kicker Justin Tucker. The segment features comedian and voice actor Stavros Halkias de",
+      "published_at": "2026-11-20T22:16:06+00:00",
+      "fetched_at": "2026-11-21T02:31:11.276709+00:00",
+      "date_estimated": false,
+      "author": "Guardian sport",
+      "categories": [
+        "NFL",
+        "Grand Theft Auto VI",
+        "Grand Theft Auto",
+        "Sport",
+        "US sports",
+        "Cleveland Browns",
+        "Houston Texans",
+        "Kansas City Chiefs"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "1bbce91735debe3a6f7a",
+      "source_id": "standard",
+      "title": "Tausende demonstrieren in der Schweiz gegen Aufrüstung, Klimakrise und Sparmaßnahmen",
+      "url": "https://www.derstandard.at/story/3000000350330/tausende-demonstrieren-in-der-schweiz-gegen-aufruestung-klimakrise-und-sparmassnahmen?ref=rss",
+      "summary": "In Basel kam es zu Zusammenstößen zwischen Protestierenden und Polizei",
+      "published_at": "2026-11-20T22:01:32+00:00",
+      "fetched_at": "2026-11-21T02:31:11.276709+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "5df192c394c0b92a17ce",
+      "source_id": "standard",
+      "title": "Bayern München patzt gegen Köln, Kane fällt monatelang aus",
+      "url": "https://www.derstandard.at/story/3000000350329/fu223ball-bayern-m252nchen-nur-11-gegen-k246ln-kane-und-olise-verletzt?ref=rss",
+      "summary": "Die Rückkehr von Musiala und Kompany auf die Trainerbank wurde getrübt. Auch Olise ist verletzt. Die Münchner bangen zudem um die Tabellenführung",
+      "published_at": "2026-11-20T21:58:24+00:00",
+      "fetched_at": "2026-11-21T02:31:11.276709+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "bb7453aee12ed146b28e",
+      "source_id": "bbc-world",
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno?at_campaign=rss&at_medium=RSS",
+      "summary": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+      "published_at": "2026-11-20T21:57:07+00:00",
+      "fetched_at": "2026-11-21T02:31:11.276709+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "d1d1bc71567857141c3b",
+      "source_id": "orf",
+      "title": "Tech-Aktien legen Talfahrt hin",
+      "url": "https://orf.at/stories/3448808/",
+      "summary": "Der Ausverkauf von Technologieaktien an US-Börsen hat sich am Freitag noch einmal verstärkt. Anlegerinnen und Anleger verlagerten ihr Geld US-Medienberichten zufolge von Chipherstellern und Technologieunternehmen hin zu Unternehmen, die nicht im Technologiebereich tätig sind. Fast verpufft ist auch der erstmalige starke Anstieg der Aktie des KI-Unternehmens Anthropic, das erst am Donnerstag einen Rekordbörsengang hingelegt hatte.",
+      "published_at": "2026-11-20T21:55:03+00:00",
+      "fetched_at": "2026-11-21T02:31:11.276709+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Wirtschaft"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "4e9b92bc2b358090e5ce",
+      "source_id": "standard",
+      "title": "Lilli Tagger als WTA-Newcomerin des Jahres nominiert",
+      "url": "https://www.derstandard.at/story/3000000350327/lilli-tagger-als-wta-newcomerin-des-jahres-nominiert?ref=rss",
+      "summary": "Die 18-Jährige hat sich heuer in der Weltrangliste um rund 100 Positionen auf Platz 54 verbessert. Vier weitere Spielerinnen haben Chancen auf die Auszeichnung, die am 14. Dezember vergeben wird",
+      "published_at": "2026-11-20T21:53:06+00:00",
+      "fetched_at": "2026-11-21T02:31:11.276709+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "9bd3a194eb9bb0d1bf87",
+      "source_id": "standard",
+      "title": "6:1-Kantersieg für Leader Blau-Weiß Linz in 2. Liga bei Rapid II",
+      "url": "https://www.derstandard.at/story/3000000350325/fu223ball-61-kantersieg-f252r-blau-wei223-linz-in-2-liga-bei-rapid-ii?ref=rss",
+      "summary": "Auch FAC, Kapfenberg, Voitsberg und Admira Wacker gewannen",
+      "published_at": "2026-11-20T21:49:48+00:00",
+      "fetched_at": "2026-11-21T02:31:11.276709+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "9a38142955443e68a01e",
+      "source_id": "guardian-us",
+      "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
+      "summary": "President gives wide-ranging White House press conference and says he has ‘fantastic relationships’ with Putin and Xi Donald Trump threatened on Friday to impose “tremendous penalties” on American tech companies that build datacenters outside the US, though he gave no details and told reporters he had not yet informed his own officials about the plan. In a discursive press conference from the White House briefing room, Trump also said he would “look into” the report that Iran had been planning to possibly detonate a “dirty bomb” in Washington DC, and backed JD Vance over comments the vice-pres",
+      "published_at": "2026-11-20T21:47:41+00:00",
+      "fetched_at": "2026-11-21T02:31:11.276709+00:00",
+      "date_estimated": false,
+      "author": "Ben Doherty",
+      "categories": [
+        "Donald Trump",
+        "US news",
+        "World news",
+        "US politics",
+        "Russia",
+        "China",
+        "US foreign policy",
+        "Europe",
+        "Asia Pacific"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "2b979c5979e58eec3d19",
+      "source_id": "standard",
+      "title": "Südamerikaner stützen Infantino einstimmig: Führungsstärke als Argument",
+      "url": "https://www.derstandard.at/story/3000000350328/fu223ball-s252damerikaner-st252tzen-infantino-f252hrungsst228rke-als-argument?ref=rss",
+      "summary": "Der FIFA-Präsident stand nach seinem Plan, WM-Rechte an private Investoren zu verkaufen, massiv in der Kritik. Trotzdem gilt er als Favorit bei der kommenden Wahl",
+      "published_at": "2026-11-20T21:45:08+00:00",
+      "fetched_at": "2026-11-21T02:31:11.276709+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "c4f864918677af99f912",
+      "source_id": "bbc-world",
+      "title": "What the new UK-EU deal could mean for future post-Brexit relations",
+      "url": "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo?at_campaign=rss&at_medium=RSS",
+      "summary": "The BBC's political and Europe editors analyse the new agreements between the UK and EU.",
+      "published_at": "2026-11-20T21:43:22+00:00",
+      "fetched_at": "2026-11-21T02:31:11.276709+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "7e722fa256b63cad5f7d",
+      "source_id": "standard",
+      "title": "Skispringen: Österreich startet mit Podium im Mixed in Weltcup-Saison",
+      "url": "https://www.derstandard.at/story/3000000350326/skispringen-214sterreich-zum-weltcup-auftakt-im-mixed-auf-rang-drei?ref=rss",
+      "summary": "Norwegen feierte in Lillehammer einen überlegenen Heimsieg",
+      "published_at": "2026-11-20T21:40:48+00:00",
+      "fetched_at": "2026-11-21T02:31:11.276709+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "dadfb30437dab6db78a8",
+      "source_id": "fox-politics",
+      "title": "Trump floats an unexpected name to be his successor as powerhouses Rubio and Vance stand by",
+      "url": "https://www.foxnews.com/politics/trump-floats-unexpected-name-successor-powerhouses-rubio-vance-stand",
+      "summary": "During a lighthearted Friday afternoon moment with the media inside the White House press briefing room, President Donald Trump floated a new name to succeed him as president, while two expected 2028 hopefuls stood by. The president asked the media if they'd like to continue with the press conference — where Trump provided updates on his trip to China where he met with Chinese President Xi Jinping and Russian President Vladimir Putin. This prompted laughs from Vice President JD Vance and Secretary of State Marco Rubio, who flanked him on either side during the briefing. Then, he asked newly-mi",
+      "published_at": "2026-11-20T21:28:09+00:00",
+      "fetched_at": "2026-11-21T02:31:11.276709+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "17d3497e-ceff-5cc4-9ac4-88c2de7b6deb",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/person/donald-trump",
+        "fox-news/politics/executive/white-house",
+        "fox-news/person/jd-vance",
+        "fox-news/person/marco-rubio",
+        "fox-news/politics/elections/presidential",
+        "fox-news/politics/executive-policy"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "5c45e988b607c363774a",
+      "source_id": "standard",
+      "title": "Overtime-Siege für Linz und Graz, Bozen alleiniger Leader",
+      "url": "https://www.derstandard.at/story/3000000350323/eishockey-overtime-siege-f252r-linz-und-graz-bozen-alleiniger-leader?ref=rss",
+      "summary": "Die Black Wings siegten in Innsbruck und die 99ers in Salzburg. Der KAC unterlag in Bruneck",
+      "published_at": "2026-11-20T21:23:00+00:00",
+      "fetched_at": "2026-11-21T02:31:11.276709+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "f6703f3bf6f4806b17f0",
+      "source_id": "guardian-us",
+      "title": "Striking snakes released into the wild in historic fight to save species from extinction",
+      "url": "https://www.theguardian.com/us-news/2026/nov/20/garter-snake-conservation-san-francisco",
+      "summary": "Scientists reared the San Francisco natives through their vulnerable youth before setting them free in nature San Francisco garter snakes born and raised in a zoo-based conservation program have been released into the wild for the first time as part of an effort to save what is considered one of North America’s most beautiful snakes. The non-venomous reptiles are known for their striking colors – red heads, turquoise bellies and vibrant red and black stripes on their sides. The species, found only on the San Francisco peninsula, has been listed as endangered for more than half a century. Conti",
+      "published_at": "2026-11-20T21:14:08+00:00",
+      "fetched_at": "2026-11-21T02:31:11.276709+00:00",
+      "date_estimated": false,
+      "author": "Dani Anguiano",
+      "categories": [
+        "San Francisco",
+        "Snakes",
+        "Reptiles",
+        "Wildlife",
+        "Endangered species",
+        "Animals",
+        "Zoos",
+        "Biodiversity",
+        "Conservation",
+        "California"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
     {
       "id": "02c27c269dea8b583ee0",
       "source_id": "guardian-us",
@@ -25237,684 +25945,1422 @@
       "language": "de",
       "country": "AT",
       "category": "Politics"
-    },
-    {
-      "id": "cdbd37fd56a2b72fbb8a",
-      "source_id": "standard",
-      "title": "England fügt Spanien nach 43 ungeschlagenen Spielen Niederlage zu",
-      "url": "https://www.derstandard.at/story/3000000349336/england-fuegt-spanien-nach-43-ungeschlagenen-spielen-niederlage-zu?ref=rss",
-      "summary": "Kane und Co. retteten den Sieg in Madrid in Unterzahl ins Ziel. Italien ließ sich nach Führung in Brüssel Viertelfinalticket noch entreißen",
-      "published_at": "2026-11-15T22:10:17+00:00",
-      "fetched_at": "2026-11-16T02:14:27.901088+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "792629931d72871eb0f1",
-      "source_id": "bbc-world",
-      "title": "Canada bars Russia from Junior World Championships",
-      "url": "https://www.bbc.co.uk/sport/ice-hockey/articles/cqkgm0jgv4mdo?at_campaign=rss&at_medium=RSS",
-      "summary": "Canada says it will not allow Russian athletes to compete in the Junior Ice Hockey World Championships because of the war in Ukraine.",
-      "published_at": "2026-11-15T22:01:16+00:00",
-      "fetched_at": "2026-11-16T09:55:20.192779+00:00",
-      "date_estimated": false,
-      "author": "bbc-world",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "World"
-    },
-    {
-      "id": "09a69d24e2b518b2b484",
-      "source_id": "bbc-business",
-      "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
-      "url": "https://www.bbc.co.uk/news/articles/c6wy4l8nl42wo?at_campaign=rss&at_medium=RSS",
-      "summary": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
-      "published_at": "2026-11-15T22:00:24+00:00",
-      "fetched_at": "2026-11-16T02:14:27.901088+00:00",
-      "date_estimated": false,
-      "author": "bbc-business",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "Business"
-    },
-    {
-      "id": "a54744f44124e9484b0a",
-      "source_id": "orf",
-      "title": "Suche nach Regeln für „Killerroboter“",
-      "url": "https://orf.at/stories/3448266/",
-      "summary": "Die rasante Entwicklung autonomer Waffen mit künstlicher Intelligenz alarmiert zahlreiche Regierungen und Friedensaktivisten. Damit einher geht der Ruf nach einem Verbot von Waffen, die ohne menschliches Eingreifen töten. In Genf beraten ab Montag die 128 Vertragsstaaten des UNO-Waffenübereinkommens (CCW) über eine Regulierung der vielfach auch als „Killerroboter“ bezeichneten Waffensysteme.",
-      "published_at": "2026-11-15T21:57:48+00:00",
-      "fetched_at": "2026-11-16T02:14:27.901088+00:00",
-      "date_estimated": false,
-      "author": "orf",
-      "categories": [
-        "Ausland"
-      ],
-      "language": "de",
-      "country": "AT",
-      "category": "World"
-    },
-    {
-      "id": "dfb17879f700ea031efd",
-      "source_id": "guardian-us",
-      "title": "NFL roundup: Vikings win on Cousins’ return; Hutchinson reportedly ends season celebrating sack",
-      "url": "https://www.theguardian.com/sport/2026/nov/15/nfl-sunday-football-scores",
-      "summary": "Detroit triumph in Munich for fifth win in a row Patrick Mahomes throws five TDS in Chiefs win Bills move to 8-1 after win over Jets Kirk Cousins threw two touchdown passes to start his second stint with Minnesota (7-2) and Levi Drake Rodriguez had two of the Vikings’ eight sacks in a victory over the Green Bay Packers (6-4). Cousins went 21 of 31 for 207 yards just five days after rejoining the Vikings, who acquired him from the Las Vegas Raiders at Tuesday’s trade deadline. The last time Cousins had played at Lambeau Field or suited up for the Vikings, he tore his achilles tendon in a 24-10 ",
-      "published_at": "2026-11-15T21:55:13+00:00",
-      "fetched_at": "2026-11-16T02:14:27.901088+00:00",
-      "date_estimated": false,
-      "author": "Agencies",
-      "categories": [
-        "NFL",
-        "Detroit Lions",
-        "New England Patriots",
-        "US sports",
-        "Sport"
-      ],
-      "language": "en",
-      "country": "US",
-      "category": "Politics"
-    },
-    {
-      "id": "2a3428db9a2afe6c1011",
-      "source_id": "guardian-us",
-      "title": "WTA Finals final: Elina Svitolina v Mirra Andreeva – live",
-      "url": "https://www.theguardian.com/sport/live/2026/nov/15/wta-finals-final-elina-svitolina-v-mirra-andreeva-live",
-      "summary": "Players meet for end of year championship Sabalenka apologizes to Svitolina after outburst First set: Andreeva* 1-0 Svitolina (*next server) Svitolina quickly drops two points and then sprays a shot wide to give Andreeva three break opportunities. Andreeva hits long on the first. Svitolina misses her first serve, takes her second one despite an emergency vehicle siren in the distance, and it’s a let. She lands the second one, and we have our longest rally so far. Svitolina slowly but surely takes control, and the 19-year-old Andreeva hits just wide. Continue reading...",
-      "published_at": "2026-11-15T21:44:06+00:00",
-      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
-      "date_estimated": false,
-      "author": "Beau Dure",
-      "categories": [
-        "WTA Finals",
-        "Tennis",
-        "US sports",
-        "Sport"
-      ],
-      "language": "en",
-      "country": "US",
-      "category": "Politics"
-    },
-    {
-      "id": "0938f76e459de2d58f43",
-      "source_id": "standard",
-      "title": "Nutzlast-Rakete von Boeing/Lockheed kurz nach Start abgestürzt",
-      "url": "https://www.derstandard.at/story/3000000349335/nutzlast-rakete-von-boeinglockheed-kurz-nach-start-abgest252rzt?ref=rss",
-      "summary": "Dabei wurden 40 Satelliten zerstört, die für das Internet-Netzwerk Leo des Online-Konzerns Amazon gedacht waren. Die Ursache war zunächst unklar",
-      "published_at": "2026-11-15T21:41:47+00:00",
-      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "306d1c095e373aad202c",
-      "source_id": "guardian-us",
-      "title": "Somali-American Uber driver brutally assaulted in alleged hate crime in Minnesota",
-      "url": "https://www.theguardian.com/us-news/2026/nov/15/somali-american-uber-driver-attack-minnesota",
-      "summary": "Mohamed Yusuf is fighting for his life after alleged attack by passenger who said he did not like driver’s first name A Somali-American Uber driver was allegedly brutally assaulted by a passenger in Hopkins, Minnesota, on Saturday, in what his family says “appears to be a hate crime”. The driver, Mohamed Yusuf, is currently hospitalized and fighting for his life, his family told the Somali Brief, a digital news site run by two Somali American journalists. The driver’s cousin, Abdinasir Ali told the outlet that the alleged attack took place early Saturday after a passenger in Hopkins, a suburba",
-      "published_at": "2026-11-15T21:10:38+00:00",
-      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
-      "date_estimated": false,
-      "author": "Michael Sainato",
-      "categories": [
-        "Minnesota",
-        "US news",
-        "Minneapolis",
-        "Hate crime",
-        "Uber",
-        "US crime"
-      ],
-      "language": "en",
-      "country": "US",
-      "category": "Politics"
-    },
-    {
-      "id": "839013bff185466b2723",
-      "source_id": "orf",
-      "title": "Boeing-Lockheed-Rakete kurz nach Start abgestürzt",
-      "url": "https://orf.at/stories/3448284/",
-      "summary": "",
-      "published_at": "2026-11-15T21:10:35+00:00",
-      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
-      "date_estimated": false,
-      "author": "orf",
-      "categories": [
-        "Wirtschaft"
-      ],
-      "language": "de",
-      "country": "AT",
-      "category": "World"
-    },
-    {
-      "id": "3f6f7da7e42b2f1650a1",
-      "source_id": "orf",
-      "title": "Ein Sechser bei Lotto „6 aus 45“",
-      "url": "https://orf.at/stories/3448283/",
-      "summary": "",
-      "published_at": "2026-11-15T21:04:09+00:00",
-      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
-      "date_estimated": false,
-      "author": "orf",
-      "categories": [
-        "Chronik"
-      ],
-      "language": "de",
-      "country": "AT",
-      "category": "World"
-    },
-    {
-      "id": "81d0644e311b4e1655f5",
-      "source_id": "standard",
-      "title": "Israelische Soldaten nehmen AFP-Mitarbeiter im Westjordanland fest",
-      "url": "https://www.derstandard.at/story/3000000349334/israelische-soldaten-nehmen-afp-mitarbeiter-im-westjordanland-fest?ref=rss",
-      "summary": "Der Vorfall ereignete sich während einer nächtlichen Razzia in seinem Haus. Er werde verdächtigt, \"Verbindungen zur Hamas\" zu haben. Die Nachrichtenagentur forderte Beweise",
-      "published_at": "2026-11-15T21:01:57+00:00",
-      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "82a2d0f56e0ccb0b8894",
-      "source_id": "fox-politics",
-      "title": "FAA ground stop timeline: Weekend chaos grounds planes and postpones games",
-      "url": "https://www.foxnews.com/politics/faa-ground-stop-timeline-weekend-chaos-grounds-planes-postpones-games",
-      "summary": "A communications failure brought departures across the country to a halt Friday, stranding travelers, disrupting professional sports teams and sending federal officials scrambling to restore flights and determine what went wrong. The longest nationwide ground stop in 25 years ended after more than four hours, but the fallout stretched through the weekend as airlines worked through cancellations and investigators zeroed in on routers tied to the outage. Here’s a timeline of the shutdown and the federal response. All times are Eastern. 4 CRITICAL TRAVEL ISSUES FOR THOSE DELAYED AND DISRUPTED BY ",
-      "published_at": "2026-11-15T20:51:02+00:00",
-      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
-      "date_estimated": false,
-      "author": "fox-politics",
-      "categories": [
-        "58cb3baf-94be-5090-8984-37fc8b11ddbb",
-        "fnc",
-        "Fox News",
-        "fox-news/politics",
-        "fox-news/travel/general/airports",
-        "fox-news/travel/general/airlines",
-        "fox-news/politics/finance/investigations",
-        "fox-news/politics/executive/national-security",
-        "fox-news/world/disasters/transportation",
-        "fox-news/politics"
-      ],
-      "language": "en",
-      "country": "US",
-      "category": "Politics"
-    },
-    {
-      "id": "96566ae82b341c33ca57",
-      "source_id": "orf",
-      "title": "Papst besuchte Anden-Stadt Cusco auf 3.400 Meter Höhe",
-      "url": "https://orf.at/stories/3448281/",
-      "summary": "",
-      "published_at": "2026-11-15T20:18:54+00:00",
-      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
-      "date_estimated": false,
-      "author": "orf",
-      "categories": [
-        "Religion"
-      ],
-      "language": "de",
-      "country": "AT",
-      "category": "World"
-    },
-    {
-      "id": "5c9f4a3750419587c56d",
-      "source_id": "orf",
-      "title": "Flugchaos in USA hält an: Ursache Router aus 2001",
-      "url": "https://orf.at/stories/3448280/",
-      "summary": "",
-      "published_at": "2026-11-15T20:14:27+00:00",
-      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
-      "date_estimated": false,
-      "author": "orf",
-      "categories": [
-        "Wirtschaft"
-      ],
-      "language": "de",
-      "country": "AT",
-      "category": "World"
-    },
-    {
-      "id": "2a4271276b4ab7bedc2a",
-      "source_id": "orf",
-      "title": "Bericht: Huthis rücken Richtung Aden vor",
-      "url": "https://orf.at/stories/3448279/",
-      "summary": "",
-      "published_at": "2026-11-15T19:57:50+00:00",
-      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
-      "date_estimated": false,
-      "author": "orf",
-      "categories": [
-        "Ausland"
-      ],
-      "language": "de",
-      "country": "AT",
-      "category": "World"
-    },
-    {
-      "id": "424157e1e3fc043b75ba",
-      "source_id": "guardian-us",
-      "title": "LSU star MiLaysia Fulwiley arrested after allegedly striking police officer with car",
-      "url": "https://www.theguardian.com/sport/2026/nov/15/lsu-star-milaysia-fulwiley-arrested-after-allegedly-striking-police-officer-with-car",
-      "summary": "Guard allegedly tried to flee traffic stop in Baton Rouge Tigers say they are aware of situation involving player LSU guard MiLaysia Fulwiley, one of the ninth-ranked Tigers’ leading scorers, was arrested after allegedly striking a police officer while attempting to flee from a traffic stop. LSU’s athletic department, in a written statement provided to The Associated Press, said university officials “are aware of the situation and have no further comment at this time as it’s an ongoing legal matter.” Continue reading...",
-      "published_at": "2026-11-15T19:53:07+00:00",
-      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
-      "date_estimated": false,
-      "author": "Associated Press",
-      "categories": [
-        "College basketball",
-        "College sports",
-        "US sports",
-        "Sport",
-        "Louisiana",
-        "US news"
-      ],
-      "language": "en",
-      "country": "US",
-      "category": "Politics"
-    },
-    {
-      "id": "717c7468013a75db62df",
-      "source_id": "standard",
-      "title": "Rund 1500 Migranten erreichen Kanaren an einem einzigen Tag",
-      "url": "https://www.derstandard.at/story/3000000349332/rund-1500-migranten-erreichen-kanaren-an-einem-einzigen-tag?ref=rss",
-      "summary": "Es war die höchste Zahl innerhalb eines Tages seit Beginn der Erfassungen. Der Großteil der Menschen erreichte die kleine Insel El Hierro",
-      "published_at": "2026-11-15T19:45:31+00:00",
-      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "27b0bafcaf060bc7305a",
-      "source_id": "orf",
-      "title": "Gaza-Hilfe: GB, Italien, Kanada und Australien erhöhen Druck",
-      "url": "https://orf.at/stories/3448278/",
-      "summary": "",
-      "published_at": "2026-11-15T19:44:55+00:00",
-      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
-      "date_estimated": false,
-      "author": "orf",
-      "categories": [
-        "Ausland"
-      ],
-      "language": "de",
-      "country": "AT",
-      "category": "World"
-    },
-    {
-      "id": "19c2cf0ad4d03856c146",
-      "source_id": "standard",
-      "title": "Huang arbeitet laut Bericht an Rückkehr an Nvidia-Konzernspitze",
-      "url": "https://www.derstandard.at/story/3000000349333/zeitung-ex-nvidia-chef-huang-arbeitet-an-r252ckkehr-an-die-konzernspitze?ref=rss",
-      "summary": "Verbündete im Silicon Valley sollen laut einem Bericht Druck auf den Verwaltungsrat ausüben, Huang wieder an die Spitze des Chipkonzerns zu setzen. Huang war in der vergangenen Woche zurückgetreten",
-      "published_at": "2026-11-15T19:36:14+00:00",
-      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "a5d1637de92e1ec6de66",
-      "source_id": "bbc-world",
-      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-      "url": "https://www.bbc.co.uk/news/articles/c6m25zg88k45o?at_campaign=rss&at_medium=RSS",
-      "summary": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
-      "published_at": "2026-11-15T19:32:39+00:00",
-      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
-      "date_estimated": false,
-      "author": "bbc-world",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "World"
-    },
-    {
-      "id": "d49b9ed0e01e0342dc31",
-      "source_id": "bbc-world",
-      "title": "Ronaldinho makes comeback in Ravenna win",
-      "url": "https://www.bbc.co.uk/sport/football/articles/ckregz4g823xo?at_campaign=rss&at_medium=RSS",
-      "summary": "Brazil legend Ronaldinho makes his comeback aged 46 for Ravenna, playing the first half of their Italian third-tier derby against Forli.",
-      "published_at": "2026-11-15T19:31:48+00:00",
-      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
-      "date_estimated": false,
-      "author": "bbc-world",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "World"
-    },
-    {
-      "id": "5c2d18c58acc28b1e420",
-      "source_id": "orf",
-      "title": "China-Exporte: Bessent fordert Aufklärung von Nvidia",
-      "url": "https://orf.at/stories/3448277/",
-      "summary": "",
-      "published_at": "2026-11-15T19:29:51+00:00",
-      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
-      "date_estimated": false,
-      "author": "orf",
-      "categories": [
-        "Ausland"
-      ],
-      "language": "de",
-      "country": "AT",
-      "category": "World"
-    },
-    {
-      "id": "64cf291aafa5d7891dad",
-      "source_id": "guardian-us",
-      "title": "Red Brawl New York: Fighting and six red cards mar ‘friendly’ v Club América",
-      "url": "https://www.theguardian.com/football/2026/nov/15/red-bulls-club-america-brawl-friendly",
-      "summary": "Game played without veterans and stars on both sides Red Bulls’ MLS season is already over One hallmark of Mauricio Pochettino’s time in international management has been his refusal to embrace the term “friendly”. His preferred branding is “unofficial games”. His spin gained a bit of validity on Saturday, in the New York Red Bulls’ “friendly” against Club América, marred by a mass brawl between the sides that resulted in five red cards and a bevy of beverages thrown from the stands. Continue reading...",
-      "published_at": "2026-11-15T19:29:41+00:00",
-      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
-      "date_estimated": false,
-      "author": "Jeff Rueter",
-      "categories": [
-        "New York Red Bulls",
-        "MLS",
-        "US sports",
-        "Sport",
-        "Football",
-        "Club América"
-      ],
-      "language": "en",
-      "country": "US",
-      "category": "Politics"
-    },
-    {
-      "id": "4b8ce86545244339b8bb",
-      "source_id": "guardian-us",
-      "title": "Texas puts to death man who beheaded three children, hours after Oklahoma execution",
-      "url": "https://www.theguardian.com/us-news/2026/nov/15/texas-execution-john-allen-rubio-oklahoma-james-pavatt",
-      "summary": "Oklahoma man, 73, executed for killing ex’s estranged husband, as US nears 40 executions for second straight year A Texas man convicted of fatally stabbing and beheading his three young children in a squalid, windowless apartment in 2003 was recently executed. John Allen Rubio, 46, was pronounced dead at 6.47 pm on Thursday after a lethal injection at the state prison in Huntsville, Texas. His killings of his baby girl and two toddlers so rocked the city of Brownsville on the US border with Mexico that the apartment building was later demolished – and the land turned into a park and community ",
-      "published_at": "2026-11-15T19:27:24+00:00",
-      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
-      "date_estimated": false,
-      "author": "Associated Press",
-      "categories": [
-        "Capital punishment",
-        "US crime",
-        "Texas",
-        "Oklahoma",
-        "US news"
-      ],
-      "language": "en",
-      "country": "US",
-      "category": "Politics"
-    },
-    {
-      "id": "e1a768ca261aa7e6a701",
-      "source_id": "bbc-world",
-      "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
-      "url": "https://www.bbc.co.uk/news/articles/cw1mdlv0k2r4o?at_campaign=rss&at_medium=RSS",
-      "summary": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
-      "published_at": "2026-11-15T19:20:53+00:00",
-      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
-      "date_estimated": false,
-      "author": "bbc-world",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "World"
-    },
-    {
-      "id": "c45f82138f1dd9f1cf11",
-      "source_id": "standard",
-      "title": "Triumphales Heimspiel für Lions-Superstar St. Brown in München",
-      "url": "https://www.derstandard.at/story/3000000349329/triumph-f252r-st-brown-lions-dominieren-patriots?ref=rss",
-      "summary": "Die Patriots müssen um die Playoffs bangen, zudem verletzte sich Quarterback Drake Maye. Auch DJ Ötzi trat bei der NFL-Party auf",
-      "published_at": "2026-11-15T19:05:19+00:00",
-      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "96c2408a42ac756463e0",
-      "source_id": "standard",
-      "title": "Einblick in fünf heimische Badezimmer: „Im Bad spiegelt sich der Zeitgeist besonders stark wieder“",
-      "url": "https://www.derstandard.at/story/3000000348157/einblick-in-fuenf-heimische-badezimmer-im-bad-spiegelt-sich-der-zeitgeist-besonders-stark-wieder?ref=rss",
-      "summary": "Ein Badezimmer muss gewisse Grundfunktionen erfüllen, eh klar! Dass es sich jedoch lohnt, auch diesem Raum gestalterisch mehr Aufmerksamkeit zu widmen, zeigen diese Exemplare",
-      "published_at": "2026-11-15T19:00:00+00:00",
-      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "c40a379a168b3908bcce",
-      "source_id": "standard",
-      "title": "Einblick in fünf heimische Badezimmer: \"Im Bad spiegelt sich der Zeitgeist besonders stark wider\"",
-      "url": "https://www.derstandard.at/story/3000000348157/einblick-in-fuenf-heimische-badezimmer-im-bad-spiegelt-sich-der-zeitgeist-besonders-stark-wider?ref=rss",
-      "summary": "Ein Badezimmer muss gewisse Grundfunktionen erfüllen, eh klar! Dass es sich jedoch lohnt, auch diesem Raum gestalterisch mehr Aufmerksamkeit zu widmen, zeigen diese Exemplare",
-      "published_at": "2026-11-15T19:00:00+00:00",
-      "fetched_at": "2026-11-16T09:55:20.192779+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "fbdad3d4d5a81c8af4d3",
-      "source_id": "orf",
-      "title": "Estland schließt Grenze zu Russland",
-      "url": "https://orf.at/stories/3448259/",
-      "summary": "Nach einem versuchten Brandanschlag auf das Gebäude des Drohnenherstellers Threod Systems in Estland hat die Regierung in Tallinn beschlossen, die Grenzen zu Russland zu schließen. Außenminister Margus Tsahkna sprach am Sonntag von einem Sabotageakt gegen die Rüstungsindustrie des Landes und warf dem russischen Militärgeheimdienst GRU vor, diesen in Auftrag gegeben zu haben.",
-      "published_at": "2026-11-15T18:59:56+00:00",
-      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
-      "date_estimated": false,
-      "author": "orf",
-      "categories": [
-        "Ausland"
-      ],
-      "language": "de",
-      "country": "AT",
-      "category": "World"
-    },
-    {
-      "id": "fd8450bf85102a661f01",
-      "source_id": "standard",
-      "title": "Kanada bleibt dabei: U20-WM ohne Russland",
-      "url": "https://www.derstandard.at/story/3000000349330/kanada-bleibt-dabei-u20-wm-ohne-russland?ref=rss",
-      "summary": "Weil Gastgeberland Kanada keine Visa ausstellt, findet die WM der U20-Männer ohne russische Beteiligung statt, teilte der Eishockey-Weltverband IIHF mit",
-      "published_at": "2026-11-15T18:55:44+00:00",
-      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "a56bf5a0eeb9e1d029d6",
-      "source_id": "guardian-us",
-      "title": "Senator-elect Scott Colom vows to ensure Trump follows through on his promises",
-      "url": "https://www.theguardian.com/us-news/2026/nov/15/scott-colom-mississippi-senate-trump",
-      "summary": "Mississippi Democrat points to commitments Trump made: lower prices, halt endless wars and release Epstein files After recently becoming the first Mississippi Democrat elected to the US Senate in more than four decades, Scott Colom pledged to try to ensure Donald Trump “follows through on the commitments” he made while successfully running for a second presidency in 2024. Colom, while being interviewed by CNN host Dana Bash on Sunday, alluded to various campaign promises made by Trump – including lowering consumer prices, halting the seemingly endless wars waged under other presidential admini",
-      "published_at": "2026-11-15T18:48:10+00:00",
-      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
-      "date_estimated": false,
-      "author": "Ramon Antonio Vargas",
-      "categories": [
-        "US midterm elections 2026",
-        "Democrats",
-        "US politics",
-        "Mississippi",
-        "US news",
-        "Trump administration",
-        "Donald Trump",
-        "US Senate"
-      ],
-      "language": "en",
-      "country": "US",
-      "category": "Politics"
-    },
-    {
-      "id": "e333adc66cda8feae7d4",
-      "source_id": "guardian-us",
-      "title": "Chris Van Hollen says he has path to win Senate leader over Chuck Schumer",
-      "url": "https://www.theguardian.com/us-news/2026/nov/15/chris-van-hollen-senate-majority-leader",
-      "summary": "Progressive US senator calling for more inclusion within Democratic caucus cites openness to change among peers Democratic US senator Chris Van Hollen on Sunday escalated his bid to lead his party’s incoming Senate majority rather than Chuck Schumer, asserting that he has a path to victory amid a dedicated campaign that includes a series of television appearances. Van Hollen, a Maryland progressive, appeared on Sunday on CNN, ABC and Fox News as he continues to make his case for why his peers in the Senate should reject Schumer, who has led the Democratic caucus for nearly a decade. Continue r",
-      "published_at": "2026-11-15T18:46:49+00:00",
-      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
-      "date_estimated": false,
-      "author": "Marina Dunbar",
-      "categories": [
-        "US Senate",
-        "Democrats",
-        "Chuck Schumer",
-        "US politics",
-        "US news",
-        "US Congress",
-        "Maryland"
-      ],
-      "language": "en",
-      "country": "US",
-      "category": "Politics"
-    },
-    {
-      "id": "cbb2409cceeef7edf02c",
-      "source_id": "bbc-world",
-      "title": "Pope Leo rides in helicopter cockpit during Peru trip",
-      "url": "https://www.bbc.co.uk/news/videos/c6pw4rl00lrjo?at_campaign=rss&at_medium=RSS",
-      "summary": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
-      "published_at": "2026-11-15T18:38:11+00:00",
-      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
-      "date_estimated": false,
-      "author": "bbc-world",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "World"
-    },
-    {
-      "id": "f669f8e447cd9464ce5f",
-      "source_id": "orf",
-      "title": "Trump will Berufung gegen Golfplatzstopp einlegen",
-      "url": "https://orf.at/stories/3448274/",
-      "summary": "",
-      "published_at": "2026-11-15T18:09:11+00:00",
-      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
-      "date_estimated": false,
-      "author": "orf",
-      "categories": [
-        "Ausland"
-      ],
-      "language": "de",
-      "country": "AT",
-      "category": "World"
-    },
-    {
-      "id": "d044591bd225383ec406",
-      "source_id": "standard",
-      "title": "Zu Forschungszwecken: KI-Modelle legen Windpark in unter zwei Stunden lahm",
-      "url": "https://www.derstandard.at/story/3000000349319/zu-forschungszwecken-ki-modelle-legen-windpark-in-unter-zwei-stunden-lahm?ref=rss",
-      "summary": "Als Testumgebung wurde jene Anlage in Polen nachgebaut, die Ende 2025 zum Ziel russischer Hacker wurde",
-      "published_at": "2026-11-15T18:00:00+00:00",
-      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "cfa729087ede9bf4a75b",
-      "source_id": "standard",
-      "title": "ORF steuert auf zweistelligen Millionenverlust zu",
-      "url": "https://www.derstandard.at/story/3000000349314/orf-steuert-auf-zweistelligen-millionenverlust-zu?ref=rss",
-      "summary": "Generaldirektorin Ingrid Thurnher gibt ihrem Nachfolger Clemens Pig einen Finanzplan mit auf den Weg, der wegen Budgetkürzungen Reserven auflöst und ein Minus ausweist",
-      "published_at": "2026-11-15T18:00:00+00:00",
-      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "4705e61e87ea87e799d5",
-      "source_id": "standard",
-      "title": "Echte Zungenbrecher: Die längsten Ortsnamen der Welt",
-      "url": "https://www.derstandard.at/story/3000000349105/echte-zungenbrecher-die-laengsten-ortsnamen-der-welt?ref=rss",
-      "summary": "Einige der längsten Ortsnamen stammen aus Neuseeland, Wales und den USA, mit einzigartigen Geschichten und kulturellen Bedeutungen",
-      "published_at": "2026-11-15T18:00:00+00:00",
-      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "7ae9a3d1d00ff920102f",
-      "source_id": "orf",
-      "title": "Zu Gast: Leonore Gewessler, Bundessprecherin der Grünen",
-      "url": "https://orf.at/stories/3448273/",
-      "summary": "",
-      "published_at": "2026-11-15T17:58:43+00:00",
-      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
-      "date_estimated": false,
-      "author": "orf",
-      "categories": [
-        "Inland"
-      ],
-      "language": "de",
-      "country": "AT",
-      "category": "World"
-    },
-    {
-      "id": "51d2dfbbb4c318038be8",
-      "source_id": "orf",
-      "title": "AFP-Mitarbeiter in Westjordanland festgenommen",
-      "url": "https://orf.at/stories/3448272/",
-      "summary": "",
-      "published_at": "2026-11-15T17:55:32+00:00",
-      "fetched_at": "2026-11-15T21:54:22.531480+00:00",
-      "date_estimated": false,
-      "author": "orf",
-      "categories": [
-        "Ausland"
-      ],
-      "language": "de",
-      "country": "AT",
-      "category": "World"
     }
   ],
   "stories": [
+    {
+      "id": "story-dc6f6986318dbc02df87",
+      "title": "Gute Kruste und Krume: Weizen-Sauerteigbrot",
+      "overview": "Unweit des Wiener Donaukanals gibt es in der Tho Bäckerei richtig gutes Brot",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-21T02:00:00+00:00",
+      "updated_at": "2026-11-21T02:00:00+00:00",
+      "article_ids": [
+        "f03a9b063a62862aa5a2"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-366fc53ed4c24bd18173",
+      "title": "Man accused of sparking deadly Los Angeles wildfire found guilty",
+      "overview": "Verdict in case against former Uber driver Jonathan Rinderknecht comes after first trial ended with hung jury The 30-year-old accused of sparking the deadly Palisades fire in Los Angeles was found guilty of two federal arson charges in a Friday verdict that came months after his first trial concluded with a hung jury. For two weeks, a fresh batch of jurors listened to prosecutors mount their case against Jonathan Rinderknecht. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-21T01:43:15+00:00",
+      "updated_at": "2026-11-21T01:43:15+00:00",
+      "article_ids": [
+        "e9b7d97728f3f2521465"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-0b7a2766911dbd8bf000",
+      "title": "They were fined $811m for conning detained migrants, but the scams didn't stop",
+      "overview": "How convicted fraudsters made millions from detained immigrants, evaded efforts to shut down their bail business and left migrants behind bars.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-21T01:02:39+00:00",
+      "updated_at": "2026-11-21T01:02:39+00:00",
+      "article_ids": [
+        "fdff1adeec68f6262e31"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-adb039edc97dec635b49",
+      "title": "ANC fights to keep control of South Africa's key cities after election setback",
+      "overview": "The ANC appears reluctant to replicate its national power-sharing deal with the pro-business DA at the local level.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-21T00:34:51+00:00",
+      "updated_at": "2026-11-21T00:34:51+00:00",
+      "article_ids": [
+        "c61d952c9b0565985447"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-dfe7b4eee77619b95762",
+      "title": "Trump turns White House press conference into a 2028 succession audition",
+      "overview": "The president appeared to put Vance and Rubio through their paces as potential successors, though Stephen Miller unexpectedly stole the spotlight “Which of you shall we say doth love us most?” The ageing King Lear’s question to his daughters, expecting them to compete for his favour and carve up his kingdom, hovered in the White House press briefing room on Friday. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-21T00:16:26+00:00",
+      "updated_at": "2026-11-21T00:16:26+00:00",
+      "article_ids": [
+        "f2b965acf30650c095b1"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-80fa2d0862f88f2b1b3d",
+      "title": "‘A source of inspiration’: California celebrates the late civil rights icon Dolores Huerta",
+      "overview": "A public vigil and celebration of life honor the civil rights activist and co-founder of United Farm Workers union Hundreds of people came out to honor and celebrate the life and legacy of the California civil rights activist Dolores Huerta at a celebration-of-life event Friday in Bakersfield. Huerta’s daughter Lori de Leon thanked attendees for their support during her mother’s passing, highlighting the widespread tributes and communities gathering in her honor. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-21T00:03:47+00:00",
+      "updated_at": "2026-11-21T00:03:47+00:00",
+      "article_ids": [
+        "9c71478fc65726f5a633"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-b9c6decbcb6c6da06ff8",
+      "title": "Zohran Mamdani unveils plan to close Rikers Island jail complex",
+      "overview": "Mayor plans to close jail by 2032 and relocate its remaining population to smaller facilities across four boroughs Zohran Mamdani, New York City’s mayor, on Friday unveiled a plan to close the Rikers Island jail complex, with a goal to end all incarceration at the current facility and relocate its remaining jail population by the end of 2032. “It is time to finally close Rikers Island,” Mamdani said in a statement. “For decades, New Yorkers have demanded a correctional system that is safe and humane. This plan puts us on a path to deliver just that: closing Rikers, reducing pretrial detention,",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T10:00:30+00:00",
+      "updated_at": "2026-11-21T00:01:39+00:00",
+      "article_ids": [
+        "cff3444056810cc709b6",
+        "6c7702c58a9bec379895"
+      ],
+      "publisher_count": 2,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Politics",
+      "countries": [
+        "UK",
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [
+        "close",
+        "island",
+        "jail",
+        "mamdani",
+        "plan",
+        "rikers"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-3fba524a11e98defdfd7",
+      "title": "Republican senator blocks Trump cyber nominee over January 6 denial",
+      "overview": "Thom Tillis move comes after Michael LoSapio, nominated for Cisa role, told hearing ‘I don’t believe it was an attack’ Senator Thom Tillis, the outgoing North Carolina Republican who is due to be replaced by a Democrat, has reportedly blocked a confirmation vote on Donald Trump’s nominee to lead a key US cybersecurity agency, Michael LoSapio, after he denied during a hearing that the Capitol was attacked on January 6 2021. Tillis, who declined to run for re-election and after repeated clashes with Trump’s, confirmed to HuffPost on Friday that he has placed a hold on LoSapio’s nomination to ser",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T23:48:38+00:00",
+      "updated_at": "2026-11-20T23:48:38+00:00",
+      "article_ids": [
+        "8b80dd0165a62b20142a"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-3bb02190ac15ae3dea23",
+      "title": "Judge approves $7.25bn Bayer payout to settle claims that Roundup causes cancer",
+      "overview": "German company faced 65,000 claims from people who said they developed cancer after using weedkiller A Missouri judge on Friday approved Bayer’s $7.25bn settlement of lawsuits ⁠alleging that its weedkiller ​Roundup causes cancer, potentially resolving litigation that has weighed on the German company for close to a decade. Judge Timothy Boyer of a state court in St Louis ⁠found the settlement “fair, reasonable and adequate”. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T23:42:43+00:00",
+      "updated_at": "2026-11-20T23:42:43+00:00",
+      "article_ids": [
+        "6701fc72f13b1f87186e"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-b0196e64ba1c0e34b645",
+      "title": "Texas Gov-elect Gina Hinojosa vows to rescind Abbott's H-1B visa restrictions despite admitting program abuse",
+      "overview": "Texas Gov.-elect Gina Hinojosa (D) said she plans to rescind Gov. Greg Abbott’s hiring freeze on H-1B visa workers at state agencies and public universities on her first day in office, even as she acknowledged that the federal visa program has been abused. In a recent interview with the Texas Tribune, Hinojosa, a Democrat, dismissed Abbott’s January directive restricting new H-1B visa petitions as a distraction. \"Yeah, that does not make sense to me. I will tell you, I’m not doing culture wars. That’s not what I was elected to do,\" Hinojosa said. Abbott issued the order in January to bar state",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T23:37:39+00:00",
+      "updated_at": "2026-11-20T23:37:39+00:00",
+      "article_ids": [
+        "cecc1d493350e86f72aa"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-d63e2b8ab24c083bec84",
+      "title": "A new Nepal, an old neighbour - Balendra Shah's India test",
+      "overview": "Trade, connectivity and regional cooperation will be on top of the agenda when Nepal's PM meets his India counterpart.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T23:28:17+00:00",
+      "updated_at": "2026-11-20T23:28:17+00:00",
+      "article_ids": [
+        "d167dd3881bbd4737613"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-5f9df80aefb3136746d6",
+      "title": "Dead pets were meant to be cremated - then their bodies appeared on a livestream",
+      "overview": "Grieving Filipinos confront a distressing reality: their dogs and cats may not have received the send-off they paid for.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T23:20:33+00:00",
+      "updated_at": "2026-11-20T23:20:33+00:00",
+      "article_ids": [
+        "92bd6435e811e6e4ecba"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-67e5005a161fa678775d",
+      "title": "Fiona the hippo honored by US Senate in unanimous resolution praising Cincinnati Zoo staff",
+      "overview": "Fiona the hippo received a formal tribute from the U. S. Senate on Friday, one day after the beloved Cincinnati Zoo resident died following a medical emergency. Sen. Bernie Moreno, R-Ohio, introduced the resolution honoring Fiona's life and legacy while expressing the chamber's gratitude to the zoo's staff for their care and dedication. The measure passed by unanimous consent. Speaking from the Senate floor next to a photo of the hippopotamus, Moreno described Fiona's death as a \"devastating loss\" and a tragic accident. BELOVED HIPPO FIONA DIES AT CINCINNATI ZOO AFTER SWALLOWING VISITOR'S HAT ",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T23:16:06+00:00",
+      "updated_at": "2026-11-20T23:16:06+00:00",
+      "article_ids": [
+        "891e8ed7a6ea811ddfd0"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-e181d0ffae6ddab42da2",
+      "title": "US declassifies more UFO footage filmed in the Middle East",
+      "overview": "The Pentagon has released an eighth tranche of UFO records, which includes three video clips recorded in 2020, 2023 and 2026.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T23:15:20+00:00",
+      "updated_at": "2026-11-20T23:15:20+00:00",
+      "article_ids": [
+        "2559fa10bdd2ca63d464"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-b412509d64fb8d83d27e",
+      "title": "Wahlwienerin Kotásková verliert WM-Titelkampf gegen Olympiasiegerin Price",
+      "overview": "Die in Wien lebende Tschechin Michaela Kotásková kassierte in Cardiff gegen die walisische Lokalmatadorin Lauren Price eine klare Niederlage im Weltergewicht",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T23:12:51+00:00",
+      "updated_at": "2026-11-20T23:12:51+00:00",
+      "article_ids": [
+        "da14cc392596d6a36a50"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-b33d1e86610d823ede09",
+      "title": "Glyphosat-Streit: US-Richter billigt Bayer-Milliardenvergleich",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T23:12:07+00:00",
+      "updated_at": "2026-11-20T23:12:07+00:00",
+      "article_ids": [
+        "6efc8d4d930d60fd78a6"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-c991f61e67519c458b72",
+      "title": "In a year of AI solving maths problems, Anthropic may have just solved the biggest",
+      "overview": "A mathematician at Anthropic says he used an AI to prove the famed Riemann hypothesis, though verification will take some time.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T23:08:57+00:00",
+      "updated_at": "2026-11-20T23:08:57+00:00",
+      "article_ids": [
+        "3d08251616727e19e357"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-76dda6102108936d6614",
+      "title": "Ukrainische Nadelstiche zeigen Wirkung",
+      "overview": "Es war der vom russischen Präsidenten Wladimir Putin angekündigte Gegenschlag nach dem ukrainischen Angriff auf die Brücke zur Krim: In Kiew sind bei neuen russischen Angriffen mehrere Brücken getroffen und beschädigt worden. Das zeigt aber auch, welcher Schlag der Ukraine mit der De-facto-Zerstörung der Kertsch-Brücke gelungen ist. Und auch die Nadelstiche gegen russische Raffinerien haben zunehmend größere Folgen.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T23:03:01+00:00",
+      "updated_at": "2026-11-20T23:03:01+00:00",
+      "article_ids": [
+        "9b4f3454306b4808b87e"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-e12f2922cdb152e671ad",
+      "title": "US police departments warn GTA VI users to ‘keep it in the game’",
+      "overview": "Although there is no definitive link between violent video games and behavior, departments take to social media While critics have been raving after the recent and long-awaited arrival of Grand Theft Auto VI, the latest entry in the famously violent video game series has also prompted real-world warnings from authorities. Police departments across the US met the game’s release on Thursday with reminders that the car thefts, reckless driving, violence and other criminal mayhem depicted in the blockbuster title should not be re-enacted on the country’s streets. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T23:02:30+00:00",
+      "updated_at": "2026-11-20T23:02:30+00:00",
+      "article_ids": [
+        "c99b32ce7f736c00871b"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-f7acfbc933b1d9886d0f",
+      "title": "Standardrätsel F 11449",
+      "overview": "Täglich neu, exklusiv für Smart-Abonnent:innen: Das knifflige Phoenixen-Rätsel des STANDARD",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T23:01:00+00:00",
+      "updated_at": "2026-11-20T23:01:00+00:00",
+      "article_ids": [
+        "acfd92cba43895713411"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-60c1dda8266c998035fc",
+      "title": "Proteste in mehreren europäischen Ländern",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T22:57:23+00:00",
+      "updated_at": "2026-11-20T22:57:23+00:00",
+      "article_ids": [
+        "b57d248cd858b081b349"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-2f0773df8e058de4ddb3",
+      "title": "French police officers sentenced for beating of music producer Michel Zecler",
+      "overview": "The court has upheld the 2020 beating of the black music producer as an aggravated circumstance of racism.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T22:37:09+00:00",
+      "updated_at": "2026-11-20T22:37:09+00:00",
+      "article_ids": [
+        "2a262275d0418ad7319a"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-2bb125e6cb48f6e542ac",
+      "title": "Schwere Unwetter im Süden Brasiliens",
+      "overview": "In Tupanciretã wurden die Dächer von rund 5.000 Wohnhäusern abgedeckt",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T22:33:41+00:00",
+      "updated_at": "2026-11-20T22:33:41+00:00",
+      "article_ids": [
+        "e50bfe694eea2cba0f49"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-e1a8a29b56338e9a67b4",
+      "title": "Österreichischer Film gewinnt bei Filmfestival in Kairo",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T22:27:06+00:00",
+      "updated_at": "2026-11-20T22:27:06+00:00",
+      "article_ids": [
+        "ae59e7f068804a603275"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-3034650549009fdab85f",
+      "title": "Behörden: Tote nach Angriff auf Krywyj Rih",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T22:23:53+00:00",
+      "updated_at": "2026-11-20T22:23:53+00:00",
+      "article_ids": [
+        "4a074579eaae186a82cd"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-2601b92ee84b3a991aa5",
+      "title": "Grand Theft Auto VI appears to mock NFL sexual misconduct scandals in radio parody",
+      "overview": "Comedian Stavros Halkias voices fictional shock jock Segment echoes Watson, Tucker misconduct allegations Rockstar’s latest skewers American sports culture The long-awaited Grand Theft Auto VI appears to have taken aim at the NFL’s sexual misconduct scandals – and the culture of excuses surrounding them – with a satirical segment on the video game’s fictional conservative talk radio station bearing striking similarities to allegations against Cleveland Browns quarterback Deshaun Watson and Kansas City Chiefs kicker Justin Tucker. The segment features comedian and voice actor Stavros Halkias de",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T22:16:06+00:00",
+      "updated_at": "2026-11-20T22:16:06+00:00",
+      "article_ids": [
+        "0d4e06d262ead6428051"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-e52f5f5ff584fd321028",
+      "title": "Tausende demonstrieren in der Schweiz gegen Aufrüstung, Klimakrise und Sparmaßnahmen",
+      "overview": "In Basel kam es zu Zusammenstößen zwischen Protestierenden und Polizei",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T22:01:32+00:00",
+      "updated_at": "2026-11-20T22:01:32+00:00",
+      "article_ids": [
+        "1bbce91735debe3a6f7a"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-f269de51b0d6c71a0e1d",
+      "title": "Bayern München patzt gegen Köln, Kane fällt monatelang aus",
+      "overview": "Die Rückkehr von Musiala und Kompany auf die Trainerbank wurde getrübt. Auch Olise ist verletzt. Die Münchner bangen zudem um die Tabellenführung",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T21:58:24+00:00",
+      "updated_at": "2026-11-20T21:58:24+00:00",
+      "article_ids": [
+        "5df192c394c0b92a17ce"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-e58c5547b54764aafac7",
+      "title": "Denmark accuses Russia of plotting to assassinate US-Ukrainian rapper",
+      "overview": "The Russian embassy in Denmark has denied the allegation, which has led to Russia's defence attaché being expelled.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T21:57:07+00:00",
+      "updated_at": "2026-11-20T21:57:07+00:00",
+      "article_ids": [
+        "bb7453aee12ed146b28e"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-af4f0e150aa81a0e443e",
+      "title": "Tech-Aktien legen Talfahrt hin",
+      "overview": "Der Ausverkauf von Technologieaktien an US-Börsen hat sich am Freitag noch einmal verstärkt. Anlegerinnen und Anleger verlagerten ihr Geld US-Medienberichten zufolge von Chipherstellern und Technologieunternehmen hin zu Unternehmen, die nicht im Technologiebereich tätig sind. Fast verpufft ist auch der erstmalige starke Anstieg der Aktie des KI-Unternehmens Anthropic, das erst am Donnerstag einen Rekordbörsengang hingelegt hatte.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T21:55:03+00:00",
+      "updated_at": "2026-11-20T21:55:03+00:00",
+      "article_ids": [
+        "d1d1bc71567857141c3b"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-374faefbe590920f3e3e",
+      "title": "Lilli Tagger als WTA-Newcomerin des Jahres nominiert",
+      "overview": "Die 18-Jährige hat sich heuer in der Weltrangliste um rund 100 Positionen auf Platz 54 verbessert. Vier weitere Spielerinnen haben Chancen auf die Auszeichnung, die am 14. Dezember vergeben wird",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T21:53:06+00:00",
+      "updated_at": "2026-11-20T21:53:06+00:00",
+      "article_ids": [
+        "4e9b92bc2b358090e5ce"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-455b64fac90c30ded02f",
+      "title": "6:1-Kantersieg für Leader Blau-Weiß Linz in 2. Liga bei Rapid II",
+      "overview": "Auch FAC, Kapfenberg, Voitsberg und Admira Wacker gewannen",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T21:49:48+00:00",
+      "updated_at": "2026-11-20T21:49:48+00:00",
+      "article_ids": [
+        "9bd3a194eb9bb0d1bf87"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-040ac1991450f44173c2",
+      "title": "Trump threatens ‘tremendous penalties’ for US tech firms that build datacenters abroad",
+      "overview": "President gives wide-ranging White House press conference and says he has ‘fantastic relationships’ with Putin and Xi Donald Trump threatened on Friday to impose “tremendous penalties” on American tech companies that build datacenters outside the US, though he gave no details and told reporters he had not yet informed his own officials about the plan. In a discursive press conference from the White House briefing room, Trump also said he would “look into” the report that Iran had been planning to possibly detonate a “dirty bomb” in Washington DC, and backed JD Vance over comments the vice-pres",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T21:47:41+00:00",
+      "updated_at": "2026-11-20T21:47:41+00:00",
+      "article_ids": [
+        "9a38142955443e68a01e"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-05134782c55a265720ae",
+      "title": "Südamerikaner stützen Infantino einstimmig: Führungsstärke als Argument",
+      "overview": "Der FIFA-Präsident stand nach seinem Plan, WM-Rechte an private Investoren zu verkaufen, massiv in der Kritik. Trotzdem gilt er als Favorit bei der kommenden Wahl",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T21:45:08+00:00",
+      "updated_at": "2026-11-20T21:45:08+00:00",
+      "article_ids": [
+        "2b979c5979e58eec3d19"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-33144f537ca00ff18cf1",
+      "title": "What the new UK-EU deal could mean for future post-Brexit relations",
+      "overview": "The BBC's political and Europe editors analyse the new agreements between the UK and EU.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T21:43:22+00:00",
+      "updated_at": "2026-11-20T21:43:22+00:00",
+      "article_ids": [
+        "c4f864918677af99f912"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-147c2e24cf3af9141883",
+      "title": "Skispringen: Österreich startet mit Podium im Mixed in Weltcup-Saison",
+      "overview": "Norwegen feierte in Lillehammer einen überlegenen Heimsieg",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T21:40:48+00:00",
+      "updated_at": "2026-11-20T21:40:48+00:00",
+      "article_ids": [
+        "7e722fa256b63cad5f7d"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-b5cf42cb7f8728743191",
+      "title": "Trump floats an unexpected name to be his successor as powerhouses Rubio and Vance stand by",
+      "overview": "During a lighthearted Friday afternoon moment with the media inside the White House press briefing room, President Donald Trump floated a new name to succeed him as president, while two expected 2028 hopefuls stood by. The president asked the media if they'd like to continue with the press conference — where Trump provided updates on his trip to China where he met with Chinese President Xi Jinping and Russian President Vladimir Putin. This prompted laughs from Vice President JD Vance and Secretary of State Marco Rubio, who flanked him on either side during the briefing. Then, he asked newly-mi",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T21:28:09+00:00",
+      "updated_at": "2026-11-20T21:28:09+00:00",
+      "article_ids": [
+        "dadfb30437dab6db78a8"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-9c66b280bade098ee5c7",
+      "title": "Overtime-Siege für Linz und Graz, Bozen alleiniger Leader",
+      "overview": "Die Black Wings siegten in Innsbruck und die 99ers in Salzburg. Der KAC unterlag in Bruneck",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T21:23:00+00:00",
+      "updated_at": "2026-11-20T21:23:00+00:00",
+      "article_ids": [
+        "5c45e988b607c363774a"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-75e4369985d954b926cc",
+      "title": "Striking snakes released into the wild in historic fight to save species from extinction",
+      "overview": "Scientists reared the San Francisco natives through their vulnerable youth before setting them free in nature San Francisco garter snakes born and raised in a zoo-based conservation program have been released into the wild for the first time as part of an effort to save what is considered one of North America’s most beautiful snakes. The non-venomous reptiles are known for their striking colors – red heads, turquoise bellies and vibrant red and black stripes on their sides. The species, found only on the San Francisco peninsula, has been listed as endangered for more than half a century. Conti",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T21:14:08+00:00",
+      "updated_at": "2026-11-20T21:14:08+00:00",
+      "article_ids": [
+        "f6703f3bf6f4806b17f0"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
     {
       "id": "story-9909bd0e5120c4250104",
       "title": "'I forgot that I was 35': Mamdani tore his achilles while playing soccer - video",
@@ -31978,42 +33424,6 @@
       "updated_at": "2026-11-20T10:00:30+00:00",
       "article_ids": [
         "006ff5a2995eb9499afe"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-b9c6decbcb6c6da06ff8",
-      "title": "Zohran Mamdani unveils plan to close Rikers Island jail complex",
-      "overview": "Mayor plans to close jail by 2032 and relocate its remaining population to smaller facilities across four boroughs Zohran Mamdani, New York City’s mayor, on Friday unveiled a plan to close the Rikers Island jail complex, with a goal to end all incarceration at the current facility and relocate its remaining jail population by the end of 2032. “It is time to finally close Rikers Island,” Mamdani said in a statement. “For decades, New Yorkers have demanded a correctional system that is safe and humane. This plan puts us on a path to deliver just that: closing Rikers, reducing pretrial detention,",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-20T10:00:30+00:00",
-      "updated_at": "2026-11-20T10:00:30+00:00",
-      "article_ids": [
-        "cff3444056810cc709b6"
       ],
       "publisher_count": 1,
       "article_counts": {
@@ -56754,38 +58164,33 @@
     },
     {
       "id": "story-50614d9762dcfa6bce6f",
-      "title": "Bericht: Huthis rücken Richtung Aden vor",
-      "overview": "",
+      "title": "Die Huthis stehen erneut vor Aden",
+      "overview": "Saudi-Arabien wollte mit seiner Offensive die international anerkannte jemenitische Regierung nach Sanaa zurückbringen. Dieser Plan ist gescheitert",
       "title_kind": "source_headline",
-      "first_published": "2026-11-15T19:57:50+00:00",
+      "first_published": "2026-11-17T19:45:00+00:00",
       "updated_at": "2026-11-17T19:45:00+00:00",
       "article_ids": [
-        "2a4271276b4ab7bedc2a",
         "5c8e18682c2e3f598d81"
       ],
-      "publisher_count": 2,
+      "publisher_count": 1,
       "article_counts": {
         "left": 1,
         "centre": 0,
         "right": 0,
-        "unknown": 1
+        "unknown": 0
       },
       "publisher_counts": {
         "left": 1,
         "centre": 0,
         "right": 0,
-        "unknown": 1
+        "unknown": 0
       },
-      "category": "World",
+      "category": "Politics",
       "countries": [
         "AT"
       ],
       "language": "de",
-      "common_terms": [
-        "aden",
-        "huthis",
-        "vor"
-      ],
+      "common_terms": [],
       "limitations": [
         "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
         "Insufficient coverage for comparison."
@@ -75394,1291 +76799,6 @@
       ],
       "exposures": [],
       "ai": null
-    },
-    {
-      "id": "story-fd9fa9067ce884b0428a",
-      "title": "England fügt Spanien nach 43 ungeschlagenen Spielen Niederlage zu",
-      "overview": "Kane und Co. retteten den Sieg in Madrid in Unterzahl ins Ziel. Italien ließ sich nach Führung in Brüssel Viertelfinalticket noch entreißen",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-15T22:10:17+00:00",
-      "updated_at": "2026-11-15T22:10:17+00:00",
-      "article_ids": [
-        "cdbd37fd56a2b72fbb8a"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-7d92c37d46e12626c8ce",
-      "title": "Canada bars Russia from Junior World Championships",
-      "overview": "Canada says it will not allow Russian athletes to compete in the Junior Ice Hockey World Championships because of the war in Ukraine.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-15T22:01:16+00:00",
-      "updated_at": "2026-11-15T22:01:16+00:00",
-      "article_ids": [
-        "792629931d72871eb0f1"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-6ab1f9d51b5650d1edf2",
-      "title": "UK will have 'voice' but no vote on EU food rules in Brexit reset",
-      "overview": "EU minister Hamish Falconer insists Britain would have some influence on policy as part of a new deal.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-15T22:00:24+00:00",
-      "updated_at": "2026-11-15T22:00:24+00:00",
-      "article_ids": [
-        "09a69d24e2b518b2b484"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "Business",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-7ae95483437a878c07cd",
-      "title": "Suche nach Regeln für „Killerroboter“",
-      "overview": "Die rasante Entwicklung autonomer Waffen mit künstlicher Intelligenz alarmiert zahlreiche Regierungen und Friedensaktivisten. Damit einher geht der Ruf nach einem Verbot von Waffen, die ohne menschliches Eingreifen töten. In Genf beraten ab Montag die 128 Vertragsstaaten des UNO-Waffenübereinkommens (CCW) über eine Regulierung der vielfach auch als „Killerroboter“ bezeichneten Waffensysteme.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-15T21:57:48+00:00",
-      "updated_at": "2026-11-15T21:57:48+00:00",
-      "article_ids": [
-        "a54744f44124e9484b0a"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-23373e485d6d20fc4e08",
-      "title": "NFL roundup: Vikings win on Cousins’ return; Hutchinson reportedly ends season celebrating sack",
-      "overview": "Detroit triumph in Munich for fifth win in a row Patrick Mahomes throws five TDS in Chiefs win Bills move to 8-1 after win over Jets Kirk Cousins threw two touchdown passes to start his second stint with Minnesota (7-2) and Levi Drake Rodriguez had two of the Vikings’ eight sacks in a victory over the Green Bay Packers (6-4). Cousins went 21 of 31 for 207 yards just five days after rejoining the Vikings, who acquired him from the Las Vegas Raiders at Tuesday’s trade deadline. The last time Cousins had played at Lambeau Field or suited up for the Vikings, he tore his achilles tendon in a 24-10 ",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-15T21:55:13+00:00",
-      "updated_at": "2026-11-15T21:55:13+00:00",
-      "article_ids": [
-        "dfb17879f700ea031efd"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-520897e2e1831b346949",
-      "title": "WTA Finals final: Elina Svitolina v Mirra Andreeva – live",
-      "overview": "Players meet for end of year championship Sabalenka apologizes to Svitolina after outburst First set: Andreeva* 1-0 Svitolina (*next server) Svitolina quickly drops two points and then sprays a shot wide to give Andreeva three break opportunities. Andreeva hits long on the first. Svitolina misses her first serve, takes her second one despite an emergency vehicle siren in the distance, and it’s a let. She lands the second one, and we have our longest rally so far. Svitolina slowly but surely takes control, and the 19-year-old Andreeva hits just wide. Continue reading...",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-15T21:44:06+00:00",
-      "updated_at": "2026-11-15T21:44:06+00:00",
-      "article_ids": [
-        "2a3428db9a2afe6c1011"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-732c1f6f4d4554786ac5",
-      "title": "Boeing-Lockheed-Rakete kurz nach Start abgestürzt",
-      "overview": "",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-15T21:10:35+00:00",
-      "updated_at": "2026-11-15T21:41:47+00:00",
-      "article_ids": [
-        "839013bff185466b2723",
-        "0938f76e459de2d58f43"
-      ],
-      "publisher_count": 2,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [
-        "abgestürzt",
-        "boeing",
-        "kurz",
-        "lockheed",
-        "nach",
-        "rakete",
-        "start"
-      ],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-ca9469a23f937baae423",
-      "title": "Somali-American Uber driver brutally assaulted in alleged hate crime in Minnesota",
-      "overview": "Mohamed Yusuf is fighting for his life after alleged attack by passenger who said he did not like driver’s first name A Somali-American Uber driver was allegedly brutally assaulted by a passenger in Hopkins, Minnesota, on Saturday, in what his family says “appears to be a hate crime”. The driver, Mohamed Yusuf, is currently hospitalized and fighting for his life, his family told the Somali Brief, a digital news site run by two Somali American journalists. The driver’s cousin, Abdinasir Ali told the outlet that the alleged attack took place early Saturday after a passenger in Hopkins, a suburba",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-15T21:10:38+00:00",
-      "updated_at": "2026-11-15T21:10:38+00:00",
-      "article_ids": [
-        "306d1c095e373aad202c"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-c352b05c768a50497d30",
-      "title": "Ein Sechser bei Lotto „6 aus 45“",
-      "overview": "",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-15T21:04:09+00:00",
-      "updated_at": "2026-11-15T21:04:09+00:00",
-      "article_ids": [
-        "3f6f7da7e42b2f1650a1"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-9d00e0ab4da27461a7ff",
-      "title": "AFP-Mitarbeiter in Westjordanland festgenommen",
-      "overview": "",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-15T17:55:32+00:00",
-      "updated_at": "2026-11-15T21:01:57+00:00",
-      "article_ids": [
-        "51d2dfbbb4c318038be8",
-        "81d0644e311b4e1655f5"
-      ],
-      "publisher_count": 2,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [
-        "afp",
-        "mitarbeiter",
-        "westjordanland"
-      ],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-1316892ef0e110c90917",
-      "title": "FAA ground stop timeline: Weekend chaos grounds planes and postpones games",
-      "overview": "A communications failure brought departures across the country to a halt Friday, stranding travelers, disrupting professional sports teams and sending federal officials scrambling to restore flights and determine what went wrong. The longest nationwide ground stop in 25 years ended after more than four hours, but the fallout stretched through the weekend as airlines worked through cancellations and investigators zeroed in on routers tied to the outage. Here’s a timeline of the shutdown and the federal response. All times are Eastern. 4 CRITICAL TRAVEL ISSUES FOR THOSE DELAYED AND DISRUPTED BY ",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-15T20:51:02+00:00",
-      "updated_at": "2026-11-15T20:51:02+00:00",
-      "article_ids": [
-        "82a2d0f56e0ccb0b8894"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 1,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 1,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-a67ce50cb74d48ce93f2",
-      "title": "Papst besuchte Anden-Stadt Cusco auf 3.400 Meter Höhe",
-      "overview": "",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-15T20:18:54+00:00",
-      "updated_at": "2026-11-15T20:18:54+00:00",
-      "article_ids": [
-        "96566ae82b341c33ca57"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-aa290a8eb0020589f0f9",
-      "title": "Flugchaos in USA hält an: Ursache Router aus 2001",
-      "overview": "",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-15T20:14:27+00:00",
-      "updated_at": "2026-11-15T20:14:27+00:00",
-      "article_ids": [
-        "5c9f4a3750419587c56d"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-68bff88066979ea57e74",
-      "title": "LSU star MiLaysia Fulwiley arrested after allegedly striking police officer with car",
-      "overview": "Guard allegedly tried to flee traffic stop in Baton Rouge Tigers say they are aware of situation involving player LSU guard MiLaysia Fulwiley, one of the ninth-ranked Tigers’ leading scorers, was arrested after allegedly striking a police officer while attempting to flee from a traffic stop. LSU’s athletic department, in a written statement provided to The Associated Press, said university officials “are aware of the situation and have no further comment at this time as it’s an ongoing legal matter.” Continue reading...",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-15T19:53:07+00:00",
-      "updated_at": "2026-11-15T19:53:07+00:00",
-      "article_ids": [
-        "424157e1e3fc043b75ba"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-10d89e671c42ec2eb23b",
-      "title": "Rund 1500 Migranten erreichen Kanaren an einem einzigen Tag",
-      "overview": "Es war die höchste Zahl innerhalb eines Tages seit Beginn der Erfassungen. Der Großteil der Menschen erreichte die kleine Insel El Hierro",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-15T19:45:31+00:00",
-      "updated_at": "2026-11-15T19:45:31+00:00",
-      "article_ids": [
-        "717c7468013a75db62df"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-55584342d71173fcf92d",
-      "title": "Gaza-Hilfe: GB, Italien, Kanada und Australien erhöhen Druck",
-      "overview": "",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-15T19:44:55+00:00",
-      "updated_at": "2026-11-15T19:44:55+00:00",
-      "article_ids": [
-        "27b0bafcaf060bc7305a"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-f886703cd871398439c5",
-      "title": "Huang arbeitet laut Bericht an Rückkehr an Nvidia-Konzernspitze",
-      "overview": "Verbündete im Silicon Valley sollen laut einem Bericht Druck auf den Verwaltungsrat ausüben, Huang wieder an die Spitze des Chipkonzerns zu setzen. Huang war in der vergangenen Woche zurückgetreten",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-15T19:36:14+00:00",
-      "updated_at": "2026-11-15T19:36:14+00:00",
-      "article_ids": [
-        "19c2cf0ad4d03856c146"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-1b577c11ee4272ab64b2",
-      "title": "Zelensky urges US and Musk to lift Starlink restrictions and be on 'right side of history'",
-      "overview": "The Ukrainian president says the slowed-down internet is making it difficult to stop Russian attacks.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-15T19:32:39+00:00",
-      "updated_at": "2026-11-15T19:32:39+00:00",
-      "article_ids": [
-        "a5d1637de92e1ec6de66"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-bd840ebd6688591ceccc",
-      "title": "Ronaldinho makes comeback in Ravenna win",
-      "overview": "Brazil legend Ronaldinho makes his comeback aged 46 for Ravenna, playing the first half of their Italian third-tier derby against Forli.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-15T19:31:48+00:00",
-      "updated_at": "2026-11-15T19:31:48+00:00",
-      "article_ids": [
-        "d49b9ed0e01e0342dc31"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-b3f344a2a18b478f4361",
-      "title": "China-Exporte: Bessent fordert Aufklärung von Nvidia",
-      "overview": "",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-15T19:29:51+00:00",
-      "updated_at": "2026-11-15T19:29:51+00:00",
-      "article_ids": [
-        "5c2d18c58acc28b1e420"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-e6b8189a7c337ac69727",
-      "title": "Red Brawl New York: Fighting and six red cards mar ‘friendly’ v Club América",
-      "overview": "Game played without veterans and stars on both sides Red Bulls’ MLS season is already over One hallmark of Mauricio Pochettino’s time in international management has been his refusal to embrace the term “friendly”. His preferred branding is “unofficial games”. His spin gained a bit of validity on Saturday, in the New York Red Bulls’ “friendly” against Club América, marred by a mass brawl between the sides that resulted in five red cards and a bevy of beverages thrown from the stands. Continue reading...",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-15T19:29:41+00:00",
-      "updated_at": "2026-11-15T19:29:41+00:00",
-      "article_ids": [
-        "64cf291aafa5d7891dad"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-a6ce2a14ac66b2ca370c",
-      "title": "Texas puts to death man who beheaded three children, hours after Oklahoma execution",
-      "overview": "Oklahoma man, 73, executed for killing ex’s estranged husband, as US nears 40 executions for second straight year A Texas man convicted of fatally stabbing and beheading his three young children in a squalid, windowless apartment in 2003 was recently executed. John Allen Rubio, 46, was pronounced dead at 6.47 pm on Thursday after a lethal injection at the state prison in Huntsville, Texas. His killings of his baby girl and two toddlers so rocked the city of Brownsville on the US border with Mexico that the apartment building was later demolished – and the land turned into a park and community ",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-15T19:27:24+00:00",
-      "updated_at": "2026-11-15T19:27:24+00:00",
-      "article_ids": [
-        "4b8ce86545244339b8bb"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-fc54db8a0561e0c80b38",
-      "title": "Thousands of US flights still cancelled or delayed two days after grounding of planes nationwide",
-      "overview": "The US transport secretary says that normal air-traffic operations may not be restored until Monday.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-15T19:20:53+00:00",
-      "updated_at": "2026-11-15T19:20:53+00:00",
-      "article_ids": [
-        "e1a768ca261aa7e6a701"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-328ac65932bd93b06632",
-      "title": "Triumphales Heimspiel für Lions-Superstar St. Brown in München",
-      "overview": "Die Patriots müssen um die Playoffs bangen, zudem verletzte sich Quarterback Drake Maye. Auch DJ Ötzi trat bei der NFL-Party auf",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-15T19:05:19+00:00",
-      "updated_at": "2026-11-15T19:05:19+00:00",
-      "article_ids": [
-        "c45f82138f1dd9f1cf11"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-25fc1f9acf2c18b5d824",
-      "title": "Einblick in fünf heimische Badezimmer: „Im Bad spiegelt sich der Zeitgeist besonders stark wieder“",
-      "overview": "Ein Badezimmer muss gewisse Grundfunktionen erfüllen, eh klar! Dass es sich jedoch lohnt, auch diesem Raum gestalterisch mehr Aufmerksamkeit zu widmen, zeigen diese Exemplare",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-15T19:00:00+00:00",
-      "updated_at": "2026-11-15T19:00:00+00:00",
-      "article_ids": [
-        "96c2408a42ac756463e0",
-        "c40a379a168b3908bcce"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 2,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [
-        "bad",
-        "badezimmer",
-        "besonders",
-        "einblick",
-        "fünf",
-        "heimische",
-        "spiegelt",
-        "stark",
-        "zeitgeist"
-      ],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-a41225fa9d9270afe6a9",
-      "title": "Estland schließt Grenze zu Russland",
-      "overview": "Nach einem versuchten Brandanschlag auf das Gebäude des Drohnenherstellers Threod Systems in Estland hat die Regierung in Tallinn beschlossen, die Grenzen zu Russland zu schließen. Außenminister Margus Tsahkna sprach am Sonntag von einem Sabotageakt gegen die Rüstungsindustrie des Landes und warf dem russischen Militärgeheimdienst GRU vor, diesen in Auftrag gegeben zu haben.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-15T18:59:56+00:00",
-      "updated_at": "2026-11-15T18:59:56+00:00",
-      "article_ids": [
-        "fbdad3d4d5a81c8af4d3"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-da3ae8032d86e61b0223",
-      "title": "Kanada bleibt dabei: U20-WM ohne Russland",
-      "overview": "Weil Gastgeberland Kanada keine Visa ausstellt, findet die WM der U20-Männer ohne russische Beteiligung statt, teilte der Eishockey-Weltverband IIHF mit",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-15T18:55:44+00:00",
-      "updated_at": "2026-11-15T18:55:44+00:00",
-      "article_ids": [
-        "fd8450bf85102a661f01"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-3900803fcee30e9fbab7",
-      "title": "Senator-elect Scott Colom vows to ensure Trump follows through on his promises",
-      "overview": "Mississippi Democrat points to commitments Trump made: lower prices, halt endless wars and release Epstein files After recently becoming the first Mississippi Democrat elected to the US Senate in more than four decades, Scott Colom pledged to try to ensure Donald Trump “follows through on the commitments” he made while successfully running for a second presidency in 2024. Colom, while being interviewed by CNN host Dana Bash on Sunday, alluded to various campaign promises made by Trump – including lowering consumer prices, halting the seemingly endless wars waged under other presidential admini",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-15T18:48:10+00:00",
-      "updated_at": "2026-11-15T18:48:10+00:00",
-      "article_ids": [
-        "a56bf5a0eeb9e1d029d6"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-80b5f93a725504572a02",
-      "title": "Chris Van Hollen says he has path to win Senate leader over Chuck Schumer",
-      "overview": "Progressive US senator calling for more inclusion within Democratic caucus cites openness to change among peers Democratic US senator Chris Van Hollen on Sunday escalated his bid to lead his party’s incoming Senate majority rather than Chuck Schumer, asserting that he has a path to victory amid a dedicated campaign that includes a series of television appearances. Van Hollen, a Maryland progressive, appeared on Sunday on CNN, ABC and Fox News as he continues to make his case for why his peers in the Senate should reject Schumer, who has led the Democratic caucus for nearly a decade. Continue r",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-15T18:46:49+00:00",
-      "updated_at": "2026-11-15T18:46:49+00:00",
-      "article_ids": [
-        "e333adc66cda8feae7d4"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-27ddd760eb6879fe4393",
-      "title": "Pope Leo rides in helicopter cockpit during Peru trip",
-      "overview": "The Pope took to the skies before arriving in Cusco on the penultimate day of his Latin America tour.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-15T18:38:11+00:00",
-      "updated_at": "2026-11-15T18:38:11+00:00",
-      "article_ids": [
-        "cbb2409cceeef7edf02c"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-1f25f7e51e30ce288b89",
-      "title": "Trump will Berufung gegen Golfplatzstopp einlegen",
-      "overview": "",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-15T18:09:11+00:00",
-      "updated_at": "2026-11-15T18:09:11+00:00",
-      "article_ids": [
-        "f669f8e447cd9464ce5f"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-9170283057aec333ad46",
-      "title": "Echte Zungenbrecher: Die längsten Ortsnamen der Welt",
-      "overview": "Einige der längsten Ortsnamen stammen aus Neuseeland, Wales und den USA, mit einzigartigen Geschichten und kulturellen Bedeutungen",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-15T18:00:00+00:00",
-      "updated_at": "2026-11-15T18:00:00+00:00",
-      "article_ids": [
-        "4705e61e87ea87e799d5"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-5b118884e5c00cac057b",
-      "title": "ORF steuert auf zweistelligen Millionenverlust zu",
-      "overview": "Generaldirektorin Ingrid Thurnher gibt ihrem Nachfolger Clemens Pig einen Finanzplan mit auf den Weg, der wegen Budgetkürzungen Reserven auflöst und ein Minus ausweist",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-15T18:00:00+00:00",
-      "updated_at": "2026-11-15T18:00:00+00:00",
-      "article_ids": [
-        "cfa729087ede9bf4a75b"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-e54b01adf54e9aa45ac4",
-      "title": "Zu Forschungszwecken: KI-Modelle legen Windpark in unter zwei Stunden lahm",
-      "overview": "Als Testumgebung wurde jene Anlage in Polen nachgebaut, die Ende 2025 zum Ziel russischer Hacker wurde",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-15T18:00:00+00:00",
-      "updated_at": "2026-11-15T18:00:00+00:00",
-      "article_ids": [
-        "d044591bd225383ec406"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-f9f7023f4e1ecf982787",
-      "title": "Zu Gast: Leonore Gewessler, Bundessprecherin der Grünen",
-      "overview": "",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-15T17:58:43+00:00",
-      "updated_at": "2026-11-15T17:58:43+00:00",
-      "article_ids": [
-        "7ae9a3d1d00ff920102f"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
     }
   ],
   "instruments": [
@@ -76803,15 +76923,15 @@
   "markets": [],
   "status": {
     "state": "ok",
-    "attempted_at": "2026-11-20T21:14:59.309545+00:00",
-    "last_success_at": "2026-11-20T21:14:59.309545+00:00",
+    "attempted_at": "2026-11-21T02:31:11.276709+00:00",
+    "last_success_at": "2026-11-21T02:31:11.276709+00:00",
     "errors": [],
     "source_results": {
       "bbc-world": "25 entries",
       "guardian-us": "33 entries",
       "fox-politics": "25 entries",
-      "bbc-business": "37 entries",
-      "orf": "26 entries",
+      "bbc-business": "38 entries",
+      "orf": "29 entries",
       "standard": "151 entries"
     },
     "market_status": "Market price data not configured",
