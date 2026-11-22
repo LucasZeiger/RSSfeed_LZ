@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "mode": "live",
-  "generated_at": "2026-11-21T19:25:22.968616+00:00",
+  "generated_at": "2026-11-22T00:24:32.098318+00:00",
   "refresh_minutes": 60,
   "sources": [
     {
@@ -90,6 +90,291 @@
     }
   ],
   "articles": [
+    {
+      "id": "3798f1051f80c23da123",
+      "source_id": "bbc-world",
+      "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
+      "url": "https://www.bbc.co.uk/news/articles/ck4g174n020eo?at_campaign=rss&at_medium=RSS",
+      "summary": "Fewer young people have registered to vote in next year's election than in 2023 - are young people losing faith in democracy?",
+      "published_at": "2026-11-22T00:10:37+00:00",
+      "fetched_at": "2026-11-22T00:24:32.098318+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "f98bc6788d27c1ce1ef6",
+      "source_id": "bbc-world",
+      "title": "How a teen gamer and his mother helped rescue a missing girl",
+      "url": "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo?at_campaign=rss&at_medium=RSS",
+      "summary": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
+      "published_at": "2026-11-22T00:09:58+00:00",
+      "fetched_at": "2026-11-22T00:24:32.098318+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "ac4aa46e390f89cd630a",
+      "source_id": "fox-politics",
+      "title": "Retired FBI agent warns NCIC breach could threaten police safety during traffic stops",
+      "url": "https://www.foxnews.com/politics/retired-fbi-agent-warns-ncic-breach-could-threaten-police-safety-traffic-stops",
+      "summary": "A retired FBI supervisory special agent warned Saturday that a cyber intrusion into the bureau's National Crime Information Center (NCIC) could endanger police officers during traffic stops if hackers altered records inside the database. Jason Pack, a former FBI supervisory special agent who worked in cybercrime and public information, told Fox News Digital that the bureau's incident response team must quickly determine whether data was manipulated inside the system, which feeds criminal records to patrol cars nationwide. \"What they worry about is if any of this data has changed, then it might",
+      "published_at": "2026-11-21T22:47:07+00:00",
+      "fetched_at": "2026-11-22T00:24:32.098318+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "9867ce73-dbd5-5ce7-8b79-9cb9b6571ab8",
+        "fnc",
+        "Fox News",
+        "fox-news/tech/topics/fbi",
+        "fox-news/tech/topics/cybercrime",
+        "fox-news/tech/topics/hackers",
+        "fox-news/health/orthopedics/technology",
+        "fox-news/us/crime/police-and-law-enforcement",
+        "fox-news/politics/executive/national-security",
+        "fox-news/tech/topics/security"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "75f699fbf5f32de56a2b",
+      "source_id": "standard",
+      "title": "Dank Vinicius-Comeback nach Sperre: Real Madrid dreht Spiel gegen Celta Vigo",
+      "url": "https://www.derstandard.at/story/3000000350386/dank-vinicius-comeback-nach-sperre-real-madrid-dreht-spiel-gegen-celta-vigo?ref=rss",
+      "summary": "Die \"Königlichen\" fixieren im Finish einen 2:1-Erfolg und ziehen zumindest vorerst mit Tabellenführer Barcelona gleich, der am Sonntag spielt",
+      "published_at": "2026-11-21T22:14:02+00:00",
+      "fetched_at": "2026-11-22T00:24:32.098318+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "d19a29986e638809edce",
+      "source_id": "bbc-world",
+      "title": "Lock of former US President George Washington's hair sells for $4,000",
+      "url": "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do?at_campaign=rss&at_medium=RSS",
+      "summary": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+      "published_at": "2026-11-21T22:01:19+00:00",
+      "fetched_at": "2026-11-22T00:24:32.098318+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "feeab8c0ee46aff9e6e4",
+      "source_id": "orf",
+      "title": "Schuldspruch nach „Palisades“-Großbrand",
+      "url": "https://orf.at/stories/3448865/",
+      "summary": "Das „Palisades“-Feuer vom Jänner 2025 war einer der bisher verheerendsten Brände in der Geschichte des US-Bundesstaats Kalifornien. Am Freitag (Ortszeit) wurde ein 30-Jähriger in Los Angeles von einem Geschworenengericht als Verursacher schuldig gesprochen. Ursache waren mutmaßlich Zigaretten, „böswillig“ zur Brandstiftung weggeworfen, wie die Anklage argumentierte. Die Katastrophe folgte erst Tage später.",
+      "published_at": "2026-11-21T21:55:58+00:00",
+      "fetched_at": "2026-11-22T00:24:32.098318+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Chronik"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "fc9f2d9a58e375c30383",
+      "source_id": "guardian-us",
+      "title": "‘GO NAVY’ becomes ‘GO ARMY’ after overnight prank at Navy football stadium",
+      "url": "https://www.theguardian.com/sport/2026/nov/21/army-navy-football-stadium-prank-cadets-go-army",
+      "summary": "Cadets rearranged bolted-down seats overnight Navy workers spent four hours undoing stunt Rival academies have long history of pranks The large letters that spell “GO NAVY” in the upper seating level of the Naval Academy’s football stadium were changed to “GO ARMY” in an elaborate overnight prank before the Midshipmen hosted No 24 Memphis on Saturday. The stunt involved rearranging the blue and yellow seat backs at Navy-Marine Corps Memorial Stadium in Annapolis, Maryland, a task made considerably more complicated by the fact that the seats are bolted into place. Continue reading...",
+      "published_at": "2026-11-21T21:43:31+00:00",
+      "fetched_at": "2026-11-22T00:24:32.098318+00:00",
+      "date_estimated": false,
+      "author": "Guardian sport and agencies",
+      "categories": [
+        "College football",
+        "College sports",
+        "Sport",
+        "US sports"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "f4542903fe08a2c758ef",
+      "source_id": "orf",
+      "title": "Eisenkot lädt Likud-Partei zu Koalitionsgesprächen",
+      "url": "https://orf.at/stories/3448902/",
+      "summary": "",
+      "published_at": "2026-11-21T21:39:30+00:00",
+      "fetched_at": "2026-11-22T00:24:32.098318+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "2fe0430fe10f71378e24",
+      "source_id": "orf",
+      "title": "Gesuchter Drogenboss in Mexiko festgenommen",
+      "url": "https://orf.at/stories/3448901/",
+      "summary": "",
+      "published_at": "2026-11-21T21:36:17+00:00",
+      "fetched_at": "2026-11-22T00:24:32.098318+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Chronik"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "94ee15af397fa8a02cae",
+      "source_id": "standard",
+      "title": "Ausschreitungen bei Sozialprotesten in Frankreich",
+      "url": "https://www.derstandard.at/story/3000000350385/ausschreitungen-bei-sozialprotesten-in-frankreich?ref=rss",
+      "summary": "Die Teilnehmerzahl der Kundgebungen ging erneut zurück",
+      "published_at": "2026-11-21T21:17:37+00:00",
+      "fetched_at": "2026-11-22T00:24:32.098318+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "936bec413eea1793aefa",
+      "source_id": "standard",
+      "title": "\"Klare Angelegenheit\" dank Demir-Doppelpack : Rapid fixiert mit 3:0 beim GAK einen Startrekord",
+      "url": "https://www.derstandard.at/story/3000000350384/doppelpack-von-demir-rapid-fixiert-mit-30-beim-gak-einen-bundesliga-startrekord?ref=rss",
+      "summary": "Nach flotter Führung durch Kara und Ausschluss von Hermesh waren die Gastgeber chancenlos, Yusuf Demir sorgte nach der Pause für den Endstand. Rapid vorerst sechs Punkte vor Salzburg",
+      "published_at": "2026-11-21T20:31:48+00:00",
+      "fetched_at": "2026-11-22T00:24:32.098318+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "c45c82f1176c6297fd2e",
+      "source_id": "orf",
+      "title": "Bahrain: Iranischer Angriff trifft Industrieanlage",
+      "url": "https://orf.at/stories/3448897/",
+      "summary": "",
+      "published_at": "2026-11-21T20:06:12+00:00",
+      "fetched_at": "2026-11-22T00:24:32.098318+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "bda8dae8383918cdee1a",
+      "source_id": "standard",
+      "title": "Jungforscher verbessert Logik des maschinellen Lernens",
+      "url": "https://www.derstandard.at/story/3000000346794/jungforscher-verbessert-logik-des-maschinellen-lernens?ref=rss",
+      "summary": "Aleksandar Pavlović nutzt graphentheoretische Ansätze, um Künstliche Intelligenz noch effizienter zu gestalten",
+      "published_at": "2026-11-21T20:00:00+00:00",
+      "fetched_at": "2026-11-22T00:24:32.098318+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "b9464a6bdac890202d6d",
+      "source_id": "orf",
+      "title": "Tod in Psychiatrie: Tausende demonstrieren in Zagreb",
+      "url": "https://orf.at/stories/3448896/",
+      "summary": "",
+      "published_at": "2026-11-21T19:56:43+00:00",
+      "fetched_at": "2026-11-22T00:24:32.098318+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "6ebbc1e60964e597d8c4",
+      "source_id": "standard",
+      "title": "Graz 99ers gewinnen ihr Kapfenberger \"Protestspiel\", Vienna Capitals siegen in Mailand",
+      "url": "https://www.derstandard.at/story/3000000350383/graz-99ers-gewinnen-ihr-kapfenberger-protestspiel-vienna-capitals-siegen-in-mailand?ref=rss",
+      "summary": "Meister schlägt die Pioneers Vorarlberg klar mit 6:2, Capitals entscheiden das erste von zwei Duellen mit dem HC Milano in der Overtime mit 2:1 für sich",
+      "published_at": "2026-11-21T19:53:00+00:00",
+      "fetched_at": "2026-11-22T00:24:32.098318+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "0d2755a6beb7d870d70a",
+      "source_id": "orf",
+      "title": "Erneut Ausschreitungen bei Sozialprotesten in Frankreich",
+      "url": "https://orf.at/stories/3448895/",
+      "summary": "",
+      "published_at": "2026-11-21T19:32:29+00:00",
+      "fetched_at": "2026-11-22T00:24:32.098318+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Ausland"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "98eb83caa4ae814d6dd1",
+      "source_id": "orf",
+      "title": "Patt bei COP31-Gesprächen",
+      "url": "https://orf.at/stories/3448884/",
+      "summary": "Die Verhandlungen bei der 31. UNO-Klimakonferenz (COP31) im türkischen Antalya sind auch am Samstag, einen Tag nach dem geplanten Ende der Konferenz, festgesteckt. Es gibt nach wie vor keinen überarbeiteten Beschlusstext. Im Mittelpunkt der Auseinandersetzung steht die Frage, ob die weltweite Abkehr von fossilen Energieträgern in der Abschlusserklärung erwähnt wird. COP31-Präsident Murat Kurum appellierte am Samstagnachmittag an die verhandelnden Staaten, einen Kompromiss zu erzielen.",
+      "published_at": "2026-11-21T19:26:50+00:00",
+      "fetched_at": "2026-11-22T00:24:32.098318+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Umwelt"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
     {
       "id": "a1692a690c033874ab66",
       "source_id": "bbc-world",
@@ -6147,6 +6432,21 @@
       "category": "Politics"
     },
     {
+      "id": "3918006e77a48840923b",
+      "source_id": "standard",
+      "title": "Social-Media-Gewinnspiele: Echte Gewinnchance oder nur Datensammeln?",
+      "url": "https://www.derstandard.at/story/3000000350193/social-media-gewinnspiele-echte-gewinnchance-oder-nur-datensammeln?ref=rss",
+      "summary": "Mein Forum: Diskutieren Sie dieses Thema mit der STANDARD-Community",
+      "published_at": "2026-11-20T11:30:00+00:00",
+      "fetched_at": "2026-11-22T00:24:32.098318+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
       "id": "34d255afdf8aecffd836",
       "source_id": "standard",
       "title": "Tiktok führt Werkzeug zum Erkennen von KI-Desinformation ein",
@@ -7241,6 +7541,21 @@
       "summary": "Meinl-Reisinger lässt Botschafter ins Außenministerium zitieren – Vorfall zwei Tage nach Angriff auf Honorarkonsulat in Dnipro",
       "published_at": "2026-11-20T07:56:42+00:00",
       "fetched_at": "2026-11-20T13:06:12.260335+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "8d4773cd369e20691d6e",
+      "source_id": "standard",
+      "title": "Welche Kinder Tablets könnt ihr guten Gewissens empfehlen?",
+      "url": "https://www.derstandard.at/story/3000000350181/welche-kinder-tablets-koennt-ihr-guten-gewissens-empfehlen?ref=rss",
+      "summary": "Mein Forum: Diskutieren Sie dieses Thema mit der STANDARD-Community",
+      "published_at": "2026-11-20T07:49:45+00:00",
+      "fetched_at": "2026-11-22T00:24:32.098318+00:00",
       "date_estimated": false,
       "author": "standard",
       "categories": [],
@@ -25746,329 +26061,591 @@
       "language": "de",
       "country": "AT",
       "category": "World"
-    },
-    {
-      "id": "cf13a48ab4937944444e",
-      "source_id": "standard",
-      "title": "Go Student schreibt Millionenverlust und ausgerechnet die klassische Nachhilfe wächst",
-      "url": "https://www.derstandard.at/story/3000000349391/go-student-schreibt-millionenverlust-und-ausgerechnet-die-klassische-nachhilfe-waechst?ref=rss",
-      "summary": "Unterm Strich steht ein Minus von 33 Millionen Euro bei der Online-Nachhilfeplattform. PwC sieht Unsicherheit in der Fortführung des Geschäfts, Gründer Felix Ohswald bleibt entspannt",
-      "published_at": "2026-11-16T15:38:00+00:00",
-      "fetched_at": "2026-11-16T20:33:15.544571+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "1dc19c0c4186a9f4535e",
-      "source_id": "standard",
-      "title": "Drogen bei \"spirituellen Wanderungen\": Therapeut in Bayern in U-Haft",
-      "url": "https://www.derstandard.at/story/3000000349528/drogen-bei-spirituellen-wanderungen-therapeut-in-bayern-in-u-haft?ref=rss",
-      "summary": "Bei einer Durchsuchung an der Wohnadresse des Mannes wurden laut Polizei \"erhebliche Mengen\" verschiedener Drogen gefunden, darunter MDMA, Kokain, Ketamin, LSD und Ecstasy",
-      "published_at": "2026-11-16T15:36:27+00:00",
-      "fetched_at": "2026-11-16T20:33:15.544571+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "74601d8fdceec0509a3b",
-      "source_id": "standard",
-      "title": "Raye und Rosalía führen Grammy-Nominierungen an",
-      "url": "https://www.derstandard.at/story/3000000349523/raye-und-rosalia-f252hren-grammy-nominierungen-an?ref=rss",
-      "summary": "In der Kategorie \"Album des Jahres\" kommt es zum Duell zwischen Swift und einer neuen Künstlerinnen-Generation",
-      "published_at": "2026-11-16T15:35:46+00:00",
-      "fetched_at": "2026-11-16T20:33:15.544571+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "1b78a3d7229a0b080586",
-      "source_id": "orf",
-      "title": "ORF-Finanzplan sieht für 2027 deutliches Minus vor",
-      "url": "https://orf.at/stories/3448371/",
-      "summary": "",
-      "published_at": "2026-11-16T15:34:43+00:00",
-      "fetched_at": "2026-11-16T20:33:15.544571+00:00",
-      "date_estimated": false,
-      "author": "orf",
-      "categories": [
-        "Medien"
-      ],
-      "language": "de",
-      "country": "AT",
-      "category": "World"
-    },
-    {
-      "id": "13f06a52e542c93a7bc1",
-      "source_id": "standard",
-      "title": "Return Hub: Der Ruanda-Bluff",
-      "url": "https://www.derstandard.at/story/3000000349487/return-hub-der-ruanda-bluff?ref=rss",
-      "summary": "Abschiebungen nach Ruanda stehen rechtlich auf wackligen Beinen, sind immens teuer und werden eine Frage nicht lösen: Was macht man mit abgelehnten Asylwerbern?",
-      "published_at": "2026-11-16T15:32:46+00:00",
-      "fetched_at": "2026-11-16T20:33:15.544571+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "13ee477d271be55b64ef",
-      "source_id": "orf",
-      "title": "Abschiebezentrum in Ruanda soll 2027 stehen",
-      "url": "https://orf.at/stories/3448356/",
-      "summary": "Österreich, Deutschland, Dänemark, die Niederlande und Griechenland planen für das kommende Jahr die Eröffnung des ersten Abschiebezentrums für abgelehnte Asylbewerber in Ruanda. Das teilte Bundeskanzler Christian Stocker (ÖVP) am Montag bei einer Pressekonferenz mit Vertretern der fünf Staaten mit. Er sprach von einem „historischen Paradigmenwechsel“. An dem Vorhaben gab es im Vorfeld viel Kritik.",
-      "published_at": "2026-11-16T15:29:23+00:00",
-      "fetched_at": "2026-11-16T20:33:15.544571+00:00",
-      "date_estimated": false,
-      "author": "orf",
-      "categories": [
-        "Ausland"
-      ],
-      "language": "de",
-      "country": "AT",
-      "category": "World"
-    },
-    {
-      "id": "d9263f76786b642b5cc1",
-      "source_id": "fox-politics",
-      "title": "Trump's immigration olive branch threatens to open Pandora's box as experts warn of far-reaching fallout",
-      "url": "https://www.foxnews.com/politics/trumps-immigration-olive-branch-threatens-open-pandoras-box-experts-warn-far-reaching-fallout",
-      "summary": "After President Donald Trump signaled in a \"60 Minutes\" interview that aired shortly after the midterm elections that he was willing to \"work on a deal\" with Democrats to allow some illegal immigrants to gain legal status, Fox News Digital spoke with several immigration experts about the potential ramifications of such an agreement. The interview came just days after Republicans suffered crushing losses in the midterm elections, raising questions about whether Trump might be willing to compromise on immigration. But the president later ruled out amnesty, saying, \"There won't be amnesty,\" while",
-      "published_at": "2026-11-16T15:28:31+00:00",
-      "fetched_at": "2026-11-16T20:33:15.544571+00:00",
-      "date_estimated": false,
-      "author": "fox-politics",
-      "categories": [
-        "ef6b458c-5fba-5eed-bab0-04e2c44c136c",
-        "fnc",
-        "Fox News",
-        "fox-news/politics",
-        "fox-news/us/immigration/illegal-immigrants",
-        "fox-news/us/immigration/amnesty",
-        "fox-news/us/immigration",
-        "fox-news/us/immigration/border-security",
-        "fox-news/politics",
-        "article"
-      ],
-      "language": "en",
-      "country": "US",
-      "category": "Politics"
-    },
-    {
-      "id": "ffe81c8a41e953b6d2d6",
-      "source_id": "orf",
-      "title": "Robert Pattinson wird neuer James Bond",
-      "url": "https://orf.at/stories/3448367/",
-      "summary": "",
-      "published_at": "2026-11-16T15:20:24+00:00",
-      "fetched_at": "2026-11-16T20:33:15.544571+00:00",
-      "date_estimated": false,
-      "author": "orf",
-      "categories": [
-        "Kultur"
-      ],
-      "language": "de",
-      "country": "AT",
-      "category": "World"
-    },
-    {
-      "id": "d8019b265e65048942e2",
-      "source_id": "standard",
-      "title": "Robert Pattinson ist der nächste James Bond",
-      "url": "https://www.derstandard.at/story/3000000349527/robert-pattinson-ist-der-naechste-james-bond?ref=rss",
-      "summary": "Es sei die Ehre seines Lebens, so der britische Schauspieler, der die Rolle nach Daniel Craig übernimmt",
-      "published_at": "2026-11-16T15:16:57+00:00",
-      "fetched_at": "2026-11-16T20:33:15.544571+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "bcf5d799c1ad2c00446b",
-      "source_id": "standard",
-      "title": "Alcaraz startet mit fulminanter Vorstellung in ATP Finals",
-      "url": "https://www.derstandard.at/story/3000000349525/alcaraz-startet-mit-fulminanter-vorstellung-in-atp-finals?ref=rss",
-      "summary": "Der Spanier ließ dem US-Amerikaner Tiafoe mit 6:2,6:2 keine Chance",
-      "published_at": "2026-11-16T15:14:34+00:00",
-      "fetched_at": "2026-11-16T20:33:15.544571+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "c2e2580f696f2f22fdaa",
-      "source_id": "bbc-world",
-      "title": "Street cricket with a legend then metro ride as William and Kate begin India visit",
-      "url": "https://www.bbc.co.uk/news/videos/crkgvnl51w1vo?at_campaign=rss&at_medium=RSS",
-      "summary": "The Prince and Princess of Wales are visiting Mumbai for the Earthshot Prize this week, but started their trip with some fun outings.",
-      "published_at": "2026-11-16T15:08:59+00:00",
-      "fetched_at": "2026-11-16T20:33:15.544571+00:00",
-      "date_estimated": false,
-      "author": "bbc-world",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "World"
-    },
-    {
-      "id": "a79e7f9250875a1401bf",
-      "source_id": "standard",
-      "title": "Ist Chinas Auto-Dominanz uneinholbar?",
-      "url": "https://www.derstandard.at/story/3000000349437/ist-chinas-auto-dominanz-uneinholbar?ref=rss",
-      "summary": "Wir sprechen mit dem Automobilexperten Ferdinand Dudenhöffer über die Dominanz Chinas im Automobilbereich und ob dieser Abstand noch einholbar ist",
-      "published_at": "2026-11-16T15:03:40+00:00",
-      "fetched_at": "2026-11-16T20:33:15.544571+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "b87a37c9085e7ce86338",
-      "source_id": "standard",
-      "title": "Drei Wochen nach Zusammenbruch: Kompany leitete erstmals wieder Bayern-Training",
-      "url": "https://www.derstandard.at/story/3000000349524/fu223ball-kompany-leitete-erstmals-wieder-bayern-training?ref=rss",
-      "summary": "Der Belgier war zuletzt wegen einer Hirnhautreizung ausgefallen. Ob er beim Bundesliga-Spiel am Freitag auf der Bank sitzen wird, blieb zunächst offen",
-      "published_at": "2026-11-16T15:03:09+00:00",
-      "fetched_at": "2026-11-16T20:33:15.544571+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "ac70a35586a3cccb3af5",
-      "source_id": "bbc-world",
-      "title": "Robert Pattinson: How the Twilight star became 007",
-      "url": "https://www.bbc.co.uk/news/articles/c574290jvk8wo?at_campaign=rss&at_medium=RSS",
-      "summary": "The Twilight, Batman and Odyssey star's profile will go even more stellar when he plays James Bond.",
-      "published_at": "2026-11-16T15:02:41+00:00",
-      "fetched_at": "2026-11-16T20:33:15.544571+00:00",
-      "date_estimated": false,
-      "author": "bbc-world",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "World"
-    },
-    {
-      "id": "2c6c760de2405d2402b5",
-      "source_id": "bbc-world",
-      "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
-      "url": "https://www.bbc.co.uk/news/articles/ckx27v6dpjz0o?at_campaign=rss&at_medium=RSS",
-      "summary": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.",
-      "published_at": "2026-11-16T14:58:12+00:00",
-      "fetched_at": "2026-11-16T20:33:15.544571+00:00",
-      "date_estimated": false,
-      "author": "bbc-world",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "World"
-    },
-    {
-      "id": "1f09985fb3650b94bbfa",
-      "source_id": "guardian-us",
-      "title": "Mamdani disbands NYPD unit accused of using excessive force",
-      "url": "https://www.theguardian.com/us-news/2026/nov/16/nypd-strategic-response-group-mamdani",
-      "summary": "Mayor axes strategic response group that cracked down on protesters and announces new community safety division Zohran Mamdani, New York City’s mayor, announced Monday that he was disbanding a city police unit that has faced criticism over the years from civil rights groups who have accused it of using excessive force and unduly aggressive tactics against protesters. In a video released Monday morning, Mamdani said the move stemmed from a campaign pledge he made to disband the New York City police department’s strategic response group (SRG). “Today, we are keeping that promise,” Mamdani said i",
-      "published_at": "2026-11-16T14:57:26+00:00",
-      "fetched_at": "2026-11-16T20:33:15.544571+00:00",
-      "date_estimated": false,
-      "author": "Anna Betts in New York",
-      "categories": [
-        "New York",
-        "NYPD",
-        "US policing",
-        "US politics",
-        "Zohran Mamdani",
-        "US news",
-        "Protest (US)"
-      ],
-      "language": "en",
-      "country": "US",
-      "category": "Politics"
-    },
-    {
-      "id": "80c2a3db6666c757b6e2",
-      "source_id": "standard",
-      "title": "Vergleich mit Apostel: Britische Regierung empört über Russell Brands Statement",
-      "url": "https://www.derstandard.at/story/3000000349522/britische-regierung-emp246rt-252ber-russell-brand-statement?ref=rss",
-      "summary": "Brand sitzt in einer Haftanstalt für Sexualstraftäter. Dass Häftlinge mit Medien sprechen, ist in Großbritannien nur unter außergewöhnlichen Umständen erlaubt",
-      "published_at": "2026-11-16T14:49:38+00:00",
-      "fetched_at": "2026-11-16T20:33:15.544571+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "b41c87db0e9ef6f2f1f9",
-      "source_id": "bbc-world",
-      "title": "Raye, Rosalía and Dolly Parton recognised in Grammy nominations",
-      "url": "https://www.bbc.co.uk/news/articles/cq9vwkggpx73o?at_campaign=rss&at_medium=RSS",
-      "summary": "British singer Raye lands 11 nominations while Dolly Parton is recognised two months after her death.",
-      "published_at": "2026-11-16T14:48:55+00:00",
-      "fetched_at": "2026-11-16T20:33:15.544571+00:00",
-      "date_estimated": false,
-      "author": "bbc-world",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "World"
-    },
-    {
-      "id": "38b6adfb5821699a8617",
-      "source_id": "fox-politics",
-      "title": "Trump tangles with reporter on beautifying White House: ‘You’re so pathetic’",
-      "url": "https://www.foxnews.com/politics/trump-tangles-reporter-beautifying-white-house-youre-so-pathetic",
-      "summary": "President Donald Trump beat back questions from reporters Monday morning suggesting he was spending too much time on making improvements to the White House while the Federal Aviation Administration struggled with remaking its outdated communication systems. \"You're so pathetic,\" Trump told a reporter when asked about the management of his time. \"I have a responsibility to make sure the symbol of our country is in decent shape,\" Trump said, noting he spends \"very little time\" on beautification projects. \"It takes me 10 minutes a day.\" MONDAY TRAVEL FACES KEY TEST AS POSSIBLE CULPRIT IDENTIFIED ",
-      "published_at": "2026-11-16T14:46:13+00:00",
-      "fetched_at": "2026-11-16T20:33:15.544571+00:00",
-      "date_estimated": false,
-      "author": "fox-politics",
-      "categories": [
-        "fc0a6971-9ca9-51f4-a72e-a2bac40b3b0f",
-        "fnc",
-        "Fox News",
-        "fox-news/politics/executive/white-house",
-        "fox-news/person/donald-trump",
-        "fox-news/us/washington-dc",
-        "fox-news/travel/general/airlines",
-        "fox-news/politics",
-        "article"
-      ],
-      "language": "en",
-      "country": "US",
-      "category": "Politics"
     }
   ],
   "stories": [
+    {
+      "id": "story-be563e7862c930dc1d11",
+      "title": "Nigerian youth have shown their power in the past - why aren't they shaping this election?",
+      "overview": "Fewer young people have registered to vote in next year's election than in 2023 - are young people losing faith in democracy?",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-22T00:10:37+00:00",
+      "updated_at": "2026-11-22T00:10:37+00:00",
+      "article_ids": [
+        "3798f1051f80c23da123"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-9a2c42b9af83e01c1f66",
+      "title": "How a teen gamer and his mother helped rescue a missing girl",
+      "overview": "When 16-year-old Landon Tresp met a teenage girl in an online game, it led to him and his mother helping the FBI rescue her from kidnapping.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-22T00:09:58+00:00",
+      "updated_at": "2026-11-22T00:09:58+00:00",
+      "article_ids": [
+        "f98bc6788d27c1ce1ef6"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-cc16eef58e0a745d3262",
+      "title": "Retired FBI agent warns NCIC breach could threaten police safety during traffic stops",
+      "overview": "A retired FBI supervisory special agent warned Saturday that a cyber intrusion into the bureau's National Crime Information Center (NCIC) could endanger police officers during traffic stops if hackers altered records inside the database. Jason Pack, a former FBI supervisory special agent who worked in cybercrime and public information, told Fox News Digital that the bureau's incident response team must quickly determine whether data was manipulated inside the system, which feeds criminal records to patrol cars nationwide. \"What they worry about is if any of this data has changed, then it might",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-21T22:47:07+00:00",
+      "updated_at": "2026-11-21T22:47:07+00:00",
+      "article_ids": [
+        "ac4aa46e390f89cd630a"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-3d801e1298f7be3e8af1",
+      "title": "Dank Vinicius-Comeback nach Sperre: Real Madrid dreht Spiel gegen Celta Vigo",
+      "overview": "Die \"Königlichen\" fixieren im Finish einen 2:1-Erfolg und ziehen zumindest vorerst mit Tabellenführer Barcelona gleich, der am Sonntag spielt",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-21T22:14:02+00:00",
+      "updated_at": "2026-11-21T22:14:02+00:00",
+      "article_ids": [
+        "75f699fbf5f32de56a2b"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-f9b3167641a3adfbc231",
+      "title": "Lock of former US President George Washington's hair sells for $4,000",
+      "overview": "The hair was given as a sign of friendship shortly before Washington's death in 1799, according to a descendent of its former owner.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-21T22:01:19+00:00",
+      "updated_at": "2026-11-21T22:01:19+00:00",
+      "article_ids": [
+        "d19a29986e638809edce"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-00ad366e6018eb7206d0",
+      "title": "Schuldspruch nach „Palisades“-Großbrand",
+      "overview": "Das „Palisades“-Feuer vom Jänner 2025 war einer der bisher verheerendsten Brände in der Geschichte des US-Bundesstaats Kalifornien. Am Freitag (Ortszeit) wurde ein 30-Jähriger in Los Angeles von einem Geschworenengericht als Verursacher schuldig gesprochen. Ursache waren mutmaßlich Zigaretten, „böswillig“ zur Brandstiftung weggeworfen, wie die Anklage argumentierte. Die Katastrophe folgte erst Tage später.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-21T21:55:58+00:00",
+      "updated_at": "2026-11-21T21:55:58+00:00",
+      "article_ids": [
+        "feeab8c0ee46aff9e6e4"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-8c5c2baf19c7782e84c0",
+      "title": "‘GO NAVY’ becomes ‘GO ARMY’ after overnight prank at Navy football stadium",
+      "overview": "Cadets rearranged bolted-down seats overnight Navy workers spent four hours undoing stunt Rival academies have long history of pranks The large letters that spell “GO NAVY” in the upper seating level of the Naval Academy’s football stadium were changed to “GO ARMY” in an elaborate overnight prank before the Midshipmen hosted No 24 Memphis on Saturday. The stunt involved rearranging the blue and yellow seat backs at Navy-Marine Corps Memorial Stadium in Annapolis, Maryland, a task made considerably more complicated by the fact that the seats are bolted into place. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-21T21:43:31+00:00",
+      "updated_at": "2026-11-21T21:43:31+00:00",
+      "article_ids": [
+        "fc9f2d9a58e375c30383"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-693b529a057b883f78ae",
+      "title": "Eisenkot lädt Likud-Partei zu Koalitionsgesprächen",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-21T21:39:30+00:00",
+      "updated_at": "2026-11-21T21:39:30+00:00",
+      "article_ids": [
+        "f4542903fe08a2c758ef"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-94def3d9174950aeb889",
+      "title": "Gesuchter Drogenboss in Mexiko festgenommen",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-21T21:36:17+00:00",
+      "updated_at": "2026-11-21T21:36:17+00:00",
+      "article_ids": [
+        "2fe0430fe10f71378e24"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-d45d50646e22462fce6d",
+      "title": "Erneut Ausschreitungen bei Sozialprotesten in Frankreich",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-21T19:32:29+00:00",
+      "updated_at": "2026-11-21T21:17:37+00:00",
+      "article_ids": [
+        "0d2755a6beb7d870d70a",
+        "94ee15af397fa8a02cae"
+      ],
+      "publisher_count": 2,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [
+        "ausschreitungen",
+        "bei",
+        "frankreich",
+        "sozialprotesten"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-f66f4ed32b44de963a79",
+      "title": "\"Klare Angelegenheit\" dank Demir-Doppelpack : Rapid fixiert mit 3:0 beim GAK einen Startrekord",
+      "overview": "Nach flotter Führung durch Kara und Ausschluss von Hermesh waren die Gastgeber chancenlos, Yusuf Demir sorgte nach der Pause für den Endstand. Rapid vorerst sechs Punkte vor Salzburg",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-21T20:31:48+00:00",
+      "updated_at": "2026-11-21T20:31:48+00:00",
+      "article_ids": [
+        "936bec413eea1793aefa"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-edde9406ddb1526b00de",
+      "title": "Bahrain: Iranischer Angriff trifft Industrieanlage",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-21T20:06:12+00:00",
+      "updated_at": "2026-11-21T20:06:12+00:00",
+      "article_ids": [
+        "c45c82f1176c6297fd2e"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-4dc32540a76545d84bbe",
+      "title": "Jungforscher verbessert Logik des maschinellen Lernens",
+      "overview": "Aleksandar Pavlović nutzt graphentheoretische Ansätze, um Künstliche Intelligenz noch effizienter zu gestalten",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-21T20:00:00+00:00",
+      "updated_at": "2026-11-21T20:00:00+00:00",
+      "article_ids": [
+        "bda8dae8383918cdee1a"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-1ef8c12e8a0499a3ded0",
+      "title": "Tod in Psychiatrie: Tausende demonstrieren in Zagreb",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-21T19:56:43+00:00",
+      "updated_at": "2026-11-21T19:56:43+00:00",
+      "article_ids": [
+        "b9464a6bdac890202d6d"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-ee862cf2b5a2de77bdb4",
+      "title": "Graz 99ers gewinnen ihr Kapfenberger \"Protestspiel\", Vienna Capitals siegen in Mailand",
+      "overview": "Meister schlägt die Pioneers Vorarlberg klar mit 6:2, Capitals entscheiden das erste von zwei Duellen mit dem HC Milano in der Overtime mit 2:1 für sich",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-21T19:53:00+00:00",
+      "updated_at": "2026-11-21T19:53:00+00:00",
+      "article_ids": [
+        "6ebbc1e60964e597d8c4"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-c55f1a7fa70c70b5d436",
+      "title": "Patt bei COP31-Gesprächen",
+      "overview": "Die Verhandlungen bei der 31. UNO-Klimakonferenz (COP31) im türkischen Antalya sind auch am Samstag, einen Tag nach dem geplanten Ende der Konferenz, festgesteckt. Es gibt nach wie vor keinen überarbeiteten Beschlusstext. Im Mittelpunkt der Auseinandersetzung steht die Frage, ob die weltweite Abkehr von fossilen Energieträgern in der Abschlusserklärung erwähnt wird. COP31-Präsident Murat Kurum appellierte am Samstagnachmittag an die verhandelnden Staaten, einen Kompromiss zu erzielen.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-21T19:26:50+00:00",
+      "updated_at": "2026-11-21T19:26:50+00:00",
+      "article_ids": [
+        "98eb83caa4ae814d6dd1"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
     {
       "id": "story-6e63615315b2691d4b4b",
       "title": "Russia-bound ship attacked in Gulf of Finland",
@@ -38144,6 +38721,42 @@
       "ai": null
     },
     {
+      "id": "story-b22c3b08d67c0665bfb9",
+      "title": "Social-Media-Gewinnspiele: Echte Gewinnchance oder nur Datensammeln?",
+      "overview": "Mein Forum: Diskutieren Sie dieses Thema mit der STANDARD-Community",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-20T11:30:00+00:00",
+      "updated_at": "2026-11-20T11:30:00+00:00",
+      "article_ids": [
+        "3918006e77a48840923b"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
       "id": "story-ecab78fe407f4c105bec",
       "title": "Tiktok führt Werkzeug zum Erkennen von KI-Desinformation ein",
       "overview": "Mit dem Likeness Detection Tool können Politikerinnen mithilfe von KI erstellte Inhalte finden und melden. Dadurch soll die Integrität von Wahlen geschützt werden",
@@ -40329,6 +40942,48 @@
         "beschädigt",
         "botschaft",
         "österreichische"
+      ],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-774d50c8a87f439bc134",
+      "title": "Welche Sachbücher über China könnt ihr empfehlen?",
+      "overview": "Mein Forum: Diskutieren Sie dieses Thema mit der STANDARD-Community",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-19T10:00:00+00:00",
+      "updated_at": "2026-11-20T07:49:45+00:00",
+      "article_ids": [
+        "54ba336cb6f3eba66479",
+        "8d4773cd369e20691d6e"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 2,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [
+        "empfehlen",
+        "ihr",
+        "könnt",
+        "welche"
       ],
       "limitations": [
         "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
@@ -49603,42 +50258,6 @@
         "US"
       ],
       "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-774d50c8a87f439bc134",
-      "title": "Welche Sachbücher über China könnt ihr empfehlen?",
-      "overview": "Mein Forum: Diskutieren Sie dieses Thema mit der STANDARD-Community",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-19T10:00:00+00:00",
-      "updated_at": "2026-11-19T10:00:00+00:00",
-      "article_ids": [
-        "54ba336cb6f3eba66479"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
       "common_terms": [],
       "limitations": [
         "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
@@ -69074,24 +69693,22 @@
     },
     {
       "id": "story-a749d363395778fdd394",
-      "title": "Robert Pattinson ist der nächste James Bond",
-      "overview": "Es sei die Ehre seines Lebens, so der britische Schauspieler, der die Rolle nach Daniel Craig übernimmt",
+      "title": "Robert Pattinson wird neuer James Bond",
+      "overview": "Seit Jahren wurde spekuliert, jetzt steht der neue James-Bond-Darsteller fest: Der Brite Robert Pattinson wird die Rolle des berühmten Geheimagenten übernehmen. Das gab Amazon MGM Studios über die offizielle 007-Website am Montag bekannt. „Identität bestätigt!“, heißt es zu einem bei X veröffentlichten Video, das Pattinson mit einem Revolver in der Hand zeigt. „Damit beginnt eine neue Ära für eine der meistgefeierten Figuren der Filmgeschichte“, hieß es.",
       "title_kind": "source_headline",
-      "first_published": "2026-11-16T15:16:57+00:00",
+      "first_published": "2026-11-16T16:02:03+00:00",
       "updated_at": "2026-11-17T11:04:06+00:00",
       "article_ids": [
-        "d8019b265e65048942e2",
-        "ffe81c8a41e953b6d2d6",
         "93e5bbd48f1a8405174d",
         "c917306a88e9ff38b2f5",
         "192a1b5d3e12a3fe090d"
       ],
       "publisher_count": 2,
       "article_counts": {
-        "left": 3,
+        "left": 2,
         "centre": 0,
         "right": 0,
-        "unknown": 2
+        "unknown": 1
       },
       "publisher_counts": {
         "left": 1,
@@ -69099,7 +69716,7 @@
         "right": 0,
         "unknown": 1
       },
-      "category": "Politics",
+      "category": "World",
       "countries": [
         "AT"
       ],
@@ -76165,618 +76782,6 @@
       ],
       "exposures": [],
       "ai": null
-    },
-    {
-      "id": "story-1a0d6d3b1111a636d0b5",
-      "title": "Go Student schreibt Millionenverlust und ausgerechnet die klassische Nachhilfe wächst",
-      "overview": "Unterm Strich steht ein Minus von 33 Millionen Euro bei der Online-Nachhilfeplattform. PwC sieht Unsicherheit in der Fortführung des Geschäfts, Gründer Felix Ohswald bleibt entspannt",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-16T15:38:00+00:00",
-      "updated_at": "2026-11-16T15:38:00+00:00",
-      "article_ids": [
-        "cf13a48ab4937944444e"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-44a3e9ecff99570497ec",
-      "title": "Drogen bei \"spirituellen Wanderungen\": Therapeut in Bayern in U-Haft",
-      "overview": "Bei einer Durchsuchung an der Wohnadresse des Mannes wurden laut Polizei \"erhebliche Mengen\" verschiedener Drogen gefunden, darunter MDMA, Kokain, Ketamin, LSD und Ecstasy",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-16T15:36:27+00:00",
-      "updated_at": "2026-11-16T15:36:27+00:00",
-      "article_ids": [
-        "1dc19c0c4186a9f4535e"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-f32fea891740e9d9df34",
-      "title": "Raye und Rosalía führen Grammy-Nominierungen an",
-      "overview": "In der Kategorie \"Album des Jahres\" kommt es zum Duell zwischen Swift und einer neuen Künstlerinnen-Generation",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-16T15:35:46+00:00",
-      "updated_at": "2026-11-16T15:35:46+00:00",
-      "article_ids": [
-        "74601d8fdceec0509a3b"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-de83c7fe303298c49b1a",
-      "title": "ORF-Finanzplan sieht für 2027 deutliches Minus vor",
-      "overview": "",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-16T15:34:43+00:00",
-      "updated_at": "2026-11-16T15:34:43+00:00",
-      "article_ids": [
-        "1b78a3d7229a0b080586"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-e9b8f40d78d304197a8c",
-      "title": "Return Hub: Der Ruanda-Bluff",
-      "overview": "Abschiebungen nach Ruanda stehen rechtlich auf wackligen Beinen, sind immens teuer und werden eine Frage nicht lösen: Was macht man mit abgelehnten Asylwerbern?",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-16T15:32:46+00:00",
-      "updated_at": "2026-11-16T15:32:46+00:00",
-      "article_ids": [
-        "13f06a52e542c93a7bc1"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-e437218d14d564cbce5b",
-      "title": "Abschiebezentrum in Ruanda soll 2027 stehen",
-      "overview": "Österreich, Deutschland, Dänemark, die Niederlande und Griechenland planen für das kommende Jahr die Eröffnung des ersten Abschiebezentrums für abgelehnte Asylbewerber in Ruanda. Das teilte Bundeskanzler Christian Stocker (ÖVP) am Montag bei einer Pressekonferenz mit Vertretern der fünf Staaten mit. Er sprach von einem „historischen Paradigmenwechsel“. An dem Vorhaben gab es im Vorfeld viel Kritik.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-16T15:29:23+00:00",
-      "updated_at": "2026-11-16T15:29:23+00:00",
-      "article_ids": [
-        "13ee477d271be55b64ef"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-6ba1fd993dddb93c4a80",
-      "title": "Trump's immigration olive branch threatens to open Pandora's box as experts warn of far-reaching fallout",
-      "overview": "After President Donald Trump signaled in a \"60 Minutes\" interview that aired shortly after the midterm elections that he was willing to \"work on a deal\" with Democrats to allow some illegal immigrants to gain legal status, Fox News Digital spoke with several immigration experts about the potential ramifications of such an agreement. The interview came just days after Republicans suffered crushing losses in the midterm elections, raising questions about whether Trump might be willing to compromise on immigration. But the president later ruled out amnesty, saying, \"There won't be amnesty,\" while",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-16T15:28:31+00:00",
-      "updated_at": "2026-11-16T15:28:31+00:00",
-      "article_ids": [
-        "d9263f76786b642b5cc1"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 1,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 1,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-e24b63f45a44e8854e62",
-      "title": "Alcaraz startet mit fulminanter Vorstellung in ATP Finals",
-      "overview": "Der Spanier ließ dem US-Amerikaner Tiafoe mit 6:2,6:2 keine Chance",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-16T15:14:34+00:00",
-      "updated_at": "2026-11-16T15:14:34+00:00",
-      "article_ids": [
-        "bcf5d799c1ad2c00446b"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-866be6cc1123eed0a531",
-      "title": "Street cricket with a legend then metro ride as William and Kate begin India visit",
-      "overview": "The Prince and Princess of Wales are visiting Mumbai for the Earthshot Prize this week, but started their trip with some fun outings.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-16T15:08:59+00:00",
-      "updated_at": "2026-11-16T15:08:59+00:00",
-      "article_ids": [
-        "c2e2580f696f2f22fdaa"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-96eaaaf5bc0eeadae5ea",
-      "title": "Ist Chinas Auto-Dominanz uneinholbar?",
-      "overview": "Wir sprechen mit dem Automobilexperten Ferdinand Dudenhöffer über die Dominanz Chinas im Automobilbereich und ob dieser Abstand noch einholbar ist",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-16T15:03:40+00:00",
-      "updated_at": "2026-11-16T15:03:40+00:00",
-      "article_ids": [
-        "a79e7f9250875a1401bf"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-f938518b036e3444ab07",
-      "title": "Drei Wochen nach Zusammenbruch: Kompany leitete erstmals wieder Bayern-Training",
-      "overview": "Der Belgier war zuletzt wegen einer Hirnhautreizung ausgefallen. Ob er beim Bundesliga-Spiel am Freitag auf der Bank sitzen wird, blieb zunächst offen",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-16T15:03:09+00:00",
-      "updated_at": "2026-11-16T15:03:09+00:00",
-      "article_ids": [
-        "b87a37c9085e7ce86338"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-a70dda19c1f5033e7c62",
-      "title": "Robert Pattinson: How the Twilight star became 007",
-      "overview": "The Twilight, Batman and Odyssey star's profile will go even more stellar when he plays James Bond.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-16T15:02:41+00:00",
-      "updated_at": "2026-11-16T15:02:41+00:00",
-      "article_ids": [
-        "ac70a35586a3cccb3af5"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-0b5341d3a48a68a864f9",
-      "title": "Landmark Crimea bridge hit as Russia reports biggest Ukrainian drone attack of war",
-      "overview": "Russia said Ukraine had launched over 2,000 drones over the course of a day, while Kyiv came under a record 17 air raid alerts.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-16T14:58:12+00:00",
-      "updated_at": "2026-11-16T14:58:12+00:00",
-      "article_ids": [
-        "2c6c760de2405d2402b5"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-96a97fef9951cf7f8f71",
-      "title": "Mamdani disbands NYPD unit accused of using excessive force",
-      "overview": "Mayor axes strategic response group that cracked down on protesters and announces new community safety division Zohran Mamdani, New York City’s mayor, announced Monday that he was disbanding a city police unit that has faced criticism over the years from civil rights groups who have accused it of using excessive force and unduly aggressive tactics against protesters. In a video released Monday morning, Mamdani said the move stemmed from a campaign pledge he made to disband the New York City police department’s strategic response group (SRG). “Today, we are keeping that promise,” Mamdani said i",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-16T14:57:26+00:00",
-      "updated_at": "2026-11-16T14:57:26+00:00",
-      "article_ids": [
-        "1f09985fb3650b94bbfa"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-e338bc2a5543b69c4101",
-      "title": "Vergleich mit Apostel: Britische Regierung empört über Russell Brands Statement",
-      "overview": "Brand sitzt in einer Haftanstalt für Sexualstraftäter. Dass Häftlinge mit Medien sprechen, ist in Großbritannien nur unter außergewöhnlichen Umständen erlaubt",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-16T14:49:38+00:00",
-      "updated_at": "2026-11-16T14:49:38+00:00",
-      "article_ids": [
-        "80c2a3db6666c757b6e2"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-9e9037e61951a0b8159d",
-      "title": "Raye, Rosalía and Dolly Parton recognised in Grammy nominations",
-      "overview": "British singer Raye lands 11 nominations while Dolly Parton is recognised two months after her death.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-16T14:48:55+00:00",
-      "updated_at": "2026-11-16T14:48:55+00:00",
-      "article_ids": [
-        "b41c87db0e9ef6f2f1f9"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-f6e7e9e216307c4611da",
-      "title": "Trump tangles with reporter on beautifying White House: ‘You’re so pathetic’",
-      "overview": "President Donald Trump beat back questions from reporters Monday morning suggesting he was spending too much time on making improvements to the White House while the Federal Aviation Administration struggled with remaking its outdated communication systems. \"You're so pathetic,\" Trump told a reporter when asked about the management of his time. \"I have a responsibility to make sure the symbol of our country is in decent shape,\" Trump said, noting he spends \"very little time\" on beautification projects. \"It takes me 10 minutes a day.\" MONDAY TRAVEL FACES KEY TEST AS POSSIBLE CULPRIT IDENTIFIED ",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-16T14:46:13+00:00",
-      "updated_at": "2026-11-16T14:46:13+00:00",
-      "article_ids": [
-        "38b6adfb5821699a8617"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 1,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 1,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
     }
   ],
   "instruments": [
@@ -76901,15 +76906,15 @@
   "markets": [],
   "status": {
     "state": "ok",
-    "attempted_at": "2026-11-21T19:25:22.968616+00:00",
-    "last_success_at": "2026-11-21T19:25:22.968616+00:00",
+    "attempted_at": "2026-11-22T00:24:32.098318+00:00",
+    "last_success_at": "2026-11-22T00:24:32.098318+00:00",
     "errors": [],
     "source_results": {
-      "bbc-world": "26 entries",
+      "bbc-world": "27 entries",
       "guardian-us": "33 entries",
       "fox-politics": "25 entries",
       "bbc-business": "38 entries",
-      "orf": "23 entries",
+      "orf": "25 entries",
       "standard": "151 entries"
     },
     "market_status": "Market price data not configured",
