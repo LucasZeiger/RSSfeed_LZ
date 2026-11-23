@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "mode": "live",
-  "generated_at": "2026-11-22T22:30:40.777353+00:00",
+  "generated_at": "2026-11-23T03:45:34.488443+00:00",
   "refresh_minutes": 60,
   "sources": [
     {
@@ -91,6 +91,231 @@
   ],
   "articles": [
     {
+      "id": "c378bdc076868d878b1d",
+      "source_id": "fox-politics",
+      "title": "Trump's Thanksgiving turkeys arrive at luxury DC hotel as Americans vote on their names",
+      "url": "https://www.foxnews.com/politics/trumps-thanksgiving-turkeys-arrive-luxury-dc-hotel-americans-vote-names",
+      "summary": "Talk about talking turkey. Two feathered VIPs have checked into one of Washington's most luxurious hotels, complete with plush beds, a red-carpet welcome and a crowd of eager photographers, ahead of President Donald Trump's annual Thanksgiving turkey pardon at the White House. The presidential hopefuls arrived Sunday at the historic Willard InterContinental Washington, D.C., where they were photographed strutting across a red carpet, posing for pictures and standing atop the hotel's beds before their big day on the South Lawn. THE PENNSYLVANIA FARM BEHIND A WHITE HOUSE THANKSGIVING TURKEY TRAD",
+      "published_at": "2026-11-23T02:48:57+00:00",
+      "fetched_at": "2026-11-23T03:45:34.488443+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "76752e5b-95d8-5427-9c45-cf12fcb5c97e",
+        "fnc",
+        "Fox News",
+        "fox-news/lifestyle/occasions/thanksgiving",
+        "fox-news/person/donald-trump",
+        "fox-news/politics/executive/white-house",
+        "fox-news/person/melania-trump",
+        "fox-news/us/washington-dc",
+        "fox-news/politics/elections/presidential",
+        "fox-news/politics"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "9b21d61ef2e6245d10f2",
+      "source_id": "guardian-us",
+      "title": "Video of ICE detaining father and daughter while boarding flight sparks protests in Seattle",
+      "url": "https://www.theguardian.com/us-news/2026/nov/23/father-daughter-ice-arrests-video-sparks-protests-seattle-airport",
+      "summary": "Footage of Saturday incident, filmed by fellow passengers, quickly went viral on social media as mayor calls tactics ‘un-American’ Protesters marched through the Seattle-Tacoma international airport on Sunday after widely shared footage captured masked immigration agents detaining a father and daughter on an airport jet bridge as they boarded their Alaska Airlines flight. Video of the incident on Saturday – filmed by fellow passengers – quickly went viral on social media, sparking condemnation from lawmakers, including Washington Democratic governor Bob Ferguson and Seattle mayor Katie Wilson.",
+      "published_at": "2026-11-23T02:38:16+00:00",
+      "fetched_at": "2026-11-23T03:45:34.488443+00:00",
+      "date_estimated": false,
+      "author": "Coral Murphy Marcos",
+      "categories": [
+        "US news",
+        "Seattle",
+        "ICE (US Immigration and Customs Enforcement)",
+        "Air transport",
+        "Trump administration",
+        "Washington state"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "eb84ec3c2fb91648705d",
+      "source_id": "bbc-world",
+      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+      "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go?at_campaign=rss&at_medium=RSS",
+      "summary": "Nine people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
+      "published_at": "2026-11-23T02:37:02+00:00",
+      "fetched_at": "2026-11-23T03:45:34.488443+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "43e0abeb65814d36d538",
+      "source_id": "fox-politics",
+      "title": "New York Dem addresses bizarre 'lizard people' claims after viral clip behind Mamdani",
+      "url": "https://www.foxnews.com/politics/new-york-dem-addresses-bizarre-lizard-people-claims-after-viral-clip-behind-mamdani",
+      "summary": "A Democratic New York City assemblyman addressed bizarre \"lizard people\" conspiracy theories after a viral video appeared to show his eyes rolling backward while standing behind Mayor Zohran Mamdani during a press conference. Jordan J.G. Wright was spotted during a press conference behind Mamdani on Friday, when the city announced plans to eventually shut down Rikers Island. As Mamdani spoke, Wright appeared to flash a slight grin before blinking and rolling his eyes in a circular motion toward the back of his head, prompting a wave of bizarre speculation online. \"I have no idea what was going",
+      "published_at": "2026-11-23T02:16:02+00:00",
+      "fetched_at": "2026-11-23T03:45:34.488443+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "f5de27d2-8f42-50d0-9cd4-fc68882a41f7",
+        "fnc",
+        "Fox News",
+        "fox-news/us/new-york-city",
+        "fox-news/person/zohran-mamdani",
+        "fox-news/entertainment/genres/viral",
+        "fox-news/lifestyle/viral-videos",
+        "fox-news/us/us-regions/northeast/new-york",
+        "fox-news/odd-news",
+        "fox-news/politics"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "3f6c76344e4cadc630e9",
+      "source_id": "bbc-business",
+      "title": "Energy bills will soar - here's how you can ease the pain",
+      "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o?at_campaign=rss&at_medium=RSS",
+      "summary": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
+      "published_at": "2026-11-23T01:05:07+00:00",
+      "fetched_at": "2026-11-23T03:45:34.488443+00:00",
+      "date_estimated": false,
+      "author": "bbc-business",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "Business"
+    },
+    {
+      "id": "2126b324779b2c1970f1",
+      "source_id": "guardian-us",
+      "title": "US army to blow up bomb-making chemicals despite safety concerns",
+      "url": "https://www.theguardian.com/us-news/2026/nov/22/army-blow-up-bomb-making-chemicals-iowa",
+      "summary": "Army invokes emergency provisions in Iowa to avoid court order despite worries about health and environment risks The US army plans to invoke emergency provisions to avoid a court order that had put on hold plans to detonate several tons of bomb-making chemicals in Iowa, saying that continued delays will make it more dangerous as the weather starts to turn colder. “To protect its personnel and the surrounding communities, the Army needs to take swift action,” government lawyers told the eight US circuit court of appeals in a filing late on Saturday. “Protection of human health and the environm",
+      "published_at": "2026-11-23T00:50:39+00:00",
+      "fetched_at": "2026-11-23T03:45:34.488443+00:00",
+      "date_estimated": false,
+      "author": "Associated Press",
+      "categories": [
+        "US military",
+        "Iowa",
+        "US news",
+        "World news"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "3d31a846dbd5358c7856",
+      "source_id": "guardian-us",
+      "title": "Trump hosts third crypto gala for meme coin amid conflict of interest outcry",
+      "url": "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
+      "summary": "Virginia dinner comes as Democrats accuse president of improperly profiting from his cryptocurrency ventures Donald Trump is scheduled to headline his third cryptocurrency gala on ⁠Sunday night at his ​country club in Virginia, rewarding top holders of his own meme coin as Democrats accuse the president of improperly profiting from his crypto ventures. The dinner, set to take place at the Trump National Golf Club in Sterling, Virginia, will include meet-and-greets with Trump supporters including the boxing champion Floyd Mayweather, Shark Tank investor Kevin O’Leary, NBA champion Tristan Thomp",
+      "published_at": "2026-11-23T00:31:31+00:00",
+      "fetched_at": "2026-11-23T03:45:34.488443+00:00",
+      "date_estimated": false,
+      "author": "Coral Murphy Marcos and agencies",
+      "categories": [
+        "Trump administration",
+        "US news",
+        "Donald Trump",
+        "Cryptocurrencies",
+        "US politics",
+        "E-commerce",
+        "Technology",
+        "World news",
+        "Virginia",
+        "Floyd Mayweather"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "b5d8d17f9c599c4c2732",
+      "source_id": "bbc-business",
+      "title": "What is going on with Poundland?",
+      "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o?at_campaign=rss&at_medium=RSS",
+      "summary": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+      "published_at": "2026-11-23T00:22:27+00:00",
+      "fetched_at": "2026-11-23T03:45:34.488443+00:00",
+      "date_estimated": false,
+      "author": "bbc-business",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "Business"
+    },
+    {
+      "id": "e79f5788a9d5eadee37b",
+      "source_id": "bbc-world",
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_campaign=rss&at_medium=RSS",
+      "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+      "published_at": "2026-11-23T00:08:00+00:00",
+      "fetched_at": "2026-11-23T03:45:34.488443+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
+      "id": "f6abc44576bec5566b7f",
+      "source_id": "standard",
+      "title": "Notärzte bergen im Westjordanland Gewaltopfer – und werden selbst angegriffen",
+      "url": "https://www.derstandard.at/story/3000000350438/notaerzte-bergen-im-westjordanland-gewaltopfer-und-werden-selbst-angegriffen?ref=rss",
+      "summary": "Die Siedlergewalt betrifft immer häufiger auch Sanitäter und Rettungsfahrer. In einem Fall ist sogar ein 50-jähriger Palästinenser getötet worden",
+      "published_at": "2026-11-23T00:00:00+00:00",
+      "fetched_at": "2026-11-23T03:45:34.488443+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "4810e850fd50baba2065",
+      "source_id": "standard",
+      "title": "Standardrätsel F 11450",
+      "url": "https://www.derstandard.at/story/3000000349500/standardraetsel-f-11450?ref=rss",
+      "summary": "Täglich neu, exklusiv für Smart-Abonnent:innen: Das knifflige Quizkultur-Rätsel des STANDARD",
+      "published_at": "2026-11-22T23:01:00+00:00",
+      "fetched_at": "2026-11-23T03:45:34.488443+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "06ba1d29624d7b0d5a57",
+      "source_id": "bbc-world",
+      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+      "url": "https://www.bbc.co.uk/news/articles/cmde1dy82lepo?at_campaign=rss&at_medium=RSS",
+      "summary": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
+      "published_at": "2026-11-22T22:49:10+00:00",
+      "fetched_at": "2026-11-23T03:45:34.488443+00:00",
+      "date_estimated": false,
+      "author": "bbc-world",
+      "categories": [],
+      "language": "en",
+      "country": "UK",
+      "category": "World"
+    },
+    {
       "id": "a474de36ea75420aac78",
       "source_id": "orf",
       "title": "Frachter in russische Gewässer geschleppt",
@@ -123,6 +348,27 @@
       "language": "de",
       "country": "AT",
       "category": "World"
+    },
+    {
+      "id": "e3a30bb3efab148c4b1f",
+      "source_id": "guardian-us",
+      "title": "Mets reportedly agree $450m contract with Tarik Skubal, richest deal for pitcher in MLB history",
+      "url": "https://www.theguardian.com/sport/2026/nov/22/tarik-skubal-new-york-mets-reported-deal-contract",
+      "summary": "Ace’s contract reportedly for nine years Mets have missed playoffs for last two seasons The New York Mets look to have sealed the biggest deal of MLB’s offseason by signing free agent pitcher Tarik Skubal. The New York Post’s Jon Heyman reported that the deal is worth $450m over nine years, the largest contract for a pitcher in baseball history. The previous record was for the $325m, 12-year deal Yoshinobu Yamamoto signed with the Dodgers in 2024. Continue reading...",
+      "published_at": "2026-11-22T22:25:59+00:00",
+      "fetched_at": "2026-11-23T03:45:34.488443+00:00",
+      "date_estimated": false,
+      "author": "Tom Lutz in New York and agencies",
+      "categories": [
+        "New York Mets",
+        "MLB",
+        "Baseball",
+        "US sports",
+        "Sport"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
     },
     {
       "id": "70823f5cb0b2f633028f",
@@ -1625,6 +1871,21 @@
       "category": "Politics"
     },
     {
+      "id": "c550ae79f29b02476a49",
+      "source_id": "standard",
+      "title": "Ein Hoch auf Doris Uhlich im Tanzquartier Wien",
+      "url": "https://www.derstandard.at/story/3000000350410/ein-hoch-auf-doris-uhlich-im-tanzquartier-wien?ref=rss",
+      "summary": "Die österreichische Choreografin – aktuell mit Retrospektive im TQW – im Vergleich mit dem Kollegen Ohad Naharin, mit \"Sadeh21\" im Festspielhaus St. Pölten",
+      "published_at": "2026-11-22T13:04:57+00:00",
+      "fetched_at": "2026-11-23T03:45:34.488443+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
       "id": "0a9e5efcd83e46886a3f",
       "source_id": "fox-politics",
       "title": "Newsom's bid to empty California's death row collides with voters' repeated rejection of abolition",
@@ -1978,6 +2239,21 @@
       "summary": "Ein Büro im Picknickkorb, eine Fischereibehörde in Fischform und ein Restaurant unter Wasser: Ein neuer Bildband versammelt ungewöhnliche Bauten aus aller Welt",
       "published_at": "2026-11-22T11:30:00+00:00",
       "fetched_at": "2026-11-22T16:22:58.608689+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "ab256721f049bad1e531",
+      "source_id": "standard",
+      "title": "Miley Cyrus hat ihren Verlobten Maxx Morando geheiratet",
+      "url": "https://www.derstandard.at/story/3000000350419/berichte-252ber-hochzeit-von-miley-cyrus?ref=rss",
+      "summary": "Die US-amerikanische Popsängerin (\"Wrecking Ball\") hat der BBC zufolge dem Schlagzeuger Maxx Morando in Kalifornien das Ja-Wort gegeben",
+      "published_at": "2026-11-22T11:28:38+00:00",
+      "fetched_at": "2026-11-23T03:45:34.488443+00:00",
       "date_estimated": false,
       "author": "standard",
       "categories": [],
@@ -25756,253 +26032,441 @@
       "language": "en",
       "country": "UK",
       "category": "Business"
-    },
-    {
-      "id": "b66115ebe35527afa215",
-      "source_id": "standard",
-      "title": "Wer der KI beim Klima widerspricht, bekommt am Ende recht",
-      "url": "https://www.derstandard.at/story/3000000349625/wer-der-ki-beim-klima-widerspricht-bekommt-am-ende-recht?ref=rss",
-      "summary": "Alle getesteten Sprachmodelle gaben in einer Studie korrekte Klimafakten auf, wenn Nutzer hartnäckig widersprachen. Die meisten Zugeständnisse machten sie schon beim ersten Einwand",
-      "published_at": "2026-11-17T10:48:53+00:00",
-      "fetched_at": "2026-11-17T13:35:21.175614+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "5c39fb79541f17688486",
-      "source_id": "orf",
-      "title": "Expertin sieht viele Gründe für Pagro-Fusion",
-      "url": "https://orf.at/stories/3448327/",
-      "summary": "Was schon länger bekannt war, wird zeitlich konkreter: Bis 2028/29 sollen die Libro-Filialen auf Pagro umgestellt werden, das teilte die Schul- und Büroartikelkette am Montag mit. WU-Wien-Handelsexpertin Cordula Cerha sieht in der Fusion eine Reaktion auf das aktuelle Konsumklima: Pagro habe sich besser entwickelt und sei die stabilere Marke. Als Gründe für das Libro-Aus nennt sie unter anderem eine unklare Positionierung und starke Konkurrenz aus dem Bereich der Non-Food-Diskonter.",
-      "published_at": "2026-11-17T10:48:02+00:00",
-      "fetched_at": "2026-11-17T13:35:21.175614+00:00",
-      "date_estimated": false,
-      "author": "orf",
-      "categories": [
-        "Wirtschaft"
-      ],
-      "language": "de",
-      "country": "AT",
-      "category": "World"
-    },
-    {
-      "id": "1b23b4204c2b81bf6a5b",
-      "source_id": "standard",
-      "title": "Stadt Wien lässt Spital der Barmherzigen Brüder erneut prüfen, diesmal auch die Apotheke",
-      "url": "https://www.derstandard.at/story/3000000349622/stadt-wien-laesst-spital-der-barmherzigen-brueder-erneut-pruefen-diesmal-auch-die-apotheke?ref=rss",
-      "summary": "Ein Sprecher der Barmherzigen Brüder sagt, man blicke dem gelassen entgegen. Vorwürfe, Medikamente überteuert ans Spital verrechnet zu haben, werden zurückgewiesen",
-      "published_at": "2026-11-17T10:43:26+00:00",
-      "fetched_at": "2026-11-17T13:35:21.175614+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "f4aad65d68e8b7f90b64",
-      "source_id": "orf",
-      "title": "Iran meldet Angriff auf US-Radaranlage in Bahrain",
-      "url": "https://orf.at/stories/3448444/",
-      "summary": "",
-      "published_at": "2026-11-17T10:39:02+00:00",
-      "fetched_at": "2026-11-17T13:35:21.175614+00:00",
-      "date_estimated": false,
-      "author": "orf",
-      "categories": [
-        "Ausland"
-      ],
-      "language": "de",
-      "country": "AT",
-      "category": "World"
-    },
-    {
-      "id": "d5aeabd358c946407fde",
-      "source_id": "standard",
-      "title": "Warum das \"0 Euro\"-Top-Smartphone für fast niemanden mehr leistbar ist",
-      "url": "https://www.derstandard.at/story/3000000349592/warum-das-0-euro-top-smartphone-fuer-fast-niemanden-mehr-leistbar-ist?ref=rss",
-      "summary": "Eine aktuelle Berechnung von Drei und Durchblicker zeigt: Mehr als vier von fünf Erwerbstätigen überheben sich finanziell bei Top-Geräten",
-      "published_at": "2026-11-17T10:36:31+00:00",
-      "fetched_at": "2026-11-17T13:35:21.175614+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "4b5b683f669229f8e886",
-      "source_id": "fox-politics",
-      "title": "Schumer boasts early advantage in Senate power struggle as Dem rival warns against 'coronation'",
-      "url": "https://www.foxnews.com/politics/schumer-boasts-early-advantage-senate-power-struggle-dem-rival-warns-against-coronation",
-      "summary": "With a historic race to be the top Senate Democrat locked in, both candidates eyeing the job of leading Democrats into their majority believe they have a path to victory. Sen. Chris Van Hollen, D-Md., has raised a challenge to Senate Minority Leader Chuck Schumer, D-N.Y., to steer Democrats through the final two years of President Donald Trump’s time in office. It’s the first time in three decades that the race has been contested, and both believe they have or can get the 28 votes needed to claim the mantle of Democratic leader and become majority leader. But neither has publicly locked down e",
-      "published_at": "2026-11-17T10:30:03+00:00",
-      "fetched_at": "2026-11-17T13:35:21.175614+00:00",
-      "date_estimated": false,
-      "author": "fox-politics",
-      "categories": [
-        "511a7120-fc31-5f4b-9520-7d24def61d72",
-        "fnc",
-        "Fox News",
-        "fox-news/politics",
-        "fox-news/person/chuck-schumer",
-        "fox-news/person/bernie-sanders",
-        "fox-news/democrats",
-        "fox-news/politics/elections",
-        "fox-news/politics",
-        "article"
-      ],
-      "language": "en",
-      "country": "US",
-      "category": "Politics"
-    },
-    {
-      "id": "eb6ad64b3be322e73da5",
-      "source_id": "orf",
-      "title": "Bundesstaatsanwaltschaft: Regierung zu Entwurf einig",
-      "url": "https://orf.at/stories/3448442/",
-      "summary": "",
-      "published_at": "2026-11-17T10:29:54+00:00",
-      "fetched_at": "2026-11-17T13:35:21.175614+00:00",
-      "date_estimated": false,
-      "author": "orf",
-      "categories": [
-        "Inland"
-      ],
-      "language": "de",
-      "country": "AT",
-      "category": "World"
-    },
-    {
-      "id": "0dbd58468d2ab0169eac",
-      "source_id": "standard",
-      "title": "Prozess gegen Ex-Energie-Ried-Chef: WKStA sieht \"klassischen Betrug\"",
-      "url": "https://www.derstandard.at/story/3000000349637/prozess-gegen-ex-energie-ried-chef-wksta-sieht-klassischen-betrug?ref=rss",
-      "summary": "Der ehemalige Geschäftsführer soll der E-Control jahrelang absichtlich falsche wirtschaftliche Daten gemeldet haben",
-      "published_at": "2026-11-17T10:24:34+00:00",
-      "fetched_at": "2026-11-17T13:35:21.175614+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "b90b90f056cd6751aa73",
-      "source_id": "standard",
-      "title": "Verleger Herbert Ohrlinger erhielt Ehrenzkreuz I. Klasse",
-      "url": "https://www.derstandard.at/story/3000000349634/verleger-herbert-ohrlinger-erhielt-ehrenzkreuz-i-klasse?ref=rss",
-      "summary": "Der Leiter des Paul Zsolnay Verlages wurde für seine jahrzehntelange Aufbauarbeit bei dem renommierten Verlag gewürdigt",
-      "published_at": "2026-11-17T10:24:30+00:00",
-      "fetched_at": "2026-11-17T13:35:21.175614+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "6e659fb5ae1f56b723e2",
-      "source_id": "standard",
-      "title": "Salzburger Festspiele: Kühne-Stiftung bleibt Hauptsponsor",
-      "url": "https://www.derstandard.at/story/3000000349629/salzburger-festspiele-auch-k252hne-stiftung-bleibt-hauptsponsor?ref=rss",
-      "summary": "Der Vertrag mit der Schweizer Stiftung, gegründet von Erben des Logistikkonzerns Kühne + Nagel, wurde vorzeitig um drei Jahre verlängert",
-      "published_at": "2026-11-17T10:24:11+00:00",
-      "fetched_at": "2026-11-17T13:35:21.175614+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "ba1b442c3de45451be1e",
-      "source_id": "standard",
-      "title": "Nach Aus für Mascherl: Stadt prüft Weihnachtsmann-Lichtreklame über Café Landtmann",
-      "url": "https://www.derstandard.at/story/3000000349623/nach-aus-fuer-mascherl-stadt-prueft-weihnachtsmann-lichtreklame-ueber-cafe-landtmann?ref=rss",
-      "summary": "An dem Gebäude an der Wiener Ringstraße ist derzeit ein riesiger Coca-Cola-Weihnachtsmann zu sehen. Die Stärke der nächtlichen Lichtwerbung steht in der Kritik",
-      "published_at": "2026-11-17T10:23:30+00:00",
-      "fetched_at": "2026-11-17T13:35:21.175614+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "43bac0d0de77d4e31fea",
-      "source_id": "bbc-world",
-      "title": "How new US chip restrictions on South East Asia will hit China",
-      "url": "https://www.bbc.co.uk/news/articles/cwq6e2qgvmlgo?at_campaign=rss&at_medium=RSS",
-      "summary": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
-      "published_at": "2026-11-17T10:22:09+00:00",
-      "fetched_at": "2026-11-17T13:35:21.175614+00:00",
-      "date_estimated": false,
-      "author": "bbc-world",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "World"
-    },
-    {
-      "id": "baf8fbdc45c9a2cdf2ce",
-      "source_id": "orf",
-      "title": "EU-Kommission warnt vor steigender Inflation",
-      "url": "https://orf.at/stories/3448440/",
-      "summary": "",
-      "published_at": "2026-11-17T10:14:12+00:00",
-      "fetched_at": "2026-11-17T13:35:21.175614+00:00",
-      "date_estimated": false,
-      "author": "orf",
-      "categories": [
-        "Wirtschaft"
-      ],
-      "language": "de",
-      "country": "AT",
-      "category": "World"
-    },
-    {
-      "id": "6629db9edf01b37bb612",
-      "source_id": "bbc-world",
-      "title": "Will President Trump meet Kim Jong Un?",
-      "url": "https://www.bbc.co.uk/news/videos/c6grew79p7qdo?at_campaign=rss&at_medium=RSS",
-      "summary": "President Trump says he would be keen to meet the North Korea leader in China.",
-      "published_at": "2026-11-17T10:13:27+00:00",
-      "fetched_at": "2026-11-17T13:35:21.175614+00:00",
-      "date_estimated": false,
-      "author": "bbc-world",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "World"
-    },
-    {
-      "id": "bcf9bd49ee14778dc9d8",
-      "source_id": "standard",
-      "title": "Ab nach Ruanda, Fußfessel für Kinder: Echt nett",
-      "url": "https://www.derstandard.at/story/3000000349552/ab-nach-ruanda-fussfessel-fuer-kinder-echt-nett?ref=rss",
-      "summary": "Der Weltnettigkeitstag, der am vorigen Freitag begangen wurde, wirkt nach. Österreichs Politik präsentiert gerade nette Ideen, ganz nette",
-      "published_at": "2026-11-17T10:10:01+00:00",
-      "fetched_at": "2026-11-17T13:35:21.175614+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
     }
   ],
   "stories": [
+    {
+      "id": "story-0f66bf5f797b60643874",
+      "title": "Trump's Thanksgiving turkeys arrive at luxury DC hotel as Americans vote on their names",
+      "overview": "Talk about talking turkey. Two feathered VIPs have checked into one of Washington's most luxurious hotels, complete with plush beds, a red-carpet welcome and a crowd of eager photographers, ahead of President Donald Trump's annual Thanksgiving turkey pardon at the White House. The presidential hopefuls arrived Sunday at the historic Willard InterContinental Washington, D.C., where they were photographed strutting across a red carpet, posing for pictures and standing atop the hotel's beds before their big day on the South Lawn. THE PENNSYLVANIA FARM BEHIND A WHITE HOUSE THANKSGIVING TURKEY TRAD",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-23T02:48:57+00:00",
+      "updated_at": "2026-11-23T02:48:57+00:00",
+      "article_ids": [
+        "c378bdc076868d878b1d"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-9fc6d407cfc333ed0168",
+      "title": "Video of ICE detaining father and daughter while boarding flight sparks protests in Seattle",
+      "overview": "Footage of Saturday incident, filmed by fellow passengers, quickly went viral on social media as mayor calls tactics ‘un-American’ Protesters marched through the Seattle-Tacoma international airport on Sunday after widely shared footage captured masked immigration agents detaining a father and daughter on an airport jet bridge as they boarded their Alaska Airlines flight. Video of the incident on Saturday – filmed by fellow passengers – quickly went viral on social media, sparking condemnation from lawmakers, including Washington Democratic governor Bob Ferguson and Seattle mayor Katie Wilson.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-23T02:38:16+00:00",
+      "updated_at": "2026-11-23T02:38:16+00:00",
+      "article_ids": [
+        "9b21d61ef2e6245d10f2"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-209dc01edb88c09eee90",
+      "title": "Boy, 7, pulled alive from rubble hours after Russian strike on Ukraine, rescuers say",
+      "overview": "Nine people are dead in the attack, with rescue efforts ongoing to find those still missing from the residential building.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-23T02:37:02+00:00",
+      "updated_at": "2026-11-23T02:37:02+00:00",
+      "article_ids": [
+        "eb84ec3c2fb91648705d"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-d650f136ded2a54ad9bb",
+      "title": "New York Dem addresses bizarre 'lizard people' claims after viral clip behind Mamdani",
+      "overview": "A Democratic New York City assemblyman addressed bizarre \"lizard people\" conspiracy theories after a viral video appeared to show his eyes rolling backward while standing behind Mayor Zohran Mamdani during a press conference. Jordan J.G. Wright was spotted during a press conference behind Mamdani on Friday, when the city announced plans to eventually shut down Rikers Island. As Mamdani spoke, Wright appeared to flash a slight grin before blinking and rolling his eyes in a circular motion toward the back of his head, prompting a wave of bizarre speculation online. \"I have no idea what was going",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-23T02:16:02+00:00",
+      "updated_at": "2026-11-23T02:16:02+00:00",
+      "article_ids": [
+        "43e0abeb65814d36d538"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-44d8f98f66a6ceb427f8",
+      "title": "Energy bills will soar - here's how you can ease the pain",
+      "overview": "Household energy bills are about to increase but there are ways to keep a lid on your expenditure.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-23T01:05:07+00:00",
+      "updated_at": "2026-11-23T01:05:07+00:00",
+      "article_ids": [
+        "3f6c76344e4cadc630e9"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Business",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-2200c0f98cc95cb84315",
+      "title": "US army to blow up bomb-making chemicals despite safety concerns",
+      "overview": "Army invokes emergency provisions in Iowa to avoid court order despite worries about health and environment risks The US army plans to invoke emergency provisions to avoid a court order that had put on hold plans to detonate several tons of bomb-making chemicals in Iowa, saying that continued delays will make it more dangerous as the weather starts to turn colder. “To protect its personnel and the surrounding communities, the Army needs to take swift action,” government lawyers told the eight US circuit court of appeals in a filing late on Saturday. “Protection of human health and the environm",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-23T00:50:39+00:00",
+      "updated_at": "2026-11-23T00:50:39+00:00",
+      "article_ids": [
+        "2126b324779b2c1970f1"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-d6706a776c37d14f5814",
+      "title": "Trump hosts third crypto gala for meme coin amid conflict of interest outcry",
+      "overview": "Virginia dinner comes as Democrats accuse president of improperly profiting from his cryptocurrency ventures Donald Trump is scheduled to headline his third cryptocurrency gala on ⁠Sunday night at his ​country club in Virginia, rewarding top holders of his own meme coin as Democrats accuse the president of improperly profiting from his crypto ventures. The dinner, set to take place at the Trump National Golf Club in Sterling, Virginia, will include meet-and-greets with Trump supporters including the boxing champion Floyd Mayweather, Shark Tank investor Kevin O’Leary, NBA champion Tristan Thomp",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-23T00:31:31+00:00",
+      "updated_at": "2026-11-23T00:31:31+00:00",
+      "article_ids": [
+        "3d31a846dbd5358c7856"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-39e1bfd36a29e75224d0",
+      "title": "What is going on with Poundland?",
+      "overview": "Poundland has a matter of days to find a buyer or face collapsing into administration. Why?",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-23T00:22:27+00:00",
+      "updated_at": "2026-11-23T00:22:27+00:00",
+      "article_ids": [
+        "b5d8d17f9c599c4c2732"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "Business",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-9dcbebbb2785c65c3a91",
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "overview": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-23T00:08:00+00:00",
+      "updated_at": "2026-11-23T00:08:00+00:00",
+      "article_ids": [
+        "e79f5788a9d5eadee37b"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-7f162d71fb9336f40b88",
+      "title": "Notärzte bergen im Westjordanland Gewaltopfer – und werden selbst angegriffen",
+      "overview": "Die Siedlergewalt betrifft immer häufiger auch Sanitäter und Rettungsfahrer. In einem Fall ist sogar ein 50-jähriger Palästinenser getötet worden",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-23T00:00:00+00:00",
+      "updated_at": "2026-11-23T00:00:00+00:00",
+      "article_ids": [
+        "f6abc44576bec5566b7f"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-12e2f77ade78a2341a0c",
+      "title": "Standardrätsel F 11450",
+      "overview": "Täglich neu, exklusiv für Smart-Abonnent:innen: Das knifflige Quizkultur-Rätsel des STANDARD",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-22T23:01:00+00:00",
+      "updated_at": "2026-11-22T23:01:00+00:00",
+      "article_ids": [
+        "4810e850fd50baba2065"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-b715320691631b03c98b",
+      "title": "Burnham to tell MPs 'landmark' EU deal could make next decade 'much better'",
+      "overview": "The prime minister will tell MPs the deal agreed on Friday is a \"choice between a broken status quo or change\".",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-22T22:49:10+00:00",
+      "updated_at": "2026-11-22T22:49:10+00:00",
+      "article_ids": [
+        "06ba1d29624d7b0d5a57"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
     {
       "id": "story-0c2e129a962cc48bfb9d",
       "title": "Frachter in russische Gewässer geschleppt",
@@ -26067,6 +26531,42 @@
         "AT"
       ],
       "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-90b894b7ba148baceddc",
+      "title": "Mets reportedly agree $450m contract with Tarik Skubal, richest deal for pitcher in MLB history",
+      "overview": "Ace’s contract reportedly for nine years Mets have missed playoffs for last two seasons The New York Mets look to have sealed the biggest deal of MLB’s offseason by signing free agent pitcher Tarik Skubal. The New York Post’s Jon Heyman reported that the deal is worth $450m over nine years, the largest contract for a pitcher in baseball history. The previous record was for the $325m, 12-year deal Yoshinobu Yamamoto signed with the Dodgers in 2024. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-22T22:25:59+00:00",
+      "updated_at": "2026-11-22T22:25:59+00:00",
+      "article_ids": [
+        "e3a30bb3efab148c4b1f"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
       "common_terms": [],
       "limitations": [
         "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
@@ -26473,33 +26973,39 @@
     },
     {
       "id": "story-f0de59f145f0badcb837",
-      "title": "US-Popstar Miley Cyrus hat zum zweiten Mal geheiratet",
-      "overview": "",
+      "title": "Miley Cyrus hat ihren Verlobten Maxx Morando geheiratet",
+      "overview": "Die US-amerikanische Popsängerin (\"Wrecking Ball\") hat der BBC zufolge dem Schlagzeuger Maxx Morando in Kalifornien das Ja-Wort gegeben",
       "title_kind": "source_headline",
-      "first_published": "2026-11-22T20:29:32+00:00",
+      "first_published": "2026-11-22T11:28:38+00:00",
       "updated_at": "2026-11-22T20:29:32+00:00",
       "article_ids": [
+        "ab256721f049bad1e531",
         "45966cca481bcaec1a79"
       ],
-      "publisher_count": 1,
+      "publisher_count": 2,
       "article_counts": {
-        "left": 0,
+        "left": 1,
         "centre": 0,
         "right": 0,
         "unknown": 1
       },
       "publisher_counts": {
-        "left": 0,
+        "left": 1,
         "centre": 0,
         "right": 0,
         "unknown": 1
       },
-      "category": "World",
+      "category": "Politics",
       "countries": [
         "AT"
       ],
       "language": "de",
-      "common_terms": [],
+      "common_terms": [
+        "cyrus",
+        "geheiratet",
+        "hat",
+        "miley"
+      ],
       "limitations": [
         "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
         "Insufficient coverage for comparison."
@@ -29182,6 +29688,42 @@
       "updated_at": "2026-11-22T13:06:33+00:00",
       "article_ids": [
         "19b3e9d1199c082afb54"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-23e5480967306b4c3020",
+      "title": "Ein Hoch auf Doris Uhlich im Tanzquartier Wien",
+      "overview": "Die österreichische Choreografin – aktuell mit Retrospektive im TQW – im Vergleich mit dem Kollegen Ohad Naharin, mit \"Sadeh21\" im Festspielhaus St. Pölten",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-22T13:04:57+00:00",
+      "updated_at": "2026-11-22T13:04:57+00:00",
+      "article_ids": [
+        "c550ae79f29b02476a49"
       ],
       "publisher_count": 1,
       "article_counts": {
@@ -73623,10 +74165,9 @@
       "title": "EU-Kommission warnt vor steigender Inflation",
       "overview": "",
       "title_kind": "source_headline",
-      "first_published": "2026-11-17T10:14:12+00:00",
+      "first_published": "2026-11-17T14:47:23+00:00",
       "updated_at": "2026-11-17T14:47:23+00:00",
       "article_ids": [
-        "baf8fbdc45c9a2cdf2ce",
         "aa3e6d3012fe045121cc"
       ],
       "publisher_count": 1,
@@ -73634,7 +74175,7 @@
         "left": 0,
         "centre": 0,
         "right": 0,
-        "unknown": 2
+        "unknown": 1
       },
       "publisher_counts": {
         "left": 0,
@@ -73647,13 +74188,7 @@
         "AT"
       ],
       "language": "de",
-      "common_terms": [
-        "inflation",
-        "kommission",
-        "steigender",
-        "vor",
-        "warnt"
-      ],
+      "common_terms": [],
       "limitations": [
         "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
         "Insufficient coverage for comparison."
@@ -73671,7 +74206,6 @@
           "horizon": "Weeks to months; timing uncertain",
           "uncertainty": "Magnitude, policy details, timing and existing market expectations are uncertain. Scenarios may not materialise.",
           "article_ids": [
-            "baf8fbdc45c9a2cdf2ce",
             "aa3e6d3012fe045121cc"
           ],
           "matches": {
@@ -76329,510 +76863,6 @@
       ],
       "exposures": [],
       "ai": null
-    },
-    {
-      "id": "story-f53ae92cdb7776d117fc",
-      "title": "Wer der KI beim Klima widerspricht, bekommt am Ende recht",
-      "overview": "Alle getesteten Sprachmodelle gaben in einer Studie korrekte Klimafakten auf, wenn Nutzer hartnäckig widersprachen. Die meisten Zugeständnisse machten sie schon beim ersten Einwand",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-17T10:48:53+00:00",
-      "updated_at": "2026-11-17T10:48:53+00:00",
-      "article_ids": [
-        "b66115ebe35527afa215"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-24e812f62d6a0b470c21",
-      "title": "Expertin sieht viele Gründe für Pagro-Fusion",
-      "overview": "Was schon länger bekannt war, wird zeitlich konkreter: Bis 2028/29 sollen die Libro-Filialen auf Pagro umgestellt werden, das teilte die Schul- und Büroartikelkette am Montag mit. WU-Wien-Handelsexpertin Cordula Cerha sieht in der Fusion eine Reaktion auf das aktuelle Konsumklima: Pagro habe sich besser entwickelt und sei die stabilere Marke. Als Gründe für das Libro-Aus nennt sie unter anderem eine unklare Positionierung und starke Konkurrenz aus dem Bereich der Non-Food-Diskonter.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-17T10:48:02+00:00",
-      "updated_at": "2026-11-17T10:48:02+00:00",
-      "article_ids": [
-        "5c39fb79541f17688486"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-c179fd3a1510f96373c5",
-      "title": "Stadt Wien lässt Spital der Barmherzigen Brüder erneut prüfen, diesmal auch die Apotheke",
-      "overview": "Ein Sprecher der Barmherzigen Brüder sagt, man blicke dem gelassen entgegen. Vorwürfe, Medikamente überteuert ans Spital verrechnet zu haben, werden zurückgewiesen",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-17T10:43:26+00:00",
-      "updated_at": "2026-11-17T10:43:26+00:00",
-      "article_ids": [
-        "1b23b4204c2b81bf6a5b"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-c6a147a0025db07d1f7d",
-      "title": "Iran meldet Angriff auf US-Radaranlage in Bahrain",
-      "overview": "",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-17T10:39:02+00:00",
-      "updated_at": "2026-11-17T10:39:02+00:00",
-      "article_ids": [
-        "f4aad65d68e8b7f90b64"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-262c494cc26af68e7a0f",
-      "title": "Warum das \"0 Euro\"-Top-Smartphone für fast niemanden mehr leistbar ist",
-      "overview": "Eine aktuelle Berechnung von Drei und Durchblicker zeigt: Mehr als vier von fünf Erwerbstätigen überheben sich finanziell bei Top-Geräten",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-17T10:36:31+00:00",
-      "updated_at": "2026-11-17T10:36:31+00:00",
-      "article_ids": [
-        "d5aeabd358c946407fde"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-0117692b0d4ad1e38039",
-      "title": "Schumer boasts early advantage in Senate power struggle as Dem rival warns against 'coronation'",
-      "overview": "With a historic race to be the top Senate Democrat locked in, both candidates eyeing the job of leading Democrats into their majority believe they have a path to victory. Sen. Chris Van Hollen, D-Md., has raised a challenge to Senate Minority Leader Chuck Schumer, D-N.Y., to steer Democrats through the final two years of President Donald Trump’s time in office. It’s the first time in three decades that the race has been contested, and both believe they have or can get the 28 votes needed to claim the mantle of Democratic leader and become majority leader. But neither has publicly locked down e",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-17T10:30:03+00:00",
-      "updated_at": "2026-11-17T10:30:03+00:00",
-      "article_ids": [
-        "4b5b683f669229f8e886"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 1,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 1,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-2c7e711db79ecd92695e",
-      "title": "Bundesstaatsanwaltschaft: Regierung zu Entwurf einig",
-      "overview": "",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-17T10:29:54+00:00",
-      "updated_at": "2026-11-17T10:29:54+00:00",
-      "article_ids": [
-        "eb6ad64b3be322e73da5"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-1956d5bbe39fde1f5980",
-      "title": "Prozess gegen Ex-Energie-Ried-Chef: WKStA sieht \"klassischen Betrug\"",
-      "overview": "Der ehemalige Geschäftsführer soll der E-Control jahrelang absichtlich falsche wirtschaftliche Daten gemeldet haben",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-17T10:24:34+00:00",
-      "updated_at": "2026-11-17T10:24:34+00:00",
-      "article_ids": [
-        "0dbd58468d2ab0169eac"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-cf4be7318e8b76bd4fe9",
-      "title": "Verleger Herbert Ohrlinger erhielt Ehrenzkreuz I. Klasse",
-      "overview": "Der Leiter des Paul Zsolnay Verlages wurde für seine jahrzehntelange Aufbauarbeit bei dem renommierten Verlag gewürdigt",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-17T10:24:30+00:00",
-      "updated_at": "2026-11-17T10:24:30+00:00",
-      "article_ids": [
-        "b90b90f056cd6751aa73"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-2dfc89e948fc41734804",
-      "title": "Salzburger Festspiele: Kühne-Stiftung bleibt Hauptsponsor",
-      "overview": "Der Vertrag mit der Schweizer Stiftung, gegründet von Erben des Logistikkonzerns Kühne + Nagel, wurde vorzeitig um drei Jahre verlängert",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-17T10:24:11+00:00",
-      "updated_at": "2026-11-17T10:24:11+00:00",
-      "article_ids": [
-        "6e659fb5ae1f56b723e2"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-3268fd6b4d75534800f8",
-      "title": "Nach Aus für Mascherl: Stadt prüft Weihnachtsmann-Lichtreklame über Café Landtmann",
-      "overview": "An dem Gebäude an der Wiener Ringstraße ist derzeit ein riesiger Coca-Cola-Weihnachtsmann zu sehen. Die Stärke der nächtlichen Lichtwerbung steht in der Kritik",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-17T10:23:30+00:00",
-      "updated_at": "2026-11-17T10:23:30+00:00",
-      "article_ids": [
-        "ba1b442c3de45451be1e"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-a456f71fca35548c3c1d",
-      "title": "How new US chip restrictions on South East Asia will hit China",
-      "overview": "The new rules restrict chip exports and also access to their computing power, which China relies on heavily.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-17T10:22:09+00:00",
-      "updated_at": "2026-11-17T10:22:09+00:00",
-      "article_ids": [
-        "43bac0d0de77d4e31fea"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-86807cf68441f4d061e4",
-      "title": "Will President Trump meet Kim Jong Un?",
-      "overview": "President Trump says he would be keen to meet the North Korea leader in China.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-17T10:13:27+00:00",
-      "updated_at": "2026-11-17T10:13:27+00:00",
-      "article_ids": [
-        "6629db9edf01b37bb612"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-0bde81ae851208c20527",
-      "title": "Ab nach Ruanda, Fußfessel für Kinder: Echt nett",
-      "overview": "Der Weltnettigkeitstag, der am vorigen Freitag begangen wurde, wirkt nach. Österreichs Politik präsentiert gerade nette Ideen, ganz nette",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-17T10:10:01+00:00",
-      "updated_at": "2026-11-17T10:10:01+00:00",
-      "article_ids": [
-        "bcf9bd49ee14778dc9d8"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
     }
   ],
   "instruments": [
@@ -76957,14 +76987,14 @@
   "markets": [],
   "status": {
     "state": "ok",
-    "attempted_at": "2026-11-22T22:30:40.777353+00:00",
-    "last_success_at": "2026-11-22T22:30:40.777353+00:00",
+    "attempted_at": "2026-11-23T03:45:34.488443+00:00",
+    "last_success_at": "2026-11-23T03:45:34.488443+00:00",
     "errors": [],
     "source_results": {
-      "bbc-world": "35 entries",
+      "bbc-world": "37 entries",
       "guardian-us": "33 entries",
       "fox-politics": "25 entries",
-      "bbc-business": "38 entries",
+      "bbc-business": "26 entries",
       "orf": "27 entries",
       "standard": "152 entries"
     },
