@@ -1,0 +1,46 @@
+name: UK evening news digest
+on:
+  schedule:
+    - cron: '7 18 * * *'
+    - cron: '7 19 * * *'
+  workflow_dispatch:
+    inputs:
+      send:
+        description: 'Generate and send a message. Leave off to check the live input only.'
+        type: boolean
+        default: false
+permissions:
+  contents: read
+concurrency:
+  group: newslens-evening-digest
+  cancel-in-progress: false
+jobs:
+  digest:
+    if: github.ref_name == github.event.repository.default_branch && (github.event_name == 'workflow_dispatch' || vars.ENABLE_EVENING_DIGEST == 'true')
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - uses: astral-sh/setup-uv@v6
+        with:
+          version: '0.13.5'
+          enable-cache: true
+      - run: uv sync --frozen
+      - name: Check eligible articles without sending
+        if: github.event_name == 'workflow_dispatch' && !inputs.send
+        run: uv run --frozen python -m backend.digest
+      - name: Generate and deliver the digest
+        if: (github.event_name == 'schedule' && vars.ENABLE_EVENING_DIGEST == 'true') || inputs.send
+        env:
+          NEWSLENS_DIGEST_OPENAI_KEY: ${{ secrets.NEWSLENS_DIGEST_OPENAI_KEY }}
+          NEWSLENS_DIGEST_TELEGRAM_TOKEN: ${{ secrets.NEWSLENS_DIGEST_TELEGRAM_TOKEN }}
+          NEWSLENS_DIGEST_CHAT_ID: ${{ secrets.NEWSLENS_DIGEST_CHAT_ID }}
+          DIGEST_SCHEDULE: ${{ github.event.schedule }}
+        run: |
+          if [ -n "$DIGEST_SCHEDULE" ]; then
+            uv run --frozen python -m backend.digest --send --schedule "$DIGEST_SCHEDULE"
+          else
+            uv run --frozen python -m backend.digest --send
+          fi
