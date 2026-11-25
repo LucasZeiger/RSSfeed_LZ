@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "mode": "live",
-  "generated_at": "2026-11-25T10:02:17.661077+00:00",
+  "generated_at": "2026-11-25T10:03:24.778346+00:00",
   "refresh_minutes": 60,
   "sources": [
     {
@@ -157,6 +157,22 @@
       "classification": {
         "reviewer": "NewsLens editorial proposal; owner review pending",
         "methodology": "Broad conservative editorial orientation in UK politics. Publisher-level label.",
+        "reviewed_at": "2026-11-25"
+      }
+    },
+    {
+      "publisher_id": "telegraph",
+      "id": "telegraph-uk-politics",
+      "name": "The Telegraph UK Politics",
+      "url": "https://www.telegraph.co.uk/politics/rss.xml",
+      "enabled": true,
+      "category": "Politics",
+      "country": "UK",
+      "language": "en",
+      "political_leaning": "right",
+      "classification": {
+        "reviewer": "NewsLens editorial proposal; owner review pending",
+        "methodology": "Longstanding conservative editorial orientation in UK politics. Publisher-level label.",
         "reviewed_at": "2026-11-25"
       }
     }
@@ -77759,21 +77775,22 @@
   "markets": [],
   "status": {
     "state": "ok",
-    "attempted_at": "2026-11-25T10:02:17.661077+00:00",
-    "last_success_at": "2026-11-25T10:02:17.661077+00:00",
+    "attempted_at": "2026-11-25T10:03:24.778346+00:00",
+    "last_success_at": "2026-11-25T10:03:24.778346+00:00",
     "errors": [],
     "source_results": {
       "bbc-world": "35 entries",
-      "guardian-us": "33 entries",
+      "guardian-us": "not modified",
       "fox-politics": "not modified",
       "bbc-business": "29 entries",
       "orf": "28 entries",
       "standard": "157 entries",
       "bbc-uk-politics": "43 entries",
-      "sky-uk-politics": "2 entries",
+      "sky-uk-politics": "not modified",
       "guardian-uk-politics": "21 entries",
       "telegraph": "30 entries",
-      "express-uk-politics": "10 entries"
+      "express-uk-politics": "10 entries",
+      "telegraph-uk-politics": "0 entries"
     },
     "market_status": "Market price data not configured",
     "ai_status": "AI enrichment not configured"
