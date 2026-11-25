@@ -121,3 +121,16 @@ feeds:
       reviewer: NewsLens editorial proposal; owner review pending
       methodology: Broad conservative editorial orientation in UK politics. Publisher-level label.
       reviewed_at: '2026-11-25'
+  - id: telegraph-uk-politics
+    publisher_id: telegraph
+    name: The Telegraph UK Politics
+    url: https://www.telegraph.co.uk/politics/rss.xml
+    enabled: true
+    category: Politics
+    country: UK
+    language: en
+    political_leaning: right
+    classification:
+      reviewer: NewsLens editorial proposal; owner review pending
+      methodology: Longstanding conservative editorial orientation in UK politics. Publisher-level label.
+      reviewed_at: '2026-11-25'
