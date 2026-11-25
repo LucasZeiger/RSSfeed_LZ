@@ -63,3 +63,61 @@ feeds:
       reviewer: NewsLens starter editorial proposal; owner review pending
       methodology: Liberal and progressive editorial orientation in Austrian context, not directly equivalent to US left.
       reviewed_at: '2026-11-09'
+
+  - id: bbc-uk-politics
+    publisher_id: bbc
+    name: BBC UK Politics
+    url: https://feeds.bbci.co.uk/news/politics/rss.xml
+    enabled: true
+    category: Politics
+    country: UK
+    language: en
+    political_leaning: unknown
+  - id: sky-uk-politics
+    publisher_id: sky
+    name: Sky News UK Politics
+    url: https://feeds.skynews.com/feeds/rss/politics.xml
+    enabled: true
+    category: Politics
+    country: UK
+    language: en
+    political_leaning: unknown
+  - id: guardian-uk-politics
+    publisher_id: guardian-us
+    name: The Guardian UK Politics
+    url: https://www.theguardian.com/politics/rss
+    enabled: true
+    category: Politics
+    country: UK
+    language: en
+    political_leaning: left
+    classification:
+      reviewer: NewsLens editorial proposal; owner review pending
+      methodology: Broad progressive editorial orientation in UK politics. Publisher-level label.
+      reviewed_at: '2026-11-25'
+  - id: telegraph
+    publisher_id: telegraph
+    name: The Telegraph
+    url: https://www.telegraph.co.uk/rss.xml
+    enabled: true
+    category: World
+    country: UK
+    language: en
+    political_leaning: right
+    classification:
+      reviewer: NewsLens editorial proposal; owner review pending
+      methodology: Longstanding conservative editorial orientation in UK politics. Publisher-level label for a general news feed.
+      reviewed_at: '2026-11-25'
+  - id: express-uk-politics
+    publisher_id: express
+    name: Daily Express Politics
+    url: https://www.express.co.uk/posts/rss/139/politics
+    enabled: true
+    category: Politics
+    country: UK
+    language: en
+    political_leaning: right
+    classification:
+      reviewer: NewsLens editorial proposal; owner review pending
+      methodology: Broad conservative editorial orientation in UK politics. Publisher-level label.
+      reviewed_at: '2026-11-25'

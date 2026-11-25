@@ -90,3 +90,11 @@ test('desktop visual checkpoint', async ({ page }) => {
   await expect(page.locator('.story-card')).toHaveCount(6)
   await page.screenshot({ path: '/tmp/newslens-desktop.png', fullPage: true })
 })
+
+test('UK perspective filter keeps stories with both left and right coverage', async ({ page }) => {
+  await page.goto('/?data=demo')
+  await page.getByLabel('Region', { exact: true }).selectOption('UK')
+  await expect(page.locator('.story-card')).toHaveCount(3)
+  await page.getByLabel('Political leaning').selectOption('both')
+  await expect(page.locator('.story-card')).toHaveCount(2)
+})

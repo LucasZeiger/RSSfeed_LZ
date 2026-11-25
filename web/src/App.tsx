@@ -626,13 +626,21 @@ export default function App() {
     return data.stories
       .filter((s) => {
         const articles = s.article_ids.map((id) => articleMap[id]).filter((a): a is Article => !!a)
+        const hasPerspective = (side: string) =>
+          articles.some((a) => sources[a.source_id]?.political_leaning === side)
+        const hasBothSides = () => {
+          const localArticles = articles.filter((a) => region === 'all' || a.country === region)
+          return ['left', 'right'].every((side) =>
+            localArticles.some((a) => sources[a.source_id]?.political_leaning === side),
+          )
+        }
         return (
           (region === 'all' || s.countries.includes(region)) &&
           (!['Politics', 'World', 'Business', 'Technology'].includes(nav) || s.category === nav) &&
           (!['Markets', 'Watchlist'].includes(nav) || s.exposures.length > 0) &&
           (!financial || s.exposures.length > 0) &&
           (leaning === 'all' ||
-            articles.some((a) => sources[a.source_id]?.political_leaning === leaning)) &&
+            (leaning === 'both' ? hasBothSides() : hasPerspective(leaning))) &&
           (publisher === 'all' || articles.some((a) => a.source_id === publisher)) &&
           reference - Date.parse(s.updated_at) <= Number(windowHours) * 3600000 &&
           (!query ||
@@ -923,6 +931,7 @@ export default function App() {
                 onChange={(e) => setLeaning(e.target.value)}
               >
                 <option value="all">All perspectives</option>
+                <option value="both">Both left and right</option>
                 {leanings.map((l) => (
                   <option key={l} value={l}>
                     {l}
