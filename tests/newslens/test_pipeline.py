@@ -174,6 +174,29 @@ def test_cluster_time_and_language_boundaries(source, settings):
     assert len(groups) == 3
 
 
+def test_split_does_not_reuse_anchor_id(source, settings):
+    # The old anchor joined two headlines which no longer match one another.
+    anchor = article("Alpha beta gamma delta epsilon zeta", timestamp="2026-11-09T12:00:00+00:00")
+    first = article("Alpha beta gamma report", timestamp="2026-11-09T13:00:00+00:00")
+    second = article("Delta epsilon zeta report")
+    original = cluster([anchor, first, second], [source], settings)
+    assert len(original) == 1
+    mapping = {aid: story.id for story in original for aid in story.article_ids}
+    # The remaining group's new anchor becomes the basis of its ID.
+    split = cluster([first, second], [source], settings, mapping)
+    assert len({s.id for s in split}) == 2
+
+    # Reproduce a historical ID equal to the later split's anchor-derived ID.
+    shared_id = "story-" + identifier(second.id)
+    mapping = {first.id: shared_id, second.id: shared_id}
+    split = cluster([first, second], [source], settings, mapping)
+    assert len({s.id for s in split}) == 2
+    assert next(s for s in split if first.id in s.article_ids).id == shared_id
+    next_mapping = {aid: s.id for s in split for aid in s.article_ids}
+    repeated = cluster([second, first], [source], settings, next_mapping)
+    assert {s.id for s in repeated} == {s.id for s in split}
+
+
 def test_financial_evidence_and_no_generic_ticker_match():
     _, _, instruments = configuration()
     no_match = exposures([article("A spy novel wins a literary award")], instruments)
@@ -259,6 +282,31 @@ def test_pipeline_dedup_repeated_run_partial_and_failure(monkeypatch, tmp_path):
     assert collect(root) == 1
     assert path.read_bytes() == prior
     assert json.loads((root / "web/public/data/status.json").read_text())["state"] == "failed"
+
+
+def test_validation_failure_reports_failed_attempt_and_preserves_output(monkeypatch, tmp_path):
+    root = setup_root(tmp_path)
+    body = (ROOT / "fixtures/news.xml").read_bytes()
+    monkeypatch.setattr("backend.horizon.fetch", lambda *args: (body, {}))
+    assert collect(root) == 0
+    output = root / "web/public/data/latest.json"
+    state = root / "data/state.json"
+    previous_output, previous_state = output.read_bytes(), state.read_bytes()
+    last_success = json.loads(previous_output)["status"]["last_success_at"]
+
+    def invalid_clusters(*args, **kwargs):
+        stories = cluster(*args, **kwargs)
+        return stories + [stories[0].model_copy(deep=True)]
+
+    monkeypatch.setattr("backend.cli.cluster", invalid_clusters)
+    with pytest.raises(ValueError, match="Duplicate story IDs"):
+        collect(root)
+    assert output.read_bytes() == previous_output
+    assert state.read_bytes() == previous_state
+    status = json.loads((root / "web/public/data/status.json").read_text())
+    assert status["state"] == "failed"
+    assert status["last_success_at"] == last_success
+    assert "Dataset validation failed" in status["errors"][-1]
 
 
 def test_demo_contract():

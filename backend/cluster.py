@@ -65,6 +65,12 @@ def cluster(articles, sources, settings, previous=None, candidate_groups=None):
         historical = Counter(previous[a.id] for a in group if a.id in previous)
         story_id = next((sid for sid, _ in historical.most_common() if sid not in used_ids), None)
         story_id = story_id or "story-" + identifier(anchor.id)
+        # A split can leave the anchor-derived ID assigned to another group
+        # through its historical mapping. Fresh IDs must also be unused.
+        suffix = 0
+        while story_id in used_ids:
+            suffix += 1
+            story_id = "story-" + identifier(f"{anchor.id}:{suffix}")
         used_ids.add(story_id)
         counts, publishers = {}, {}
         for leaning in ("left", "centre", "right", "unknown"):

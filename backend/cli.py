@@ -148,19 +148,25 @@ def _collect(root):
             status.errors.append(f"Horizon AI cleanup: {type(exc).__name__}")
     if status.errors and status.state == "ok":
         status.state = "partial"
-    atomic_json(root / "web/public/data/status.json", status.model_dump())
     if status.state != "failed":
-        dataset = Dataset(
-            mode="live",
-            generated_at=timestamp,
-            refresh_minutes=settings["refresh_minutes"],
-            sources=sources,
-            articles=retained,
-            stories=stories,
-            instruments=instruments,
-            markets=markets,
-            status=status,
-        )
+        try:
+            dataset = Dataset(
+                mode="live",
+                generated_at=timestamp,
+                refresh_minutes=settings["refresh_minutes"],
+                sources=sources,
+                articles=retained,
+                stories=stories,
+                instruments=instruments,
+                markets=markets,
+                status=status,
+            )
+        except ValueError:
+            status.state = "failed"
+            status.last_success_at = previous["status"]["last_success_at"] if previous else None
+            status.errors.append("Dataset validation failed; last valid published dataset retained")
+            atomic_json(root / "web/public/data/status.json", status.model_dump())
+            raise
         atomic_json(root / "web/public/data/latest.json", dataset.model_dump(mode="json"))
         state.update(
             articles=[a.model_dump(mode="json") for a in retained],
@@ -172,6 +178,7 @@ def _collect(root):
             ),
         )
         atomic_json(state_path, state)
+    atomic_json(root / "web/public/data/status.json", status.model_dump())
     print(
         json.dumps(
             {
