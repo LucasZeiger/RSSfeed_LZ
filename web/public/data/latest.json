@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "mode": "live",
-  "generated_at": "2026-11-25T10:03:24.778346+00:00",
+  "generated_at": "2026-11-25T10:24:23.686385+00:00",
   "refresh_minutes": 60,
   "sources": [
     {
@@ -179,6 +179,150 @@
   ],
   "articles": [
     {
+      "id": "a03e403e91c23ecfe4f5",
+      "source_id": "standard",
+      "title": "Eishockey-Weltverband geht juristisch gegen Russland-Comeback vor",
+      "url": "https://www.derstandard.at/story/3000000350960/eishockey-weltverband-geht-juristisch-gegen-russland-comeback-vor?ref=rss",
+      "summary": "Ein Urteilsspruch des Sportgerichtshofs ebnete Russlands Eishockey den Weg zur WM im kommenden Jahr. Der IIHF erkennt einen Interessenkonflikt bei den Schiedsrichtern, die das Urteil fällten",
+      "published_at": "2026-11-25T10:23:14+00:00",
+      "fetched_at": "2026-11-25T10:24:23.686385+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "90c0fc02148d3ad83f3c",
+      "source_id": "orf",
+      "title": "Zugsausfälle in Eurostar-Tunnel wegen Streiks",
+      "url": "https://orf.at/stories/3449232/",
+      "summary": "",
+      "published_at": "2026-11-25T10:19:41+00:00",
+      "fetched_at": "2026-11-25T10:24:23.686385+00:00",
+      "date_estimated": false,
+      "author": "orf",
+      "categories": [
+        "Chronik"
+      ],
+      "language": "de",
+      "country": "AT",
+      "category": "World"
+    },
+    {
+      "id": "8010fca5e31e76bbb695",
+      "source_id": "standard",
+      "title": "Wer beschränkt die Macht der Tech-Oligarchen?",
+      "url": "https://www.derstandard.at/story/3000000350726/wer-beschraenkt-die-macht-der-tech-oligarchen?ref=rss",
+      "summary": "Der Fall des Nvidia-Chefs Jensen Huang wirft ein Licht auf die unerträgliche Dominanz der \"Tech-Bros\"",
+      "published_at": "2026-11-25T10:14:19+00:00",
+      "fetched_at": "2026-11-25T10:24:23.686385+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "9e7a803eb8279ddd9f99",
+      "source_id": "standard",
+      "title": "Putin schließt Regisseur Sokurow aus Menschenrechtsrat aus",
+      "url": "https://www.derstandard.at/story/3000000350958/putin-schliesst-regisseur-sokurow-aus-menschenrechtsrat-aus?ref=rss",
+      "summary": "Der auch in Europa hoch angesehene Filmemacher Alexander Sokurow übt seit vielen Jahren geharnischte Kritik am Putin'schen Autoritarismus",
+      "published_at": "2026-11-25T10:14:02+00:00",
+      "fetched_at": "2026-11-25T10:24:23.686385+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "16c573944745cd759f11",
+      "source_id": "standard",
+      "title": "Ehemalige Café-Engländer-Mitarbeiter wollen neues Lokal eröffnen",
+      "url": "https://www.derstandard.at/story/3000000350928/ehemalige-cafe-englaender-mitarbeiter-wollen-neues-lokal-eroeffnen?ref=rss",
+      "summary": "Nach dem Eklat rund um die Übernahme des Café Engländer kündigte die frühere Belegschaft eine neue Heimat an",
+      "published_at": "2026-11-25T10:13:24+00:00",
+      "fetched_at": "2026-11-25T10:24:23.686385+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "d3da3d863d5476768a7b",
+      "source_id": "express-uk-politics",
+      "title": "Andy Burnham is the reason for these vile slurs about 'thick' Brexiteers",
+      "url": "https://www.express.co.uk/news/politics/2269123/andy-burnham-reason-vile-slurs",
+      "summary": "The Prime Minister thinks he has working class northerners' votes sewn up but this will backfire.",
+      "published_at": "2026-11-25T10:10:00+00:00",
+      "fetched_at": "2026-11-25T10:24:23.686385+00:00",
+      "date_estimated": false,
+      "author": "Sam Lister",
+      "categories": [
+        "Politics",
+        "EU Referendum",
+        "Brexit News",
+        "Andy Burnham",
+        "Brexit",
+        "Remainers vs Leavers",
+        "UK political divisions"
+      ],
+      "language": "en",
+      "country": "UK",
+      "category": "Politics"
+    },
+    {
+      "id": "28048e62b83e32d6cfe6",
+      "source_id": "express-uk-politics",
+      "title": "Would Nigel Farage do a better job as Prime Minister than Andy Burnham? Have your say",
+      "url": "https://www.express.co.uk/news/politics/2269127/would-nigel-farage-do-better",
+      "summary": "The Reform UK leader has warned Andy Burnham that voters will hate the Prime Minister re-opening the Brexit debate",
+      "published_at": "2026-11-25T10:08:00+00:00",
+      "fetched_at": "2026-11-25T10:24:23.686385+00:00",
+      "date_estimated": false,
+      "author": "Jonathan Walker,Katie Harris",
+      "categories": [
+        "Politics",
+        "Brexit News",
+        "Nigel Farage",
+        "Andy Burnham",
+        "Politics (section)",
+        "Brexit",
+        "UK Prime Minister Debate"
+      ],
+      "language": "en",
+      "country": "UK",
+      "category": "Politics"
+    },
+    {
+      "id": "11fb19b92e2b0c16c756",
+      "source_id": "guardian-us",
+      "title": "Intelligent blitzes to Jacoby Brissett for (sort of) MVP: the trends that have defined this NFL season",
+      "url": "https://www.theguardian.com/sport/2026/nov/25/intelligent-blitzes-to-jacoby-brissett-for-sort-of-mvp-the-trends-that-have-defined-this-nfl-season",
+      "summary": "NFL coaches are in a forever war for marginal gains. Here are the schemes they’re using in 2026 to get a crucial advantage over their opponents NFL offensive and defensive coaches are in a constant tactical battle for supremacy. For every schematic idea you see on offense, there’s a counter on defense. And every season there are new (or old disguised as new) wrinkles to observe. Now that we’re 11 weeks into the season, with the playoff push just around the corner, here are five recent trends that have come to define 2026. Continue reading...",
+      "published_at": "2026-11-25T10:00:13+00:00",
+      "fetched_at": "2026-11-25T10:24:23.686385+00:00",
+      "date_estimated": false,
+      "author": "Doug Farrar",
+      "categories": [
+        "NFL",
+        "Minnesota Vikings",
+        "San Francisco 49ers",
+        "US sports",
+        "Sport"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
       "id": "d3ef1d162b630b21c1c2",
       "source_id": "guardian-us",
       "title": "Iowa town shelters in place as army prepares to detonate entire US stockpile of lead azide",
@@ -216,6 +360,58 @@
         "Football",
         "US sports",
         "Sport"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "658b9614585a3e90b18c",
+      "source_id": "fox-politics",
+      "title": "Nation’s largest grocery chain cuts thousands of jobs — sparks fury over who it’s hiring instead: 'Insanity'",
+      "url": "https://www.foxnews.com/politics/nations-largest-grocery-chain-cuts-thousands-jobs-sparks-fury-who-hiring-instead-insanity",
+      "summary": "Kroger, the largest traditional grocery chain in the nation, is facing strong blowback on social media over its plan to slash 3,000 jobs in the United States while advertising new positions overseas in India. The controversy comes as the Cincinnati-based grocer begins executing a three-year plan it has previously announced to cut $5 billion in costs as part of a restructuring that will eliminate roughly 37% of its U.S. corporate workforce by 2029. While Kroger maintains the reductions are aimed at lowering shelf prices through technology and leaner operations, simultaneous recruiting for a new",
+      "published_at": "2026-11-25T10:00:11+00:00",
+      "fetched_at": "2026-11-25T10:24:23.686385+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "86bb8d57-7f49-570b-b335-2439255b1fc7",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/tech/companies",
+        "fox-news/us/economy/jobs",
+        "fox-news/us/economy",
+        "fox-news/corporations",
+        "fox-news/us/immigration",
+        "fox-news/politics"
+      ],
+      "language": "en",
+      "country": "US",
+      "category": "Politics"
+    },
+    {
+      "id": "9e90dd239ef9da3cc54c",
+      "source_id": "fox-politics",
+      "title": "Senate GOP takes risky bet on Dems as holiday shutdown deadline looms: 'It's a gamble'",
+      "url": "https://www.foxnews.com/politics/senate-gop-takes-risky-bet-dems-holiday-shutdown-deadline-looms-its-gamble",
+      "summary": "Congress is nearing the deadline to avert a government shutdown, and Senate Republicans are taking a leap of faith as the clock ticks: trusting Senate Democrats to dodge a holiday disaster. When the upper chamber returns on Nov. 30, there will be just shy of two weeks for both sides to reach an agreement to thwart another partisan closure. At the center of the issue is the Iran war: Democrats intend to use the government’s purse strings to bring the eight-month conflict to an end. Republicans, meanwhile, want to put together an emergency supplemental funding package with hundreds of billions o",
+      "published_at": "2026-11-25T10:00:09+00:00",
+      "fetched_at": "2026-11-25T10:24:23.686385+00:00",
+      "date_estimated": false,
+      "author": "fox-politics",
+      "categories": [
+        "48e0d433-276a-5f84-be8b-57cc79580b8e",
+        "fnc",
+        "Fox News",
+        "fox-news/politics",
+        "fox-news/topic/government-shutdown",
+        "fox-news/politics/defense/spending",
+        "fox-news/politics/senate",
+        "fox-news/democrats",
+        "fox-news/politics",
+        "article"
       ],
       "language": "en",
       "country": "US",
@@ -5948,6 +6144,21 @@
       "summary": "Selbst Liebesballaden werden heute auf Arbeitstauglichkeit abgeklopft. Warum uns Popstars plötzlich die Quartalszahlen retten sollen",
       "published_at": "2026-11-24T10:00:00+00:00",
       "fetched_at": "2026-11-24T13:54:41.474275+00:00",
+      "date_estimated": false,
+      "author": "standard",
+      "categories": [],
+      "language": "de",
+      "country": "AT",
+      "category": "Politics"
+    },
+    {
+      "id": "4390799cfe9da8ace656",
+      "source_id": "standard",
+      "title": "Spürt ihr Verantwortung für die Folgen der Ozeanversauerung?",
+      "url": "https://www.derstandard.at/story/3000000350672/spuert-ihr-verantwortung-fuer-die-folgen-der-ozeanversauerung?ref=rss",
+      "summary": "Mein Forum: Diskutieren Sie dieses Thema mit der STANDARD-Community",
+      "published_at": "2026-11-24T10:00:00+00:00",
+      "fetched_at": "2026-11-25T10:24:23.686385+00:00",
       "date_estimated": false,
       "author": "standard",
       "categories": [],
@@ -25984,186 +26195,297 @@
       "language": "de",
       "country": "AT",
       "category": "Politics"
-    },
-    {
-      "id": "d688174ace150b54fc86",
-      "source_id": "bbc-business",
-      "title": "More support for households reliant on heating oil",
-      "url": "https://www.bbc.co.uk/news/articles/cwm2mj7vezr3o?at_campaign=rss&at_medium=RSS",
-      "summary": "North Northamptonshire Council is encouraging eligible residents to apply for more support.",
-      "published_at": "2026-11-19T15:22:31+00:00",
-      "fetched_at": "2026-11-19T22:15:34.896397+00:00",
-      "date_estimated": false,
-      "author": "bbc-business",
-      "categories": [],
-      "language": "en",
-      "country": "UK",
-      "category": "Business"
-    },
-    {
-      "id": "86993316984f6a512ea0",
-      "source_id": "standard",
-      "title": "Mordplan mit ChatGPT geteilt: Mann in Israel festgenommen",
-      "url": "https://www.derstandard.at/story/3000000350132/mordplan-mit-chatgpt-geteilt-mann-in-israel-festgenommen?ref=rss",
-      "summary": "Der Israeli wollte laut Polizei seine Ehefrau töten und hat diesen Plan seinem KI-Chatbot erzählt. Es ist unklar, wie die Polizei von dem Chat mit der KI erfuhr",
-      "published_at": "2026-11-19T15:15:51+00:00",
-      "fetched_at": "2026-11-19T22:15:34.896397+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "1d4cdf2eec68abafa860",
-      "source_id": "standard",
-      "title": "Das Genozid-Urteil bringt späte Gerechtigkeit für die Rohingya",
-      "url": "https://www.derstandard.at/story/3000000350125/das-genozid-urteil-bringt-spaete-gerechtigkeit-fuer-die-rohingya?ref=rss",
-      "summary": "Die muslimische Minderheit wird in Myanmar schon lange brutal unterdrückt. Die Entscheidung des IGH wird daran wohl nichts ändern. Trotzdem ist es ein wichtiges Signal",
-      "published_at": "2026-11-19T15:13:14+00:00",
-      "fetched_at": "2026-11-19T22:15:34.896397+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "070a662966f96aa244cf",
-      "source_id": "orf",
-      "title": "Rekord: Anthropic offiziell an der Börse",
-      "url": "https://orf.at/stories/3448693/",
-      "summary": "",
-      "published_at": "2026-11-19T15:10:25+00:00",
-      "fetched_at": "2026-11-19T22:15:34.896397+00:00",
-      "date_estimated": false,
-      "author": "orf",
-      "categories": [
-        "Wirtschaft"
-      ],
-      "language": "de",
-      "country": "AT",
-      "category": "World"
-    },
-    {
-      "id": "a6ab7ecbda3c5f2efb79",
-      "source_id": "standard",
-      "title": "Wie glaubwürdig ist Kickls Kampf gegen Antisemitismus?",
-      "url": "https://www.derstandard.at/story/3000000349814/wie-glaubwuerdig-ist-kickls-kampf-gegen-antisemitismus?ref=rss",
-      "summary": "Vilimsky attackiert IKG-Präsident Deutsch – und bedient ein antisemitisches Denkmuster. Diese finden sich regelmäßig im politischen Sprachgebrauch der FPÖ",
-      "published_at": "2026-11-19T15:01:24+00:00",
-      "fetched_at": "2026-11-19T22:15:34.896397+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "deeb7537c19988157372",
-      "source_id": "standard",
-      "title": "So stärkt Europa die Rechte von Reisenden",
-      "url": "https://www.derstandard.at/story/3000000350092/eu-st228rkt-rechte-von-reisenden?ref=rss",
-      "summary": "Passagiere erhalten bei Flugausfällen eine vollständige Rückerstattung, Vermittlungsgebühren sind verboten",
-      "published_at": "2026-11-19T15:01:07+00:00",
-      "fetched_at": "2026-11-19T22:15:34.896397+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "37f68fe8e4126324a223",
-      "source_id": "standard",
-      "title": "Microsoft-Chef warnt vor Desaster: Große Teile der kritischen Infrastruktur sind nicht patchbar",
-      "url": "https://www.derstandard.at/story/3000000350100/microsoft-chef-warnt-vor-desaster-grosse-teile-der-kritischen-infrastruktur-sind-nicht-patchbar?ref=rss",
-      "summary": "Das zwanghafte Vernetzen von Alltagsgegenständen und Industriesystemen macht sie anfällig für Angriffe und Störungen, weil sie nicht mehr gewartet werden können",
-      "published_at": "2026-11-19T15:00:46+00:00",
-      "fetched_at": "2026-11-19T22:15:34.896397+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "ed91625a97c21385faf5",
-      "source_id": "fox-politics",
-      "title": "AOC leaves door open to 2028 presidential run, signals willingness to work with Trump",
-      "url": "https://www.foxnews.com/politics/aoc-leaves-door-open-2028-presidential-run-signals-willingness-work-trump",
-      "summary": "Rep. Alexandria Ocasio-Cortez, D-N.Y., is leaving the door open to a potential 2028 presidential bid as speculation grows over her political future. \"I think, right now, this election just happened. We got to work on getting results for people,\" Ocasio-Cortez told Fox News Digital when asked whether she was considering a presidential run in 2028. The self-described democratic socialist also expressed a willingness to work with President Donald Trump on key legislative priorities as Democrats prepare to take control of the House following the 2026 midterm elections. PROGRESSIVE ORG LAUNCHES CAM",
-      "published_at": "2026-11-19T14:52:29+00:00",
-      "fetched_at": "2026-11-19T22:15:34.896397+00:00",
-      "date_estimated": false,
-      "author": "fox-politics",
-      "categories": [
-        "372ae28c-eb30-53ee-bc6a-c7576243400b",
-        "fnc",
-        "Fox News",
-        "fox-news/politics",
-        "fox-news/person/alexandria-ocasio-cortez",
-        "fox-news/us/democratic-party",
-        "fox-news/democrats",
-        "fox-news/politics",
-        "article"
-      ],
-      "language": "en",
-      "country": "US",
-      "category": "Politics"
-    },
-    {
-      "id": "37f5b5b96e0bef29ee39",
-      "source_id": "standard",
-      "title": "EU startet Verfahren gegen Österreich wegen Pensionsfonds",
-      "url": "https://www.derstandard.at/story/3000000350126/eu-startet-verfahren-gegen-214sterreich-wegen-pensionsfonds?ref=rss",
-      "summary": "Brüssel ortet diskriminierende Steuergesetze für Pensionsfonds und Lebensversicherungsunternehmen. Die geltenden Regeln würden gegen den freien Kapitalverkehr verstoßen",
-      "published_at": "2026-11-19T14:48:25+00:00",
-      "fetched_at": "2026-11-19T22:15:34.896397+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "ff767a50d473079c80a0",
-      "source_id": "standard",
-      "title": "Rekord für Van Gogh: Trophäen für Superreiche, Trostpflaster für Investoren",
-      "url": "https://www.derstandard.at/story/3000000350124/rekord-fuer-van-gogh-trophaeen-fuer-superreiche-trostpflaster-fuer-investoren?ref=rss",
-      "summary": "Auktionen in New York und Wien liefern neue Rekorde für Werke der Klassischen Moderne. Manche waren erwartbar, andere kamen überraschend",
-      "published_at": "2026-11-19T14:46:09+00:00",
-      "fetched_at": "2026-11-19T22:15:34.896397+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
-    },
-    {
-      "id": "860798c0006097dc9284",
-      "source_id": "standard",
-      "title": "\"Im Goldrausch\": Überlebensabenteuer mit Ethan Hawke",
-      "url": "https://www.derstandard.at/story/3000000350107/im-goldrausch-ueberlebensabenteuer-mit-ethan-hawke?ref=rss",
-      "summary": "Ethan Hawke brilliert in dem Film, der in Oregon spielt, aber komplett in Bayern gedreht wurde",
-      "published_at": "2026-11-19T14:46:00+00:00",
-      "fetched_at": "2026-11-19T22:15:34.896397+00:00",
-      "date_estimated": false,
-      "author": "standard",
-      "categories": [],
-      "language": "de",
-      "country": "AT",
-      "category": "Politics"
     }
   ],
   "stories": [
+    {
+      "id": "story-0b29465d60f27e72686c",
+      "title": "Eishockey-Weltverband geht juristisch gegen Russland-Comeback vor",
+      "overview": "Ein Urteilsspruch des Sportgerichtshofs ebnete Russlands Eishockey den Weg zur WM im kommenden Jahr. Der IIHF erkennt einen Interessenkonflikt bei den Schiedsrichtern, die das Urteil fällten",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-25T10:23:14+00:00",
+      "updated_at": "2026-11-25T10:23:14+00:00",
+      "article_ids": [
+        "a03e403e91c23ecfe4f5"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-9cbbc50c58ca0e59aa5f",
+      "title": "Zugsausfälle in Eurostar-Tunnel wegen Streiks",
+      "overview": "",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-25T10:19:41+00:00",
+      "updated_at": "2026-11-25T10:19:41+00:00",
+      "article_ids": [
+        "90c0fc02148d3ad83f3c"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 0,
+        "unknown": 1
+      },
+      "category": "World",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-39905dc94556bd1c12ee",
+      "title": "Wer beschränkt die Macht der Tech-Oligarchen?",
+      "overview": "Der Fall des Nvidia-Chefs Jensen Huang wirft ein Licht auf die unerträgliche Dominanz der \"Tech-Bros\"",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-25T10:14:19+00:00",
+      "updated_at": "2026-11-25T10:14:19+00:00",
+      "article_ids": [
+        "8010fca5e31e76bbb695"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-fa3fe9af3dd84772e920",
+      "title": "Putin schließt Regisseur Sokurow aus Menschenrechtsrat aus",
+      "overview": "Der auch in Europa hoch angesehene Filmemacher Alexander Sokurow übt seit vielen Jahren geharnischte Kritik am Putin'schen Autoritarismus",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-25T10:14:02+00:00",
+      "updated_at": "2026-11-25T10:14:02+00:00",
+      "article_ids": [
+        "9e7a803eb8279ddd9f99"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-5f4e1c998077620a01fc",
+      "title": "Ehemalige Café-Engländer-Mitarbeiter wollen neues Lokal eröffnen",
+      "overview": "Nach dem Eklat rund um die Übernahme des Café Engländer kündigte die frühere Belegschaft eine neue Heimat an",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-25T10:13:24+00:00",
+      "updated_at": "2026-11-25T10:13:24+00:00",
+      "article_ids": [
+        "16c573944745cd759f11"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-2770faed1a660f6dad40",
+      "title": "Andy Burnham is the reason for these vile slurs about 'thick' Brexiteers",
+      "overview": "The Prime Minister thinks he has working class northerners' votes sewn up but this will backfire.",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-25T10:10:00+00:00",
+      "updated_at": "2026-11-25T10:10:00+00:00",
+      "article_ids": [
+        "d3da3d863d5476768a7b"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-7b329565cf82253a9b00",
+      "title": "Would Nigel Farage do a better job as Prime Minister than Andy Burnham? Have your say",
+      "overview": "The Reform UK leader has warned Andy Burnham that voters will hate the Prime Minister re-opening the Brexit debate",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-25T10:08:00+00:00",
+      "updated_at": "2026-11-25T10:08:00+00:00",
+      "article_ids": [
+        "28048e62b83e32d6cfe6"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "UK"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-4e6a8335e2278a8404cd",
+      "title": "Intelligent blitzes to Jacoby Brissett for (sort of) MVP: the trends that have defined this NFL season",
+      "overview": "NFL coaches are in a forever war for marginal gains. Here are the schemes they’re using in 2026 to get a crucial advantage over their opponents NFL offensive and defensive coaches are in a constant tactical battle for supremacy. For every schematic idea you see on offense, there’s a counter on defense. And every season there are new (or old disguised as new) wrinkles to observe. Now that we’re 11 weeks into the season, with the playoff push just around the corner, here are five recent trends that have come to define 2026. Continue reading...",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-25T10:00:13+00:00",
+      "updated_at": "2026-11-25T10:00:13+00:00",
+      "article_ids": [
+        "11fb19b92e2b0c16c756"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
     {
       "id": "story-3a2df11140212ad133e0",
       "title": "Search for next USMNT head coach needs to prioritize competence over fame",
@@ -26221,6 +26543,78 @@
         "left": 1,
         "centre": 0,
         "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-dacfec4192fda3a5c537",
+      "title": "Nation’s largest grocery chain cuts thousands of jobs — sparks fury over who it’s hiring instead: 'Insanity'",
+      "overview": "Kroger, the largest traditional grocery chain in the nation, is facing strong blowback on social media over its plan to slash 3,000 jobs in the United States while advertising new positions overseas in India. The controversy comes as the Cincinnati-based grocer begins executing a three-year plan it has previously announced to cut $5 billion in costs as part of a restructuring that will eliminate roughly 37% of its U.S. corporate workforce by 2029. While Kroger maintains the reductions are aimed at lowering shelf prices through technology and leaner operations, simultaneous recruiting for a new",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-25T10:00:11+00:00",
+      "updated_at": "2026-11-25T10:00:11+00:00",
+      "article_ids": [
+        "658b9614585a3e90b18c"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "US"
+      ],
+      "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-6a99269947dbe9a197aa",
+      "title": "Senate GOP takes risky bet on Dems as holiday shutdown deadline looms: 'It's a gamble'",
+      "overview": "Congress is nearing the deadline to avert a government shutdown, and Senate Republicans are taking a leap of faith as the clock ticks: trusting Senate Democrats to dodge a holiday disaster. When the upper chamber returns on Nov. 30, there will be just shy of two weeks for both sides to reach an agreement to thwart another partisan closure. At the center of the issue is the Iran war: Democrats intend to use the government’s purse strings to bring the eight-month conflict to an end. Republicans, meanwhile, want to put together an emergency supplemental funding package with hundreds of billions o",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-25T10:00:09+00:00",
+      "updated_at": "2026-11-25T10:00:09+00:00",
+      "article_ids": [
+        "9e90dd239ef9da3cc54c"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 0,
+        "centre": 0,
+        "right": 1,
         "unknown": 0
       },
       "category": "Politics",
@@ -37435,6 +37829,42 @@
         "US"
       ],
       "language": "en",
+      "common_terms": [],
+      "limitations": [
+        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
+        "Insufficient coverage for comparison."
+      ],
+      "exposures": [],
+      "ai": null
+    },
+    {
+      "id": "story-f2d327b7775ff6487e65",
+      "title": "Spürt ihr Verantwortung für die Folgen der Ozeanversauerung?",
+      "overview": "Mein Forum: Diskutieren Sie dieses Thema mit der STANDARD-Community",
+      "title_kind": "source_headline",
+      "first_published": "2026-11-24T10:00:00+00:00",
+      "updated_at": "2026-11-24T10:00:00+00:00",
+      "article_ids": [
+        "4390799cfe9da8ace656"
+      ],
+      "publisher_count": 1,
+      "article_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "publisher_counts": {
+        "left": 1,
+        "centre": 0,
+        "right": 0,
+        "unknown": 0
+      },
+      "category": "Politics",
+      "countries": [
+        "AT"
+      ],
+      "language": "de",
       "common_terms": [],
       "limitations": [
         "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
@@ -77255,402 +77685,6 @@
       ],
       "exposures": [],
       "ai": null
-    },
-    {
-      "id": "story-9a9316990fa7413b0b4c",
-      "title": "More support for households reliant on heating oil",
-      "overview": "North Northamptonshire Council is encouraging eligible residents to apply for more support.",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-19T15:22:31+00:00",
-      "updated_at": "2026-11-19T15:22:31+00:00",
-      "article_ids": [
-        "d688174ace150b54fc86"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "Business",
-      "countries": [
-        "UK"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-c040eda38440468c26a5",
-      "title": "Mordplan mit ChatGPT geteilt: Mann in Israel festgenommen",
-      "overview": "Der Israeli wollte laut Polizei seine Ehefrau töten und hat diesen Plan seinem KI-Chatbot erzählt. Es ist unklar, wie die Polizei von dem Chat mit der KI erfuhr",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-19T15:15:51+00:00",
-      "updated_at": "2026-11-19T15:15:51+00:00",
-      "article_ids": [
-        "86993316984f6a512ea0"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-0296ace4b6df431a6e5f",
-      "title": "Das Genozid-Urteil bringt späte Gerechtigkeit für die Rohingya",
-      "overview": "Die muslimische Minderheit wird in Myanmar schon lange brutal unterdrückt. Die Entscheidung des IGH wird daran wohl nichts ändern. Trotzdem ist es ein wichtiges Signal",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-19T15:13:14+00:00",
-      "updated_at": "2026-11-19T15:13:14+00:00",
-      "article_ids": [
-        "1d4cdf2eec68abafa860"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-c45973d36ca5b240ff04",
-      "title": "Rekord: Anthropic offiziell an der Börse",
-      "overview": "",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-19T15:10:25+00:00",
-      "updated_at": "2026-11-19T15:10:25+00:00",
-      "article_ids": [
-        "070a662966f96aa244cf"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 0,
-        "unknown": 1
-      },
-      "category": "World",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-31b7669ae82643323f55",
-      "title": "Wie glaubwürdig ist Kickls Kampf gegen Antisemitismus?",
-      "overview": "Vilimsky attackiert IKG-Präsident Deutsch – und bedient ein antisemitisches Denkmuster. Diese finden sich regelmäßig im politischen Sprachgebrauch der FPÖ",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-19T15:01:24+00:00",
-      "updated_at": "2026-11-19T15:01:24+00:00",
-      "article_ids": [
-        "a6ab7ecbda3c5f2efb79"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-047802e3e627aef7bfa8",
-      "title": "So stärkt Europa die Rechte von Reisenden",
-      "overview": "Passagiere erhalten bei Flugausfällen eine vollständige Rückerstattung, Vermittlungsgebühren sind verboten",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-19T15:01:07+00:00",
-      "updated_at": "2026-11-19T15:01:07+00:00",
-      "article_ids": [
-        "deeb7537c19988157372"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-6fe80dbc843cfebec8b3",
-      "title": "Microsoft-Chef warnt vor Desaster: Große Teile der kritischen Infrastruktur sind nicht patchbar",
-      "overview": "Das zwanghafte Vernetzen von Alltagsgegenständen und Industriesystemen macht sie anfällig für Angriffe und Störungen, weil sie nicht mehr gewartet werden können",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-19T15:00:46+00:00",
-      "updated_at": "2026-11-19T15:00:46+00:00",
-      "article_ids": [
-        "37f68fe8e4126324a223"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-04ef20885105f41a46f1",
-      "title": "AOC leaves door open to 2028 presidential run, signals willingness to work with Trump",
-      "overview": "Rep. Alexandria Ocasio-Cortez, D-N.Y., is leaving the door open to a potential 2028 presidential bid as speculation grows over her political future. \"I think, right now, this election just happened. We got to work on getting results for people,\" Ocasio-Cortez told Fox News Digital when asked whether she was considering a presidential run in 2028. The self-described democratic socialist also expressed a willingness to work with President Donald Trump on key legislative priorities as Democrats prepare to take control of the House following the 2026 midterm elections. PROGRESSIVE ORG LAUNCHES CAM",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-19T14:52:29+00:00",
-      "updated_at": "2026-11-19T14:52:29+00:00",
-      "article_ids": [
-        "ed91625a97c21385faf5"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 1,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 0,
-        "centre": 0,
-        "right": 1,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "US"
-      ],
-      "language": "en",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-4ff36f97da0f8760032b",
-      "title": "EU startet Verfahren gegen Österreich wegen Pensionsfonds",
-      "overview": "Brüssel ortet diskriminierende Steuergesetze für Pensionsfonds und Lebensversicherungsunternehmen. Die geltenden Regeln würden gegen den freien Kapitalverkehr verstoßen",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-19T14:48:25+00:00",
-      "updated_at": "2026-11-19T14:48:25+00:00",
-      "article_ids": [
-        "37f5b5b96e0bef29ee39"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-909c90725005f6931de5",
-      "title": "Rekord für Van Gogh: Trophäen für Superreiche, Trostpflaster für Investoren",
-      "overview": "Auktionen in New York und Wien liefern neue Rekorde für Werke der Klassischen Moderne. Manche waren erwartbar, andere kamen überraschend",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-19T14:46:09+00:00",
-      "updated_at": "2026-11-19T14:46:09+00:00",
-      "article_ids": [
-        "ff767a50d473079c80a0"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
-    },
-    {
-      "id": "story-268eb032d183e22eef6c",
-      "title": "\"Im Goldrausch\": Überlebensabenteuer mit Ethan Hawke",
-      "overview": "Ethan Hawke brilliert in dem Film, der in Oregon spielt, aber komplett in Bayern gedreht wurde",
-      "title_kind": "source_headline",
-      "first_published": "2026-11-19T14:46:00+00:00",
-      "updated_at": "2026-11-19T14:46:00+00:00",
-      "article_ids": [
-        "860798c0006097dc9284"
-      ],
-      "publisher_count": 1,
-      "article_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "publisher_counts": {
-        "left": 1,
-        "centre": 0,
-        "right": 0,
-        "unknown": 0
-      },
-      "category": "Politics",
-      "countries": [
-        "AT"
-      ],
-      "language": "de",
-      "common_terms": [],
-      "limitations": [
-        "Coverage reflects configured sources, not all reporting. Political labels are country-contextual editorial assessments.",
-        "Insufficient coverage for comparison."
-      ],
-      "exposures": [],
-      "ai": null
     }
   ],
   "instruments": [
@@ -77775,22 +77809,22 @@
   "markets": [],
   "status": {
     "state": "ok",
-    "attempted_at": "2026-11-25T10:03:24.778346+00:00",
-    "last_success_at": "2026-11-25T10:03:24.778346+00:00",
+    "attempted_at": "2026-11-25T10:24:23.686385+00:00",
+    "last_success_at": "2026-11-25T10:24:23.686385+00:00",
     "errors": [],
     "source_results": {
       "bbc-world": "35 entries",
-      "guardian-us": "not modified",
-      "fox-politics": "not modified",
+      "guardian-us": "33 entries",
+      "fox-politics": "25 entries",
       "bbc-business": "29 entries",
       "orf": "28 entries",
-      "standard": "157 entries",
+      "standard": "160 entries",
       "bbc-uk-politics": "43 entries",
       "sky-uk-politics": "not modified",
       "guardian-uk-politics": "21 entries",
-      "telegraph": "30 entries",
+      "telegraph": "not modified",
       "express-uk-politics": "10 entries",
-      "telegraph-uk-politics": "0 entries"
+      "telegraph-uk-politics": "not modified"
     },
     "market_status": "Market price data not configured",
     "ai_status": "AI enrichment not configured"
