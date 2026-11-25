@@ -50,6 +50,8 @@ test('live mode never falls back to fabricated data', async ({ page }) => {
 
 test('failed refresh retains last valid dataset and surfaces pipeline status', async ({ page }) => {
   // Synthetic data is used only as a mocked network response inside this test.
+  // Live mode filters against the wall clock; keep the fixed fixture in its window.
+  await page.clock.setFixedTime(new Date(demo.generated_at))
   let failRefresh = false
   await page.route('**/data/latest.json', (route) => {
     return !failRefresh
