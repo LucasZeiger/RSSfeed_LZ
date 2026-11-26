@@ -1,22 +1,20 @@
 {
-  "state": "partial",
-  "attempted_at": "2026-11-25T19:24:08.071837+00:00",
-  "last_success_at": "2026-11-25T10:24:23.686385+00:00",
-  "errors": [
-    "express-uk-politics: HTTPStatusError; previous articles retained"
-  ],
+  "state": "ok",
+  "attempted_at": "2026-11-26T02:54:03.178902+00:00",
+  "last_success_at": "2026-11-26T02:54:03.178902+00:00",
+  "errors": [],
   "source_results": {
-    "bbc-world": "29 entries",
+    "bbc-world": "30 entries",
     "guardian-us": "33 entries",
     "fox-politics": "25 entries",
-    "bbc-business": "35 entries",
-    "orf": "22 entries",
-    "standard": "157 entries",
+    "bbc-business": "30 entries",
+    "orf": "26 entries",
+    "standard": "155 entries",
     "bbc-uk-politics": "44 entries",
     "sky-uk-politics": "not modified",
     "guardian-uk-politics": "21 entries",
-    "telegraph": "29 entries",
-    "express-uk-politics": "failed",
+    "telegraph": "31 entries",
+    "express-uk-politics": "10 entries",
     "telegraph-uk-politics": "not modified"
   },
   "market_status": "Market price data not configured",
