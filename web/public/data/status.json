@@ -1,21 +1,21 @@
 {
   "state": "partial",
-  "attempted_at": "2026-11-27T15:13:39.999318+00:00",
+  "attempted_at": "2026-11-27T23:33:11.997859+00:00",
   "last_success_at": "2026-11-27T05:06:58.102436+00:00",
   "errors": [
     "express-uk-politics: HTTPStatusError; previous articles retained"
   ],
   "source_results": {
-    "bbc-world": "28 entries",
+    "bbc-world": "22 entries",
     "guardian-us": "33 entries",
     "fox-politics": "25 entries",
     "bbc-business": "32 entries",
-    "orf": "16 entries",
-    "standard": "155 entries",
-    "bbc-uk-politics": "44 entries",
-    "sky-uk-politics": "2 entries",
+    "orf": "23 entries",
+    "standard": "153 entries",
+    "bbc-uk-politics": "41 entries",
+    "sky-uk-politics": "1 entries",
     "guardian-uk-politics": "21 entries",
-    "telegraph": "31 entries",
+    "telegraph": "33 entries",
     "express-uk-politics": "failed",
     "telegraph-uk-politics": "not modified"
   },
